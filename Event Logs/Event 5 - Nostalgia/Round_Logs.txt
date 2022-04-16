@@ -1,0 +1,463 @@
+ze_undersea_temple_a4_4 (Leader: Alee / WhiteCat)
+------------------------ [ZR] ZDG Round End Stats ------------------------
+# 108         "Kiriya"                                    STEAM_1:0:445093046         Alive    Human 
+# 96          "basilisk"                                  STEAM_1:0:509086135         Dead     Zombie
+# 280         "Ambitious"                                 STEAM_1:0:121740322         Alive    Human 
+# 121         "honu"                                      STEAM_1:1:649685149         Dead     Zombie
+# 294         "zeo"                                       STEAM_1:0:187057880         Alive    Human 
+# 276         "Andy"                                      STEAM_1:1:62262896          Dead     Zombie
+# 95          "Koha"                                      STEAM_1:0:112082673         Dead     Zombie
+# 164         "BunnyNayeon"                               STEAM_1:1:440413112         Dead     Zombie
+# 131         "MeEnoughEnglish bit.ly/3tOI6U3"            STEAM_1:1:178496313         Alive    Human 
+# 295         "IfEveryoneCare"                            STEAM_1:1:463081280         Alive    Human 
+# 300         "Mira_Ramen"                                STEAM_1:0:460260675         Alive    Human 
+# 266         "leigh"                                     STEAM_1:1:587133066         Alive    Human 
+# 298         "02:17"                                     STEAM_1:0:450741063         Alive    Human 
+# 132         "Wild"                                      STEAM_1:1:172594940         Dead     Zombie
+# 154         "Melon`"                                    STEAM_1:0:426440239         Alive    Human 
+# 274         "Rossam"                                    STEAM_1:0:44769670          Alive    Human 
+# 255         "Tsukasa"                                   STEAM_1:1:164683076         Dead     Zombie
+# 283         "Morningstar"                               STEAM_1:1:74277561          Alive    Human 
+# 273         "WilÐlife08"                               STEAM_1:0:143207680         Alive    Human 
+# 236         "Sayu"                                      STEAM_1:1:594296594         Alive    Human 
+# 242         "koruko"                                    STEAM_1:0:229190907         Dead     Zombie
+# 290         "jaek"                                      STEAM_1:1:55883941          Alive    Human 
+# 235         "WhiteCat"                                  STEAM_1:0:211772215         Alive    Human 
+# 167         "tyanman"                                   STEAM_1:1:584188559         Alive    Human 
+# 219         "Naasan Adrsta"                             STEAM_1:0:37595331          Alive    Human 
+# 241         "ayati-"                                    STEAM_1:0:62614989          Dead     Zombie
+# 144         "✠ Yusope ✠"                            STEAM_1:0:434362425         Alive    Human 
+# 165         "Freezynox"                                 STEAM_1:1:114024974         Dead     Zombie
+# 254         "Food"                                      STEAM_1:0:457297212         Alive    Human 
+# 143         "Beppu"                                     STEAM_1:1:454921932         Alive    Human 
+# 287         "Ain"                                       STEAM_1:1:530788477         Alive    Human 
+# 214         "MatzKel149"                                STEAM_1:0:145259232         Alive    Human 
+# 268         "Haru ♤"                                  STEAM_1:0:529956515         Alive    Human 
+# 275         "Monjam"                                    STEAM_1:1:229098423         Alive    Human 
+# 244         "Yubi～"                                   STEAM_1:1:417929202         Dead     Zombie
+# 257         "Kimchi"                                    STEAM_1:0:227636087         Dead     Zombie
+# 284         "Cheshire: 76"                              STEAM_1:1:38280083          Alive    Human 
+# 302         "Private DDOS"                              STEAM_1:0:616601762         Dead     Zombie
+# 223         "kur4yam1"                                  STEAM_1:0:492181100         Dead     Zombie
+# 202         "Sweet"                                     STEAM_1:1:531096955         Dead     Zombie
+# 303         "Haise"                                     STEAM_1:0:73769140          Dead     Zombie
+# 233         "Moxxy"                                     STEAM_1:0:189294947         Alive    Human 
+# 277         "EtN"                                       STEAM_1:0:125983318         Alive    Human 
+# 307         "Tine"                                      STEAM_1:1:446142163         Dead     Zombie
+# 206         "フォックス・マクラウド"         STEAM_1:0:59660277          Alive    Human 
+# 189         "abcdefu"                                   STEAM_1:1:39573154          Alive    Human 
+# 171         "Akie"                                      STEAM_1:1:171347980         Alive    Human 
+# 191         "Alee"                                      STEAM_1:0:436313327         Alive    Human 
+# 305         "Uncle DujabaTwitchy"                       STEAM_1:1:501189692         Dead     Zombie
+# 293         "Papalymo"                                  STEAM_1:1:98743601          Alive    Human 
+# 296         "Ph1N"                                      STEAM_1:1:232816938         Dead     Zombie
+# 243         "CurQ"                                      STEAM_1:1:484913938         Alive    Human 
+# 246         "BAN"                                       STEAM_1:0:160767096         Alive    Human 
+# 272         "AkiMori"                                   STEAM_1:0:597082858         Alive    Human 
+# 245         "smoovy"                                    STEAM_1:0:91064570          Alive    Human 
+# 291         "brokeenkikcan'tpro"                        STEAM_1:1:511212765         Alive    Human 
+# 261         "DVC"                                       STEAM_1:1:174583352         Alive    Human 
+# 248         "Toast"                                     STEAM_1:1:201629871         Alive    Human 
+# 252         "IM NEVER WONG"                             STEAM_1:1:224674230         Alive    Human 
+# 215         "TaB"                                       STEAM_1:1:212122774         Alive    Human 
+# 308         "nuci"                                      STEAM_1:1:2239334           Dead     Zombie
+# 203         "cyclocp99"                                 STEAM_1:1:215462978         Dead     Zombie
+# 299         "Y'shtola"                                  STEAM_1:0:178587047
+--------------------------------------------------------------------------
+
+ze_flowering_b10 (Leader: Ambitious)
+------------------------ [ZR] ZDG Round End Stats ------------------------
+# 108         "Kiriya"                                    STEAM_1:0:445093046         Alive    Human 
+# 96          "basilisk"                                  STEAM_1:0:509086135         Alive    Human 
+# 280         "Ambitious"                                 STEAM_1:0:121740322         Alive    Human 
+# 315         "rANGER"                                    STEAM_1:1:418807913         Alive    Human 
+# 294         "zeo"                                       STEAM_1:0:187057880         Alive    Human 
+# 276         "Andy"                                      STEAM_1:1:62262896          Alive    Human 
+# 310         "Gauden"                                    STEAM_1:0:224633866         Dead     Zombie
+# 164         "BunnyNayeon"                               STEAM_1:1:440413112         Alive    Human 
+# 131         "MeEnoughEnglish bit.ly/3tOI6U3"            STEAM_1:1:178496313         Alive    Human 
+# 295         "IfEveryoneCare"                            STEAM_1:1:463081280         Alive    Human 
+# 300         "Mira_Ramen"                                STEAM_1:0:460260675         Dead     Zombie
+# 266         "leigh"                                     STEAM_1:1:587133066         Alive    Human 
+# 298         "02:17"                                     STEAM_1:0:450741063         Dead     Zombie
+# 132         "Wild"                                      STEAM_1:1:172594940         Alive    Human 
+# 154         "Melon`"                                    STEAM_1:0:426440239         Alive    Human 
+# 274         "Rossam"                                    STEAM_1:0:44769670          Dead     Zombie
+# 255         "Tsukasa"                                   STEAM_1:1:164683076         Alive    Human 
+# 283         "Morningstar"                               STEAM_1:1:74277561          Alive    Human 
+# 311         "Cane Toad"                                 STEAM_1:1:214063278         Alive    Human 
+# 236         "Sayu"                                      STEAM_1:1:594296594         Alive    Human 
+# 242         "koruko"                                    STEAM_1:0:229190907         Alive    Human 
+# 290         "jaek"                                      STEAM_1:1:55883941          Alive    Human 
+# 235         "WhiteCat"                                  STEAM_1:0:211772215         Alive    Human 
+# 167         "tyanman"                                   STEAM_1:1:584188559         Dead     Zombie
+# 219         "Naasan Adrsta"                             STEAM_1:0:37595331          Alive    Human 
+# 317         "kaomunkai"                                 STEAM_1:1:116765230         Alive    Human 
+# 144         "✠ Yusope ✠"                            STEAM_1:0:434362425         Alive    Human 
+# 165         "Freezynox"                                 STEAM_1:1:114024974         Dead     Zombie
+# 254         "Food"                                      STEAM_1:0:457297212         Alive    Human 
+# 143         "Beppu"                                     STEAM_1:1:454921932         Alive    Human 
+# 287         "Ain"                                       STEAM_1:1:530788477         Alive    Human 
+# 214         "MatzKel149"                                STEAM_1:0:145259232         Alive    Human 
+# 316         "Matsui"                                    STEAM_1:1:567581692         Dead     Zombie
+# 275         "Monjam"                                    STEAM_1:1:229098423         Alive    Human 
+# 244         "Yubi～"                                   STEAM_1:1:417929202         Alive    Human 
+# 318         "可不 -KAFU-"                             STEAM_1:0:149765672         Alive    Human 
+# 284         "Cheshire: 76"                              STEAM_1:1:38280083          Alive    Human 
+# 302         "Private DDOS"                              STEAM_1:0:616601762         Alive    Human 
+# 312         "ricolaaa"                                  STEAM_1:0:436523259         Alive    Human 
+# 202         "Sweet"                                     STEAM_1:1:531096955         Alive    Human 
+# 303         "Haise"                                     STEAM_1:0:73769140          Alive    Human 
+# 233         "Moxxy"                                     STEAM_1:0:189294947         Alive    Human 
+# 314         "Applily"                                   STEAM_1:1:114754946         Alive    Human 
+# 307         "Tine"                                      STEAM_1:1:446142163         Alive    Human 
+# 206         "フォックス・マクラウド"         STEAM_1:0:59660277          Alive    Human 
+# 189         "abcdefu"                                   STEAM_1:1:39573154          Alive    Human 
+# 171         "Akie"                                      STEAM_1:1:171347980         Alive    Human 
+# 191         "Alee"                                      STEAM_1:0:436313327         Alive    Human 
+# 305         "Uncle DujabaTwitchy"                       STEAM_1:1:501189692         Alive    Human 
+# 293         "Papalymo"                                  STEAM_1:1:98743601          Alive    Human 
+# 296         "Ph1N"                                      STEAM_1:1:232816938         Alive    Human 
+# 243         "CurQ"                                      STEAM_1:1:484913938         Alive    Human 
+# 246         "BAN"                                       STEAM_1:0:160767096         Alive    Human 
+# 272         "AkiMori"                                   STEAM_1:0:597082858         Alive    Human 
+# 245         "smoovy"                                    STEAM_1:0:91064570          Alive    Human 
+# 291         "brokeenkikcan'tpro"                        STEAM_1:1:511212765         Alive    Human 
+# 261         "DVC"                                       STEAM_1:1:174583352         Alive    Human 
+# 320         "Owlfy"                                     STEAM_1:1:556826865         Dead     Zombie
+# 252         "IM NEVER WONG"                             STEAM_1:1:224674230         Dead     Zombie
+# 215         "TaB"                                       STEAM_1:1:212122774         Dead     Zombie
+# 319         "teddybro"                                  STEAM_1:0:522961963         Dead     Zombie
+# 203         "cyclocp99"                                 STEAM_1:1:215462978         Alive    Human 
+# 299         "Y'shtola"                                  STEAM_1:0:178587047         Dead     Zombie
+--------------------------------------------------------------------------
+
+ze_dear_v1 (Leader: koen)
+------------------------ [ZR] ZDG Round End Stats ------------------------
+# 108         "Kiriya"                                    STEAM_1:0:445093046         Alive    Human 
+# 96          "basilisk"                                  STEAM_1:0:509086135         Alive    Human 
+# 280         "Ambitious"                                 STEAM_1:0:121740322         Alive    Human 
+# 315         "rANGER"                                    STEAM_1:1:418807913         Dead     Zombie
+# 331         "Zinsh"                                     STEAM_1:1:128265171         Dead     Zombie
+# 323         "Cheesypriz ⎝('◁')⎠"                  STEAM_1:1:29884258          Alive    Human 
+# 310         "Gauden"                                    STEAM_1:0:224633866         Dead     Zombie
+# 164         "BunnyNayeon"                               STEAM_1:1:440413112         Alive    Human 
+# 131         "MeEnoughEnglish bit.ly/3tOI6U3"            STEAM_1:1:178496313         Alive    Human 
+# 295         "IfEveryoneCare"                            STEAM_1:1:463081280         Alive    Human 
+# 300         "Mira_Ramen"                                STEAM_1:0:460260675         Alive    Human 
+# 266         "leigh"                                     STEAM_1:1:587133066         Alive    Human 
+# 298         "02:17"                                     STEAM_1:0:450741063         Alive    Human 
+# 132         "Wild"                                      STEAM_1:1:172594940         Alive    Human 
+# 154         "Melon`"                                    STEAM_1:0:426440239         Alive    Human 
+# 274         "Rossam"                                    STEAM_1:0:44769670          Dead     Zombie
+# 255         "Tsukasa"                                   STEAM_1:1:164683076         Alive    Human 
+# 283         "Morningstar"                               STEAM_1:1:74277561          Alive    Human 
+# 311         "Cane Toad"                                 STEAM_1:1:214063278         Alive    Human 
+# 236         "Sayu"                                      STEAM_1:1:594296594         Dead     Zombie
+# 242         "koruko"                                    STEAM_1:0:229190907         Alive    Human 
+# 290         "jaek"                                      STEAM_1:1:55883941          Alive    Human 
+# 235         "WhiteCat"                                  STEAM_1:0:211772215         Alive    Human 
+# 321         "apathy"                                    STEAM_1:0:21100789          Alive    Human 
+# 219         "Naasan Adrsta"                             STEAM_1:0:37595331          Alive    Human 
+# 317         "kaomunkai"                                 STEAM_1:1:116765230         Dead     Zombie
+# 144         "✠ Yusope ✠"                            STEAM_1:0:434362425         Alive    Human 
+# 165         "Freezynox"                                 STEAM_1:1:114024974         Alive    Human 
+# 254         "Food"                                      STEAM_1:0:457297212         Alive    Human 
+# 143         "Beppu"                                     STEAM_1:1:454921932         Alive    Human 
+# 287         "Ain"                                       STEAM_1:1:530788477         Alive    Human 
+# 214         "MatzKel149"                                STEAM_1:0:145259232         Alive    Human 
+# 316         "Matsui"                                    STEAM_1:1:567581692         Dead     Zombie
+# 275         "Monjam"                                    STEAM_1:1:229098423         Alive    Human 
+# 244         "Yubi～"                                   STEAM_1:1:417929202         Alive    Human 
+# 318         "可不 -KAFU-"                             STEAM_1:0:149765672         Alive    Human 
+# 326         "☆"                                       STEAM_1:0:33873677          Dead     Zombie
+# 302         "Private DDOS"                              STEAM_1:0:616601762         Dead     Zombie
+# 312         "ricolaaa"                                  STEAM_1:0:436523259         Alive    Human 
+# 330         "Applily"                                   STEAM_1:1:114754946         Dead     Zombie
+# 303         "Haise"                                     STEAM_1:0:73769140          Alive    Human 
+# 233         "Moxxy"                                     STEAM_1:0:189294947         Alive    Human 
+# 161         "koen"                                      STEAM_1:1:114921174         Alive    Human 
+# 327         "Andy"                                      STEAM_1:1:62262896          Dead     Zombie
+# 307         "Tine"                                      STEAM_1:1:446142163         Alive    Human 
+# 206         "フォックス・マクラウド"         STEAM_1:0:59660277          Alive    Human 
+# 189         "abcdefu"                                   STEAM_1:1:39573154          Alive    Human 
+# 171         "Akie"                                      STEAM_1:1:171347980         Alive    Human 
+# 191         "Alee"                                      STEAM_1:0:436313327         Alive    Human 
+# 334         "Malus Darkblade"                           STEAM_1:1:99359119          Dead     Zombie
+# 293         "Papalymo"                                  STEAM_1:1:98743601          Alive    Human 
+# 333         "smoovy"                                    STEAM_1:0:91064570          Dead     Zombie
+# 243         "CurQ"                                      STEAM_1:1:484913938         Alive    Human 
+# 246         "BAN"                                       STEAM_1:0:160767096         Alive    Human 
+# 272         "AkiMori"                                   STEAM_1:0:597082858         Dead     Zombie
+# 325         "minn1e"                                    STEAM_1:1:75659324          Alive    Human 
+# 328         "heavy"                                     STEAM_1:0:511909863         Dead     Zombie
+# 261         "DVC"                                       STEAM_1:1:174583352         Alive    Human 
+# 320         "Owlfy"                                     STEAM_1:1:556826865         Alive    Human 
+# 252         "IM NEVER WONG"                             STEAM_1:1:224674230         Dead     Zombie
+# 215         "TaB"                                       STEAM_1:1:212122774         Alive    Human 
+# 319         "teddybro"                                  STEAM_1:0:522961963         Dead     Zombie
+# 203         "cyclocp99"                                 STEAM_1:1:215462978         Alive    Human 
+# 299         "Y'shtola"                                  STEAM_1:0:178587047         Dead     Zombie
+--------------------------------------------------------------------------
+
+ze_ramp_a1_1 (Leader: Akarin)
+------------------------ [ZR] ZDG Round End Stats ------------------------
+# 108         "Kiriya"                                    STEAM_1:0:445093046         Alive    Human 
+# 96          "basilisk"                                  STEAM_1:0:509086135         Dead     Zombie
+# 280         "Ambitious"                                 STEAM_1:0:121740322         Alive    Human 
+# 315         "rANGER"                                    STEAM_1:1:418807913         Alive    Human 
+# 331         "Zinsh"                                     STEAM_1:1:128265171         Alive    Human 
+# 323         "Cheesypriz ⎝('◁')⎠"                  STEAM_1:1:29884258          Alive    Human 
+# 310         "Gauden"                                    STEAM_1:0:224633866         Alive    Human 
+# 342         "normalplaye"                               STEAM_1:1:245347140         Alive    Human 
+# 131         "MeEnoughEnglish bit.ly/3tOI6U3"            STEAM_1:1:178496313         Alive    Human 
+# 295         "IfEveryoneCare"                            STEAM_1:1:463081280         Alive    Human 
+# 300         "Mira_Ramen"                                STEAM_1:0:460260675         Alive    Human 
+# 266         "leigh"                                     STEAM_1:1:587133066         Alive    Human 
+# 298         "02:17"                                     STEAM_1:0:450741063         Alive    Human 
+# 132         "Wild"                                      STEAM_1:1:172594940         Alive    Human 
+# 154         "Melon`"                                    STEAM_1:0:426440239         Dead     Zombie
+# 274         "Rossam"                                    STEAM_1:0:44769670          Alive    Human 
+# 255         "Tsukasa detroidgaming.com"                 STEAM_1:1:164683076         Alive    Human 
+# 283         "Morningstar"                               STEAM_1:1:74277561          Alive    Human 
+# 311         "Cane Toad"                                 STEAM_1:1:214063278         Alive    Human 
+# 340         "Iron 1"                                    STEAM_1:1:653738572         Dead     Zombie
+# 242         "koruko"                                    STEAM_1:0:229190907         Alive    Human 
+# 290         "jaek"                                      STEAM_1:1:55883941          Alive    Human 
+# 235         "WhiteCat"                                  STEAM_1:0:211772215         Dead     Zombie
+# 321         "apathy"                                    STEAM_1:0:21100789          Alive    Human 
+# 219         "Naasan Adrsta"                             STEAM_1:0:37595331          Dead     Zombie
+# 317         "kaomunkai"                                 STEAM_1:1:116765230         Alive    Human 
+# 144         "✠ Yusope ✠"                            STEAM_1:0:434362425         Dead     Zombie
+# 165         "Freezynox"                                 STEAM_1:1:114024974         Alive    Human 
+# 254         "Food"                                      STEAM_1:0:457297212         Alive    Human 
+# 143         "Beppu"                                     STEAM_1:1:454921932         Alive    Human 
+# 287         "Ain"                                       STEAM_1:1:530788477         Alive    Human 
+# 214         "MatzKel149"                                STEAM_1:0:145259232         Alive    Human 
+# 316         "Matsui"                                    STEAM_1:1:567581692         Dead     Zombie
+# 275         "Monjam"                                    STEAM_1:1:229098423         Alive    Human 
+# 244         "Yubi～"                                   STEAM_1:1:417929202         Alive    Human 
+# 318         "可不 -KAFU-"                             STEAM_1:0:149765672         Alive    Human 
+# 326         "☆"                                       STEAM_1:0:33873677          Alive    Human 
+# 341         "kokopekko"                                 STEAM_1:0:226732204         Dead     Zombie
+# 312         "ricolaaa"                                  STEAM_1:0:436523259         Alive    Human 
+# 330         "Applily"                                   STEAM_1:1:114754946         Alive    Human 
+# 303         "Haise"                                     STEAM_1:0:73769140          Alive    Human 
+# 233         "Moxxy"                                     STEAM_1:0:189294947         Dead     Zombie
+# 327         "Andy"                                      STEAM_1:1:62262896          Alive    Human 
+# 307         "Tine"                                      STEAM_1:1:446142163         Alive    Human 
+# 206         "フォックス・マクラウド"         STEAM_1:0:59660277          Alive    Human 
+# 189         "abcdefu"                                   STEAM_1:1:39573154          Alive    Human 
+# 171         "Akie"                                      STEAM_1:1:171347980         Alive    Human 
+# 191         "Alee"                                      STEAM_1:0:436313327         Dead     Zombie
+# 334         "Malus Darkblade"                           STEAM_1:1:99359119          Dead     Zombie
+# 293         "Papalymo"                                  STEAM_1:1:98743601          Alive    Human 
+# 333         "smoovy"                                    STEAM_1:0:91064570          Alive    Human 
+# 243         "CurQ"                                      STEAM_1:1:484913938         Dead     Zombie
+# 246         "BAN"                                       STEAM_1:0:160767096         Alive    Human 
+# 325         "minn1e"                                    STEAM_1:1:75659324          Alive    Human 
+# 328         "heavy"                                     STEAM_1:0:511909863         Dead     Zombie
+# 261         "DVC"                                       STEAM_1:1:174583352         Dead     Zombie
+# 320         "Owlfy"                                     STEAM_1:1:556826865         Alive    Human 
+# 252         "wong detroidgaming.com"                    STEAM_1:1:224674230         Dead     Zombie
+# 215         "TaB"                                       STEAM_1:1:212122774         Alive    Human 
+# 203         "cyclocp99"                                 STEAM_1:1:215462978         Alive    Human 
+# 299         "Y'shtola"                                  STEAM_1:0:178587047         Dead     Zombie
+--------------------------------------------------------------------------
+
+ze_check_b1_1f (Leader: Beppu)
+------------------------ [ZR] ZDG Round End Stats ------------------------
+# 108         "Kiriya"                                    STEAM_1:0:445093046         Alive    Human 
+# 96          "basilisk"                                  STEAM_1:0:509086135         Dead     Zombie
+# 280         "Ambitious"                                 STEAM_1:0:121740322         Alive    Human 
+# 354         "DuDuran"                                   STEAM_1:1:438768585         Dead     Zombie
+# 331         "Zinsh"                                     STEAM_1:1:128265171         Alive    Human 
+# 346         "Sweet"                                     STEAM_1:1:531096955         Dead     Zombie
+# 351         "-s00r-"                                    STEAM_1:0:142056758         Dead     Zombie
+# 342         "normalplaye detroidgaming.com"             STEAM_1:1:245347140         Alive    Human 
+# 131         "MeEnoughEnglish bit.ly/3tOI6U3"            STEAM_1:1:178496313         Alive    Human 
+# 295         "IfEveryoneCare"                            STEAM_1:1:463081280         Alive    Human 
+# 300         "Mira_Ramen"                                STEAM_1:0:460260675         Alive    Human 
+# 266         "leigh"                                     STEAM_1:1:587133066         Alive    Human 
+# 298         "02:17"                                     STEAM_1:0:450741063         Alive    Human 
+# 347         "Ko"                                        STEAM_1:1:84398664          Alive    Human 
+# 154         "Melon`"                                    STEAM_1:0:426440239         Dead     Zombie
+# 274         "Rossam"                                    STEAM_1:0:44769670          Alive    Human 
+# 255         "Tsukasa detroidgaming.com"                 STEAM_1:1:164683076         Alive    Human 
+# 283         "Morningstar"                               STEAM_1:1:74277561          Alive    Human 
+# 311         "Cane Toad"                                 STEAM_1:1:214063278         Alive    Human 
+# 340         "semi"                                      STEAM_1:1:653738572         Dead     Zombie
+# 242         "koruko"                                    STEAM_1:0:229190907         Alive    Human 
+# 290         "jaek"                                      STEAM_1:1:55883941          Alive    Human 
+# 348         "Dmar"                                      STEAM_1:0:79434523          Alive    Human 
+# 352         "raypiaso"                                  STEAM_1:1:102561397         Alive    Human 
+# 219         "Naasan Adrsta"                             STEAM_1:0:37595331          Dead     Zombie
+# 317         "kaomunkai"                                 STEAM_1:1:116765230         Alive    Human 
+# 144         "✠ Yusope ✠"                            STEAM_1:0:434362425         Dead     Zombie
+# 165         "Freezynox"                                 STEAM_1:1:114024974         Alive    Human 
+# 356         "Food"                                      STEAM_1:0:457297212         Dead     Zombie
+# 143         "Beppu"                                     STEAM_1:1:454921932         Alive    Human 
+# 287         "Ain"                                       STEAM_1:1:530788477         Alive    Human 
+# 355         "MR Froz"                                   STEAM_1:0:205653607         Dead     Zombie
+# 316         "Matsui"                                    STEAM_1:1:567581692         Alive    Human 
+# 275         "Monjam"                                    STEAM_1:1:229098423         Alive    Human 
+# 244         "Yubi～"                                   STEAM_1:1:417929202         Alive    Human 
+# 318         "可不 -KAFU-"                             STEAM_1:0:149765672         Dead     Zombie
+# 326         "☆"                                       STEAM_1:0:33873677          Alive    Human 
+# 341         "kokopekko"                                 STEAM_1:0:226732204         Alive    Human 
+# 312         "ricolaaa"                                  STEAM_1:0:436523259         Alive    Human 
+# 330         "Applily"                                   STEAM_1:1:114754946         Alive    Human 
+# 303         "Haise"                                     STEAM_1:0:73769140          Alive    Human 
+# 233         "Moxxy"                                     STEAM_1:0:189294947         Dead     Zombie
+# 327         "Andy"                                      STEAM_1:1:62262896          Alive    Human 
+# 358         "🎕"                                      STEAM_1:1:12122914          Dead     Zombie
+# 206         "フォックス・マクラウド"         STEAM_1:0:59660277          Alive    Human 
+# 189         "abcdefu"                                   STEAM_1:1:39573154          Alive    Human 
+# 171         "Akie"                                      STEAM_1:1:171347980         Alive    Human 
+# 191         "Alee"                                      STEAM_1:0:436313327         Alive    Human 
+# 334         "Malus Darkblade"                           STEAM_1:1:99359119          Alive    Human 
+# 293         "Papalymo"                                  STEAM_1:1:98743601          Alive    Human 
+# 333         "smoovy"                                    STEAM_1:0:91064570          Alive    Human 
+# 243         "CurQ"                                      STEAM_1:1:484913938         Alive    Human 
+# 246         "BAN"                                       STEAM_1:0:160767096         Alive    Human 
+# 344         "Harakiri"                                  STEAM_1:0:78626639          Alive    Human 
+# 325         "minn1e"                                    STEAM_1:1:75659324          Alive    Human 
+# 328         "heavy"                                     STEAM_1:0:511909863         Alive    Human 
+# 261         "DVC"                                       STEAM_1:1:174583352         Alive    Human 
+# 320         "Owlfy"                                     STEAM_1:1:556826865         Alive    Human 
+# 215         "TaB"                                       STEAM_1:1:212122774         Dead     Zombie
+# 350         "0hxyz"                                     STEAM_1:0:579507407         Dead     Zombie
+# 203         "cyclocp99"                                 STEAM_1:1:215462978         Alive    Human 
+# 299         "Y'shtola"                                  STEAM_1:0:178587047         Alive    Human 
+--------------------------------------------------------------------------
+
+ze_rev_a6_3
+------------------------ [ZR] ZDG Round End Stats ------------------------
+# 108         "Kiriya"                                    STEAM_1:0:445093046         Dead     Zombie
+# 96          "basilisk"                                  STEAM_1:0:509086135         Alive    Human 
+# 280         "Ambitious"                                 STEAM_1:0:121740322         Alive    Human 
+# 354         "DuDuran"                                   STEAM_1:1:438768585         Alive    Human 
+# 331         "Zinsh"                                     STEAM_1:1:128265171         Alive    Human 
+# 346         "Sweet"                                     STEAM_1:1:531096955         Alive    Human 
+# 351         "-s00r-"                                    STEAM_1:0:142056758         Alive    Human 
+# 342         "normalplaye detroidgaming.com"             STEAM_1:1:245347140         Alive    Human 
+# 131         "MeEnoughEnglish bit.ly/3tOI6U3"            STEAM_1:1:178496313         Alive    Human 
+# 295         "IfEveryoneCare"                            STEAM_1:1:463081280         Dead     Zombie
+# 300         "Mira_Ramen"                                STEAM_1:0:460260675         Alive    Human 
+# 266         "leigh"                                     STEAM_1:1:587133066         Alive    Human 
+# 298         "02:17"                                     STEAM_1:0:450741063         Alive    Human 
+# 347         "Ko"                                        STEAM_1:1:84398664          Dead     Zombie
+# 361         "Zeldris ghostcap.com"                      STEAM_1:1:442860820         Alive    Human 
+# 274         "Rossam"                                    STEAM_1:0:44769670          Alive    Human 
+# 255         "Tsukasa detroidgaming.com"                 STEAM_1:1:164683076         Alive    Human 
+# 283         "Morningstar"                               STEAM_1:1:74277561          Alive    Human 
+# 311         "Cane Toad"                                 STEAM_1:1:214063278         Alive    Human 
+# 340         "semi"                                      STEAM_1:1:653738572         Dead     Zombie
+# 242         "koruko"                                    STEAM_1:0:229190907         Alive    Human 
+# 290         "jaek"                                      STEAM_1:1:55883941          Alive    Human 
+# 348         "Dmar"                                      STEAM_1:0:79434523          Alive    Human 
+# 352         "raypiaso"                                  STEAM_1:1:102561397         Dead     Zombie
+# 219         "Naasan Adrsta"                             STEAM_1:0:37595331          Dead     Zombie
+# 317         "kaomunkai"                                 STEAM_1:1:116765230         Dead     Zombie
+# 367         "bloodsoup"                                 STEAM_1:0:156991055         Dead     Zombie
+# 165         "Freezynox"                                 STEAM_1:1:114024974         Alive    Human 
+# 356         "Food"                                      STEAM_1:0:457297212         Alive    Human 
+# 143         "Beppu"                                     STEAM_1:1:454921932         Alive    Human 
+# 287         "Ain"                                       STEAM_1:1:530788477         Alive    Human 
+# 362         "Nym"                                       STEAM_1:1:218931423         Alive    Human 
+# 316         "Matsui"                                    STEAM_1:1:567581692         Alive    Human 
+# 275         "Monjam"                                    STEAM_1:1:229098423         Alive    Human 
+# 244         "Yubi～"                                   STEAM_1:1:417929202         Alive    Human 
+# 318         "可不 -KAFU-"                             STEAM_1:0:149765672         Alive    Human 
+# 326         "☆"                                       STEAM_1:0:33873677          Alive    Human 
+# 341         "kokopekko"                                 STEAM_1:0:226732204         Alive    Human 
+# 312         "ricolaaa"                                  STEAM_1:0:436523259         Alive    Human 
+# 330         "Applily"                                   STEAM_1:1:114754946         Alive    Human 
+# 303         "Haise"                                     STEAM_1:0:73769140          Alive    Human 
+# 233         "Moxxy"                                     STEAM_1:0:189294947         Alive    Human 
+# 161         "koen"                                      STEAM_1:1:114921174         Dead     Zombie
+# 327         "Andy"                                      STEAM_1:1:62262896          Alive    Human 
+# 364         "Kimchi"                                    STEAM_1:0:227636087         Dead     Zombie
+# 206         "フォックス・マクラウド"         STEAM_1:0:59660277          Dead     Zombie
+# 189         "abcdefu"                                   STEAM_1:1:39573154          Alive    Human 
+# 171         "Akie"                                      STEAM_1:1:171347980         Alive    Human 
+# 191         "Alee"                                      STEAM_1:0:436313327         Dead     Zombie
+# 334         "Malus Darkblade"                           STEAM_1:1:99359119          Dead     Zombie
+# 293         "Papalymo"                                  STEAM_1:1:98743601          Dead     Zombie
+# 333         "smoovy"                                    STEAM_1:0:91064570          Alive    Human 
+# 243         "CurQ"                                      STEAM_1:1:484913938         Dead     Zombie
+# 246         "BAN"                                       STEAM_1:0:160767096         Alive    Human 
+# 363         "zhong xjna"                                STEAM_1:1:422280327         Dead     Zombie
+# 325         "minn1e"                                    STEAM_1:1:75659324          Alive    Human 
+# 328         "heavy"                                     STEAM_1:0:511909863         Alive    Human 
+# 261         "DVC detroidgaming.com"                     STEAM_1:1:174583352         Dead     Zombie
+# 320         "Owlfy"                                     STEAM_1:1:556826865         Alive    Human 
+# 359         "LORD"                                      STEAM_1:1:32460116          Dead     Zombie
+# 215         "TaB"                                       STEAM_1:1:212122774         Alive    Human 
+# 350         "0hxyz"                                     STEAM_1:0:579507407         Dead     Zombie
+# 203         "cyclocp99"                                 STEAM_1:1:215462978         Alive    Human 
+# 366         "シヴァ"                                 STEAM_1:0:442741232         Dead     Zombie
+--------------------------------------------------------------------------
+
+ze_shrine_of_umos_b3 (Leader: Applily)
+------------------------ [ZR] ZDG Round End Stats ------------------------
+# 108         "Kiriya"                                    STEAM_1:0:445093046         Alive    Human 
+# 96          "basilisk"                                  STEAM_1:0:509086135         Dead     Zombie
+# 401         "the devil angel"                           STEAM_1:1:547750117         Dead     Zombie
+# 377         "leigh"                                     STEAM_1:1:587133066         Alive    Human 
+# 346         "Sweet"                                     STEAM_1:1:531096955         Alive    Human 
+# 385         "kekw"                                      STEAM_1:1:204225536         Dead     Zombie
+# 387         "Yunhan"                                    STEAM_1:1:115192472         Dead     Zombie
+# 131         "MeEnoughEnglish bit.ly/3tOI6U3"            STEAM_1:1:178496313         Dead     Zombie
+# 295         "IfEveryoneCare"                            STEAM_1:1:463081280         Dead     Zombie
+# 300         "Mira_Ramen"                                STEAM_1:0:460260675         Alive    Human 
+# 298         "02:17"                                     STEAM_1:0:450741063         Dead     Zombie
+# 378         "Trash"                                     STEAM_1:0:226241526         Alive    Human 
+# 392         "WhiteCat"                                  STEAM_1:0:211772215         Dead     Zombie
+# 274         "Rossam"                                    STEAM_1:0:44769670          Alive    Human 
+# 255         "Tsukasa detroidgaming.com"                 STEAM_1:1:164683076         Alive    Human 
+# 283         "Morningstar"                               STEAM_1:1:74277561          Alive    Human 
+# 388         "Haru ♤"                                  STEAM_1:0:529956515         Dead     Zombie
+# 394         "Zeldris ghostcap.com"                      STEAM_1:1:442860820         Dead     Zombie
+# 242         "koruko"                                    STEAM_1:0:229190907         Alive    Human 
+# 290         "jaek"                                      STEAM_1:1:55883941          Alive    Human 
+# 348         "Dmar"                                      STEAM_1:0:79434523          Dead     Zombie
+# 395         "kronosspecv"                               STEAM_1:1:546949344         Dead     Zombie
+# 374         "1MaG"                                      STEAM_1:1:87672032          Alive    Human 
+# 317         "kaomunkai"                                 STEAM_1:1:116765230         Dead     Zombie
+# 396         "BlueNovember"                              STEAM_1:0:77780058          Dead     Zombie
+# 165         "Freezynox"                                 STEAM_1:1:114024974         Dead     Zombie
+# 356         "Food"                                      STEAM_1:0:457297212         Alive    Human 
+# 371         "Blue Ribbon"                               STEAM_1:0:4491784           Alive    Human 
+# 287         "Ain"                                       STEAM_1:1:530788477         Dead     Zombie
+# 362         "Nym"                                       STEAM_1:1:218931423         Alive    Human 
+# 397         "シヴァ"                                 STEAM_1:0:442741232         Dead     Zombie
+# 369         "小迪"                                    STEAM_1:1:184872578         Dead     Zombie
+# 244         "Yubi～"                                   STEAM_1:1:417929202         Alive    Human 
+# 318         "可不 -KAFU-"                             STEAM_1:0:149765672         Alive    Human 
+# 382         "AkiMori"                                   STEAM_1:0:597082858         Dead     Zombie
+# 341         "kokopekko"                                 STEAM_1:0:226732204         Dead     Zombie
+# 402         "nomercyonly"                               STEAM_1:1:506075215         Dead     Zombie
+# 330         "Applily"                                   STEAM_1:1:114754946         Dead     Zombie
+# 303         "Haise"                                     STEAM_1:0:73769140          Alive    Human 
+# 233         "Moxxy"                                     STEAM_1:0:189294947         Dead     Zombie
+# 327         "Andy"                                      STEAM_1:1:62262896          Alive    Human 
+# 364         "Kimchi"                                    STEAM_1:0:227636087         Alive    Human 
+# 399         "Consenbi"                                  STEAM_1:1:186848917         Dead     Zombie
+# 189         "abcdefu"                                   STEAM_1:1:39573154          Dead     Zombie
+# 171         "Akie"                                      STEAM_1:1:171347980         Alive    Human 
+# 191         "Alee"                                      STEAM_1:0:436313327         Alive    Human 
+# 334         "Malus Darkblade"                           STEAM_1:1:99359119          Alive    Human 
+# 293         "Papalymo"                                  STEAM_1:1:98743601          Dead     Zombie
+# 375         "Byfat"                                     STEAM_1:1:174298612         Alive    Human 
+# 243         "CurQ"                                      STEAM_1:1:484913938         Alive    Human 
+# 246         "BAN"                                       STEAM_1:0:160767096         Alive    Human 
+# 363         "zhong xjna"                                STEAM_1:1:422280327         Alive    Human 
+# 325         "minn1e"                                    STEAM_1:1:75659324          Dead     Zombie
+# 328         "heavy"                                     STEAM_1:0:511909863         Dead     Zombie
+# 403         "a youtube/YokoInTheMix"                    STEAM_1:0:528719100         Dead     Zombie
+# 359         "LORD"                                      STEAM_1:1:32460116          Alive    Human 
+# 215         "TaB"                                       STEAM_1:1:212122774         Alive    Human 
+# 350         "0hxyz"                                     STEAM_1:0:579507407         Dead     Zombie
+# 400         "cyclocp99"                                 STEAM_1:1:215462978         Dead     Zombie
+--------------------------------------------------------------------------
