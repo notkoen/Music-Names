@@ -1,0 +1,17 @@
+music/theopenedway.mp3||Shadow of the Colossus OST - The Opened Way
+music/swifthorse.mp3||Shadow of the Colossus OST - Swift Horse
+music/silence.mp3||Shadow of the Colossus OST - Silence
+music/signofthecolossus.mp3||Shadow of the Colossus OST - Sign of the Colossus
+music/sanctuary.mp3||Shadow of the Colossus OST - Sanctuary
+music/liberatedguardian.mp3||Shadow of the Colossus OST - Liberated Guardian
+music/kingvendrick.mp3||Dark Souls 2 OST - King Vendrick
+music/gatewatcherofthecastleruins.mp3||Shadow of the Colossus OST - Gatekeeper of the Castle Ruins
+music/grotesquefigures.mp3||Shadow of the Colossus OST - Grotesque Figures
+music/finalbattle.mp3||Shadow of the Colossus OST - Final Battle
+music/dracarys.mp3||Game Of Thrones: Season 3 - Dracarys
+music/creepingshadow.mp3||Shadow of the Colossus OST - Creeping Shadow
+music/counterattack.mp3||Shadow of the Colossus OST - Counterattack
+music/blackblood.mp3||Shadow of the Colossus OST - Black Blood
+music/aviolentencounter.mp3||Shadow of the Colossus - A Violent Encounter
+music/amessengerfrombehind.mp3||Shadow of the Colossus OST - A Messenger From Behind
+music/adespairfilledfarewell.mp3||Shadow of the Colossus OST - A Despair-filled Farewell
