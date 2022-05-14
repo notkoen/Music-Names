@@ -1,0 +1,27 @@
+﻿sound\akatsuki.mp3||ArtIsBlind - Akatsukibeat
+sound\awakening.mp3||Odece - Awakening (Naruto OST Trap Remix)
+sound\blue-stahli-scrape-instrumental.mp3||Blue Stahli - Scrape (Instrumental)
+sound\blue-stahli-shotgun-senorita-zardonic-remix-hd.mp3||Blue Stahli - Shotgun Senorita (Zardonic remix)
+sound\blue-stahli-youll-get-whats-coming-feat-mark-salomon-sebastian-komor-remix.mp3||Blue Stahli - You'll Get What's Coming (feat. Mark Salomon) [Sebastian Komor Remix]
+sound\e-for-extinction.mp3||Thousand Foot Krutch - E For Extinction
+sound\itachi-uchiha-orignal-soundtrack-extended.mp3||Yasuharu Takanashi & 刃-yaiba- - 千夜 (Sen'ya) (Itachi Uchiha's  theme song)
+sound\led-zeppelin-immigrant-song-pendulum-remix.mp3||Led Zeppelin - Immigrant Song (Pendulum Remix)
+sound\metallica-master-of-puppets-pendulum-remix-tjs-edit-hq-1080p.mp3||Metallica - Master Of Puppets (Pendulum Remix) (TJ's Edit)
+sound\most-epic-battle-anime-ost-spin-and-burst-borutonaruto-the-movie-boruto-episode-65.mp3||Boruto Naruto the Movie OST - Spin and Burst
+sound\naruto-akatsuki-theme-song-full.mp3||Yasuharu Takanashi & 刃-yaiba- - 暁 (Akatsuki theme song)
+sound\naruto-ost-1-need-to-be-strong.mp3||六三四プロジェクト (Musashi Project) - 強にして重 (Need to Be Strong)
+sound\naruto-ost-3-11-heavy-violence.mp3||六三四プロジェクト (Musashi Project) - 重は激 (Heavy Violence)
+sound\naruto-shippuden-girei-pains-theme-song.mp3||Yasuharu Takanashi & 刃-yaiba- - 儀礼 (Girei) (Pain's theme song)
+sound\naruto-shippuden-i-have-seen-much-brokubeatz.mp3||Yasuharu Takanashi & 刃-yaiba- - ずっと見てた (I Have Seen Much (BrokuzBeatz Remix))
+sound\naruto-shippuden-ost-1-track-09-ikari-anger.mp3||Yasuharu Takanashi - 怒り (Anger)
+sound\naruto-shippuden-ost-3-purge-goddess-extended.mp3||Yasuharu Takanashi & 刃-yaiba- - 粛清の女神 (Purge Goddess)
+sound\naruto-shippuden-ost-ii-crimson-flames.mp3||Yasuharu Takanashi & 刃-yaiba- - 紅炎 (Crimson Flames)
+sound\naruto-shippuden-ost-saika-colourful-mist-extended.mp3||Yasuharu Takanashi & 刃-yaiba- - 彩霞 (Colorful Mist)
+sound\naruto-strong-and-strike-extended.mp3||六三四プロジェクト (Musashi Project) - 激と撃 (Strong And Strike)
+sound\reverse_situation.mp3||Yasuharu Takanashi - 形勢逆転 (Reverse situation)
+sound\rtpn-awakening-high-quality.mp3||RTPN - Awakening
+sound\sasuke-theme-hyouhaku-extended-hq-hd.mp3||Yasuharu Takanashi & 刃-yaiba- - 漂泊 (Hyouhaku) (Sasuke's theme song)
+sound\setting-sun.mp3||Yasuharu Takanashi - 落日 (Setting Sun)
+sound\the-qemists-warrior-sound.mp3||The Qemists - Warrior Sound
+sound\tobi-theme-song.mp3||Naruto Shippuden - Tobi's theme song (Unreleased)
+sound\uchiha-madara-perfect-susanoo-themehq.mp3||Naruto Shippuden - Madara Susano Theme (Unreleased)
