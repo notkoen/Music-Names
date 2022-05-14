@@ -1,0 +1,15 @@
+sound/worakls-nocturne.mp3||Worakls - Nocturne
+sound/vakhtang-now.mp3||Vakhtang - Now
+sound/vakhtang-angel-music-video.mp3||Vakhtang - Angel
+sound/the-toxic-avenger-my-only-chance-from-furi-original-soundtrack.mp3||The Toxic Avenger - My Only Chance
+sound/the-toxic-avenger-make-this-right-from-furi-original-soundtrack.mp3||The Toxic Avenger - Make this Right
+sound/sakuzyo-neurotoxin-full-length-hq.mp3||Sakuzyo - Neurotoxin (full length)
+sound/michael-fk-sonder.mp3||Michael FK - Sonder
+sound/interloper.mp3||Carbon Based Lifeforms - Interloper
+sound/indighost-pastel-sunset.mp3||IndiGhost - Pastel Sunset
+sound/fluke-zion.mp3||Fluke - Zion
+sound/deadmau5-alone-with-you-hq.mp3||deadmau5 - Alone With You
+sound/danger-802-from-furi-original-soundtrack.mp3||Danger - 8:02
+sound/danger-753-from-furi-original-soundtrack.mp3||Danger - 7:53
+sound/danger-4h30.mp3||DANGER - 4h30
+sound/0741-the-beginning-of-something-haven-original-soundtrack-by-danger.mp3||07:41 The Beginning of Something - Haven

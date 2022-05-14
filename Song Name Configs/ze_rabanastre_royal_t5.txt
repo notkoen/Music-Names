@@ -1,0 +1,16 @@
+sound/rabanastre/stage1 start.mp3||Zephyr Memories Legend of Eternal Wind - Final Fantasy III DS
+sound/rabanastre/stage2 boss.mp3||StudioEIM - 깨어난 글라스기브넨 (Glas Ghaibhleann Awakened)
+sound/rabanastre/stage1 boss.mp3||Final Fantasy XII - Boss Battle
+sound/rabanastre/win sound.mp3||Final Fantasy XII OST - Victory Fanfare - FFXII version
+sound/rabanastre/amazing trees.mp3||SawanoHiroyuki[nZk] Feat. Tielle - Amazing Trees
+sound/rabanastre/call me later.mp3||Call me later nZk ver. feat. Mika Kobayashi
+sound/rabanastre/chaos drifters.mp3||SawanoHiroyuki[nZk]:Jean-Ken Johnny - Chaos Drifters
+sound/rabanastre/felidae.mp3||SawanoHiroyuki[nZk]:Gemie&Tielle Felidae
+sound/rabanastre/there for tomorrow.mp3||There For Tomorrow - The World Calling
+sound/rabanastre/under no flag.mp3||Under No Flag | Battlefield V OST
+sound/rabanastre/stage2 start.mp3||Final Fantasy XII OST - The Sky Fortress Bahamuth
+sound/rabanastre/stage2 lowtown.mp3||Final Fantasy XII OST - The Dalmasca Westersand
+sound/rabanastre/kingdom come.mp3||Kingdom Come - Antti Martikainen
+sound/rabanastre/road to glory.mp3||Audiomachine - Road to Glory
+sound/rabanastre/norwegian pirate.mp3||Two Steps From Hell - Norwegian pirate
+sound/rabanastre/stage4 boss.mp3||

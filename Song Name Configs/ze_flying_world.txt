@@ -1,0 +1,3 @@
+music/gow2-finale.mp3||Gears of war 2 soundtrack - Finale
+music/gow2-landown.mp3||Gears of war 2 soundtrack - Landown
+music/rangers_lead_the_way.mp3||Hans Zimmer - Rangers lead the way [Victory Theme]

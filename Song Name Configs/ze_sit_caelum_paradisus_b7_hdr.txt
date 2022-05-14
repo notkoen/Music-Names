@@ -1,0 +1,9 @@
+music/acx2/theunsungwar.mp3||Ace Combat 5 - The Unsung War
+music/acx2/steelaxe.mp3||Ace Combat: Joint Assault - Steel Axe
+music/acx2/soundembrace.mp3||Ace Combat: Joint Assault - Sound Embrace
+music/acx2/skiesoverthepromenade.mp3||Ace Combat 3D - Skies Over the Promenade
+music/acx2/megalith.mp3||Ace Combat 4 - Megalith Agnus Dei
+music/acx2/invinciblefleetrmx.mp3||Ace Combat Infinity - Invincible Fleet Remix
+music/acx2/capitaldefence.mp3||Ace Combat: Joint Assault - Birds of Prey
+music/acx2/puthope.mp3||Ace Combat: Joint Assault - Debriefing
+music/acx2/tokyo.mp3||Ace Combat X²: Joint Assault - Tokyo

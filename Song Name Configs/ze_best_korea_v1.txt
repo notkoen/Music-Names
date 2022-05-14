@@ -1,0 +1,6 @@
+music/luffaren_best_korea/nkmusic_babyrush_1.mp3||Chollima on the wing - instrumental
+music/luffaren_best_korea/nkmusic_babyrush_2.mp3||Chollima on the wing - instrumental
+music/luffaren_best_korea/nkmusic_stage1.mp3||North Korean Song: The Mt.Paektu Wind Blows
+music/luffaren_best_korea/nkmusic_stage2.mp3||DPRK:We Will Safeguard the Leadership of the Revolution with Desperate Courage!
+music/luffaren_best_korea/nkmusic_stage3_start.mp3||DPRK:Snowstorm of the revolution
+music/luffaren_best_korea/ram_ranch_deluxe.mp3||Ram ranch

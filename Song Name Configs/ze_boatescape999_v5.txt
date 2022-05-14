@@ -1,0 +1,30 @@
+music/boatescape999/bluedestiny.mp3||Trident - Blue Destiny
+music/boatescape999/savior_of_song.mp3||Nano - SAVIOR OF SONG
+music/boatescape999/aimer-blackbird.mp3||Aimer - Black Bird
+music/boatescape999/reona-forget-me-not.mp3||ReoNa - forget-me-not
+music/boatescape999/aimer-kataomoi.mp3||Aimer - Kataomoi
+music/boatescape999/only_my_railgun.mp3||fripSide - Only My Railgun
+music/boatescape999/bluesnow.mp3||Trident - Blue Snow
+music/boatescape999/breath_less.mp3||Hiroyuki Sawano - BRE@TH//LESS
+music/boatescape999/hxwhj.mp3||Yuuhei Satellite - iroha nioedo chirinuruwo
+music/boatescape999/xynxszr.mp3||jk7 - Vocal
+music/boatescape999/ffvii_out_of_hell.mp3||Skillet - Out Of Hell
+music/boatescape999/ffvii_e2_selfvsself.mp3||Pendulum - Self vs Self (Ft. In Flames)
+music/boatescape999/aimer-ninelie.mp3||Aimer - Ninelie
+music/boatescape999/bhsjdgj.mp3||Mika Kobayashi - 崩壊世界の歌姫
+music/boatescape999/i_beg_you.mp3||Aimer - I Beg You
+music/boatescape999/aimer-throughmybloodam.mp3||Aimer - Through my Blood
+music/pudding/superrun.mp3||TalesRunner BGM - Survival Maps (Basic)
+music/boatescape999/the_tempest.mp3||Pendulum - The Tempest (Live at Brixton)
+music/boatescape999/stage4_end.mp3||Immediate Music - Firebender
+music/boatescape999/2sfh_to_glory.mp3||Two Steps From Hell - To Glory
+music/boatescape999/6_0.mp3||Danny Baranowsky - McLarty Party People
+music/ze_deadcore/music_d_escape.mp3||Sakuzyo - AXION
+music/boatescape999/ffvii_back.mp3||Nobuo Uematsu - Those Who Fight (AC Version)
+music/boatescape999/ff12skullsandcrossbones1.mp3||Immediate Music - Skulls and Crossbones
+music/boatescape999/ff12arcana1.mp3||Trailerhead - Novus Arcana
+music/boatescape999/ffvii_propane_nightmares.mp3||Pendulum - Propane Nightmares
+
+
+ambient/explosions/citadel_end_explosion2.mp3||citadel_end_explosion2.mp3
+music/boatescape999/stage4_final.mp3||stage4_final.mp3
