@@ -1,0 +1,8 @@
+music/music_church_01.mp3||Ender lilies OST - Holy land
+music/music_church_02.mp3||Ender lilies OST - Holy land Save version
+music/music_opening_01.mp3||Ender lilies OST - Main theme
+music/music_opening_02.mp3||Ender lilies OST - Main theme piano version
+music/music_village_01.mp3||Ender lilies OST - Harmonius
+music/music_village_02.mp3||Ender lilies OST - Harmonius Save version
+music/scourge_of_the_universe.mp3||DM DOKURO - Scourge of the universe
+music/universal_collapse.mp3||DM DOKURO - Universal collapse
