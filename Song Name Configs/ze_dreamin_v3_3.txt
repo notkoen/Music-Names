@@ -1,0 +1,15 @@
+music/reflelia/0cc.mp3||[SDVX音源] 絶対零度 [NOFX]_HD
+music/reflelia/anima_c.mp3||XI - ANiMA
+music/reflelia/bloomin.mp3||a_hisa - Bloomin' Lights
+music/reflelia/blossom.mp3||a_hisa - Starry Blossom
+music/reflelia/chronomia.mp3||Lime[BGA] - Chronomia
+music/reflelia/dechiper.mp3||Phantasma - Decipher - Phantasma
+music/reflelia/dofu.mp3||Jun Kuroda - dreamin' of u
+music/reflelia/dreamin.mp3||a_hisa - Dreamin'
+music/reflelia/fractal.mp3||a_hisa - Fractal
+music/reflelia/glorious.mp3||XI - Glorious Crown
+music/reflelia/logical.mp3||a_hisa - Logical Stimulus
+music/reflelia/pastel.mp3||a_hisa - Pastel Subliminal
+music/reflelia/physical_emotion.mp3||Elephant - Physical Emotion
+music/reflelia/whiteout.mp3||(音源) [SDVX] WHITEOUT [NOFX]
+

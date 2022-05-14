@@ -1,0 +1,8 @@
+sound/bbl/zasx.mp3||v3.9 [Starlit Sanctum] Trailer - Honkai Impact 3rd
+sound/bbl/tmzz.mp3||HOYO-MiX - 天命之战
+sound/bbl/starfall2.mp3||袁娅维 - Starfall
+sound/bbl/mgcj.mp3||HOYO-MiX - 暮光裁决
+sound/bbl/lighting.mp3||HOYO-MiX - Lighting
+sound/bbl/elsewhere.mp3||HOYO-MiX - Elsewhere
+sound/bbl/cygx.mp3||HOYO-MiX - 长夜孤星
+sound/bbl/bossbgm.mp3||尚雯婕 - Befall
