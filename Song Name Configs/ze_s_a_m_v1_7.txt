@@ -1,0 +1,22 @@
+sound/music/sam/10thsymphonytypemoon.mp3||Hideyuki Fukasawa - 10th symphony type/MOON
+sound/music/sam/crisscrosser.mp3||void - Crisscrosser
+sound/music/sam/dark_obsessions.mp3||Magnum Opus - Dark Obsessions
+sound/music/sam/eye_of_the_storm.mp3||Silver Screen - Eye Of The Storm
+sound/music/sam/fight.mp3||Yuki Kajiura - fight!
+sound/music/sam/hitthegroundtoohard.mp3||Sakuzyo - Hit The Ground Too Hard
+sound/music/sam/i_want_to_live.mp3||Skillet - I Want To Live
+sound/music/sam/longing.mp3||Yuna (Sayaka Kanda) - Longing
+sound/music/sam/lost_memory.mp3||Sakuzyo - Lost Memory
+sound/music/sam/magical_musical_master.mp3||Sakuzyo - Magical Musical Master
+sound/music/sam/one_for_all.mp3||梶浦由記 - one for all
+sound/music/sam/pegasus.mp3||Two Steps From Hell - Pegasus
+sound/music/sam/reprologue.mp3||Sakuzyo - rePrologue
+sound/music/sam/roland_garros_choral_theme.mp3||Tom Player - Roland Garros Choral Theme
+sound/music/sam/scheol.mp3||Sakuzyo - Scheol
+sound/music/sam/selentia.mp3||Sakuzyo - Selentia
+sound/music/sam/stage5_start.mp3||FF Tactics Advance OST: Surpassing the Wall
+sound/music/sam/stillwaiting.mp3||Sum 41 - Still Waiting
+sound/music/sam/swordland.mp3||Yuki Kajiura - Swordland
+sound/music/sam/tragedy.mp3||Hiroyuki Sawano - Tragedy
+sound/music/sam/verdict_for_worst_dictator.mp3||void - Verdict for worst dictator
+sound/music/sam/zm_bgm.mp3||Yousei Teikoku - Kuusou Mesorogiwi
