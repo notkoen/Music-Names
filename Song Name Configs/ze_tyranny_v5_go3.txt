@@ -1,0 +1,17 @@
+ze_tyranny/lvl1bossend.mp3||Phantasmal Music - Lightbringer
+ze_tyranny/lvl1first.mp3||Crimson tide Soundtrack - Mutiny
+ze_tyranny/lvl2boss.mp3||Phantasmal Music - The Siege 
+ze_tyranny/lvl2end.mp3||Two Steps From Hell - Norwegian Pirate
+ze_tyranny/lvl2first.mp3||Monster Hunter Frontier G OST - Garuba Daora
+ze_tyranny/lvl3boss.mp3||X-Ray Dog - Shadow of Tyranny
+ze_tyranny/lvl3end.mp3||Two Steps From Hell - Smell of Victory (Choir)
+ze_tyranny/lvl3first.mp3||Immediate Music - World On A String
+ze_tyranny/lvl3second.mp3||Immediate music - Destiny Of The Chosen
+ze_tyranny/lvl4boss.mp3||Immediate Music - The Conquered Shall Prevail
+ze_tyranny/lvl4end.mp3||Two Steps From Hell - United We Stand Divided We Fall
+ze_tyranny/lvl4first.mp3||Thomas Bergersen - Reborn
+ze_tyranny/lvl4second.mp3||Thomas Bergersen - Rada
+ze_tyranny/lvl5boss.mp3||Two Steps From Hell - Unforgiven
+ze_tyranny/lvl5end.mp3||Two Steps From Hell - Last of the Light
+ze_tyranny/lvl5first.mp3||Monster Hunter Frontier G OST - Shantien (Phase 4)
+ze_tyranny/lvl6first.mp3||Globus - Wyatt Earth (EXTENDED version by Kiko 10061980)
