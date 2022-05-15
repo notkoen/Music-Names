@@ -1,0 +1,4 @@
+henry_music/henry_part_2.mp3||Keiichi Okabe - Song Of The Ancients (Atonement)
+henry_music/henry_boss_1.mp3||Bullet For My Valentine - Tears Don't Fall (Part 2)
+henry_music/henry_boss_2.mp3||Within Temptation Feat. Keith Caputo - What Have You Done
+henry_music/henry_light_spawn_2.mp3||Keigo Hoashi - Amusement Park
