@@ -1,0 +1,6 @@
+music/kune/sound/Diverse System - Feryquitous - Kshaslla.mp3||Feryquitous - Kshaslla
+music/kune/sound/Feryquitous - Devoed.mp3||Feryquitous - Devoed
+music/kune/sound/Feryquitous - Orchid.mp3||Feryquitous - Orchid
+music/kune/sound/Feryquitous - Shakah.mp3||Feryquitous - Shakah
+music/kune/sound/Feryquitous - Sheriruth.mp3||Feryquitous - Sheriruth
+music/kune/sound/Never Escape.mp3||void - Never Escape
