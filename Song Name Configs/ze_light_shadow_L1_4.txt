@@ -1,12 +1,12 @@
-celestials.mp3||Celestials X-Ray Dog - Pedigree
+celestials.mp3||X-Ray Dog - Celestials
 danger753.mp3||Danger - 7:53
 danger802.mp3||Danger - 8:02
-forgiveness.mp3||KERBEROX ãã‚‹ã¶ã£ã“ã¡ã‚ƒã‚“ - forgiveness
-forgiveness0.mp3||KERBEROX ãã‚‹ã¶ã£ã“ã¡ã‚ƒã‚“ - forgiveness
-innercity1.mp3||ãã‚‹ã¶ã£ã“ã¡ã‚ƒã‚“ - InnerCity
-innercity2.mp3||ãã‚‹ã¶ã£ã“ã¡ã‚ƒã‚“ - InnerCity
+forgiveness.mp3||‚­‚é‚Ô‚Á‚±‚¿‚á‚ñ - forgiveness
+forgiveness0.mp3||‚­‚é‚Ô‚Á‚±‚¿‚á‚ñ - forgiveness
+innercity1.mp3||‚­‚é‚Ô‚Á‚±‚¿‚á‚ñ - InnerCity
+innercity2.mp3||‚­‚é‚Ô‚Á‚±‚¿‚á‚ñ - InnerCity
 liberation.mp3||Silaver & lixound - Liberation
-light and shadow.mp3||Light & Shadow Hiroyuki Sawano feat. Gemie
-xi.mp3||ãƒãƒƒãƒ”ãƒ¼ã‚¨ãƒ³ãƒ‰ã‚ªãƒ–ã‚¶ãƒ¯ãƒ¼ãƒ«ãƒ‰
-nova.wav||Arnaud Noble & Aymeric Schwartz- Deadcore soundtrack Story full album 
-song trooper.wav||Arnaud Noble & Aymeric Schwartz- Deadcore soundtrack Story full album 
+light and shadow.mp3||Sawano Hiroyuki - Light and Shadow (feat. Gemie)
+xi.mp3||xi - ƒnƒbƒs[ƒGƒ“ƒhƒIƒuƒUƒ[ƒ‹ƒh (Happy End Of The World)
+nova.wav||Arnaud Noble & Aymeric Schwartz - Nova (DeadCore OST - Story)
+song trooper.wav||Arnaud Noble & Aymeric Schwartz - Song Trooper (DeadCore OST - Story)
