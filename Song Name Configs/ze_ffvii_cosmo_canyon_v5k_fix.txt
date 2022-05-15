@@ -1,0 +1,22 @@
+music/ffvii_trail_of_blood.mp3||[FFVII OST] - Trail of Blood
+music/ffvii_rise.mp3||Skillet - Rise
+music/ffvii_propane_nightmares.mp3||Pendulum - Propane Nightmares
+music/ffvii_out_of_hell.mp3||Skillet - Out Of Hell
+music/ffvii_mako_protectors.mp3||The Mako-Controlling Organization - Crisis Core OST
+music/ffvii_ifrit1.mp3||FINAL FANTASY XV OST Ifrit Boss Theme
+music/ffvii_boss_theme.mp3||Final Fantasy VII (FF7) OST - Still More Fighting
+music/ffvii_birth_of_the_god.mp3||Final Fantasy VII - Birth of a God
+music/ffvii_cosmo_canyon.mp3||Final Fantasy VII OST - Cosmo Canyon
+music/ffvii_fangs_theme.mp3||FFXIII OST - Fang's Theme
+music/ffvii_chopperhead1.mp3||Two Steps From Hell - Chopperhead
+music/ffvii_boss_theme_1.mp3||Final Fantasy VII OST - Fighting
+music/ffvii_ahead_on_our_way.mp3||Final Fantasy VII (FF7) OST - Ahead on Our Way
+music/ffvii_hurry_up.mp3||Final Fantasy VII (FF7) OST - Hurry Faster
+music/ffvii_granitev2.mp3||Pendulum - Granite
+music/ffvii_hurry.mp3||Final Fantasy VII OST - Hurry
+music/ffvii_conflict.mp3||Conflict - Takeharu Ishimoto	
+music/ffvii_battle_themev2.mp3||Final Fantasy HD X Remaster OST - Battle Theme
+music/ffvii_advent_children.mp3||Sara Ni Tatakau Monotachi - FFVII Advent Children
+
+
+
