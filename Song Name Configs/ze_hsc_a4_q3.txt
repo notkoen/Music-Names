@@ -1,6 +1,6 @@
-music/george/hsc/zvwva.mp3||Zvwva - Feryquitous
-music/george/hsc/halcyon.mp3||Cytus "Halcyon" - xi
-music/george/hsc/aragami.mp3||Aragami - xi
+music/george/hsc/zvwva.mp3||Feryquitous - Zvwva
+music/george/hsc/halcyon.mp3||xi - Cytus "Halcyon"
+music/george/hsc/aragami.mp3||xi - Aragami
 music/george/hsc/skyway.mp3||Mega Man X: Corrupted - Skyway
 music/george/hsc/algolic.mp3||AcuticNotes-Fillnote - Algolic Confusion
 music/george/hsc/lostmemory.mp3||Sakuzyo - Lost Memory
