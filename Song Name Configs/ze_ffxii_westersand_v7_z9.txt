@@ -1,0 +1,15 @@
+music/westersand/ff12archangel.mp3||Two Steps From Hell - Archangel
+music/westersand/ff12birthofahero.mp3||Two Steps From Hell - Birth of a Hero
+music/westersand/ff12blitzkrieg.mp3||Audiomachine - Blitzkrieg
+music/westersand/ff12bossbattle.mp3||Final Fantasy XII - Boss Battle
+music/westersand/ff12dragonrider.mp3||Two Steps From Hell - Dragon Rider
+music/westersand/ff12empire.mp3||Audiomachine - Akkadian empire
+music/westersand/ff12epicboss.mp3||Pfeifer Broz.Music - Absolute Anthropoid
+music/westersand/ff12epicend.mp3||Two Steps From Hell - United We Stand Divided We Fall
+music/westersand/ff12esperbattle.mp3||Final Fantasy XII - Esper Battle
+music/westersand/ff12hardmusic.mp3||Final Fantasy XII - Theme of the Empire
+music/westersand/ff12heartofcourage.mp3||Two Steps From Hell - Heart of Courage
+music/westersand/ff12nemesis.mp3||Two Steps From Hell - Nemesis
+music/westersand/ff12skullsandcrossbones.mp3||Immediate Music - Skull and Crossbones
+music/westersand/ff12soundrun.mp3||Final Fantasy XII - Sky Fortress Bahamut
+music/westersand/ff12toglory.mp3||Two Steps From Hell - To Glory

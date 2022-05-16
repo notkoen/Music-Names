@@ -1,0 +1,4 @@
+sele/s1_bgm_1.mp3||Drakengard 3 - A Better End 
+sele/s1_bgm_2.mp3||Made In Abyss OST - New World
+sele/s2_bgm_1.mp3||NieR Automata OST - Wretched Weaponry
+sele/s2_bgm_2.mp3||Feryquitous - Arcahv

@@ -1,0 +1,12 @@
+music/depeche_mode_enjoy_the_silence.mp3||Depeche Mode - Enjoy The Silence
+music/doom3_classic_secrets_and_lies.mp3||Thumpmonk - e1m9
+music/hans_zimmer_time.mp3||Hans Zimmer - Time
+music/looping_radio_mix.wav||Portal Radio Tune
+music/metallica_whiskey_in_the_jar.mp3||Metallica - Whiskey In The Jar
+music/old_gods_of_asgard_children_of_the_elder_god.mp3||Old Gods Of Asgard - Children of the Elder God
+music/poets_of_the_fall_the_happy_song.mp3||Poets of the Fall - The Happy Song
+music/portal_self_esteem_fund.mp3||Portal Soundtrack - Self Esteem Fund
+music/portal_still_alive.mp3||Portal - Still Alive
+music/portal_you_cant_escape_you_know.mp3||Portal - You Can't Escape You Know
+music/portal_youre_not_a_good_person.mp3||Portal - You're not a Good Person
+music/the_rolling_stones_love_is_strong.mp3||The Rolling Stones - Love Is Strong

@@ -1,0 +1,19 @@
+music/zombie/ff12arcana1.mp3||Immediate Music - Arcana
+music/zombie/ff12archangel1.mp3||Two Steps From Hell - Archangel
+music/zombie/ff12awakeandalive.mp3||Skillet - Awake and Alive
+music/zombie/ff12blitzkrieg1.mp3||Audiomachine - Blitzkrieg
+music/zombie/ff12bossbattle1.mp3||Final Fantasy XII - Boss Battle
+music/zombie/ff12dragonrider2.mp3||Two Steps From Hell - Dragon Rider
+music/zombie/ff12epicboss1.mp3||Pfeifer Broz.Music - Absolute Anthropoid
+music/zombie/ff12esperbattle1.mp3||Final Fantasy XII - Esper Battle
+music/zombie/ff12hardmusic1.mp3||Final Fantasy XII - Theme of the Empire
+music/zombie/ff12heartofcourage1.mp3||Two Steps From Hell - Heart of Courage
+music/zombie/ff12hero.mp3||Skillet - Hero
+music/zombie/ff12lastonestanding1.mp3||Simple Plan - Last One Standing
+music/zombie/ff12monsterskillet1.mp3||Skillet - Monster
+music/zombie/ff12nemesis1.mp3||Two Steps From Hell - Nemesis
+music/zombie/ff12newbossentrance1.mp3||Sword Art Online OST - We Have to Defeat it
+music/zombie/ff12papercut1.mp3||Linkin Park - Papercut
+music/zombie/ff12skullsandcrossbones1.mp3||Immediate Music - Skull and Crossbones
+music/zombie/ff12toglory1.mp3||Two Steps From Hell - To Glory
+music/zombie/ff12unitedstand1.mp3||Two Steps From Hell - United We Stand Divided We Fall
