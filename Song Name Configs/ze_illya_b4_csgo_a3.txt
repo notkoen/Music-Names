@@ -1,0 +1,11 @@
+illya/music/1/bernis-the_end_of_human_reign.mp3||Bernis - The End of Human Reign
+illya/music/2/aran-hymn_to_gaia.mp3||aran & powerless - Hymn to Gaia
+illya/music/2/street-meteor_shower.mp3||Street - Meteor Shower
+illya/music/3/camellia-nuclear_star.mp3||Camellia - Nuclear Star
+illya/music/3/moonlit_night-death_parade.mp3||Moonlit Night - Death Parade
+illya/music/4/camellia-flying_in_the_flow_of_deep_sea.mp3||Camellia - Flying in the Flow of Deep-Sea
+illya/music/4/camellia-light_it_up.mp3||Camellia - Light It Up
+illya/music/4/satella-forgotten_prosperity.mp3||satella - Forgotten Prosperity
+illya/music/5/betwixt_between-city_of_traitors.mp3||Betwixt & Between - City of Traitors
+illya/music/5/camellia-crystallized.mp3||Camellia - Crystallized
+illya/music/5/shimamura-synchro_days.mp3||DJ Shimamura - Synchro Days
