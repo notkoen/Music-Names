@@ -1,4 +1,5 @@
-\sound\ze_x Element4l.mp3||Element4l Soundtrack - The Mind Tree
-\sound\ze_x Juniper.mp3||Element4l Soundtrack - Juniper
-\sound\ze_x Paxton.mp3||Sakuzyo - Synthesized Angel
-\sound\ze_x Sakuzyo.mp3||Sakuzyo - Lost Memory
+ze_x/Element4l.mp3||Element4l Soundtrack - The Mind Tree
+ze_x/Juniper.mp3||Element4l Soundtrack - Juniper
+ze_x/Paxton.mp3||Mind Tree - Paxton
+ze_x/Sakuzyo.mp3||Sakuzyo - Synthesized Angel
+ze_x/Sakuzyo2.mp3||Sakuzyo - Lost Memory
