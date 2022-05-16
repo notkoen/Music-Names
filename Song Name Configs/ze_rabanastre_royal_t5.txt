@@ -1,16 +1,16 @@
-sound/rabanastre/stage1 start.mp3||Zephyr Memories Legend of Eternal Wind - Final Fantasy III DS
-sound/rabanastre/stage2 boss.mp3||StudioEIM - 깨어난 글라스기브넨 (Glas Ghaibhleann Awakened)
-sound/rabanastre/stage1 boss.mp3||Final Fantasy XII - Boss Battle
-sound/rabanastre/win sound.mp3||Final Fantasy XII OST - Victory Fanfare - FFXII version
-sound/rabanastre/amazing trees.mp3||SawanoHiroyuki[nZk] Feat. Tielle - Amazing Trees
-sound/rabanastre/call me later.mp3||Call me later nZk ver. feat. Mika Kobayashi
-sound/rabanastre/chaos drifters.mp3||SawanoHiroyuki[nZk]:Jean-Ken Johnny - Chaos Drifters
-sound/rabanastre/felidae.mp3||SawanoHiroyuki[nZk]:Gemie&Tielle Felidae
-sound/rabanastre/there for tomorrow.mp3||There For Tomorrow - The World Calling
-sound/rabanastre/under no flag.mp3||Under No Flag | Battlefield V OST
-sound/rabanastre/stage2 start.mp3||Final Fantasy XII OST - The Sky Fortress Bahamuth
-sound/rabanastre/stage2 lowtown.mp3||Final Fantasy XII OST - The Dalmasca Westersand
-sound/rabanastre/kingdom come.mp3||Kingdom Come - Antti Martikainen
-sound/rabanastre/road to glory.mp3||Audiomachine - Road to Glory
-sound/rabanastre/norwegian pirate.mp3||Two Steps From Hell - Norwegian pirate
-sound/rabanastre/stage4 boss.mp3||
+﻿rabanastre/stage1 start.mp3||Zephyr Memories Legend of Eternal Wind - Final Fantasy III DS
+rabanastre/stage2 boss.mp3||StudioEIM - 깨어난 글라스기브넨 (Glas Ghaibhleann Awakened)
+rabanastre/stage1 boss.mp3||Final Fantasy XII - Boss Battle
+rabanastre/win sound.mp3||Final Fantasy XII OST - Victory Fanfare - FFXII version
+rabanastre/amazing trees.mp3||SawanoHiroyuki[nZk] - Amazing Trees (feat. Tielle)
+rabanastre/call me later.mp3||SawanoHiroyuki[nZk] - Call me later (feat. Mika Kobayashi)
+rabanastre/chaos drifters.mp3||SawanoHiroyuki[nZk] - Chaos Drifters (feat. Jean-Ken Johnny)
+rabanastre/felidae.mp3||SawanoHiroyuki[nZk] - Felidae (feat. Gemie&Tielle)
+rabanastre/there for tomorrow.mp3||There For Tomorrow - The World Calling
+rabanastre/under no flag.mp3||Johan Söderqvist & Patrik Andrén - Under No Flag (Battlefield V OST)
+rabanastre/stage2 start.mp3||Final Fantasy XII OST - The Sky Fortress Bahamuth
+rabanastre/stage2 lowtown.mp3||Final Fantasy XII OST - The Dalmasca Westersand
+rabanastre/kingdom come.mp3||Kingdom Come - Antti Martikainen
+rabanastre/road to glory.mp3||Audiomachine - Road to Glory
+rabanastre/norwegian pirate.mp3||Two Steps From Hell - Norwegian pirate
+rabanastre/stage4 boss.mp3||沢田完 (Sawada Kan) - ドクターXのテーマ (Doctor-X OST)
