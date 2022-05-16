@@ -1,0 +1,38 @@
+// Normal Mode
+rafuron/music/hard_new_new/stage_0_start.mp3||Phantom Power - Overpowered
+rafuron/music/hard_new_new/stage_0_supreme_victory.mp3||Imagine Dragons - On Top of the World
+rafuron/music/hard_new_new/stage_1_start.mp3||Metal Gear Solid: The Twin Snakes OST - Ambush
+rafuron/music/hard_new_new/stage_1_end.mp3||XCOM Enemy Unknown OST - Our Last Hope (Finale)
+rafuron/music/hard_new_new/stage_2_start.mp3||Crysis Warhead OST - Train Battle Theme
+rafuron/music/hard_new_new/stage_2_end.mp3||Halo 3 OST - Warthog Run
+rafuron/music/hard_new_new/stage_3_start.mp3||Cris Velasco - Escape the Tower (ZombiU OST)
+rafuron/music/hard_new_new/stage_3_mid.mp3||Really Slow Motion - Reborn From Ashes
+rafuron/music/hard_new_new/stage_3_boss.mp3||Damjan Mravunac - Boss Fight Strings (Serious Sam 3 OST)
+rafuron/music/hard_new_new/stage_4_start.mp3||SawanoHiroyuki[nZk] - 進撃st-hrn-egt20130629巨人
+rafuron/music/hard_new_new/stage_4_mid.mp3||Call of Duty 2: Modern Warfare 2 OST - Boat Ride
+rafuron/music/hard_new_new/stage_4_end.mp3||Crysis Warhead OST - Airfield 1
+rafuron/music/hard_new_new/stage_5_start.mp3||Daft Punk - TRON Legacy (End Titles)
+rafuron/music/hard_new_new/stage_5_top_1.mp3||Jack Wall - Suicide Mission (Mass Effect 2 OST)
+rafuron/music/hard_new_new/stage_5_top_2.mp3||Jack Wall - Suicide Mission (Mass Effect 2 OST)
+rafuron/music/hard_new_new/stage_5_end_bad.mp3||SawanoHiroyuki[nZk] - 進撃st-hrn-egt20130629巨人
+rafuron/music/hard_new_new/stage_5_end_good_1.mp3||Crysis Warhead OST - Airfield Hero Theme
+rafuron/music/hard_new_new/stage_5_end_good_2.mp3||Crysis Warhead OST - Airfield Hero Theme
+
+// Extreme mode
+rafuron/music/extreme_new_new/stage_0_supreme_victory.mp3||Imagine Dragons - On Top of the World
+rafuron/music/extreme_new_new/e_stage_1_start.mp3||The Prodigy - Omen
+rafuron/music/extreme_new_new/e_stage_1_midt.mp3||The Bloody Beetroots - Rocksteady
+rafuron/music/extreme_new_new/e_stage_2_start.mp3||Pendulum - The Vulture
+rafuron/music/extreme_new_new/e_stage_2_mid.mp3||The Prodigy - Invaders Must Die
+rafuron/music/extreme_new_new/e_stage_3_start.mp3||Pendulum - Immunize (feat. Liam Howlett)
+rafuron/music/extreme_new_new/e_stage_3_boss.mp3||Pendulum Self vs Self
+rafuron/music/extreme_new_new/e_stage_4_start.mp3||Pendulum - Crush
+rafuron/music/extreme_new_new/e_stage_4_mid.mp3||The Qemists - Stompbox
+rafuron/music/extreme_new_new/e_stage_4_end.mp3||Pendulum - The Catalyst
+rafuron/music/extreme_new_new/e_stage_5_start.mp3||Madeon - Finale (Netsky Remix)
+rafuron/music/extreme_new_new/e_stage_5_top.mp3||Pendulum - Witchcraft x Watercolour (Mashup)
+rafuron/music/extreme_new_new/e_stage_5_top2.mp3||Pendulum - The Tempest (Live at Brixton Academy)
+rafuron/music/extreme_new_new/e_stage_5_end_bad.mp3||Pendulum - Encoder (Ending)
+rafuron/music/extreme_new_new/e_stage_5_end_good_1.mp3||Pendulum - The Other Side
+rafuron/music/extreme_new_new/e_stage_5_end_good_2.mp3||Pendulum - The Other Side
+rafuron/music/extreme_new_new/e_stage_5_end_good_2_extra.mp3||Pendulum - The Other Side
