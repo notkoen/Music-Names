@@ -1,0 +1,22 @@
+music/luffaren/lionking_waaaaaaaaaaah.mp3||Lion King - Circle Of Life
+music/luffaren/lionking.mp3||Lion King - Stampede
+music/luffaren/ForestDance.mp3||Jethro Tull - Forest Dance I & II
+music/luffaren/fear_factory_1.mp3||Donkey Kong Country - Fear Factory
+music/luffaren/drippin.mp3||JeffFML - Drippin' That Chocolate Sauce
+music/luffaren/fear_factory_2.mp3||JGS Music - Fear Factory Remake
+music/luffaren/sf_intro.mp3||Wham! - Last Christmas
+music/luffaren/sf_chapel.mp3||Daimoku - Nam Myoho Renge Kyo
+music/luffaren/sf_entrance.mp3||Holy Music
+music/luffaren/sf_mixtape.mp3||Luffaren - ze_santassination Mixtape
+music/luffaren/sad.mp3||Ji Pyeong Kwon - Sad Romance
+music/luffaren/LuffEdit_JingleBells-PatBoone_WestOneMusic-RaceToTheLine.mp3||Pat Boone - Jingle Bells, West One Music - Race To The Line
+music/luffaren/a mysterious christmas - peter crowley.mp3||Peter Crowley - A Mysterious Christmas
+music/luffaren/fs_epic.mp3||Position Music - Carol of the Bells
+music/luffaren/fs_epicsecond.mp3||Position Music - What Child is This
+music/luffaren/fs_boss1.mp3||Kenji Kawai - Seven Swords' Victory
+music/luffaren/fs_evilbuildup.mp3||Position Music - O Tannenbaum
+music/luffaren/fs_gloomybuildup.mp3||Position Music - Deck the Halls
+music/luffaren/fs_boss2.mp3||Kenji Kawai - Seven Swords' Victory
+music/luffaren/fs_triumph.mp3||Position Music - We Wish You Marry Christmas
+music/luffaren/truth.mp3||VinVulpis - Giygas HD Theme, Silent Hill 2 - Ashes and Ghost, Thunderino - Mountain Spirits, Silent Hill 2 - Black Fairy
+music/luffaren/true_santa.mp3||Dark Souls - Four Kings
