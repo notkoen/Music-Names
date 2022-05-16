@@ -1,0 +1,9 @@
+music/zombie_music_add/bb_celestial_emissary.mp3||Bloodborne OST - Celestial Emissary
+music/zombie_music_add/bb_cleric_beast.mp3||Bloodborne OST - Cleric Beast
+music/zombie_music_add/bb_ebrietas_daughter_of_the_cosmos_b_short.mp3||Bloodborne OST - Ebrietas, Daughter of The Cosmos
+music/zombie_music_add/ds3_abyss_watchers_a_loop.mp3||Dark Souls 3 OST - Abyss Watchers
+music/zombie_music_add/ds3_pointiff_sulyvahn_a.mp3||Dark Souls 3 OST - Pontiff Sulyvahn phase 1
+music/zombie_music_add/ds3_pointiff_sulyvahn_b.mp3||Dark Souls 3 OST - Pontiff Sulyvahn phase 2
+music/zombie_music_add/ds3_spear_of_the_church_a.mp3||Dark Souls 3 OST - Spear of the Church phase 1
+music/zombie_music_add/ds3_spear_of_the_church_b.mp3||Dark Souls 3 OST - Spear of the Church phase 2
+music/zombie_music_add/ffxv_prologue.mp3||Final Fantasy XV OST - Prologue Theme
