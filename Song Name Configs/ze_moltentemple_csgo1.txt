@@ -1,0 +1,8 @@
+music/moltentemple/archaicarsenal.mp3||Granblue Fantasy Orchesta - Fremel Island: Archaic Arsenal
+music/moltentemple/bipolar.mp3||FFXIV OST - Bipolar Nightmare
+music/moltentemple/europa.mp3||Granblue Fantasy OST - The Last Gloaming: Europa Battle
+music/moltentemple/rustybloodline.mp3||Granblue Fantasy OST - The Rusty Bloodline That Burns the Blue Sky
+music/moltentemple/strumble.mp3||Drakengard 3 OST - Turning Back
+music/moltentemple/tenacity.mp3||FFXIV OST - Tenacity
+music/moltentemple/whitewindwhitewall.mp3||Granblue Fantasy OST - White Wind, White Wall
+music/moltentemple/wilderblades.mp3||Drakengard 3 OST - Leaf of Chaos

@@ -1,0 +1,4 @@
+music/george/frozen/boss.mp3||Granblue Fantasy OST - Leviathan Magna (Omega)
+music/george/frozen/song1.mp3||Granblue Fantasy OST - Runaway
+music/george/frozen/song2.mp3||Granblue Fantasy OST - Nalhegrande
+music/george/frozen/song3.mp3||Granblue Fantasy Versus Extract - Battle 5 (Tower of Babel)
