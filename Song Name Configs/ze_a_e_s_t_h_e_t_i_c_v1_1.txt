@@ -5,6 +5,6 @@ music/aesthetic/osamu sato - genetic scale goh hotoda mix.mp3||Osamu Sato - Gene
 music/aesthetic/osamu sato - retrofit with ryuichi sakamoto.mp3||Osamu Sato - Retrofit (with Ryuichi Sakamoto)
 music/aesthetic/perez prado - moliendo cafe.mp3||Pérez Prado - Moliendo Cafe
 music/aesthetic/tomba 2 ost-town of the fisherman extended.mp3||Tomba 2 OST - Town of the Fisherman (extended)
-music/aesthetic/tong-nou main theme - osamu sato.mp3||Tong-Nou (Tong-Nou Main Theme) - Osamu Sato
-music/aesthetic/transmigration tong-nou ending theme - osamu sato.mp3||Transmigration (Tong-Nou Ending Theme) - Osamu Sato
+music/aesthetic/tong-nou main theme - osamu sato.mp3||Osamu Sato - Tong-Nou (Tong-Nou Main Theme)
+music/aesthetic/transmigration tong-nou ending theme - osamu sato.mp3||Osamu Sato - Transmigration (Tong-Nou Ending Theme)
 ambient/nature/water_gently_lapping.wav||water_gently_lapping
