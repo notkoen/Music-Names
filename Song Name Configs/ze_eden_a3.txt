@@ -1,0 +1,4 @@
+music/george/eden/c_ryoran_f.mp3||AcuticNotes (An) - Ryoran Kazuki
+music/george/eden/c_fierce.mp3||AcuticNotes (An) - Fierce
+music/george/eden/c_crash.mp3||Crawk - Silent Crash
+music/george/eden/shakah_cut.mp3||Feryquitous - Shakah
