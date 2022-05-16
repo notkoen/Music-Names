@@ -1,0 +1,5 @@
+music/1x/kaibutsu_instru.mp3||YOASOBI - Kaibutsu (Instrumental)
+music/1x/lost_memory.mp3||Sakuzyo - Lost Memory
+music/1x/recreate.mp3||a_hisa - Recreate
+music/1x/sugarfull_horoscope.mp3||a_hisa - Sugarfull Horoscope
+music/1x/tracing_instru.mp3||YOASOBI - Tracing That Dream (Instrumental)

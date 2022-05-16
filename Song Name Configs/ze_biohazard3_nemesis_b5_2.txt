@@ -1,0 +1,16 @@
+music/re3/ending_a.mp3||Resident Evil 3: Nemesis OST - Emergency Level D
+music/re3/ending_b.mp3||Audiomachine - Redshift
+music/re3/stage1_1.mp3||Resident Evil 3: Nemesis OST - The City Without Hope
+music/re3/stage1_2.mp3||Resident Evil 3: Nemesis OST - Free from fear
+music/re3/stage1_3.mp3||Resident Evil 3: Nemesis OST - The Beginning of the Nightmare
+music/re3/stage1_boss.mp3||Resident Evil 3: Nemesis OST - Nemesis' Theme
+music/re3/stage2_1.mp3||Resident Evil 3: Nemesis OST - Complete Rest
+music/re3/stage2_2.mp3||Resident Evil 3: Nemesis OST - The Front Hall
+music/re3/stage2_3.mp3||Resident Evil 3: Nemesis OST - Never Give Up The Escape
+music/re3/stage2_boss.mp3||Resident Evil 3: Nemesis OST - Unstoppable Nemesis
+music/re3/stage3_1.mp3||Resident Evil 3: Nemesis OST - The City of Ruin
+music/re3/stage3_2.mp3||Resident Evil 3: Nemesis OST - The First Floor
+music/re3/stage3_3.mp3||Resident Evil 3: Nemesis OST - Hellish Agony
+music/re3/stage3_boss.mp3||Resident Evil 3: Nemesis OST - Nemesis Final Metamorphosis
+music/re3/victory.mp3||Resident Evil 3: Nemesis OST - Reward And Result
+music/re3/warmup.mp3||Resident Evil 3: Nemesis OST - Option Screen
