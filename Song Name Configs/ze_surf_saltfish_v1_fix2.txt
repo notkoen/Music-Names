@@ -1,5 +1,0 @@
-\sound\ze_angelbeats_guild aimerbaizhoumeng.mp3||Aimer - Hakuchumu 
-\sound\ze_angelbeats_guild aimerliudengxin.mp3||Aimer - Rokutouseino Yoru
-\sound\ze_angelbeats_guild aimerzeye.mp3||SawanoHiroyuki[nZk]:Aimer - Bloody F8 
-\sound\ze_angelbeats_guild brave_shine.mp3||Aimer - Brave Shine
-\sound\ze_angelbeats_guild last_stardust.mp3||Aimer - Last Stardust
