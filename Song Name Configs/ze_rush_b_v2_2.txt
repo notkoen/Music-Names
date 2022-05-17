@@ -1,0 +1,18 @@
+music/RUSH_B/ball_out.mp3||Rihanna - Pour It Up
+music/RUSH_B/clubbed_to_death_intro.mp3||Matrix Soundtrack - Clubbed to Death
+music/RUSH_B/clubbed_to_death_piano.mp3||Matrix Soundtrack - Clubbed to Death
+music/RUSH_B/desert_combat_intro.mp3||Desert Combat - Alpha intro theme
+music/RUSH_B/dwtd_war.mp3||Dance with the Dead - War
+music/RUSH_B/elevator_music.mp3||MX067_57 - Girl From Petaluma-13858
+music/RUSH_B/oceans_twelve_laser_dance.mp3||La Caution - Thé à la Menthe
+music/RUSH_B/plethora_last_hold.mp3||zwieRZ - Plethora
+music/RUSH_B/pouritup_intro.mp3||Rihanna - Pour It Up (Intro)
+music/RUSH_B/propellerheads_spybreak.mp3||Propellerheads - Spybreak
+music/RUSH_B/retroboss.mp3||Scandroid - Neo Tokyo (Dance With The Dead Remix) (Instrumental)
+music/RUSH_B/scandroid_end.mp3||Scandroid - Neo Tokyo (Dance With The Dead Remix) (Instrumental)
+music/RUSH_B/scandroid_neo_tokyo_intro.mp3||Scandroid - Neo Tokyo (Dance With The Dead Remix) (Instrumental)
+music/RUSH_B/weapons_of_war.mp3||TNC:20 (excerpt) JFK on Nuclear Weapons
+
+
+
+

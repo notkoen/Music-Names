@@ -1,0 +1,9 @@
+fonddream_bgm_l1_v2.mp3||Martin Ermen - river flows in you + Florian Bur - The Way
+fonddream_bgm_l2_v1.mp3||CMJ - 星河不可及, CMJ - 山海不可平,  CMJ - 所念皆星河 
+fonddream_bgm_l3_1_best.mp3||Crystal Skies - Be Still
+fonddream_bgm_l3_2_b2_best.mp3||SCHAT10 - 忆
+fonddream_bgm_l3_boss_v1_1.mp3||大字 - 镜像
+fonddream_bgm_l3_boss_v2_best.mp3||大宇 - 狂徒
+fonddream_bgm_l3_taowanglu_v1.mp3||Halv - Khronostasis Katharsis
+fonddream_bgm_rtv_v2.mp3||Wubbaduck & ColBreakz - Friends
+// Config made by Watdoink
