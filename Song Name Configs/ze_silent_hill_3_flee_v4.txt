@@ -1,0 +1,15 @@
+silent_hill/sh3_grave_ calling.mp3||Devil May Cry OST - Grave Calling
+silent_hill/sh3_heaven_is_night_fix.mp3||Silent Hill 2 OST - Heaven's Night
+silent_hill/sh3_promise_fix.mp3||Silent Hill 2 OST - Promise
+silent_hill/sh3_renember_us_fix.mp3||Devil May Cry OST - Remember Us
+silent_hill/sh3_the_terminal_show.mp3||Silent Hill: Homecoming - The Terminal Show
+silent_hill/sh3_theme_of_laura.mp3||Silent Hill 2 OST - Theme of Laura
+silent_hill/sh3_theme_of_laura_reprise_fix2.mp3||Silent Hill 2 OST - Theme of Laura (Reprise)
+silent_hill/sh3_ture.mp3||Silent Hill 2 OST - True
+silent_hill/sh3_ufo_96.mp3||Tangerine Dream - No Happy Endings
+silent_hill/sh3_white_noiz.mp3||Silent Hill 2 OST - White Noiz
+silent_hill/sh3_witchcraft_fix3.mp3||Silent Hill: Homecoming - Witchcraft
+silent_hill/sh3_you_are_not_here.mp3||Silent Hill 3 OST - You are not here
+
+
+

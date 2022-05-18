@@ -1,0 +1,4 @@
+ze_astral/FFLII_Heroic_Tune.mp3||FF Legend II: Theme of the Hero
+ze_astral/FFLII_Never_give_up||FF Legend II: Never Give Up
+ze_astral/FFLII_Secret_of_Treasure||FF Leng II: Secret of Treasure
+ze_astral/SaGaSG_Daemons_Fallen_Ones||SaGa Scarlet Grace OST: Devil ~ The Fallen One
