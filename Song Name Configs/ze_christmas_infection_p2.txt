@@ -1,0 +1,14 @@
+music/carolofthebells.mp3||Trans-Siberian Orchestra - Christmas Eve (Sarajevo 12/24)
+music/contralastspringsteen.mp3||Konami Kukeiha Club - Last Springsteen (最終ボスBGM)
+music/contraphero.mp3||藤森崇多 - Drum 'n' Boss
+music/goldeneyen64silo.mp3||Goldeneye 64 - Silo
+music/junglebase.mp3||Yuzo Koshiro - Jungle Base
+music/kftoyland.mp3||Killing Floor - Toyland
+music/khanotherside.mp3||下村陽子 - Another Side-Battle Ver.
+music/madrussianschristmas.mp3||Trans-Siberian Orchestra - A Mad Russian's Christmas
+music/ms7assaultheme.mp3||SNK SOUND TEAM - Assault Theme -Ms7 Version- [Stage 6 Boss]
+music/swordartonlinetheme.mp3||V.A - Sword Art Online Main Theme Song
+music/talesofdestrebelagainstdestiny.mp3||樱庭统 - Rebel against destiny
+music/tsomozartandmemories.mp3||Trans-Siberian Orchestra - Mozart And Memories
+music/tsothemountain.mp3||Trans-Siberian Orchestra - The Mountain
+music/unreel.mp3||Deprogrammed - Un-Reel
