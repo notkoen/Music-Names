@@ -1,0 +1,11 @@
+music/cancion1.mp3||GRV Music - Grand Battle
+music/cancion2.mp3||Transformers 3 OST - Dark Side Of The Moon
+music/cancion3.mp3||Two Steps From Hell - Protectors of the Earth
+music/cancion4.mp3||Two Steps From Hell - Asimov (No Choir)
+music/cancion5.mp3||Two Steps From Hell - Invincible
+music/cancion6.mp3||Two Steps From Hell - Never Forget
+music/cancion7.mp3||Two Steps From Hell - Smell of Victory (Choir)
+music/cancion8.mp3||Two Steps From Hell - Jump
+
+
+

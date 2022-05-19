@@ -1,0 +1,21 @@
+music/luff_cv/music_01 - los - 07-labyrinth entrance.mp3||Castlevania Lords of Shadow - Labyrinth Entrance
+music/luff_cv/music_02 - los - 02-the warg.mp3||Castlevania Lords of Shadow - The Warg
+music/luff_cv/music_03 - los - 02-the ice titan.mp3||Castlevania Lords of Shadow - The Ice Titan
+music/luff_cv/music_04 - los - 04-the dead bog.mp3||Castlevania Lords of Shadow - The Dead Bog
+music/luff_cv/music_05 - los - 01-besieged village.mp3||Castlevania Lords of Shadow - Besieged Village
+music/luff_cv/music_06 - los - 13-the evil butcher.mp3||Castlevania Lords of Shadow - The Evil Butcher
+music/luff_cv/music_07 - los - 03-hunting path.mp3||Castlevania Lords of Shadow - Hunting Path
+music/luff_cv/music_08 - judge-mad forest.mp3||Castlevania Judgement - Mad Forest
+music/luff_cv/music_09 - judge-iron blue intention.mp3||Castlevania Judgement - Iron Blue Intention
+music/luff_cv/music_10 - judge-powerful time reaper.mp3||Castlevania Judgement - Crucial Moment
+music/luff_cv/music_11 - judge-elemental tactician.mp3||Castlevania Judgement - Elemental Tactician
+music/luff_cv/music_12 - arcade-vampire killer 2.mp3||Castlevania Best Music Collections Box Disc 17 - Vampire Killer
+music/luff_cv/music_13 - sotn-abandoned pit.mp3||Castlevania Symphony of the Night - Abandoned Pit
+music/luff_cv/music_14 - loi-destructive god from the past.mp3||Castlevania Lament of Innocence - Destructive God from the Past
+music/luff_cv/music_15 - loi-nightmare aria.mp3||Castlevania Lament of Innocence - Nightmare Aria
+music/luff_cv/music_16 - loi-cursed lady.mp3||Castlevania Lament of Innocence - Cursed Lady
+music/luff_cv/music_17 - arcade-rumbling of heaven and earth.mp3||Castlevania Best Music Collections Box Disc 17 - Rumbling of Heaven and Earth
+music/luff_cv/music_18 - loi-prison of eternal torture.mp3||Castlevania Lament of Innocence - Prison of Eternal Torture
+music/luff_cv/music_19 - judgment  - buildup to triumph.mp3||Castlevania Sound Team - Credits
+music/luff_cv/music_20 - sotc - demise of the ritual.mp3||Shadow of the Colossus - Demise of the Ritual
+music/luff_cv/music_21 - los - the ice titan full.mp3||Castlevania Lords of Shadow - The Ice Titan
