@@ -1,0 +1,15 @@
+music/jojo_music/dios_boss_music.mp3||Yugo Kanno - Saisyuu Kessen
+music/jojo_music/jojo_s_l_boss_music.mp3||Jamie Christopherson - I'm My Own Master Now (Platinum Mix)
+music/jojo_music/jojo_s_l_b_b_m.mp3||One Punch Man OST - [Inferiority, The Cyborg Fights], Wice - Star Fighter (Original Mix)
+music/jojo_music/jojo_s_l_ending_music.mp3||Coda - Bloody Stream
+music/jojo_music/sp_ora_ora_ora.mp3||Jotaro - Ora Ora Ora
+music/jojo_music/stage1_music.mp3||Kensuke Ushio - Judgement
+music/jojo_music/stage2_after_gachi.mp3||Kensuke Ushio - Buddy, Ryo
+music/jojo_music/stage2_gachi.mp3||199X - Gillette
+music/jojo_music/stage2_music_before_gachi.mp3|||Kensuke Ushio - Smells Blood, Taku Iwasaki - Propaganda
+music/jojo_music/stage3_ending_music.mp3||Hiroaki Tommy Tominaga - Jojo Sono Chino Sadame
+music/jojo_music/stage3_music.mp3||JoJo's Bizarre Adventure Stardust Crusaders OST (Departure) - 闇の蘇生, Yugo Kanno - Bluff wo Kakero
+music/jojo_music/sw_muda_muda_muda.mp3||Dio - Muda Muda Muda
+music/jojo_music/sw_za_wardo.mp3||Dio - ZA WARUDO!!!
+
+//there are a few npc sounds (music/jojo_music/l1_npc_spawn.mp3, music/jojo_music/l2_npc_spawn.mp3, music/jojo_music/l3_npc_spawn.mp3) that should be excluded from !songname plugin as they are not a song.

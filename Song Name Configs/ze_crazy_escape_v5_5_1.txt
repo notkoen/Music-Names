@@ -1,0 +1,25 @@
+shika/gangnam_style.mp3||PSY - Gangnam Style
+shika/naraka_aeon.mp3||Ragnarok Online OST - Aeon
+shika/naraka_allahakbar.mp3||ZwiRek Beats - Allahu Trapbar
+shika/naraka_angel.mp3||Ragnarok Online OST - Angelica
+shika/naraka_awayfromhome.mp3||Ragnarok Online OST - Away from Home
+shika/naraka_cantgohome.mp3||Ragnarok Online OST - Can't go home again, baby
+shika/naraka_dreadnbold.mp3||Ragnarok Online OST - Dread and Bold
+shika/naraka_dreamer.mp3||Ragnarok Online OST - Dreamer's Dream
+shika/naraka_fear.mp3||Ragnarok Online OST - Fear
+shika/naraka_forbiddenanguish.mp3||Ragnarok Online OST - Forbidden Anguish
+shika/naraka_naiverave.mp3||Ragnarok Online OST - Naive Race
+shika/naraka_rose.mp3||Ragnarok Online OST - Rose of Sharon
+shika/naraka_sleeping.mp3||Ragnarok Online OST - Sleeping Volcano
+shika/naraka_smile.mp3||Ragnarok Online OST - Purity of your smile
+shika/naraka_temp.mp3||Ragnarok Online OST - TeMP it Up
+shika/naraka_tempoison.mp3||Ragnarok Online OST - TeMPoison
+shika/naraka_tokyo.mp3||Teriyaki Boyz - Tokyo Drift 
+shika/naraka_welcome.mp3||Ragnarok Online OST - Welcome Mr Hwang
+
+
+
+
+
+
+ 

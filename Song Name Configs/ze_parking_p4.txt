@@ -1,0 +1,10 @@
+music/28_days_later_in_the_house.mp3||John Murphy - In the House, In a Heartbeat
+music/battle_los_angeles.mp3||Brian Tyler - Battle: Los Angeles
+music/battle_los_angeles_hymn.mp3||Brian Tyler - Battle Los Angeles Hymn
+music/evac.mp3||Brian Tyler - Evac [Battle: Los Angeles]
+music/redemption.mp3||Brian Tyler - Redemption
+music/shelf_life.mp3||Brian Tyler - Shelf Life
+
+
+
+
