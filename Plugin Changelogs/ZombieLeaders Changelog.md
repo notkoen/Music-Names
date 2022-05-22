@@ -10,14 +10,14 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
     - Moved plugin messages to translation files
 
 # Roadplan / Changes Planned
-[x] Move leader plugin messages to a dedicated translation file for easier customizeability
-[ ] Implementation of a Steam group system to give dedicated leaders in the community access to !leader
-[ ] Create dedicated commands for placing markers (eg. `sm_mark`)
-[ ] Improve the leader menu (reorganize the menu, add more information)
-[ ] Change marker system to be more clear and be attachable to entities/props so it stays on the prop
-[x] Fix markers being placed on teammates
-[ ] Fix markers not being able to be placed on certain surfaces
-[ ] Add an option to toggle the glow outline on leaders
+- [x] Move leader plugin messages to a dedicated translation file for easier customizeability
+- [ ] Implementation of a Steam group system to give dedicated leaders in the community access to !leader
+- [ ] Create dedicated commands for placing markers (eg. `sm_mark`)
+- [ ] Improve the leader menu (reorganize the menu, add more information)
+- [ ] Change marker system to be more clear and be attachable to entities/props so it stays on the prop
+- [x] Fix markers being placed on teammates
+- [ ] Fix markers not being able to be placed on certain surfaces
+- [ ] Add an option to toggle the glow outline on leaders
 
 # Changelog
 - 1.0
