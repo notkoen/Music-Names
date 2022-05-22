@@ -22,6 +22,7 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
 - [ ] Add an option to toggle the glow outline on leaders
 - [x] Add Dynamic Channels support for the Hud Hint that displays when given leader
 - [x] Add more settings/control over the hud hint due to `game_text` shenanigans
+- [x] Add commands to directly place markers
 
 # Changelog
 - 1.0 (tilgep)
@@ -34,3 +35,6 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
     - Added convars for leader hud hint
     - Modified the center text that shows up when leader places markers
     - Fixed compilation warning messages
+- 1.2 (koen)
+    - Added commands for directly placing markers
+    - Reformat plugin
