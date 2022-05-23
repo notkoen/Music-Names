@@ -13,16 +13,18 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
 - [x] Update the Hint Message when leader places a marker
 - [ ] Implementation of a Steam group system to give dedicated leaders in the community access to !leader
 - [x] Reword/Rephrase plugin messages as well as updating colors
-- [ ] Create dedicated commands for placing markers (eg. `sm_mark`)
-- [ ] Improve the leader menu (reorganize the menu, add more information)
+- [x] Create dedicated commands for placing markers (eg. `sm_mark`)
+- [x] Improve the leader menu (reorganize the menu, add more information)
 - [ ] Change marker system to be more clear and be attachable to entities/props so it stays on the prop
 - [ ] Rework marker type
 - [x] Fix markers being placed on teammates
-- [ ] Fix markers not being able to be placed on certain surfaces
-- [ ] Add an option to toggle the glow outline on leaders
+- [x] Fix markers not being able to be placed on certain surfaces
+- [x] Add an option to toggle the glow outline on leaders
 - [x] Add Dynamic Channels support for the Hud Hint that displays when given leader
 - [x] Add more settings/control over the hud hint due to `game_text` shenanigans
 - [x] Add commands to directly place markers
+- [x] `sm_leader` opens up leader menu if client is already a leader
+- [x] Add an option to toggle the overhead sprite on leaders
 
 # Changelog
 - 1.0 (tilgep)
@@ -38,3 +40,12 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
 - 1.2 (koen)
     - Added commands for directly placing markers
     - Reformat plugin
+- 1.3 (koen)
+    - Minor code formatting for consistency
+    - Changed names of certain cvars to match others
+    - Added 2 new cvars for controlling if leader outline/sprite can be toggled by leaders
+    - Added 4 new cvars for controlling what happens when leader is set (Should beacon/tracers/outline/sprite be enabled when a player is set as the leader?)
+    - Rephrased some cvar description for better explanation
+    - `sm_leader` will open leader menu if client is already a leader *(tilgep's suggestion)*
+    - Added new functions for toggling outline and sprite
+    - Reworked leader menu for better display and control
