@@ -53,3 +53,5 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
     - Implemented SteamWorks for steam group leader access
     - Added several new plugin messages
     - Made `sm_leader` public but added diferent checks in the command callback
+- 1.4.1 (koen)
+    - Added Steam group ID cvar option *(Note: MUST NOT USE ID 64)*
