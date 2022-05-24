@@ -11,7 +11,7 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
 - [x] Update code to SM 1.11 syntax and fix compilation errors/warnings
 - [x] Move leader plugin messages to a dedicated translation file for easier customizeability
 - [x] Update the Hint Message when leader places a marker
-- [ ] Implementation of a Steam group system to give dedicated leaders in the community access to !leader
+- [x] Implementation of a Steam group system to give dedicated leaders in the community access to !leader
 - [x] Reword/Rephrase plugin messages as well as updating colors
 - [x] Create dedicated commands for placing markers (eg. `sm_mark`)
 - [x] Improve the leader menu (reorganize the menu, add more information)
@@ -49,3 +49,7 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
     - `sm_leader` will open leader menu if client is already a leader *(tilgep's suggestion)*
     - Added new functions for toggling outline and sprite
     - Reworked leader menu for better display and control
+- 1.4 (koen)
+    - Implemented SteamWorks for steam group leader access
+    - Added several new plugin messages
+    - Made `sm_leader` public but added diferent checks in the command callback
