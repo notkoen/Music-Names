@@ -55,3 +55,6 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
     - Made `sm_leader` public but added diferent checks in the command callback
 - 1.4.1 (koen)
     - Added Steam group ID cvar option *(Note: MUST NOT USE ID 64)*
+- 1.4.2 (koen)
+    - Added `sm_lsay` feature for leaders to send messages to alert players or give information
+    - Added 6 new cvars for controlling `sm_lsay` display style and access
