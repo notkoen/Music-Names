@@ -58,3 +58,6 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
 - 1.4.2 (koen)
     - Added `sm_lsay` feature for leaders to send messages to alert players or give information
     - Added 6 new cvars for controlling `sm_lsay` display style and access
+- 1.4.3 (koen)
+    - Added one new cvar for controlling whether if players in the steam group can give themselves leader or not
+    - Fix a logic error in `sm_leader` command callback that allowed anyone to give themselves leader
