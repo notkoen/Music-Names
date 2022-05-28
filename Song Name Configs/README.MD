@@ -76,7 +76,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [x] ze_biohazard3_nemesis_b5_2
 - [x] ze_biohazard_manor_004_p4
 - [x] ze_bioshock_v6_2_csgo7
-- x[ ] ze_bisounours_party_p2
+- [x] ze_bisounours_party_p2
 - [ ] ze_blackmesa_remix_p2
 - [x] ze_blue_magic_castle_v3_1
 - [x] ze_blue_zenith_v0_2
