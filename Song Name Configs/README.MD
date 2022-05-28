@@ -4,705 +4,705 @@
 All song configs on Zeddy will be posted here so players who want to know the names of certain songs can easily look up what the songs are. You are always free to contribute to this library/project by joining our Discord server and sending configs there. Contributors will get an exclusive role and name color on our Discord server!
 
 # Map(s)
-- [ ] dr_ffxxx_goudoubuwan_i7_b3
-- [ ] mg_azure
-- [ ] mg_four_towers_course_hdr
-- [ ] mg_minecraft_temple_redux_dev1
-- [ ] mg_minecraft_temple_v8en
-- [ ] mg_morceau
-- [ ] mg_rota_derp_v1_1_csgo2
-- [ ] mg_ruinztrap_course_csgo
-- [ ] mg_salazar_castle_part1
-- [ ] mg_serpentis_temple_csgo3
-- [ ] mg_stone_of_destiny_td_csgo4
-- [ ] mg_tower_defense_source_csgo3
-- [ ] mg_twisted_towers_course_hdr
-- [ ] ze_20_seconds_v6
+- :x: dr_ffxxx_goudoubuwan_i7_b3
+- :x: mg_azure
+- :x: mg_four_towers_course_hdr
+- :x: mg_minecraft_temple_redux_dev1
+- :x: mg_minecraft_temple_v8en
+- :x: mg_morceau
+- :x: mg_rota_derp_v1_1_csgo2
+- :x: mg_ruinztrap_course_csgo
+- :x: mg_salazar_castle_part1
+- :x: mg_serpentis_temple_csgo3
+- :x: mg_stone_of_destiny_td_csgo4
+- :x: mg_tower_defense_source_csgo3
+- :x: mg_twisted_towers_course_hdr
+- :x: ze_20_seconds_v6
 - :white_check_mark: ze_2012_p3
-- [ ] ze_2021_xmas_world_r
-- [ ] ze_2554_v2
-- [ ] ze_30_seconds__b21_p2
+- :x: ze_2021_xmas_world_r
+- :x: ze_2554_v2
+- :x: ze_30_seconds__b21_p2
 - :white_check_mark: ze_666_crazy_escape_v2_4
-- [ ] ze_8bit_csgo2_fix
+- :x: ze_8bit_csgo2_fix
 - :white_check_mark: ze_A_E_S_T_H_E_T_I_C_v1_1
-- [ ] ze_abandoned_industry_va2
-- [ ] ze_abandoned_project_v1_2_csgo
+- :x: ze_abandoned_industry_va2
+- :x: ze_abandoned_project_v1_2_csgo
 - :white_check_mark: ze_aepp_nano_grid2_v1h
-- [ ] ze_alchemy_b7
-- [ ] ze_alien_mountain_escape_q2
+- :x: ze_alchemy_b7
+- :x: ze_alien_mountain_escape_q2
 - :white_check_mark: ze_alien_shooter_gp1_3
-- [ ] ze_alien_vs_predator_v6go_fix
-- [ ] ze_alive_hardwired_v3
+- :x: ze_alien_vs_predator_v6go_fix
+- :x: ze_alive_hardwired_v3
 - :white_check_mark: ze_amalgamation_v1_1
 - :white_check_mark: ze_ancient_wrath_v2_test27_cm1
 - :white_check_mark: ze_angelbeats_guild_a1_fix2
-- [ ] ze_anzalone_v3_fix
-- [ ] ze_aooka_v2_8_a
+- :x: ze_anzalone_v3_fix
+- :x: ze_aooka_v2_8_a
 - :white_check_mark: ze_Aooka_v3_t6
-- [ ] ze_aot_trost_v6_1
-- [ ] ze_aperturescience_p2
-- [ ] ze_apocatastasis_v1_2
-- [ ] ze_aragami_v1_1
-- [ ] ze_arcade_parade_b6
-- [ ] ze_arctic_escape_p2
-- [ ] ze_artika_base_v1_4
+- :x: ze_aot_trost_v6_1
+- :x: ze_aperturescience_p2
+- :x: ze_apocatastasis_v1_2
+- :x: ze_aragami_v1_1
+- :x: ze_arcade_parade_b6
+- :x: ze_arctic_escape_p2
+- :x: ze_artika_base_v1_4
 - :white_check_mark: ze_ashen_keep_p
 - :white_check_mark: ze_asiangirl_mm11el4nu4cp2io1yv7_r_v7
 - :white_check_mark: ze_astral_v2_1_fix
-- [ ] ze_atix_apocalypse_p3
-- [ ] ze_ATIX_panic_b3t_p
-- [ ] ze_atix_panic_v1
-- [ ] ze_atos_v2_3
-- [ ] ze_attackontitan_trotster_v1_2
+- :x: ze_atix_apocalypse_p3
+- :x: ze_ATIX_panic_b3t_p
+- :x: ze_atix_panic_v1
+- :x: ze_atos_v2_3
+- :x: ze_attackontitan_trotster_v1_2
 - :white_check_mark: ze_Apollo_p2
 - :white_check_mark: ze_aurora_tower_v5
 - :white_check_mark: ze_aurora_tower_v6_6
-- [ ] ze_avalanche_reboot_beta7_p2
+- :x: ze_avalanche_reboot_beta7_p2
 - :white_check_mark: ze_aware_v1_2a
-- [ ] ze_azathoth_v1_1
-- [ ] ze_aztec_temple_p
-- [ ] ze_aztecnoob_p2
-- [ ] ze_banana_temple_v1_3
-- [ ] ze_babylon_v2
-- [ ] ze_backrooms_p3
-- [ ] ze_barrage_p2
+- :x: ze_azathoth_v1_1
+- :x: ze_aztec_temple_p
+- :x: ze_aztecnoob_p2
+- :x: ze_banana_temple_v1_3
+- :x: ze_babylon_v2
+- :x: ze_backrooms_p3
+- :x: ze_barrage_p2
 - :white_check_mark: ze_Bathroom_v2_5
 - :white_check_mark: ze_best_korea_v1
-- [ ] ze_beyond_the_boundary_v1_5
-- [ ] ze_binary_z4_1
-- [ ] ze_bigfoot_escapeica_v3_4
-- [ ] ze_biohazard2_rpd_004_p3_fix2
+- :x: ze_beyond_the_boundary_v1_5
+- :x: ze_binary_z4_1
+- :x: ze_bigfoot_escapeica_v3_4
+- :x: ze_biohazard2_rpd_004_p3_fix2
 - :white_check_mark: ze_biohazard2_sewer_004_p8
 - :white_check_mark: ze_biohazard3_nemesis_b5_2
 - :white_check_mark: ze_biohazard_manor_004_p4
 - :white_check_mark: ze_bioshock_v6_2_csgo7
 - :white_check_mark: ze_bisounours_party_p2
-- [ ] ze_blackmesa_remix_p2
+- :x: ze_blackmesa_remix_p2
 - :white_check_mark: ze_blue_magic_castle_v3_1
 - :white_check_mark: ze_blue_zenith_v0_2
-- [ ] ze_boacceho_p4
-- [ ] ze_boatescape_extendido_p4
-- [ ] ze_boatescape101_p
+- :x: ze_boacceho_p4
+- :x: ze_boatescape_extendido_p4
+- :x: ze_boatescape101_p
 - :white_check_mark: ze_Boatescape111_v1_1f
 - :white_check_mark: ze_boatescape999_v5
 - :white_check_mark: ze_bowser_in_the_fire_sea_v1e_rs2
 - :white_check_mark: ze_boredom_p
-- [ ] ze_bp-infested-prison_p2
+- :x: ze_bp-infested-prison_p2
 - :white_check_mark: ze_Breakable_p3
 - :white_check_mark: ze_breezy_v4
-- [ ] ze_bulhufas_a1_1
-- [ ] ze_bunkerino_v1_3_3_final
-- [ ] ze_candy_star_a3
+- :x: ze_bulhufas_a1_1
+- :x: ze_bunkerino_v1_3_3_final
+- :x: ze_candy_star_a3
 - :white_check_mark: ze_castle_bridge_v1_4
 - :white_check_mark: ze_castle_of_the_bladekeeper_t2
-- [ ] ze_castlevania_64_v1_3_b9_go
+- :x: ze_castlevania_64_v1_3_b9_go
 - :white_check_mark: ze_castlevania_p1_7
-- [ ] ze_ccc_ffvii_alien_reactor
-- [ ] ze_ccc_floator_mislands_timantetrix_v2
-- [ ] ze_ccc_toastersand_v2
-- [ ] ze_chaos_v7_7
+- :x: ze_ccc_ffvii_alien_reactor
+- :x: ze_ccc_floator_mislands_timantetrix_v2
+- :x: ze_ccc_toastersand_v2
+- :x: ze_chaos_v7_7
 - :white_check_mark: ze_check_b1_1f
-- [ ] ze_chemical_weapons_depot_v3_1
-- [ ] ze_Chicken_Lords_Tower_ig1
-- [ ] ze_chicken_ranch_v2_2
+- :x: ze_chemical_weapons_depot_v3_1
+- :x: ze_Chicken_Lords_Tower_ig1
+- :x: ze_chicken_ranch_v2_2
 - :white_check_mark: ze_christmas_infection_p2
 - :white_check_mark: ze_chroma_v0_4_csgo5
-- [ ] ze_chronus_a1
-- [ ] ze_clockwork_v1d1
-- [ ] ze_codevein_v1_cm4
-- [ ] ze_colorlicouspilar_p4
-- [ ] ze_colors_p3
-- [ ] ze_colourslide_v2_2
-- [ ] ze_complex_va3
+- :x: ze_chronus_a1
+- :x: ze_clockwork_v1d1
+- :x: ze_codevein_v1_cm4
+- :x: ze_colorlicouspilar_p4
+- :x: ze_colors_p3
+- :x: ze_colourslide_v2_2
+- :x: ze_complex_va3
 - :white_check_mark: ze_conflict_v4_4
-- [ ] ze_contradiction_spiral_a2_2
+- :x: ze_contradiction_spiral_a2_2
 - :white_check_mark: ze_copy_escape_v2_3
-- [ ] ze_COASTALCITY_b9
+- :x: ze_COASTALCITY_b9
 - :white_check_mark: ze_core_v2b
-- [ ] ze_corrupted_bridge_b1_3
-- [ ] ze_covid_1984_v2_1
-- [ ] ze_crashbandicoot_p3
+- :x: ze_corrupted_bridge_b1_3
+- :x: ze_covid_1984_v2_1
+- :x: ze_crashbandicoot_p3
 - :white_check_mark: ze_crazy_escape_v5_5_1
-- [ ] ze_crazykart_v4
-- [ ] ze_crypt_v1_4
+- :x: ze_crazykart_v4
+- :x: ze_crypt_v1_4
 - :white_check_mark: ze_cursed_bear_tales_v1_2
-- [ ] ze_cursed_ruins_gf1_1
-- [ ] ze_CV_LOSII_Castle_Siege_b4
-- [ ] ze_CYBERDERP_p3_KIA
+- :x: ze_cursed_ruins_gf1_1
+- :x: ze_CV_LOSII_Castle_Siege_b4
+- :x: ze_CYBERDERP_p3_KIA
 - :white_check_mark: ze_cyberia_v1
-- [ ] ze_cyberpunk_x_a07
+- :x: ze_cyberpunk_x_a07
 - :white_check_mark: ze_dangerous_waters_v2_final
 - :white_check_mark: ze_dangerous_waters_xmas_v2_4
-- [ ] ze_danmaku_v1_5
-- [ ] ze_dark_catharsis_v1_2
-- [ ] ze_dark_souls_ptd_csgo2
-- [ ] ze_Dead_Planet_Escape_b10
+- :x: ze_danmaku_v1_5
+- :x: ze_dark_catharsis_v1_2
+- :x: ze_dark_souls_ptd_csgo2
+- :x: ze_Dead_Planet_Escape_b10
 - :white_check_mark: ze_deadcore_s7f2
-- [ ] ze_deadcore_v1_3
-- [ ] ze_deadcore_v1_3_f
-- [ ] ze_deadly_crash_a2
-- [ ] ze_dear_v1
-- [ ] ze_death_star_escape_v4_3_p2
-- [ ] ze_death_valley_b2
-- [ ] ze_death_wish_gf1_1
-- [ ] ze_Deathinvain_Palace_v2
-- [ ] ze_deep_dream_v1_2
-- [ ] ze_deepice_p3
+- :x: ze_deadcore_v1_3
+- :x: ze_deadcore_v1_3_f
+- :x: ze_deadly_crash_a2
+- :x: ze_dear_v1
+- :x: ze_death_star_escape_v4_3_p2
+- :x: ze_death_valley_b2
+- :x: ze_death_wish_gf1_1
+- :x: ze_Deathinvain_Palace_v2
+- :x: ze_deep_dream_v1_2
+- :x: ze_deepice_p3
 - :white_check_mark: ze_defense3003
-- [ ] ze_descent_into_cerberon_v1
-- [ ] ze_desert_fox_v7_6f
+- :x: ze_descent_into_cerberon_v1
+- :x: ze_desert_fox_v7_6f
 - :white_check_mark: ze_Desperate_Soul_a9
-- [ ] ze_destruction_of_exorath_v4_lite
-- [ ] ze_dev_r4a_csgo4
-- [ ] ze_dev_reprise_v1_0
-- [ ] ze_diamond_cube_v1
+- :x: ze_destruction_of_exorath_v4_lite
+- :x: ze_dev_r4a_csgo4
+- :x: ze_dev_reprise_v1_0
+- :x: ze_diamond_cube_v1
 - :white_check_mark: ze_diddle_v3
 - :white_check_mark: ze_djinn_go1
 - :white_check_mark: ze_doom3_v2
-- [ ] ze_doom_p2
-- [ ] ze_draco_accidere_v4_final
+- :x: ze_doom_p2
+- :x: ze_draco_accidere_v4_final
 - :white_check_mark: ze_dreamin_v3_3
-- [ ] ze_dungeon_of_ignorance_a1_2
-- [ ] ze_dust_escape_p3
-- [ ] ze_easy_escape_r
+- :x: ze_dungeon_of_ignorance_a1_2
+- :x: ze_dust_escape_p3
+- :x: ze_easy_escape_r
 - :white_check_mark: ze_eden_a3
-- [ ] ze_elevator_escape_p3
-- [ ] ze_egyptian_b5
-- [ ] ze_einstein_v7
-- [ ] ze_elork_ok3ng3se5_v1_3
-- [ ] ze_ep2_plant_b1
-- [ ] ze_epic_escape_v2_1
-- [ ] ze_error_a0_ps
-- [ ] ze_Escape_Citadel_r4
-- [ ] ze_escape_horizon_p3
-- [ ] ze_escape_stroggos_p2
-- [ ] ze_escape_the_eye_remix_pm1
-- [ ] ze_escapetheworld_a33
+- :x: ze_elevator_escape_p3
+- :x: ze_egyptian_b5
+- :x: ze_einstein_v7
+- :x: ze_elork_ok3ng3se5_v1_3
+- :x: ze_ep2_plant_b1
+- :x: ze_epic_escape_v2_1
+- :x: ze_error_a0_ps
+- :x: ze_Escape_Citadel_r4
+- :x: ze_escape_horizon_p3
+- :x: ze_escape_stroggos_p2
+- :x: ze_escape_the_eye_remix_pm1
+- :x: ze_escapetheworld_a33
 - :white_check_mark: ze_eschaton_a3_1
-- [ ] ze_eternal_grove_v3
-- [ ] ze_eternal_journey_go_v1_4t11
-- [ ] ze_eternal_void_p3
+- :x: ze_eternal_grove_v3
+- :x: ze_eternal_journey_go_v1_4t11
+- :x: ze_eternal_void_p3
 - :white_check_mark: ze_evernight_a3_4
-- [ ] ze_evil_mansion_v1_finalf
-- [ ] ze_exchange_innovation_v1b
-- [ ] ze_fapescape_p5
-- [ ] ze_fapescape_rote_v1_3
-- [ ] ze_farmhouse_v9f2
-- [ ] ze_fartlocker_escape_v3
+- :x: ze_evil_mansion_v1_finalf
+- :x: ze_exchange_innovation_v1b
+- :x: ze_fapescape_p5
+- :x: ze_fapescape_rote_v1_3
+- :x: ze_farmhouse_v9f2
+- :x: ze_fartlocker_escape_v3
 - :white_check_mark: ze_fast_escape_p2
-- [ ] ze_fe8_sacred_stones_v1_4
-- [ ] ze_ffuxx_demon_naramina_a2
-- [ ] ze_ffvii_cosmo_canyon_v4fix_ps5
+- :x: ze_fe8_sacred_stones_v1_4
+- :x: ze_ffuxx_demon_naramina_a2
+- :x: ze_ffvii_cosmo_canyon_v4fix_ps5
 - :white_check_mark: ze_ffvii_cosmo_canyon_v5k_fix
-- [ ] ze_ffvii_cosmo_canyon_v6test4
-- [ ] ze_ffvii_mako_reactor_v5_3_v5
-- [ ] f1g_3_b5v_rotcaer_okam_iivff_ez
-- [ ] ze_ffvii_mako_reactor_v6_b09k2
-- [ ] ze_FFVII_Snow_Cosmo_v5_5f
-- [ ] ze_ffvii_temple_ancient_v5_2
-- [ ] ze_ffxii_feywood_b6_3k
-- [ ] ze_ffxii_moko_temple_v1_1_p2
-- [ ] ze_FFXII_Mt_Bur_Omisace_v4c7
+- :x: ze_ffvii_cosmo_canyon_v6test4
+- :x: ze_ffvii_mako_reactor_v5_3_v5
+- :x: f1g_3_b5v_rotcaer_okam_iivff_ez
+- :x: ze_ffvii_mako_reactor_v6_b09k2
+- :x: ze_FFVII_Snow_Cosmo_v5_5f
+- :x: ze_ffvii_temple_ancient_v5_2
+- :x: ze_ffxii_feywood_b6_3k
+- :x: ze_ffxii_moko_temple_v1_1_p2
+- :x: ze_FFXII_Mt_Bur_Omisace_v4c7
 - :white_check_mark: ze_FFXII_Mt_Bur_Omisace_v5_4fix4
 - :white_check_mark: ze_FFXII_Paramina_Rift_r4
-- [ ] ze_ffxii_ridorana_cataract_t5_3_w6
+- :x: ze_ffxii_ridorana_cataract_t5_3_w6
 - :white_check_mark: ze_FFXII_Salikawood_v1_6f
 - :white_check_mark: ze_FFXII_Westersand_v7_z9
 - :white_check_mark: ze_ffxii_westersand_v8zeta1_b5k
-- [ ] ze_ffxiv_coil_of_bahamut_v4_4
+- :x: ze_ffxiv_coil_of_bahamut_v4_4
 - :white_check_mark: ze_FFXIV_Pharos_Sirius_v1_6
-- [ ] ze_ffxiv_wanderers_palace_v2_va2
-- [ ] ze_ffxiv_wanderers_palace_v4_va2
+- :x: ze_ffxiv_wanderers_palace_v2_va2
+- :x: ze_ffxiv_wanderers_palace_v4_va2
 - :white_check_mark: ze_FFXIV_Wanderers_Palace_v5_2
 - :white_check_mark: ze_FFXIV_Wanderers_Palace_v6
-- [ ] ze_fire_temple_v2_4
-- [ ] ze_firewall_laboratory_part1_p2
-- [ ] ze_firewall_laboratory_part2_p2
-- [ ] ze_flex_b4
-- [ ] ze_flower_a1_2
-- [ ] ze_flowering_b10
+- :x: ze_fire_temple_v2_4
+- :x: ze_firewall_laboratory_part1_p2
+- :x: ze_firewall_laboratory_part2_p2
+- :x: ze_flex_b4
+- :x: ze_flower_a1_2
+- :x: ze_flowering_b10
 - :white_check_mark: ze_flying_world_p
 - :white_check_mark: ze_fond_dream_h4
-- [ ] ze_forbidden_repository_a1_4
-- [ ] ze_foreign_sand_mix_v2_fix
-- [ ] ze_forest_r_v1
-- [ ] ze_forest_of_steel_v1_7f
-- [ ] ze_forestbunkers_v1_b3_e2
-- [ ] ze_forgotten_facility_p3
-- [ ] ze_forhidden_slicoo_v5
-- [ ] ze_FORiUS_just_RUN_p2
+- :x: ze_forbidden_repository_a1_4
+- :x: ze_foreign_sand_mix_v2_fix
+- :x: ze_forest_r_v1
+- :x: ze_forest_of_steel_v1_7f
+- :x: ze_forestbunkers_v1_b3_e2
+- :x: ze_forgotten_facility_p3
+- :x: ze_forhidden_slicoo_v5
+- :x: ze_FORiUS_just_RUN_p2
 - :white_check_mark: ze_forsaken_temple_v3_b5
-- [ ] ze_freespace_ultimate_b4
-- [ ] ze_frostdrake_tower_v1
+- :x: ze_freespace_ultimate_b4
+- :x: ze_frostdrake_tower_v1
 - :white_check_mark: ze_frozen_abyss_v1_2
 - :white_check_mark: ze_frozentemple_rc1_1
-- [ ] ze_funny_runner_v3_1
-- [ ] ze_games_v2_1
-- [ ] ze_genso_of_last_v3_4_t1
+- :x: ze_funny_runner_v3_1
+- :x: ze_games_v2_1
+- :x: ze_genso_of_last_v3_4_t1
 - :white_check_mark: ze_geometric_v1_4
 - :white_check_mark: ze_give_it_a_name_test4
-- [ ] ze_gods_wrath_p2
-- [ ] ze_golubenkaya_meow_v1_2
-- [ ] ze_got_the_north_csgo3
-- [ ] ze_grand_boatescape_p3
+- :x: ze_gods_wrath_p2
+- :x: ze_golubenkaya_meow_v1_2
+- :x: ze_got_the_north_csgo3
+- :x: ze_grand_boatescape_p3
 - :white_check_mark: ze_grau_a03_4ff
-- [ ] ze_greece_escape_p
-- [ ] ze_greencity_fix
-- [ ] ze_grey_world_v1
-- [ ] ze_gris_a4_9_8
+- :x: ze_greece_escape_p
+- :x: ze_greencity_fix
+- :x: ze_grey_world_v1
+- :x: ze_gris_a4_9_8
 - :white_check_mark: ze_gris_v1_13
 - :white_check_mark: ze_halloween_house_b4
-- [ ] ze_halloween_mystery_v1
-- [ ] ze_halo_p3
-- [ ] ze_halo_poa_p4
-- [ ] ze_harry_potter_v2_1_csgo
-- [ ] ze_haunted_lab_escape_p3
-- [ ] ze_hazard_escape_p2
-- [ ] ze_hell_escape_p2
-- [ ] ze_hidden_fortress_p
-- [ ] ze_hidden_temple_v2_5
-- [ ] ze_highest_to_lowest_v1
-- [ ] ze_hive_complex_v1_2_1
-- [ ] ze_hobbit_escape_b2
-- [ ] ze_hold_em_v8
+- :x: ze_halloween_mystery_v1
+- :x: ze_halo_p3
+- :x: ze_halo_poa_p4
+- :x: ze_harry_potter_v2_1_csgo
+- :x: ze_haunted_lab_escape_p3
+- :x: ze_hazard_escape_p2
+- :x: ze_hell_escape_p2
+- :x: ze_hidden_fortress_p
+- :x: ze_hidden_temple_v2_5
+- :x: ze_highest_to_lowest_v1
+- :x: ze_hive_complex_v1_2_1
+- :x: ze_hobbit_escape_b2
+- :x: ze_hold_em_v8
 - :white_check_mark: ze_honkai_impact_3rd_babel_v1_55
 - :white_check_mark: ze_honkai_impact_3rd_cyberpunk_cityv26_6
-- [ ] ze_honkai_nagazoracity_beta_4
-- [ ] ze_horizon_sky_escape_v2
+- :x: ze_honkai_nagazoracity_beta_4
+- :x: ze_horizon_sky_escape_v2
 - :white_check_mark: ze_hsc_a4_q3
 - :white_check_mark: ze_hydroponic_garden_v1_1
-- [ ] ze_hypernova_p2
-- [ ] ze_iamlegend_p3
-- [ ] ze_ice_cavern_va4
-- [ ] ze_icecap_escape_v5_p
-- [ ] ze_icecap_solo_v1_f
-- [ ] ze_iceland_escape_v1_2
-- [ ] ze_iceworld_athletic_b4_5
-- [ ] ze_illusory_world_v4_5
+- :x: ze_hypernova_p2
+- :x: ze_iamlegend_p3
+- :x: ze_ice_cavern_va4
+- :x: ze_icecap_escape_v5_p
+- :x: ze_icecap_solo_v1_f
+- :x: ze_iceland_escape_v1_2
+- :x: ze_iceworld_athletic_b4_5
+- :x: ze_illusory_world_v4_5
 - :white_check_mark: ze_illya_b4_csgo_a3
-- [ ] ze_inboxed_final_fix
-- [ ] ze_in_a_dream_oh1tn6_v1_2
+- :x: ze_inboxed_final_fix
+- :x: ze_in_a_dream_oh1tn6_v1_2
 - :white_check_mark: ze_indiana_jones_v4a_004_p4
-- [ ] ze_industrial_dejavu_p3
-- [ ] ze_infected_sewers_csgo
-- [ ] ze_infected_tramway_csgo1
-- [ ] ze_infernal_spire_p2
-- [ ] ze_infiltration_final_r1
-- [ ] ze_insanitycity_va2
-- [ ] ze_insensible_sr8gm6yj12hs7_RG_v9_6
-- [ ] ze_interception_p2
-- [ ] ze_isla_nublar_p3
-- [ ] ze_island_escape_p3
-- [ ] ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3
+- :x: ze_industrial_dejavu_p3
+- :x: ze_infected_sewers_csgo
+- :x: ze_infected_tramway_csgo1
+- :x: ze_infernal_spire_p2
+- :x: ze_infiltration_final_r1
+- :x: ze_insanitycity_va2
+- :x: ze_insensible_sr8gm6yj12hs7_RG_v9_6
+- :x: ze_interception_p2
+- :x: ze_isla_nublar_p3
+- :x: ze_island_escape_p3
+- :x: ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3
 - :white_check_mark: ze_italy_town_p2
-- [ ] ze_jamais_vu_b2
+- :x: ze_jamais_vu_b2
 - :white_check_mark: ze_jerry_malaka_escape_v2fix
 - :white_check_mark: ze_jiangnan_town_v3
-- [ ] ze_jiba_journey_v4_3
+- :x: ze_jiba_journey_v4_3
 - :white_check_mark: ze_jjba_v7
-- [ ] ze_johnny_nukem_go_b8_3a
-- [ ] ze_journey_p2
-- [ ] ze_jurassicPark_Escape_p2
-- [ ] ze_JurassicPark_p3
-- [ ] ze_K19_escape_go1
-- [ ] ze_kaffe_escape_v2
-- [ ] ze_kage_a3
+- :x: ze_johnny_nukem_go_b8_3a
+- :x: ze_journey_p2
+- :x: ze_jurassicPark_Escape_p2
+- :x: ze_JurassicPark_p3
+- :x: ze_K19_escape_go1
+- :x: ze_kaffe_escape_v2
+- :x: ze_kage_a3
 - :white_check_mark: ze_Kitchen_v2
-- [ ] ze_Knife_Stray_v3
-- [ ] ze_komatsu_v3
-- [ ] ze_kororinpa_v2_2
-- [ ] ze_kraznov_poopata_p2
-- [ ] ze_L_The_Lower_v1_8f
-- [ ] ze_L_The_Medium_v1_6
-- [ ] ze_l0v0l_v1_4_csgo2
-- [ ] ze_l4d2_c1m3_mall_csgo_v0_3_le
-- [ ] ze_laser_island_b6_8
+- :x: ze_Knife_Stray_v3
+- :x: ze_komatsu_v3
+- :x: ze_kororinpa_v2_2
+- :x: ze_kraznov_poopata_p2
+- :x: ze_L_The_Lower_v1_8f
+- :x: ze_L_The_Medium_v1_6
+- :x: ze_l0v0l_v1_4_csgo2
+- :x: ze_l4d2_c1m3_mall_csgo_v0_3_le
+- :x: ze_laser_island_b6_8
 - :white_check_mark: ze_last_man_standing_csgo3
 - :white_check_mark: ze_last_man_standing_h2
 - :white_check_mark: ze_Last_Man_Standing_v6_T3
-- [ ] ze_legends_of_dawn_v1_6
-- [ ] ze_legoland_crackheads_p2
-- [ ] ze_lemonysnickets_p2
-- [ ] ze_licciana_escape_p
-- [ ] ze_licciana_escape_zrgbr_b3
+- :x: ze_legends_of_dawn_v1_6
+- :x: ze_legoland_crackheads_p2
+- :x: ze_lemonysnickets_p2
+- :x: ze_licciana_escape_p
+- :x: ze_licciana_escape_zrgbr_b3
 - :white_check_mark: ze_light_retribution_v1_k2
 - :white_check_mark: ze_light_shadow_L1_4
-- [ ] ze_light_v7_csgo_tk13_v5_2fix
-- [ ] ze_lightnight_v1_4fix_hdr
-- [ ] ze_lila_panic_escape_v3_3
-- [ ] ze_lost_terminus_b4
-- [ ] ze_lostclue_b3_3
-- [ ] ze_LOTR_Helms_Deep_v5_p6
-- [ ] ze_lotr_isengard_csgo1
-- [ ] ze_LOTR_Laketown_v3_3
+- :x: ze_light_v7_csgo_tk13_v5_2fix
+- :x: ze_lightnight_v1_4fix_hdr
+- :x: ze_lila_panic_escape_v3_3
+- :x: ze_lost_terminus_b4
+- :x: ze_lostclue_b3_3
+- :x: ze_LOTR_Helms_Deep_v5_p6
+- :x: ze_lotr_isengard_csgo1
+- :x: ze_LOTR_Laketown_v3_3
 - :white_check_mark: ze_LOTR_Minas_TIret_p2
 - :white_check_mark: ze_lotr_minas_tirith_p5
 - :white_check_mark: ze_LOTR_Mines_of_Moria_p2
-- [ ] ze_LOTR_Mirkwood_v2_5
-- [ ] ze_LOTR_Mount_Doom_p3
-- [ ] ze_luciddreams_f5_7
-- [ ] ze_luciddreams_v3_82x
-- [ ] ze_luck_matters_v3x
+- :x: ze_LOTR_Mirkwood_v2_5
+- :x: ze_LOTR_Mount_Doom_p3
+- :x: ze_luciddreams_f5_7
+- :x: ze_luciddreams_v3_82x
+- :x: ze_luck_matters_v3x
 - :white_check_mark: ze_lucy_escape_v1
-- [ ] ze_LuigisMansion_p3
+- :x: ze_LuigisMansion_p3
 - :white_check_mark: ze_lux_umbra_v1
-- [ ] ze_m0w0m_csgo1
-- [ ] ze_m_the_final_v1_4
-- [ ] ze_mabinogi_f4_1
-- [ ] ze_madara_temple_v1fix_csgo
-- [ ] ze_magala_castle_final
-- [ ] ze_magic_carpet_p2
-- [ ] ze_magmadrake_b4
-- [ ] ze_magus_v2_4
-- [ ] ze_mapeadores_museum_v1
-- [ ] ze_mario_tower_v4_p2
-- [ ] ze_mars_escape_gp3
+- :x: ze_m0w0m_csgo1
+- :x: ze_m_the_final_v1_4
+- :x: ze_mabinogi_f4_1
+- :x: ze_madara_temple_v1fix_csgo
+- :x: ze_magala_castle_final
+- :x: ze_magic_carpet_p2
+- :x: ze_magmadrake_b4
+- :x: ze_magus_v2_4
+- :x: ze_mapeadores_museum_v1
+- :x: ze_mario_tower_v4_p2
+- :x: ze_mars_escape_gp3
 - :white_check_mark: ze_meatropolis_p2
-- [ ] ze_melong_dow_learjet_gp1
-- [ ] ze_mgden_v2_5fix
-- [ ] ze_military_escape_p4
-- [ ] ze_MindTree_v1_6
+- :x: ze_melong_dow_learjet_gp1
+- :x: ze_mgden_v2_5fix
+- :x: ze_military_escape_p4
+- :x: ze_MindTree_v1_6
 - :white_check_mark: ze_minecraft_adventure_v1_3d
-- [ ] ze_minecraft_minigames_v7
+- :x: ze_minecraft_minigames_v7
 - :white_check_mark: ze_minecraft_universe_v1_5
 - :white_check_mark: ze_minecraft_v1_1_p3
 - :white_check_mark: ze_minimal_csgo
 - :white_check_mark: ze_Mirrors_Edge_Reborn_p3
-- [ ] ze_misaka2_v1_3
+- :x: ze_misaka2_v1_3
 - :white_check_mark: ze_misaka_v1ff
 - :white_check_mark: ze_mist_q3
-- [ ] ze_Mixture_3de_v1f2_g1t
-- [ ] ze_mlgsurf_v1_3_4
-- [ ] ze_mochi_island_f6
-- [ ] ze_mojos_minigames_v1_4_1
+- :x: ze_Mixture_3de_v1f2_g1t
+- :x: ze_mlgsurf_v1_3_4
+- :x: ze_mochi_island_f6
+- :x: ze_mojos_minigames_v1_4_1
 - :white_check_mark: ze_moltentemple_csgo1
-- [ ] ze_monochrome_v1f
-- [ ] ze_monolith_csgo
-- [ ] ze_moon_base_p3
-- [ ] ze_motanuminc_p2
-- [ ] ze_mountain_escape_csgo2
-- [ ] ze_mountain_escape_snow_v7
+- :x: ze_monochrome_v1f
+- :x: ze_monolith_csgo
+- :x: ze_moon_base_p3
+- :x: ze_motanuminc_p2
+- :x: ze_mountain_escape_csgo2
+- :x: ze_mountain_escape_snow_v7
 - :white_check_mark: ze_naiads_v4a_6f
-- [ ] ze_nameless_necropolis_v3
-- [ ] ze_namviet_gf1_1
-- [ ] ze_Naruto_p
+- :x: ze_nameless_necropolis_v3
+- :x: ze_namviet_gf1_1
+- :x: ze_Naruto_p
 - :white_check_mark: ze_natural_v1_4
-- [ ] ze_necromanteion_v3_1
+- :x: ze_necromanteion_v3_1
 - :white_check_mark: ze_negative_legacy_va2
-- [ ] ze_neko_canyon_p3
+- :x: ze_neko_canyon_p3
 - :white_check_mark: ze_neochrome_csgo3a
-- [ ] ze_new_crazy_escape_v4_1
+- :x: ze_new_crazy_escape_v4_1
 - :white_check_mark: ze_nibui_m
-- [ ] ze_nightmare_dimension_p3
-- [ ] ze_no_name_v1_6
-- [ ] ze_no_title_v2_5
-- [ ] ze_noir_p
+- :x: ze_nightmare_dimension_p3
+- :x: ze_no_name_v1_6
+- :x: ze_no_title_v2_5
+- :x: ze_noir_p
 - :white_check_mark: ze_nomada_h3
-- [ ] ze_noob_too_easy_v1_2_2
-- [ ] ze_noob_too_easy_v3_2fix
-- [ ] ze_nora_v1_11
-- [ ] ze_nostromo_escape_p2
-- [ ] ze_nostromo_redux_v1_2
-- [ ] ze_notredame_p4
-- [ ] ze_nuke_p5
-- [ ] ze_NY_marathon_p2
-- [ ] ze_oblivion_castle_v6
-- [ ] ze_obj_npst_v2
-- [ ] ze_Obj_Rampage_v1_2
-- [ ] ze_ocean_base_escape_p2
+- :x: ze_noob_too_easy_v1_2_2
+- :x: ze_noob_too_easy_v3_2fix
+- :x: ze_nora_v1_11
+- :x: ze_nostromo_escape_p2
+- :x: ze_nostromo_redux_v1_2
+- :x: ze_notredame_p4
+- :x: ze_nuke_p5
+- :x: ze_NY_marathon_p2
+- :x: ze_oblivion_castle_v6
+- :x: ze_obj_npst_v2
+- :x: ze_Obj_Rampage_v1_2
+- :x: ze_ocean_base_escape_p2
 - :white_check_mark: ze_offliner_v2_csgo1
-- [ ] ze_omega_p3
-- [ ] ze_omen_090
-- [ ] ze_omochi_b10
+- :x: ze_omega_p3
+- :x: ze_omen_090
+- :x: ze_omochi_b10
 - :white_check_mark: ze_omochix_v3_2fix
-- [ ] ze_onahole_v3_3_3
+- :x: ze_onahole_v3_3_3
 - :white_check_mark: ze_oneiros_p
-- [ ] ze_oot_shadowtemple_b10
-- [ ] ze_opti_variety_missions_p3
-- [ ] ze_otakuroom_v5_6_ps
-- [ ] ze_Outlast_v2_cm1_fix1
-- [ ] ze_outpost_escape_k1
-- [ ] ze_palace_adventure_v1_2
-- [ ] ze_palace_of_minolila_v1
-- [ ] ze_pallaroid_rage_v1
-- [ ] ze_pandora_revolutionz_hdr2
-- [ ] ze_panic_escape_v3_2_e5_hdr
-- [ ] ze_paper_escaper_p7
-- [ ] ze_paradise_v2_csgo
-- [ ] ze_paranoid_rezurrection_csgo1
-- [ ] ze_parkers_pit_p
+- :x: ze_oot_shadowtemple_b10
+- :x: ze_opti_variety_missions_p3
+- :x: ze_otakuroom_v5_6_ps
+- :x: ze_Outlast_v2_cm1_fix1
+- :x: ze_outpost_escape_k1
+- :x: ze_palace_adventure_v1_2
+- :x: ze_palace_of_minolila_v1
+- :x: ze_pallaroid_rage_v1
+- :x: ze_pandora_revolutionz_hdr2
+- :x: ze_panic_escape_v3_2_e5_hdr
+- :x: ze_paper_escaper_p7
+- :x: ze_paradise_v2_csgo
+- :x: ze_paranoid_rezurrection_csgo1
+- :x: ze_parkers_pit_p
 - :white_check_mark: ze_Parking_p4
 - :white_check_mark: ze_PC_v1_2
 - :white_check_mark: ze_pd2_crime_art_v2
-- [ ] ze_perplexity_v2
-- [ ] ze_peter_mansion_v1_p5
-- [ ] ze_phantasy_escape_p3
-- [ ] ze_Pidaras_va2
+- :x: ze_perplexity_v2
+- :x: ze_peter_mansion_v1_p5
+- :x: ze_phantasy_escape_p3
+- :x: ze_Pidaras_va2
 - :white_check_mark: ze_pirates_port_royal_v5_6
-- [ ] ze_pitchblack_p2
-- [ ] ze_pizzatime_v9
-- [ ] ze_pkmn_adventure_v9_3
-- [ ] ze_platformer_b6
-- [ ] ze_pokemon_adventure_v1_1
-- [ ] ze_Pokemon_Rivals_v1_8
-- [ ] ze_ponchermonkey_shooter_csgo1
-- [ ] ze_PoR_island_p3
+- :x: ze_pitchblack_p2
+- :x: ze_pizzatime_v9
+- :x: ze_pkmn_adventure_v9_3
+- :x: ze_platformer_b6
+- :x: ze_pokemon_adventure_v1_1
+- :x: ze_Pokemon_Rivals_v1_8
+- :x: ze_ponchermonkey_shooter_csgo1
+- :x: ze_PoR_island_p3
 - :white_check_mark: ze_Portal_Story_p2
-- [ ] ze_postal_v1_1
-- [ ] ze_PotC_IV_p3
-- [ ] ze_PotC_p4
-- [ ] ze_Predator_Ultimate_p7
+- :x: ze_postal_v1_1
+- :x: ze_PotC_IV_p3
+- :x: ze_PotC_p4
+- :x: ze_Predator_Ultimate_p7
 - :white_check_mark: ze_project_alcaria_x2
-- [ ] ze_project_codex_a3_1
-- [ ] ze_prototype_p2
-- [ ] ze_puta_p3
-- [ ] ze_purgatorium_m
+- :x: ze_project_codex_a3_1
+- :x: ze_prototype_p2
+- :x: ze_puta_p3
+- :x: ze_purgatorium_m
 - :white_check_mark: ze_qaz_defend_part2_ji1mm1_beta3
 - :white_check_mark: ze_R_W_B_ulti
 - :white_check_mark: ze_Rabanastre_Royal_t5
 - :white_check_mark: ze_raccoon_facility_v6b_p
-- [ ] ze_rainbow_factory_v2
-- [ ] ze_raintime1_torontoisland_v5x
-- [ ] ze_raintime2_stormwindkeep_v3
-- [ ] ze_raintimex_code0_v6n
+- :x: ze_rainbow_factory_v2
+- :x: ze_raintime1_torontoisland_v5x
+- :x: ze_raintime2_stormwindkeep_v3
+- :x: ze_raintimex_code0_v6n
 - :white_check_mark: ze_ramp_a1_1
-- [ ] ze_random_escape_gp5
-- [ ] ze_randomizer_c1
-- [ ] ze_Ratescape_v5_4
-- [ ] ze_rawnscape_csgo
-- [ ] ze_re_creation_v2_25
-- [ ] ze_re_surf_skyline_b0_11
+- :x: ze_random_escape_gp5
+- :x: ze_randomizer_c1
+- :x: ze_Ratescape_v5_4
+- :x: ze_rawnscape_csgo
+- :x: ze_re_creation_v2_25
+- :x: ze_re_surf_skyline_b0_11
 - :white_check_mark: ze_realm_f3
-- [ ] ze_reconnoiter_b5
-- [ ] ze_retribution_pf
-- [ ] ze_rev_a6_3
-- [ ] ze_Reverse_a03_f3
-- [ ] ze_rien_beta
-- [ ] ze_ripsuhdude_v1_6
+- :x: ze_reconnoiter_b5
+- :x: ze_retribution_pf
+- :x: ze_rev_a6_3
+- :x: ze_Reverse_a03_f3
+- :x: ze_rien_beta
+- :x: ze_ripsuhdude_v1_6
 - :white_check_mark: ze_rizomata_va2
-- [ ] ze_rockescape_go2_1
-- [ ] ze_rollermine_factory_2010_p
-- [ ] ze_ronald_v2
+- :x: ze_rockescape_go2_1
+- :x: ze_rollermine_factory_2010_p
+- :x: ze_ronald_v2
 - :white_check_mark: ze_roof_adventure_v8f
-- [ ] ze_roof_adventure_v9
-- [ ] ze_rooftop_madness_v1_9_csgo
-- [ ] ze_Rooftop_Runaway1_p
-- [ ] ze_rooftop_runaway2_p
+- :x: ze_roof_adventure_v9
+- :x: ze_rooftop_madness_v1_9_csgo
+- :x: ze_Rooftop_Runaway1_p
+- :x: ze_rooftop_runaway2_p
 - :white_check_mark: ze_roscente_go1
-- [ ] ze_RTCW_Ominous_Rumors_p4
-- [ ] ze_rtv_one_more
+- :x: ze_RTCW_Ominous_Rumors_p4
+- :x: ze_rtv_one_more
 - :white_check_mark: ze_ruin_of_black_stone_v1
-- [ ] ze_ruin_of_black_stone_v2
+- :x: ze_ruin_of_black_stone_v2
 - :white_check_mark: ze_rush_B_v2_2
 - :white_check_mark: ze_S_A_M_v1_7
-- [ ] ze_sad_banana_b3
-- [ ] ze_sakuzyo_b2
-- [ ] ze_sam_hd_v1_fix
-- [ ] ze_sandstorm_go_v1_5x3
+- :x: ze_sad_banana_b3
+- :x: ze_sakuzyo_b2
+- :x: ze_sam_hd_v1_fix
+- :x: ze_sandstorm_go_v1_5x3
 - :white_check_mark: ze_santassination_v3
 - :white_check_mark: ze_saw_p3
-- [ ] ze_sc_turtles_v5_p2
-- [ ] ze_schizophrenic_c3
-- [ ] ze_scp_containment_breach_v1_b02_cm4
-- [ ] ze_seano_see_2g5
+- :x: ze_sc_turtles_v5_p2
+- :x: ze_schizophrenic_c3
+- :x: ze_scp_containment_breach_v1_b02_cm4
+- :x: ze_seano_see_2g5
 - :white_check_mark: ze_sele_a2_1
-- [ ] ze_serious_sam_tfe_v2_6
+- :x: ze_serious_sam_tfe_v2_6
 - :white_check_mark: ze_serpentis_temple_csgo5
-- [ ] ze_SEVIIEN_a1
-- [ ] ze_sewage_processing_v8
-- [ ] ze_sewer_escape_p3
-- [ ] ze_sg1_missions_v2_1_p2
-- [ ] ze_shadow_corridor_v1_2
-- [ ] ze_Shadow_temple_v4_4
-- [ ] ze_shaun_of_the_dead_p
-- [ ] ze_shaurma_v3_b07_t5_hdr2
-- [ ] ze_showdown_v4_1_p
-- [ ] ze_shrine_of_umos_b3
-- [ ] ze_shroomforest2_p6
+- :x: ze_SEVIIEN_a1
+- :x: ze_sewage_processing_v8
+- :x: ze_sewer_escape_p3
+- :x: ze_sg1_missions_v2_1_p2
+- :x: ze_shadow_corridor_v1_2
+- :x: ze_Shadow_temple_v4_4
+- :x: ze_shaun_of_the_dead_p
+- :x: ze_shaurma_v3_b07_t5_hdr2
+- :x: ze_showdown_v4_1_p
+- :x: ze_shrine_of_umos_b3
+- :x: ze_shroomforest2_p6
 - :white_check_mark: ze_shroomforest3_p
-- [ ] ze_shroomforest_p6
-- [ ] ze_siberia_1990_v1_2c_p5
+- :x: ze_shroomforest_p6
+- :x: ze_siberia_1990_v1_2c_p5
 - :white_check_mark: ze_silent_hill_blackblood_f6
 - :white_check_mark: ze_silent_hill_2_illusion_b5
 - :white_check_mark: ze_silent_hill_3_dawn_v2
-- [ ] ze_silent_hill_3_flee_v4
+- :x: ze_silent_hill_3_flee_v4
 - :white_check_mark: ze_sit_caelum_paradisus_b7_hdr
-- [ ] ze_skill_escape_v09
-- [ ] ze_sky_athletic_adv_v9_13
-- [ ] ze_sky_creamus_v2
+- :x: ze_skill_escape_v09
+- :x: ze_sky_athletic_adv_v9_13
+- :x: ze_sky_creamus_v2
 - :white_check_mark: ze_sky_fantasy_v1_6
-- [ ] ze_sky_fantasy_v2_1
-- [ ] ze_sky_journey_v8
+- :x: ze_sky_fantasy_v2_1
+- :x: ze_sky_journey_v8
 - :white_check_mark: ze_skygarden_v2_1
-- [ ] ze_Skyscraper_city_r2
+- :x: ze_Skyscraper_city_r2
 - :white_check_mark: ze_slender_escape_rc2
-- [ ] ze_small_town_b1
-- [ ] ze_snowescape_gp1
-- [ ] ze_solgryn_v2
-- [ ] ze_sorrento_escape_v2
-- [ ] ze_space_flight_p3
-- [ ] ze_space_station_csgo
-- [ ] ze_spooktipo_a3
+- :x: ze_small_town_b1
+- :x: ze_snowescape_gp1
+- :x: ze_solgryn_v2
+- :x: ze_sorrento_escape_v2
+- :x: ze_space_flight_p3
+- :x: ze_space_station_csgo
+- :x: ze_spooktipo_a3
 - :white_check_mark: ze_squid_game_v1
-- [ ] ze_sst_b2_1_p5
-- [ ] ze_sst2_p
-- [ ] ze_Stalker_Ultimate_v2_3_gg
-- [ ] ze_stalker_ultimate_v4_9
-- [ ] ze_stalkermonolit_v8gofix1
-- [ ] ze_star_wars_prequel_f1
-- [ ] ze_stargate_escape_v8_p2
-- [ ] ze_starwars_v2fix_csgo3
-- [ ] ze_stilshrine_of_miriam_v7_2fix
-- [ ] ze_STRANGE_escape_p2
+- :x: ze_sst_b2_1_p5
+- :x: ze_sst2_p
+- :x: ze_Stalker_Ultimate_v2_3_gg
+- :x: ze_stalker_ultimate_v4_9
+- :x: ze_stalkermonolit_v8gofix1
+- :x: ze_star_wars_prequel_f1
+- :x: ze_stargate_escape_v8_p2
+- :x: ze_starwars_v2fix_csgo3
+- :x: ze_stilshrine_of_miriam_v7_2fix
+- :x: ze_STRANGE_escape_p2
 - :white_check_mark: ze_suchirifu_v3_1
 - :white_check_mark: ze_SUMAI_facility_v1a
-- [ ] ze_sunkentemple_v3_1
+- :x: ze_sunkentemple_v3_1
 - :white_check_mark: ze_sunlight_p2
-- [ ] ze_supershitshow_a2
-- [ ] ze_surf_bona_v1_3
+- :x: ze_supershitshow_a2
+- :x: ze_surf_bona_v1_3
 - :white_check_mark: ze_surf_danger_p2
 - :white_check_mark: ze_surf_dark_fantasy_v2go2
-- [ ] ze_surf_easy_v1_3
+- :x: ze_surf_easy_v1_3
 - :white_check_mark: ze_surf_facility_p4
 - :white_check_mark: ze_surf_ffxiv_beachescape_camper_isengard_laser_mako
 - :white_check_mark: ze_surf_froyo_lite_v2_2
 - :white_check_mark: ze_surf_froyo_v2_2
-- [ ] ze_surf_last_point_v1_3_1
-- [ ] ze_surf_gypt_v1_3_1f
-- [ ] ze_surf_happy_b7
+- :x: ze_surf_last_point_v1_3_1
+- :x: ze_surf_gypt_v1_3_1f
+- :x: ze_surf_happy_b7
 - :white_check_mark: ze_surf_inferno_v2_22
-- [ ] ze_surf_next_step_v1_4
-- [ ] ze_surf_outside_b1_10
+- :x: ze_surf_next_step_v1_4
+- :x: ze_surf_outside_b1_10
 - :white_check_mark: ze_surf_sahok_p3
 - :white_check_mark: ze_surf_saltfish_csgo4
-- [ ] ze_surf_shonyudo_v1_2_fix
-- [ ] ze_surf_shonyudo_v5_2
+- :x: ze_surf_shonyudo_v1_2_fix
+- :x: ze_surf_shonyudo_v5_2
 - :white_check_mark: ze_surf_vortex_v2_6
-- [ ] ze_survivors_p2
-- [ ] ze_taboo_carnation_p2
-- [ ] ze_temple_escape_va3
-- [ ] ze_temple_of_phantom_v1p_2
-- [ ] ze_temple_of_the_demon_god_v2
-- [ ] ze_temple_raider_b4_ps6
-- [ ] ze_Temple_Run_v5
+- :x: ze_survivors_p2
+- :x: ze_taboo_carnation_p2
+- :x: ze_temple_escape_va3
+- :x: ze_temple_of_phantom_v1p_2
+- :x: ze_temple_of_the_demon_god_v2
+- :x: ze_temple_raider_b4_ps6
+- :x: ze_Temple_Run_v5
 - :white_check_mark: ze_tenkinoko_welkin_v1_6f
 - :white_check_mark: ze_tesv_skyrim_v5_6
-- [ ] ze_texturescape_p2
-- [ ] ze_the_curse_of_blackwater_v6b
-- [ ] ze_the_end_v3f
-- [ ] ze_the_last_chapter_v1_5
-- [ ] ze_the_new_era_of_crazy_escape_b8
-- [ ] ze_the_twilight_zone_v1
-- [ ] ze_thelostworld_redux_p2
-- [ ] ze_thousand_steps_go1
+- :x: ze_texturescape_p2
+- :x: ze_the_curse_of_blackwater_v6b
+- :x: ze_the_end_v3f
+- :x: ze_the_last_chapter_v1_5
+- :x: ze_the_new_era_of_crazy_escape_b8
+- :x: ze_the_twilight_zone_v1
+- :x: ze_thelostworld_redux_p2
+- :x: ze_thousand_steps_go1
 - :white_check_mark: ze_three_eyes_v1_1
-- [ ] ze_thriller_escape_p
-- [ ] ze_tibia_v4_2
-- [ ] ze_tilex_ultimate_v2_13_gf1_5
+- :x: ze_thriller_escape_p
+- :x: ze_tibia_v4_2
+- :x: ze_tilex_ultimate_v2_13_gf1_5
 - :white_check_mark: ze_timesink_v1_2
-- [ ] ze_timesplitters_p2
-- [ ] ze_titanic_escape_v2_3_fix1
-- [ ] ze_tkara_v4_3
-- [ ] ze_tloz_stone_tower_temple_v1_4e
-- [ ] ze_toaster_p3
+- :x: ze_timesplitters_p2
+- :x: ze_titanic_escape_v2_3_fix1
+- :x: ze_tkara_v4_3
+- :x: ze_tloz_stone_tower_temple_v1_4e
+- :x: ze_toaster_p3
 - :white_check_mark: ze_totally_new_wester_w3
 - :white_check_mark: ze_Totemo_Roka_v1
 - :white_check_mark: ze_touhou_gensokyo_o4
-- [ ] ze_toy_world_final
+- :x: ze_toy_world_final
 - :white_check_mark: ze_traak_b2
 - :white_check_mark: ze_tracing_that_dream_a2_2
-- [ ] ze_trainescape_final_p2
-- [ ] ze_trainstation_tunnels_p
-- [ ] ze_trials_v3_test
-- [ ] ze_tropico_escape_gf1_1
-- [ ] ze_turokbase_p3
-- [ ] ze_TV_station_r4
-- [ ] ze_tyranny2_v1_csgo2
+- :x: ze_trainescape_final_p2
+- :x: ze_trainstation_tunnels_p
+- :x: ze_trials_v3_test
+- :x: ze_tropico_escape_gf1_1
+- :x: ze_turokbase_p3
+- :x: ze_TV_station_r4
+- :x: ze_tyranny2_v1_csgo2
 - :white_check_mark: ze_tyranny_v5_go3
 - :white_check_mark: ze_Uchiha_Legacy_cm2_fix
-- [ ] ze_undercave_es_mi_v1_5
-- [ ] ze_underground_escape_p
-- [ ] ze_undersea_temple_a4_4
-- [ ] ze_undertale_g_v1_3_fix1
-- [ ] ze_undertale_sans_final
-- [ ] ze_upwards_v1
-- [ ] ze_urban_laby_of_death_p2
-- [ ] ze_urbanterror_b2
-- [ ] ze_UT2004_Convoy_r5
-- [ ] ze_uyuni_v1_6
-- [ ] ze_v0u0v_csgo1
-- [ ] ze_valkvang_v1_2
+- :x: ze_undercave_es_mi_v1_5
+- :x: ze_underground_escape_p
+- :x: ze_undersea_temple_a4_4
+- :x: ze_undertale_g_v1_3_fix1
+- :x: ze_undertale_sans_final
+- :x: ze_upwards_v1
+- :x: ze_urban_laby_of_death_p2
+- :x: ze_urbanterror_b2
+- :x: ze_UT2004_Convoy_r5
+- :x: ze_uyuni_v1_6
+- :x: ze_v0u0v_csgo1
+- :x: ze_valkvang_v1_2
 - :white_check_mark: ze_venice_escape_p3
-- [ ] ze_vertigo_militia_b1_3_14
-- [ ] ze_vietnam_p3
+- :x: ze_vertigo_militia_b1_3_14
+- :x: ze_vietnam_p3
 - :white_check_mark: ze_visualizer_v1_2
-- [ ] ze_volcano_escape_p2
-- [ ] ze_voodoo_islands_p5
-- [ ] ze_watagi_tunnel_v1_1
-- [ ] ze_water_temple_test_v4
-- [ ] ze_world_escapes_v1
-- [ ] ze_worlds_v1_2
+- :x: ze_volcano_escape_p2
+- :x: ze_voodoo_islands_p5
+- :x: ze_watagi_tunnel_v1_1
+- :x: ze_water_temple_test_v4
+- :x: ze_world_escapes_v1
+- :x: ze_worlds_v1_2
 - :white_check_mark: ze_yueyingchuanshuo_10_8_f4
 - :white_check_mark: ze_yueyingchuanshuo_10_9_f3
 - :white_check_mark: ze_yurilnier_beta007_hdr
-- [ ] ze_zk_mall_of_zombies_p2
-- [ ] ze_zombiemod_corporation_p2
-- [ ] ze_zombierig_p3
-- [ ] ze_zulu_v2
-- [ ] zm_16chambres_fix2
-- [ ] zm_assault16
-- [ ] zm_base_day
+- :x: ze_zk_mall_of_zombies_p2
+- :x: ze_zombiemod_corporation_p2
+- :x: ze_zombierig_p3
+- :x: ze_zulu_v2
+- :x: zm_16chambres_fix2
+- :x: zm_assault16
+- :x: zm_base_day
 - :white_check_mark: zm_black-gs_tower
-- [ ] zm_blockcity_v2
+- :x: zm_blockcity_v2
 - :white_check_mark: zm_broken_fort_revo_v1_4
 - :white_check_mark: zm_bullet_infected_fix2
-- [ ] zm_camper_indian_csgo_refix
-- [ ] zm_catalyst_meow_v5
-- [ ] zm_chicken_factory
+- :x: zm_camper_indian_csgo_refix
+- :x: zm_catalyst_meow_v5
+- :x: zm_chicken_factory
 - :white_check_mark: zm_day_lego_v2_x1
-- [ ] zm_degrad_v2
-- [ ] zm_desperados_x2
-- [ ] zm_downtown_fixed
-- [ ] zm_druglab_go_rw2
-- [ ] zm_dusty_v1
-- [ ] zm_fear_office_zn7
-- [ ] zm_forgotten_dust
+- :x: zm_degrad_v2
+- :x: zm_desperados_x2
+- :x: zm_downtown_fixed
+- :x: zm_druglab_go_rw2
+- :x: zm_dusty_v1
+- :x: zm_fear_office_zn7
+- :x: zm_forgotten_dust
 - :white_check_mark: zm_freerun_tec_d1wfix
-- [ ] zm_fubar_towers_csgo
-- [ ] zm_fun_park_remix_x1
+- :x: zm_fubar_towers_csgo
+- :x: zm_fun_park_remix_x1
 - :white_check_mark: zm_gethigh_420_v1_1
-- [ ] zm_glass_world_v3
-- [ ] zm_homebase_meow_v2
-- [ ] zm_industrial_rampage_csgo
-- [ ] zm_infernalist
+- :x: zm_glass_world_v3
+- :x: zm_homebase_meow_v2
+- :x: zm_industrial_rampage_csgo
+- :x: zm_infernalist
 - :white_check_mark: zm_ingame_reborn_v2_fix
-- [ ] zm_komplex_final_row
+- :x: zm_komplex_final_row
 - :white_check_mark: zm_krusty_krab_a3_csgo
-- [ ] zm_legendary_house_final_r2
-- [ ] zm_lynxmetal_v21
-- [ ] zm_mario3_v3_finals
-- [ ] zm_miniature_room_csgo
-- [ ] zm_mirage_13
-- [ ] zm_moon_roflicious_06_pf
-- [ ] zm_muhosransk_reborn_v3_r2
-- [ ] zm_neonnight_h
-- [ ] zm_nm_town_karp
-- [ ] zm_nomercy_airport_sv
-- [ ] zm_nukepanic_beta
-- [ ] zm_object_12_v2
-- [ ] zm_playtime_v2
-- [ ] zm_roadside_hotel_v1_3
-- [ ] zm_sandtower_v3
-- [ ] zm_school_hdr_v5
-- [ ] zm_stab_town_final
-- [ ] zm_stormy_days
-- [ ] zm_survival_camp_v7
-- [ ] zm_templeofdoom_zn
-- [ ] zm_titanic_survival_2
-- [ ] zm_town_massacre_b2
-- [ ] zm_tx_highschool_zn7
-- [ ] zm_underground_facility_v1_3_2
-- [ ] zm_uprugiy_xep_v26
-- [ ] zm_villa_lempiicka
-- [ ] zm_westwood_final
+- :x: zm_legendary_house_final_r2
+- :x: zm_lynxmetal_v21
+- :x: zm_mario3_v3_finals
+- :x: zm_miniature_room_csgo
+- :x: zm_mirage_13
+- :x: zm_moon_roflicious_06_pf
+- :x: zm_muhosransk_reborn_v3_r2
+- :x: zm_neonnight_h
+- :x: zm_nm_town_karp
+- :x: zm_nomercy_airport_sv
+- :x: zm_nukepanic_beta
+- :x: zm_object_12_v2
+- :x: zm_playtime_v2
+- :x: zm_roadside_hotel_v1_3
+- :x: zm_sandtower_v3
+- :x: zm_school_hdr_v5
+- :x: zm_stab_town_final
+- :x: zm_stormy_days
+- :x: zm_survival_camp_v7
+- :x: zm_templeofdoom_zn
+- :x: zm_titanic_survival_2
+- :x: zm_town_massacre_b2
+- :x: zm_tx_highschool_zn7
+- :x: zm_underground_facility_v1_3_2
+- :x: zm_uprugiy_xep_v26
+- :x: zm_villa_lempiicka
+- :x: zm_westwood_final
 - :white_check_mark: zm_xmen_mansion
