@@ -61,3 +61,6 @@ Hello to whoever is reading this. Same as BossHud, this is just a documentation 
 - 1.4.3 (koen)
     - Added one new cvar for controlling whether if players in the steam group can give themselves leader or not
     - Fix a logic error in `sm_leader` command callback that allowed anyone to give themselves leader
+- 1.4.4 (Detroid/koen)
+    - Fix SteamWorks integration conflicting with SWGM, a weird functionality of steamworks that made any client joining the server to be marked as true when verifying their steam group status
+    - Removed human checks for `sm_lsay` so messages now show up for everyone instead. This will fix the exception reports when checking if client is human and also improve plugin efficiency when sending messages
