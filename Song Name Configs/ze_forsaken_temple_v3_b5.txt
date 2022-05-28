@@ -1,0 +1,13 @@
+forsaken_temple/music/stage1_forgotten_by_the_sun.mp3||Final Fantasy XIV OST - Forgotten By The Sun
+forsaken_temple/music/stage1_footsteps_in_the_snow.mp3||Final Fantasy XIV OST - Footsteps In The Snow
+forsaken_temple/music/stage1_stone_and_steel.mp3||Final Fantasy XIV OST - Stone And Steel
+forsaken_temple/music/stage2_unbreakable.mp3||Final Fantasy XIV OST - Unbreakable
+forsaken_temple/music/stage2_fiend.mp3||Final Fantasy XIV OST - Fiend
+forsaken_temple/music/stage2_scale_and_steel.mp3||Final Fantasy XIV OST - Scale And Steel
+forsaken_temple/music/stage2_under_the_weight.mp3||Final Fantasy XIV OST - Under The Weight
+forsaken_temple/music/stage3_at_both_ends.mp3||Final Fantasy XIV OST - At Both Ends (Susano Phase 3)
+forsaken_temple/music/stage3_eden4.mp3||Final Fantasy XIV OST - Landslide
+forsaken_temple/music/stage3_eden4_end.mp3||Final Fantasy XIV OST - Landslide (End)
+forsaken_temple/music/stage3_shb_boss.mp3||Final Fantasy XIV OST - Insatiable
+forsaken_temple/music/stage3_shb_story.mp3||Final Fantasy XIV OST - High Treason
+forsaken_temple/music/zm_hesitation_snow.mp3||fripSide - Hesitation Snow

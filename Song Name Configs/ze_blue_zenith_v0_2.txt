@@ -1,0 +1,5 @@
+music/Blue_zenith/Blue_Zenith.mp3||xi - Blue Zenith
+music/Blue_zenith/Breaktrough_Atmosphere.mp3||xi - Breakthrough Atmosphere
+music/Blue_zenith/Lurie.mp3||Rigel Theatre - Lurie
+music/Blue_zenith/Monolith_of_Monologue.mp3||Sakuzyo - Monolith of Monologue
+music/Blue_zenith/Rendevouz.mp3||Taishi - Encounter Like A Rendezvous 

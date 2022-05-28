@@ -1,0 +1,6 @@
+music/1.mp3||Audiomachine - Legends Of Victory
+music/2.mp3||Transformers 3 - Dark side of the moon
+music/3.mp3||Audiomachine - Legions Of Doom
+music/4.mp3||Audiomachine - Those Without Fear
+music/5.mp3||Grand Battle - GRV Music
+music/6.mp3||Grand Battle - GRV Music

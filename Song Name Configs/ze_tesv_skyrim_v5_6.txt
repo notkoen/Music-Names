@@ -1,0 +1,17 @@
+music/skyrim/Ancient_Stones2.mp3||Skyrim OST - Ancient Stones
+music/skyrim/Audiomachine_Warlords||Audiomachine - Warlords
+music/skyrim/lopp1.mp3||Two Steps From Hell - Dark Ages
+music/skyrim/lopp2.mp3||Two Steps From Hell - Dark Ages
+music/skyrim/mus_combat_01.mp3||Skyrim OST - Tooth and Claw
+music/skyrim/mus_combat_02.mp3||Skyrim OST - Steel on Steel
+music/skyrim/mus_combat_06.mp3||Skyrim OST - Death or Sovngarde
+music/skyrim/mus_combat_boss_02.mp3||Skyrim OST - One They Fear
+music/skyrim/mus_combat_boss_03.mp3||Skyrim OST - Watch the Skies
+music/skyrim/mus_town_day_01_loud.mp3||Skyrim OST - The City Gates
+music/skyrim/mus_town_day_02.mp3||Skyrim OST - From Past to Present
+music/skyrim/Skyrim_OST Silence_Unbroken2.mp3||Skyrim OST - Silence Unbroken
+music/skyrim/Two_staps_from_Hell___Protectors_of_the_World.mp3||Two Steps From Hell - Protectors of the Earth
+music/skyrim/Two_Steps_from_Hell___Black_Blade.mp3||Two Steps From Hell - Black Blade
+music/skyrim/Two_Steps_From_Hell___The_Last_Stand__Archangel___Epic_Action.mp3||Two Steps From Hell - The Last Stand (Archangel - Epic Action)
+music/skyrim/Two_Steps_From_Hell__Dark_Harbor.mp3||Two Steps From Hell - Dark Harbor (Archangel)
+music/skyrim/Unbroken_Road2.mp3||Skyrim OST - Unbroken Road

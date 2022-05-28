@@ -1,0 +1,12 @@
+ze_robs/l1_sound1.mp3||World of Warships OST - The Expentance
+ze_robs/l1_sound2.mp3||void (Mournfinale) - Lagoon Romance
+ze_robs/l1_sound3.mp3||a_hisa - Agaliarept
+ze_robs/l2_boss_sound.mp3||Touhou 17 OST - Joutounin of Ceramics
+ze_robs/l2_sound1.mp3||ZUN - 明日ハレの日、ケの昨日
+ze_robs/l3_boss_sound.mp3||Pokémon Black and White OST - Battle! (Reshiram/Zekrom)
+ze_robs/l3_final_sound.mp3||Two Steps From Hell - To Glory
+ze_robs/l3_sound1.mp3||Michael Calfan - Resurrection (Axwell's Recut Radio Edit)
+ze_robs/l3_sound2.mp3||void (Mournfinale) - World Vanquisher 
+ze_robs/l4_boss_sound.mp3||Final Fantasy X HD Remaster OST - Battle Theme
+ze_robs/l4_sound1.mp3||Sen no Kiseki III OST (Second Volume) - Spiral of Erebos
+ze_robs/l4_soundf.mp3||Xenoblade OST - Mechanical Rhythm
