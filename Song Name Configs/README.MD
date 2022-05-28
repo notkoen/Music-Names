@@ -18,27 +18,27 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] mg_tower_defense_source_csgo3
 - [ ] mg_twisted_towers_course_hdr
 - [ ] ze_20_seconds_v6
-- [:white_check_mark:] ze_2012_p3
+:white_check_mark:ze_2012_p3
 - [ ] ze_2021_xmas_world_r
 - [ ] ze_2554_v2
 - [ ] ze_30_seconds__b21_p2
-- [:white_check_mark:] ze_666_crazy_escape_v2_4
+:white_check_mark:ze_666_crazy_escape_v2_4
 - [ ] ze_8bit_csgo2_fix
-- [:white_check_mark:] ze_A_E_S_T_H_E_T_I_C_v1_1
+:white_check_mark:ze_A_E_S_T_H_E_T_I_C_v1_1
 - [ ] ze_abandoned_industry_va2
 - [ ] ze_abandoned_project_v1_2_csgo
-- [:white_check_mark:] ze_aepp_nano_grid2_v1h
+:white_check_mark:ze_aepp_nano_grid2_v1h
 - [ ] ze_alchemy_b7
 - [ ] ze_alien_mountain_escape_q2
-- [:white_check_mark:] ze_alien_shooter_gp1_3
+:white_check_mark:ze_alien_shooter_gp1_3
 - [ ] ze_alien_vs_predator_v6go_fix
 - [ ] ze_alive_hardwired_v3
-- [:white_check_mark:] ze_amalgamation_v1_1
-- [:white_check_mark:] ze_ancient_wrath_v2_test27_cm1
-- [:white_check_mark:] ze_angelbeats_guild_a1_fix2
+:white_check_mark:ze_amalgamation_v1_1
+:white_check_mark:ze_ancient_wrath_v2_test27_cm1
+:white_check_mark:ze_angelbeats_guild_a1_fix2
 - [ ] ze_anzalone_v3_fix
 - [ ] ze_aooka_v2_8_a
-- [:white_check_mark:] ze_Aooka_v3_t6
+:white_check_mark:ze_Aooka_v3_t6
 - [ ] ze_aot_trost_v6_1
 - [ ] ze_aperturescience_p2
 - [ ] ze_apocatastasis_v1_2
@@ -46,19 +46,19 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_arcade_parade_b6
 - [ ] ze_arctic_escape_p2
 - [ ] ze_artika_base_v1_4
-- [:white_check_mark:] ze_ashen_keep_p
-- [:white_check_mark:] ze_asiangirl_mm11el4nu4cp2io1yv7_r_v7
-- [:white_check_mark:] ze_astral_v2_1_fix
+:white_check_mark:ze_ashen_keep_p
+:white_check_mark:ze_asiangirl_mm11el4nu4cp2io1yv7_r_v7
+:white_check_mark:ze_astral_v2_1_fix
 - [ ] ze_atix_apocalypse_p3
 - [ ] ze_ATIX_panic_b3t_p
 - [ ] ze_atix_panic_v1
 - [ ] ze_atos_v2_3
 - [ ] ze_attackontitan_trotster_v1_2
-- [:white_check_mark:] ze_Apollo_p2
-- [:white_check_mark:] ze_aurora_tower_v5
-- [:white_check_mark:] ze_aurora_tower_v6_6
+:white_check_mark:ze_Apollo_p2
+:white_check_mark:ze_aurora_tower_v5
+:white_check_mark:ze_aurora_tower_v6_6
 - [ ] ze_avalanche_reboot_beta7_p2
-- [:white_check_mark:] ze_aware_v1_2a
+:white_check_mark:ze_aware_v1_2a
 - [ ] ze_azathoth_v1_1
 - [ ] ze_aztec_temple_p
 - [ ] ze_aztecnoob_p2
@@ -66,47 +66,47 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_babylon_v2
 - [ ] ze_backrooms_p3
 - [ ] ze_barrage_p2
-- [:white_check_mark:] ze_Bathroom_v2_5
-- [:white_check_mark:] ze_best_korea_v1
+:white_check_mark:ze_Bathroom_v2_5
+:white_check_mark:ze_best_korea_v1
 - [ ] ze_beyond_the_boundary_v1_5
 - [ ] ze_binary_z4_1
 - [ ] ze_bigfoot_escapeica_v3_4
 - [ ] ze_biohazard2_rpd_004_p3_fix2
-- [:white_check_mark:] ze_biohazard2_sewer_004_p8
-- [:white_check_mark:] ze_biohazard3_nemesis_b5_2
-- [:white_check_mark:] ze_biohazard_manor_004_p4
-- [:white_check_mark:] ze_bioshock_v6_2_csgo7
-- [:white_check_mark:] ze_bisounours_party_p2
+:white_check_mark:ze_biohazard2_sewer_004_p8
+:white_check_mark:ze_biohazard3_nemesis_b5_2
+:white_check_mark:ze_biohazard_manor_004_p4
+:white_check_mark:ze_bioshock_v6_2_csgo7
+:white_check_mark:ze_bisounours_party_p2
 - [ ] ze_blackmesa_remix_p2
-- [:white_check_mark:] ze_blue_magic_castle_v3_1
-- [:white_check_mark:] ze_blue_zenith_v0_2
+:white_check_mark:ze_blue_magic_castle_v3_1
+:white_check_mark:ze_blue_zenith_v0_2
 - [ ] ze_boacceho_p4
 - [ ] ze_boatescape_extendido_p4
 - [ ] ze_boatescape101_p
-- [:white_check_mark:] ze_Boatescape111_v1_1f
-- [:white_check_mark:] ze_boatescape999_v5
-- [:white_check_mark:] ze_bowser_in_the_fire_sea_v1e_rs2
-- [:white_check_mark:] ze_boredom_p
+:white_check_mark:ze_Boatescape111_v1_1f
+:white_check_mark:ze_boatescape999_v5
+:white_check_mark:ze_bowser_in_the_fire_sea_v1e_rs2
+:white_check_mark:ze_boredom_p
 - [ ] ze_bp-infested-prison_p2
-- [:white_check_mark:] ze_Breakable_p3
-- [:white_check_mark:] ze_breezy_v4
+:white_check_mark:ze_Breakable_p3
+:white_check_mark:ze_breezy_v4
 - [ ] ze_bulhufas_a1_1
 - [ ] ze_bunkerino_v1_3_3_final
 - [ ] ze_candy_star_a3
-- [:white_check_mark:] ze_castle_bridge_v1_4
-- [:white_check_mark:] ze_castle_of_the_bladekeeper_t2
+:white_check_mark:ze_castle_bridge_v1_4
+:white_check_mark:ze_castle_of_the_bladekeeper_t2
 - [ ] ze_castlevania_64_v1_3_b9_go
-- [:white_check_mark:] ze_castlevania_p1_7
+:white_check_mark:ze_castlevania_p1_7
 - [ ] ze_ccc_ffvii_alien_reactor
 - [ ] ze_ccc_floator_mislands_timantetrix_v2
 - [ ] ze_ccc_toastersand_v2
 - [ ] ze_chaos_v7_7
-- [:white_check_mark:] ze_check_b1_1f
+:white_check_mark:ze_check_b1_1f
 - [ ] ze_chemical_weapons_depot_v3_1
 - [ ] ze_Chicken_Lords_Tower_ig1
 - [ ] ze_chicken_ranch_v2_2
-- [:white_check_mark:] ze_christmas_infection_p2
-- [:white_check_mark:] ze_chroma_v0_4_csgo5
+:white_check_mark:ze_christmas_infection_p2
+:white_check_mark:ze_chroma_v0_4_csgo5
 - [ ] ze_chronus_a1
 - [ ] ze_clockwork_v1d1
 - [ ] ze_codevein_v1_cm4
@@ -114,30 +114,30 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_colors_p3
 - [ ] ze_colourslide_v2_2
 - [ ] ze_complex_va3
-- [:white_check_mark:] ze_conflict_v4_4
+:white_check_mark:ze_conflict_v4_4
 - [ ] ze_contradiction_spiral_a2_2
-- [:white_check_mark:] ze_copy_escape_v2_3
+:white_check_mark:ze_copy_escape_v2_3
 - [ ] ze_COASTALCITY_b9
-- [:white_check_mark:] ze_core_v2b
+:white_check_mark:ze_core_v2b
 - [ ] ze_corrupted_bridge_b1_3
 - [ ] ze_covid_1984_v2_1
 - [ ] ze_crashbandicoot_p3
-- [:white_check_mark:] ze_crazy_escape_v5_5_1
+:white_check_mark:ze_crazy_escape_v5_5_1
 - [ ] ze_crazykart_v4
 - [ ] ze_crypt_v1_4
-- [:white_check_mark:] ze_cursed_bear_tales_v1_2
+:white_check_mark:ze_cursed_bear_tales_v1_2
 - [ ] ze_cursed_ruins_gf1_1
 - [ ] ze_CV_LOSII_Castle_Siege_b4
 - [ ] ze_CYBERDERP_p3_KIA
-- [:white_check_mark:] ze_cyberia_v1
+:white_check_mark:ze_cyberia_v1
 - [ ] ze_cyberpunk_x_a07
-- [:white_check_mark:] ze_dangerous_waters_v2_final
-- [:white_check_mark:] ze_dangerous_waters_xmas_v2_4
+:white_check_mark:ze_dangerous_waters_v2_final
+:white_check_mark:ze_dangerous_waters_xmas_v2_4
 - [ ] ze_danmaku_v1_5
 - [ ] ze_dark_catharsis_v1_2
 - [ ] ze_dark_souls_ptd_csgo2
 - [ ] ze_Dead_Planet_Escape_b10
-- [:white_check_mark:] ze_deadcore_s7f2
+:white_check_mark:ze_deadcore_s7f2
 - [ ] ze_deadcore_v1_3
 - [ ] ze_deadcore_v1_3_f
 - [ ] ze_deadly_crash_a2
@@ -148,24 +148,24 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_Deathinvain_Palace_v2
 - [ ] ze_deep_dream_v1_2
 - [ ] ze_deepice_p3
-- [:white_check_mark:] ze_defense3003
+:white_check_mark:ze_defense3003
 - [ ] ze_descent_into_cerberon_v1
 - [ ] ze_desert_fox_v7_6f
-- [:white_check_mark:] ze_Desperate_Soul_a9
+:white_check_mark:ze_Desperate_Soul_a9
 - [ ] ze_destruction_of_exorath_v4_lite
 - [ ] ze_dev_r4a_csgo4
 - [ ] ze_dev_reprise_v1_0
 - [ ] ze_diamond_cube_v1
-- [:white_check_mark:] ze_diddle_v3
-- [:white_check_mark:] ze_djinn_go1
-- [:white_check_mark:] ze_doom3_v2
+:white_check_mark:ze_diddle_v3
+:white_check_mark:ze_djinn_go1
+:white_check_mark:ze_doom3_v2
 - [ ] ze_doom_p2
 - [ ] ze_draco_accidere_v4_final
-- [:white_check_mark:] ze_dreamin_v3_3
+:white_check_mark:ze_dreamin_v3_3
 - [ ] ze_dungeon_of_ignorance_a1_2
 - [ ] ze_dust_escape_p3
 - [ ] ze_easy_escape_r
-- [:white_check_mark:] ze_eden_a3
+:white_check_mark:ze_eden_a3
 - [ ] ze_elevator_escape_p3
 - [ ] ze_egyptian_b5
 - [ ] ze_einstein_v7
@@ -178,22 +178,22 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_escape_stroggos_p2
 - [ ] ze_escape_the_eye_remix_pm1
 - [ ] ze_escapetheworld_a33
-- [:white_check_mark:] ze_eschaton_a3_1
+:white_check_mark:ze_eschaton_a3_1
 - [ ] ze_eternal_grove_v3
 - [ ] ze_eternal_journey_go_v1_4t11
 - [ ] ze_eternal_void_p3
-- [:white_check_mark:] ze_evernight_a3_4
+:white_check_mark:ze_evernight_a3_4
 - [ ] ze_evil_mansion_v1_finalf
 - [ ] ze_exchange_innovation_v1b
 - [ ] ze_fapescape_p5
 - [ ] ze_fapescape_rote_v1_3
 - [ ] ze_farmhouse_v9f2
 - [ ] ze_fartlocker_escape_v3
-- [:white_check_mark:] ze_fast_escape_p2
+:white_check_mark:ze_fast_escape_p2
 - [ ] ze_fe8_sacred_stones_v1_4
 - [ ] ze_ffuxx_demon_naramina_a2
 - [ ] ze_ffvii_cosmo_canyon_v4fix_ps5
-- [:white_check_mark:] ze_ffvii_cosmo_canyon_v5k_fix
+:white_check_mark:ze_ffvii_cosmo_canyon_v5k_fix
 - [ ] ze_ffvii_cosmo_canyon_v6test4
 - [ ] ze_ffvii_mako_reactor_v5_3_v5
 - [ ] f1g_3_b5v_rotcaer_okam_iivff_ez
@@ -203,26 +203,26 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_ffxii_feywood_b6_3k
 - [ ] ze_ffxii_moko_temple_v1_1_p2
 - [ ] ze_FFXII_Mt_Bur_Omisace_v4c7
-- [:white_check_mark:] ze_FFXII_Mt_Bur_Omisace_v5_4fix4
-- [:white_check_mark:] ze_FFXII_Paramina_Rift_r4
+:white_check_mark:ze_FFXII_Mt_Bur_Omisace_v5_4fix4
+:white_check_mark:ze_FFXII_Paramina_Rift_r4
 - [ ] ze_ffxii_ridorana_cataract_t5_3_w6
-- [:white_check_mark:] ze_FFXII_Salikawood_v1_6f
-- [:white_check_mark:] ze_FFXII_Westersand_v7_z9
-- [:white_check_mark:] ze_ffxii_westersand_v8zeta1_b5k
+:white_check_mark:ze_FFXII_Salikawood_v1_6f
+:white_check_mark:ze_FFXII_Westersand_v7_z9
+:white_check_mark:ze_ffxii_westersand_v8zeta1_b5k
 - [ ] ze_ffxiv_coil_of_bahamut_v4_4
-- [:white_check_mark:] ze_FFXIV_Pharos_Sirius_v1_6
+:white_check_mark:ze_FFXIV_Pharos_Sirius_v1_6
 - [ ] ze_ffxiv_wanderers_palace_v2_va2
 - [ ] ze_ffxiv_wanderers_palace_v4_va2
-- [:white_check_mark:] ze_FFXIV_Wanderers_Palace_v5_2
-- [:white_check_mark:] ze_FFXIV_Wanderers_Palace_v6
+:white_check_mark:ze_FFXIV_Wanderers_Palace_v5_2
+:white_check_mark:ze_FFXIV_Wanderers_Palace_v6
 - [ ] ze_fire_temple_v2_4
 - [ ] ze_firewall_laboratory_part1_p2
 - [ ] ze_firewall_laboratory_part2_p2
 - [ ] ze_flex_b4
 - [ ] ze_flower_a1_2
 - [ ] ze_flowering_b10
-- [:white_check_mark:] ze_flying_world_p
-- [:white_check_mark:] ze_fond_dream_h4
+:white_check_mark:ze_flying_world_p
+:white_check_mark:ze_fond_dream_h4
 - [ ] ze_forbidden_repository_a1_4
 - [ ] ze_foreign_sand_mix_v2_fix
 - [ ] ze_forest_r_v1
@@ -231,27 +231,27 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_forgotten_facility_p3
 - [ ] ze_forhidden_slicoo_v5
 - [ ] ze_FORiUS_just_RUN_p2
-- [:white_check_mark:] ze_forsaken_temple_v3_b5
+:white_check_mark:ze_forsaken_temple_v3_b5
 - [ ] ze_freespace_ultimate_b4
 - [ ] ze_frostdrake_tower_v1
-- [:white_check_mark:] ze_frozen_abyss_v1_2
-- [:white_check_mark:] ze_frozentemple_rc1_1
+:white_check_mark:ze_frozen_abyss_v1_2
+:white_check_mark:ze_frozentemple_rc1_1
 - [ ] ze_funny_runner_v3_1
 - [ ] ze_games_v2_1
 - [ ] ze_genso_of_last_v3_4_t1
-- [:white_check_mark:] ze_geometric_v1_4
-- [:white_check_mark:] ze_give_it_a_name_test4
+:white_check_mark:ze_geometric_v1_4
+:white_check_mark:ze_give_it_a_name_test4
 - [ ] ze_gods_wrath_p2
 - [ ] ze_golubenkaya_meow_v1_2
 - [ ] ze_got_the_north_csgo3
 - [ ] ze_grand_boatescape_p3
-- [:white_check_mark:] ze_grau_a03_4ff
+:white_check_mark:ze_grau_a03_4ff
 - [ ] ze_greece_escape_p
 - [ ] ze_greencity_fix
 - [ ] ze_grey_world_v1
 - [ ] ze_gris_a4_9_8
-- [:white_check_mark:] ze_gris_v1_13
-- [:white_check_mark:] ze_halloween_house_b4
+:white_check_mark:ze_gris_v1_13
+:white_check_mark:ze_halloween_house_b4
 - [ ] ze_halloween_mystery_v1
 - [ ] ze_halo_p3
 - [ ] ze_halo_poa_p4
@@ -265,12 +265,12 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_hive_complex_v1_2_1
 - [ ] ze_hobbit_escape_b2
 - [ ] ze_hold_em_v8
-- [:white_check_mark:] ze_honkai_impact_3rd_babel_v1_55
-- [:white_check_mark:] ze_honkai_impact_3rd_cyberpunk_cityv26_6
+:white_check_mark:ze_honkai_impact_3rd_babel_v1_55
+:white_check_mark:ze_honkai_impact_3rd_cyberpunk_cityv26_6
 - [ ] ze_honkai_nagazoracity_beta_4
 - [ ] ze_horizon_sky_escape_v2
-- [:white_check_mark:] ze_hsc_a4_q3
-- [:white_check_mark:] ze_hydroponic_garden_v1_1
+:white_check_mark:ze_hsc_a4_q3
+:white_check_mark:ze_hydroponic_garden_v1_1
 - [ ] ze_hypernova_p2
 - [ ] ze_iamlegend_p3
 - [ ] ze_ice_cavern_va4
@@ -279,10 +279,10 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_iceland_escape_v1_2
 - [ ] ze_iceworld_athletic_b4_5
 - [ ] ze_illusory_world_v4_5
-- [:white_check_mark:] ze_illya_b4_csgo_a3
+:white_check_mark:ze_illya_b4_csgo_a3
 - [ ] ze_inboxed_final_fix
 - [ ] ze_in_a_dream_oh1tn6_v1_2
-- [:white_check_mark:] ze_indiana_jones_v4a_004_p4
+:white_check_mark:ze_indiana_jones_v4a_004_p4
 - [ ] ze_industrial_dejavu_p3
 - [ ] ze_infected_sewers_csgo
 - [ ] ze_infected_tramway_csgo1
@@ -294,12 +294,12 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_isla_nublar_p3
 - [ ] ze_island_escape_p3
 - [ ] ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3
-- [:white_check_mark:] ze_italy_town_p2
+:white_check_mark:ze_italy_town_p2
 - [ ] ze_jamais_vu_b2
-- [:white_check_mark:] ze_jerry_malaka_escape_v2fix
-- [:white_check_mark:] ze_jiangnan_town_v3
+:white_check_mark:ze_jerry_malaka_escape_v2fix
+:white_check_mark:ze_jiangnan_town_v3
 - [ ] ze_jiba_journey_v4_3
-- [:white_check_mark:] ze_jjba_v7
+:white_check_mark:ze_jjba_v7
 - [ ] ze_johnny_nukem_go_b8_3a
 - [ ] ze_journey_p2
 - [ ] ze_jurassicPark_Escape_p2
@@ -307,7 +307,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_K19_escape_go1
 - [ ] ze_kaffe_escape_v2
 - [ ] ze_kage_a3
-- [:white_check_mark:] ze_Kitchen_v2
+:white_check_mark:ze_Kitchen_v2
 - [ ] ze_Knife_Stray_v3
 - [ ] ze_komatsu_v3
 - [ ] ze_kororinpa_v2_2
@@ -317,16 +317,16 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_l0v0l_v1_4_csgo2
 - [ ] ze_l4d2_c1m3_mall_csgo_v0_3_le
 - [ ] ze_laser_island_b6_8
-- [:white_check_mark:] ze_last_man_standing_csgo3
-- [:white_check_mark:] ze_last_man_standing_h2
-- [:white_check_mark:] ze_Last_Man_Standing_v6_T3
+:white_check_mark:ze_last_man_standing_csgo3
+:white_check_mark:ze_last_man_standing_h2
+:white_check_mark:ze_Last_Man_Standing_v6_T3
 - [ ] ze_legends_of_dawn_v1_6
 - [ ] ze_legoland_crackheads_p2
 - [ ] ze_lemonysnickets_p2
 - [ ] ze_licciana_escape_p
 - [ ] ze_licciana_escape_zrgbr_b3
-- [:white_check_mark:] ze_light_retribution_v1_k2
-- [:white_check_mark:] ze_light_shadow_L1_4
+:white_check_mark:ze_light_retribution_v1_k2
+:white_check_mark:ze_light_shadow_L1_4
 - [ ] ze_light_v7_csgo_tk13_v5_2fix
 - [ ] ze_lightnight_v1_4fix_hdr
 - [ ] ze_lila_panic_escape_v3_3
@@ -335,17 +335,17 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_LOTR_Helms_Deep_v5_p6
 - [ ] ze_lotr_isengard_csgo1
 - [ ] ze_LOTR_Laketown_v3_3
-- [:white_check_mark:] ze_LOTR_Minas_TIret_p2
-- [:white_check_mark:] ze_lotr_minas_tirith_p5
-- [:white_check_mark:] ze_LOTR_Mines_of_Moria_p2
+:white_check_mark:ze_LOTR_Minas_TIret_p2
+:white_check_mark:ze_lotr_minas_tirith_p5
+:white_check_mark:ze_LOTR_Mines_of_Moria_p2
 - [ ] ze_LOTR_Mirkwood_v2_5
 - [ ] ze_LOTR_Mount_Doom_p3
 - [ ] ze_luciddreams_f5_7
 - [ ] ze_luciddreams_v3_82x
 - [ ] ze_luck_matters_v3x
-- [:white_check_mark:] ze_lucy_escape_v1
+:white_check_mark:ze_lucy_escape_v1
 - [ ] ze_LuigisMansion_p3
-- [:white_check_mark:] ze_lux_umbra_v1
+:white_check_mark:ze_lux_umbra_v1
 - [ ] ze_m0w0m_csgo1
 - [ ] ze_m_the_final_v1_4
 - [ ] ze_mabinogi_f4_1
@@ -357,47 +357,47 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_mapeadores_museum_v1
 - [ ] ze_mario_tower_v4_p2
 - [ ] ze_mars_escape_gp3
-- [:white_check_mark:] ze_meatropolis_p2
+:white_check_mark:ze_meatropolis_p2
 - [ ] ze_melong_dow_learjet_gp1
 - [ ] ze_mgden_v2_5fix
 - [ ] ze_military_escape_p4
 - [ ] ze_MindTree_v1_6
-- [:white_check_mark:] ze_minecraft_adventure_v1_3d
+:white_check_mark:ze_minecraft_adventure_v1_3d
 - [ ] ze_minecraft_minigames_v7
-- [:white_check_mark:] ze_minecraft_universe_v1_5
-- [:white_check_mark:] ze_minecraft_v1_1_p3
-- [:white_check_mark:] ze_minimal_csgo
-- [:white_check_mark:] ze_Mirrors_Edge_Reborn_p3
+:white_check_mark:ze_minecraft_universe_v1_5
+:white_check_mark:ze_minecraft_v1_1_p3
+:white_check_mark:ze_minimal_csgo
+:white_check_mark:ze_Mirrors_Edge_Reborn_p3
 - [ ] ze_misaka2_v1_3
-- [:white_check_mark:] ze_misaka_v1ff
-- [:white_check_mark:] ze_mist_q3
+:white_check_mark:ze_misaka_v1ff
+:white_check_mark:ze_mist_q3
 - [ ] ze_Mixture_3de_v1f2_g1t
 - [ ] ze_mlgsurf_v1_3_4
 - [ ] ze_mochi_island_f6
 - [ ] ze_mojos_minigames_v1_4_1
-- [:white_check_mark:] ze_moltentemple_csgo1
+:white_check_mark:ze_moltentemple_csgo1
 - [ ] ze_monochrome_v1f
 - [ ] ze_monolith_csgo
 - [ ] ze_moon_base_p3
 - [ ] ze_motanuminc_p2
 - [ ] ze_mountain_escape_csgo2
 - [ ] ze_mountain_escape_snow_v7
-- [:white_check_mark:] ze_naiads_v4a_6f
+:white_check_mark:ze_naiads_v4a_6f
 - [ ] ze_nameless_necropolis_v3
 - [ ] ze_namviet_gf1_1
 - [ ] ze_Naruto_p
-- [:white_check_mark:] ze_natural_v1_4
+:white_check_mark:ze_natural_v1_4
 - [ ] ze_necromanteion_v3_1
-- [:white_check_mark:] ze_negative_legacy_va2
+:white_check_mark:ze_negative_legacy_va2
 - [ ] ze_neko_canyon_p3
-- [:white_check_mark:] ze_neochrome_csgo3a
+:white_check_mark:ze_neochrome_csgo3a
 - [ ] ze_new_crazy_escape_v4_1
-- [:white_check_mark:] ze_nibui_m
+:white_check_mark:ze_nibui_m
 - [ ] ze_nightmare_dimension_p3
 - [ ] ze_no_name_v1_6
 - [ ] ze_no_title_v2_5
 - [ ] ze_noir_p
-- [:white_check_mark:] ze_nomada_h3
+:white_check_mark:ze_nomada_h3
 - [ ] ze_noob_too_easy_v1_2_2
 - [ ] ze_noob_too_easy_v3_2fix
 - [ ] ze_nora_v1_11
@@ -410,13 +410,13 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_obj_npst_v2
 - [ ] ze_Obj_Rampage_v1_2
 - [ ] ze_ocean_base_escape_p2
-- [:white_check_mark:] ze_offliner_v2_csgo1
+:white_check_mark:ze_offliner_v2_csgo1
 - [ ] ze_omega_p3
 - [ ] ze_omen_090
 - [ ] ze_omochi_b10
-- [:white_check_mark:] ze_omochix_v3_2fix
+:white_check_mark:ze_omochix_v3_2fix
 - [ ] ze_onahole_v3_3_3
-- [:white_check_mark:] ze_oneiros_p
+:white_check_mark:ze_oneiros_p
 - [ ] ze_oot_shadowtemple_b10
 - [ ] ze_opti_variety_missions_p3
 - [ ] ze_otakuroom_v5_6_ps
@@ -431,14 +431,14 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_paradise_v2_csgo
 - [ ] ze_paranoid_rezurrection_csgo1
 - [ ] ze_parkers_pit_p
-- [:white_check_mark:] ze_Parking_p4
-- [:white_check_mark:] ze_PC_v1_2
-- [:white_check_mark:] ze_pd2_crime_art_v2
+:white_check_mark:ze_Parking_p4
+:white_check_mark:ze_PC_v1_2
+:white_check_mark:ze_pd2_crime_art_v2
 - [ ] ze_perplexity_v2
 - [ ] ze_peter_mansion_v1_p5
 - [ ] ze_phantasy_escape_p3
 - [ ] ze_Pidaras_va2
-- [:white_check_mark:] ze_pirates_port_royal_v5_6
+:white_check_mark:ze_pirates_port_royal_v5_6
 - [ ] ze_pitchblack_p2
 - [ ] ze_pizzatime_v9
 - [ ] ze_pkmn_adventure_v9_3
@@ -447,67 +447,67 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_Pokemon_Rivals_v1_8
 - [ ] ze_ponchermonkey_shooter_csgo1
 - [ ] ze_PoR_island_p3
-- [:white_check_mark:] ze_Portal_Story_p2
+:white_check_mark:ze_Portal_Story_p2
 - [ ] ze_postal_v1_1
 - [ ] ze_PotC_IV_p3
 - [ ] ze_PotC_p4
 - [ ] ze_Predator_Ultimate_p7
-- [:white_check_mark:] ze_project_alcaria_x2
+:white_check_mark:ze_project_alcaria_x2
 - [ ] ze_project_codex_a3_1
 - [ ] ze_prototype_p2
 - [ ] ze_puta_p3
 - [ ] ze_purgatorium_m
-- [:white_check_mark:] ze_qaz_defend_part2_ji1mm1_beta3
-- [:white_check_mark:] ze_R_W_B_ulti
-- [:white_check_mark:] ze_Rabanastre_Royal_t5
-- [:white_check_mark:] ze_raccoon_facility_v6b_p
+:white_check_mark:ze_qaz_defend_part2_ji1mm1_beta3
+:white_check_mark:ze_R_W_B_ulti
+:white_check_mark:ze_Rabanastre_Royal_t5
+:white_check_mark:ze_raccoon_facility_v6b_p
 - [ ] ze_rainbow_factory_v2
 - [ ] ze_raintime1_torontoisland_v5x
 - [ ] ze_raintime2_stormwindkeep_v3
 - [ ] ze_raintimex_code0_v6n
-- [:white_check_mark:] ze_ramp_a1_1
+:white_check_mark:ze_ramp_a1_1
 - [ ] ze_random_escape_gp5
 - [ ] ze_randomizer_c1
 - [ ] ze_Ratescape_v5_4
 - [ ] ze_rawnscape_csgo
 - [ ] ze_re_creation_v2_25
 - [ ] ze_re_surf_skyline_b0_11
-- [:white_check_mark:] ze_realm_f3
+:white_check_mark:ze_realm_f3
 - [ ] ze_reconnoiter_b5
 - [ ] ze_retribution_pf
 - [ ] ze_rev_a6_3
 - [ ] ze_Reverse_a03_f3
 - [ ] ze_rien_beta
 - [ ] ze_ripsuhdude_v1_6
-- [:white_check_mark:] ze_rizomata_va2
+:white_check_mark:ze_rizomata_va2
 - [ ] ze_rockescape_go2_1
 - [ ] ze_rollermine_factory_2010_p
 - [ ] ze_ronald_v2
-- [:white_check_mark:] ze_roof_adventure_v8f
+:white_check_mark:ze_roof_adventure_v8f
 - [ ] ze_roof_adventure_v9
 - [ ] ze_rooftop_madness_v1_9_csgo
 - [ ] ze_Rooftop_Runaway1_p
 - [ ] ze_rooftop_runaway2_p
-- [:white_check_mark:] ze_roscente_go1
+:white_check_mark:ze_roscente_go1
 - [ ] ze_RTCW_Ominous_Rumors_p4
 - [ ] ze_rtv_one_more
-- [:white_check_mark:] ze_ruin_of_black_stone_v1
+:white_check_mark:ze_ruin_of_black_stone_v1
 - [ ] ze_ruin_of_black_stone_v2
-- [:white_check_mark:] ze_rush_B_v2_2
-- [:white_check_mark:] ze_S_A_M_v1_7
+:white_check_mark:ze_rush_B_v2_2
+:white_check_mark:ze_S_A_M_v1_7
 - [ ] ze_sad_banana_b3
 - [ ] ze_sakuzyo_b2
 - [ ] ze_sam_hd_v1_fix
 - [ ] ze_sandstorm_go_v1_5x3
-- [:white_check_mark:] ze_santassination_v3
-- [:white_check_mark:] ze_saw_p3
+:white_check_mark:ze_santassination_v3
+:white_check_mark:ze_saw_p3
 - [ ] ze_sc_turtles_v5_p2
 - [ ] ze_schizophrenic_c3
 - [ ] ze_scp_containment_breach_v1_b02_cm4
 - [ ] ze_seano_see_2g5
-- [:white_check_mark:] ze_sele_a2_1
+:white_check_mark:ze_sele_a2_1
 - [ ] ze_serious_sam_tfe_v2_6
-- [:white_check_mark:] ze_serpentis_temple_csgo5
+:white_check_mark:ze_serpentis_temple_csgo5
 - [ ] ze_SEVIIEN_a1
 - [ ] ze_sewage_processing_v8
 - [ ] ze_sewer_escape_p3
@@ -519,23 +519,23 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_showdown_v4_1_p
 - [ ] ze_shrine_of_umos_b3
 - [ ] ze_shroomforest2_p6
-- [:white_check_mark:] ze_shroomforest3_p
+:white_check_mark:ze_shroomforest3_p
 - [ ] ze_shroomforest_p6
 - [ ] ze_siberia_1990_v1_2c_p5
-- [:white_check_mark:] ze_silent_hill_blackblood_f6
-- [:white_check_mark:] ze_silent_hill_2_illusion_b5
-- [:white_check_mark:] ze_silent_hill_3_dawn_v2
+:white_check_mark:ze_silent_hill_blackblood_f6
+:white_check_mark:ze_silent_hill_2_illusion_b5
+:white_check_mark:ze_silent_hill_3_dawn_v2
 - [ ] ze_silent_hill_3_flee_v4
-- [:white_check_mark:] ze_sit_caelum_paradisus_b7_hdr
+:white_check_mark:ze_sit_caelum_paradisus_b7_hdr
 - [ ] ze_skill_escape_v09
 - [ ] ze_sky_athletic_adv_v9_13
 - [ ] ze_sky_creamus_v2
-- [:white_check_mark:] ze_sky_fantasy_v1_6
+:white_check_mark:ze_sky_fantasy_v1_6
 - [ ] ze_sky_fantasy_v2_1
 - [ ] ze_sky_journey_v8
-- [:white_check_mark:] ze_skygarden_v2_1
+:white_check_mark:ze_skygarden_v2_1
 - [ ] ze_Skyscraper_city_r2
-- [:white_check_mark:] ze_slender_escape_rc2
+:white_check_mark:ze_slender_escape_rc2
 - [ ] ze_small_town_b1
 - [ ] ze_snowescape_gp1
 - [ ] ze_solgryn_v2
@@ -543,7 +543,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_space_flight_p3
 - [ ] ze_space_station_csgo
 - [ ] ze_spooktipo_a3
-- [:white_check_mark:] ze_squid_game_v1
+:white_check_mark:ze_squid_game_v1
 - [ ] ze_sst_b2_1_p5
 - [ ] ze_sst2_p
 - [ ] ze_Stalker_Ultimate_v2_3_gg
@@ -554,30 +554,30 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_starwars_v2fix_csgo3
 - [ ] ze_stilshrine_of_miriam_v7_2fix
 - [ ] ze_STRANGE_escape_p2
-- [:white_check_mark:] ze_suchirifu_v3_1
-- [:white_check_mark:] ze_SUMAI_facility_v1a
+:white_check_mark:ze_suchirifu_v3_1
+:white_check_mark:ze_SUMAI_facility_v1a
 - [ ] ze_sunkentemple_v3_1
-- [:white_check_mark:] ze_sunlight_p2
+:white_check_mark:ze_sunlight_p2
 - [ ] ze_supershitshow_a2
 - [ ] ze_surf_bona_v1_3
-- [:white_check_mark:] ze_surf_danger_p2
-- [:white_check_mark:] ze_surf_dark_fantasy_v2go2
+:white_check_mark:ze_surf_danger_p2
+:white_check_mark:ze_surf_dark_fantasy_v2go2
 - [ ] ze_surf_easy_v1_3
-- [:white_check_mark:] ze_surf_facility_p4
-- [:white_check_mark:] ze_surf_ffxiv_beachescape_camper_isengard_laser_mako
-- [:white_check_mark:] ze_surf_froyo_lite_v2_2
-- [:white_check_mark:] ze_surf_froyo_v2_2
+:white_check_mark:ze_surf_facility_p4
+:white_check_mark:ze_surf_ffxiv_beachescape_camper_isengard_laser_mako
+:white_check_mark:ze_surf_froyo_lite_v2_2
+:white_check_mark:ze_surf_froyo_v2_2
 - [ ] ze_surf_last_point_v1_3_1
 - [ ] ze_surf_gypt_v1_3_1f
 - [ ] ze_surf_happy_b7
-- [:white_check_mark:] ze_surf_inferno_v2_22
+:white_check_mark:ze_surf_inferno_v2_22
 - [ ] ze_surf_next_step_v1_4
 - [ ] ze_surf_outside_b1_10
-- [:white_check_mark:] ze_surf_sahok_p3
-- [:white_check_mark:] ze_surf_saltfish_csgo4
+:white_check_mark:ze_surf_sahok_p3
+:white_check_mark:ze_surf_saltfish_csgo4
 - [ ] ze_surf_shonyudo_v1_2_fix
 - [ ] ze_surf_shonyudo_v5_2
-- [:white_check_mark:] ze_surf_vortex_v2_6
+:white_check_mark:ze_surf_vortex_v2_6
 - [ ] ze_survivors_p2
 - [ ] ze_taboo_carnation_p2
 - [ ] ze_temple_escape_va3
@@ -585,8 +585,8 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_temple_of_the_demon_god_v2
 - [ ] ze_temple_raider_b4_ps6
 - [ ] ze_Temple_Run_v5
-- [:white_check_mark:] ze_tenkinoko_welkin_v1_6f
-- [:white_check_mark:] ze_tesv_skyrim_v5_6
+:white_check_mark:ze_tenkinoko_welkin_v1_6f
+:white_check_mark:ze_tesv_skyrim_v5_6
 - [ ] ze_texturescape_p2
 - [ ] ze_the_curse_of_blackwater_v6b
 - [ ] ze_the_end_v3f
@@ -595,22 +595,22 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_the_twilight_zone_v1
 - [ ] ze_thelostworld_redux_p2
 - [ ] ze_thousand_steps_go1
-- [:white_check_mark:] ze_three_eyes_v1_1
+:white_check_mark:ze_three_eyes_v1_1
 - [ ] ze_thriller_escape_p
 - [ ] ze_tibia_v4_2
 - [ ] ze_tilex_ultimate_v2_13_gf1_5
-- [:white_check_mark:] ze_timesink_v1_2
+:white_check_mark:ze_timesink_v1_2
 - [ ] ze_timesplitters_p2
 - [ ] ze_titanic_escape_v2_3_fix1
 - [ ] ze_tkara_v4_3
 - [ ] ze_tloz_stone_tower_temple_v1_4e
 - [ ] ze_toaster_p3
-- [:white_check_mark:] ze_totally_new_wester_w3
-- [:white_check_mark:] ze_Totemo_Roka_v1
-- [:white_check_mark:] ze_touhou_gensokyo_o4
+:white_check_mark:ze_totally_new_wester_w3
+:white_check_mark:ze_Totemo_Roka_v1
+:white_check_mark:ze_touhou_gensokyo_o4
 - [ ] ze_toy_world_final
-- [:white_check_mark:] ze_traak_b2
-- [:white_check_mark:] ze_tracing_that_dream_a2_2
+:white_check_mark:ze_traak_b2
+:white_check_mark:ze_tracing_that_dream_a2_2
 - [ ] ze_trainescape_final_p2
 - [ ] ze_trainstation_tunnels_p
 - [ ] ze_trials_v3_test
@@ -618,8 +618,8 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_turokbase_p3
 - [ ] ze_TV_station_r4
 - [ ] ze_tyranny2_v1_csgo2
-- [:white_check_mark:] ze_tyranny_v5_go3
-- [:white_check_mark:] ze_Uchiha_Legacy_cm2_fix
+:white_check_mark:ze_tyranny_v5_go3
+:white_check_mark:ze_Uchiha_Legacy_cm2_fix
 - [ ] ze_undercave_es_mi_v1_5
 - [ ] ze_underground_escape_p
 - [ ] ze_undersea_temple_a4_4
@@ -632,19 +632,19 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] ze_uyuni_v1_6
 - [ ] ze_v0u0v_csgo1
 - [ ] ze_valkvang_v1_2
-- [:white_check_mark:] ze_venice_escape_p3
+:white_check_mark:ze_venice_escape_p3
 - [ ] ze_vertigo_militia_b1_3_14
 - [ ] ze_vietnam_p3
-- [:white_check_mark:] ze_visualizer_v1_2
+:white_check_mark:ze_visualizer_v1_2
 - [ ] ze_volcano_escape_p2
 - [ ] ze_voodoo_islands_p5
 - [ ] ze_watagi_tunnel_v1_1
 - [ ] ze_water_temple_test_v4
 - [ ] ze_world_escapes_v1
 - [ ] ze_worlds_v1_2
-- [:white_check_mark:] ze_yueyingchuanshuo_10_8_f4
-- [:white_check_mark:] ze_yueyingchuanshuo_10_9_f3
-- [:white_check_mark:] ze_yurilnier_beta007_hdr
+:white_check_mark:ze_yueyingchuanshuo_10_8_f4
+:white_check_mark:ze_yueyingchuanshuo_10_9_f3
+:white_check_mark:ze_yurilnier_beta007_hdr
 - [ ] ze_zk_mall_of_zombies_p2
 - [ ] ze_zombiemod_corporation_p2
 - [ ] ze_zombierig_p3
@@ -652,14 +652,14 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] zm_16chambres_fix2
 - [ ] zm_assault16
 - [ ] zm_base_day
-- [:white_check_mark:] zm_black-gs_tower
+:white_check_mark:zm_black-gs_tower
 - [ ] zm_blockcity_v2
-- [:white_check_mark:] zm_broken_fort_revo_v1_4
-- [:white_check_mark:] zm_bullet_infected_fix2
+:white_check_mark:zm_broken_fort_revo_v1_4
+:white_check_mark:zm_bullet_infected_fix2
 - [ ] zm_camper_indian_csgo_refix
 - [ ] zm_catalyst_meow_v5
 - [ ] zm_chicken_factory
-- [:white_check_mark:] zm_day_lego_v2_x1
+:white_check_mark:zm_day_lego_v2_x1
 - [ ] zm_degrad_v2
 - [ ] zm_desperados_x2
 - [ ] zm_downtown_fixed
@@ -667,17 +667,17 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] zm_dusty_v1
 - [ ] zm_fear_office_zn7
 - [ ] zm_forgotten_dust
-- [:white_check_mark:] zm_freerun_tec_d1wfix
+:white_check_mark:zm_freerun_tec_d1wfix
 - [ ] zm_fubar_towers_csgo
 - [ ] zm_fun_park_remix_x1
-- [:white_check_mark:] zm_gethigh_420_v1_1
+:white_check_mark:zm_gethigh_420_v1_1
 - [ ] zm_glass_world_v3
 - [ ] zm_homebase_meow_v2
 - [ ] zm_industrial_rampage_csgo
 - [ ] zm_infernalist
-- [:white_check_mark:] zm_ingame_reborn_v2_fix
+:white_check_mark:zm_ingame_reborn_v2_fix
 - [ ] zm_komplex_final_row
-- [:white_check_mark:] zm_krusty_krab_a3_csgo
+:white_check_mark:zm_krusty_krab_a3_csgo
 - [ ] zm_legendary_house_final_r2
 - [ ] zm_lynxmetal_v21
 - [ ] zm_mario3_v3_finals
@@ -705,4 +705,4 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - [ ] zm_uprugiy_xep_v26
 - [ ] zm_villa_lempiicka
 - [ ] zm_westwood_final
-- [:white_check_mark:] zm_xmen_mansion
+:white_check_mark:zm_xmen_mansion
