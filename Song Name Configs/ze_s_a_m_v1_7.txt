@@ -20,3 +20,4 @@ music/sam/swordland.mp3||Yuki Kajiura - Swordland
 music/sam/tragedy.mp3||Hiroyuki Sawano - Tragedy
 music/sam/verdict_for_worst_dictator.mp3||void - Verdict for worst dictator
 music/sam/zm_bgm.mp3||Yousei Teikoku - Kuusou Mesorogiwi
+ze_sam/ultima.mp3||Yuki Kajiura - Sis Puella Magica!

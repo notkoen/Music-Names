@@ -1,0 +1,11 @@
+ze_genso_of_last/lvl1music_dust_to_dust.mp3||Final Fantasy XIII OST - Dust to Dust
+ze_genso_of_last/lvl2music_avaterost.mp3||BrunuhVille - The Realm of the Fallen King
+ze_genso_of_last/lvl2music_angelsanddemons.mp3||Audiomachine - Angels & Demons
+ze_genso_of_last/lvl3music_day_one.mp3||Twelve Titans Music - Day One
+ze_genso_of_last/lvl3music1_ice of_phoenix.mp3||Audiomachine - Ice of Phoenix
+ze_genso_of_last/lvl3music2_redrum.mp3||Immediate Music - Redrum
+ze_genso_of_last/lvl4music_destroyer_of worlds.mp3||Ninja Tracks - Destroy of Worlds
+ze_genso_of_last/lvl4music2_ancient_devil.mp3||C21 FX - Ancient Devil
+ze_genso_of_last/lvl4bossmusic_bipolar nightmarel.mp3||Keiichi Okabe - Bipolar Nightmare
+ze_genso_of_last/lvl4music_karakuri_doll.mp3||SOUND HOLIC - Karakuri Doll
+
