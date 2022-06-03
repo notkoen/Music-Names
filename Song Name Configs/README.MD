@@ -89,7 +89,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_boredom_p
 - :x: ze_bp-infested-prison_p2
 - :white_check_mark: ze_Breakable_p3
-- :white_check_mark: ze_breezy_v4
+- :white_check_mark: ze_breezy_v5
 - :x: ze_bulhufas_a1_1
 - :x: ze_bunkerino_v1_3_3_final
 - :x: ze_candy_star_a3
@@ -123,7 +123,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_covid_1984_v2_1
 - :x: ze_crashbandicoot_p3
 - :white_check_mark: ze_crazy_escape_v5_5_1
-- :x: ze_crazykart_v4
+- :white_check_mark: ze_crazykart_v4
 - :x: ze_crypt_v1_4
 - :white_check_mark: ze_cursed_bear_tales_v1_2
 - :x: ze_cursed_ruins_gf1_1
@@ -238,7 +238,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_frozentemple_rc1_1
 - :x: ze_funny_runner_v3_1
 - :x: ze_games_v2_1
-- :x: ze_genso_of_last_v3_4_t1
+- :white_check_mark: ze_genso_of_last_v3_4_t1
 - :white_check_mark: ze_geometric_v1_4
 - :white_check_mark: ze_give_it_a_name_test4
 - :x: ze_gods_wrath_p2
@@ -598,7 +598,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_three_eyes_v1_1
 - :x: ze_thriller_escape_p
 - :x: ze_tibia_v4_2
-- :x: ze_tilex_ultimate_v2_13_gf1_5
+- :white_check_mark: ze_tilex_ultimate_v2_13_gf1_5
 - :white_check_mark: ze_timesink_v1_2
 - :x: ze_timesplitters_p2
 - :x: ze_titanic_escape_v2_3_fix1
