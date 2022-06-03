@@ -85,3 +85,7 @@ Hello to whoever is/will read this in the future. I am making this file because 
 - **1.2.2**
     - Reworked the HP reset feature to not be as aggressive when resetting
     - Revert grey HP bar display to save space for more HP bars
+- **1.2.3**
+    - Fixed HP Bar being off by 1 and when boss is shot, the last bar disappears
+    - Made HP bar smaller
+    - Set default HP bar count to 15
