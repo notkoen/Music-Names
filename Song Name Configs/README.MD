@@ -35,7 +35,9 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_alive_hardwired_v3
 - :white_check_mark: ze_amalgamation_v1_1
 - :white_check_mark: ze_ancient_wrath_v2_test27_cm1
+- :x: ze_ancient_wrath_v2_test27_m5
 - :white_check_mark: ze_angelbeats_guild_a1_fix2
+- :x: ze_antartika_p3
 - :x: ze_anzalone_v3_fix
 - :x: ze_aooka_v2_8_a
 - :white_check_mark: ze_Aooka_v3_t6
@@ -555,6 +557,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_star_wars_prequel_f1
 - :x: ze_stargate_escape_v8_p2
 - :x: ze_starwars_v2fix_csgo3
+- :x: ze_stilshrine_of_miriam_v5_1
 - :x: ze_stilshrine_of_miriam_v7_2fix
 - :x: ze_STRANGE_escape_p2
 - :white_check_mark: ze_suchirifu_v3_1
@@ -571,7 +574,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_surf_froyo_lite_v2_2
 - :white_check_mark: ze_surf_froyo_v2_2
 - :x: ze_surf_last_point_v1_5
-- :x: ze_surf_gypt_v1_3_1f
+- :x: ze_surf_gypt_v2r1
 - :x: ze_surf_happy_b7
 - :white_check_mark: ze_surf_inferno_v2_22
 - :x: ze_surf_next_step_v1_4
