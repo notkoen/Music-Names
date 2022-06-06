@@ -89,3 +89,5 @@ Hello to whoever is/will read this in the future. I am making this file because 
     - Fixed HP Bar being off by 1 and when boss is shot, the last bar disappears
     - Made HP bar smaller
     - Set default HP bar count to 15
+- **1.2.4**
+    - Decreased minimum update time from 0.10 to 0.05s and set maximumat 0.75s
