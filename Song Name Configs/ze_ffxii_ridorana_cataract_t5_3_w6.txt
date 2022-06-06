@@ -1,0 +1,16 @@
+RidoranaCataract/Stage1_Start.mp3||Final Fantasy XII OST - An Hour Of Rest
+RidoranaCataract/Stage1_Temple.mp3||Final Fantasy XII OST - The Beginning of the End
+RidoranaCataract/Stage1_Boss_1.mp3||Final Fantasy XII OST - Boss Battle
+RidoranaCataract/Stage1_End.mp3||Two Steps From Hell - Ghost Brigades
+RidoranaCataract/Stage2_Start_New.mp3||Final Fantasy XII OST - Desperate Fight
+RidoranaCataract/Stage2_Temple.mp3||Final Fantasy XII OST - Jahara,Land of the Garif
+RidoranaCataract/Stage2_Boss_1.mp3||Final Fantasy XII OST - Spechless Fight
+RidoranaCataract/Stage2_End.mp3|| Immediate Music - Prophets Of Doom
+RidoranaCataract/Stage3_Start.mp3||Ninja Tracks - Eon
+RidoranaCataract/Stage3_Temple_New.mp3||Final Fantasy XII OST - Eden Under Siege
+RidoranaCataract/Stage3_Boss_1.mp3||Final Fantasy XII OST - Esper Battle
+RidoranaCataract/Stage3_End.mp3||Immediate Music - Clash of Titans
+RidoranaCataract/Stage4_Start_New3.mp3||Audiomachine - Blood and Stone
+RidoranaCataract/Stage4_Boss.mp3||Pfeifer Broz - Quantum Crypts
+RidoranaCataract/Stage4_End.mp3||Immediate Music - Firebender
+RidoranaCataract/Stage4_Final.mp3||Pfeifer Broz - Target Violation

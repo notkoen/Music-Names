@@ -1,0 +1,43 @@
+music/ffvii_bombing1.mp3||Final Fantasy VII OST - Opening - Bombing Mission
+music/ffvii_bombing2.mp3||Final Fantasy VII OST - Opening - Bombing Mission
+music/ffvii_divinity.mp3|Final Fantasy VII: Advent Children OST - Divinity I
+music/ffvii_hurry.mp3|Final Fantasy VII OST - Hurry!
+music/ffvii_hurryx.mp3|Final Fantasy X OST - Run!!
+music/ffvii_rageawake.mp3|Kingdom Hearts II FM OST - Rage Awakened
+music/ffvii_rageawake2.mp3|Kingdom Hearts II FM OST - Fate of the Unknown
+music/ffvii_waste.mp3||Final Fantasy VII: Advent Children OST - Beyond the Wasteland
+music/ffvii_mako.mp3||Final Fantasy VII OST - Mako Reactor
+music/ffvii_jenova.mp3||Final Fantasy VII: Advent Children OST - J-E-N-O-V-A
+music/ffvii_otherworld.mp3||Final Fantasy X OST - Pursuit
+music/ffvii_fighttothe.mp3||Kingdom Hearts II OST - A Fight to the Death
+music/ffvii_winged.mp3||Final Fantasy VII: Advent Children OST - One Winged Angel
+music/ffvii_winged2.mp3||Final Fantasy VII: Advent Children OST - One Winged Angel
+music/ffvii_winged3.mp3||Final Fantasy VII: Advent Children OST - One Winged Angel
+music/ffvii_battleinthe.mp3||Final Fantasy VII: Advent Children OST - Battle in the Forgotten City
+music/ffvii_black water.mp3||Final Fantasy VII: Advent Children OST - Black Water
+music/ffvii_voodoo.mp3||The Prodigy - Voodoo People (Pendulum Remix)
+music/pendulum_1.mp3||Pendulum - Midnight Runner
+music/pendulum_ot1.mp3||The Qemists - Stompbox
+music/pendulum_ot2.mp3||Pendulum - The Other Side
+music/pendulum_ot3.mp3||Pendulum - The Other Side
+music/ffvii_e2_slam.mp3||Pendulum - Slam (Video)
+music/ffvii_e2_tarantula.mp3||Pendulum - Tarantula
+music/ffvii_e2_selfvsself.mp3||Pendulum - Self vs Self (Ft. In Flames)
+music/ffvii_e2_bloodsugar.mp3||Pendulum - Blood Sugar
+music/ffvii_e2_thefountain.mp3||Pendulum - The Fountain
+music/ffvii_tempest.mp3||Pendulum - The Tempest (Live at Brixton Academy)
+music/ffvii_9000miles.mp3||Pendulum - 9000 Miles (Live at Brixton Academy)
+music/zeddy/brain_power_v2.mp3||NOMA - Brain Power
+music/zeddy/ext3_music_primary.mp3||Muzzy - Endgame, Muzzy - Get Crazy, Muzzy & Voicians - Back to You, Muzzy - Play (Ft. UK:ID)
+music/zeddy/ext3_music_secondary.mp3||Muzzy - Play (Ft. UK:ID), Muzzy - Endgame
+zombieden/custommusic/advent2.mp3||Final Fantasy VII: Advent Children OST - Those Who Fight
+zombieden/custommusic/m2fix.mp3||The Prodigy - Nasty (Spor Remix)
+zombieden/custommusic/m3fix.mp3||Simple Plan - Take My Hand
+zombieden/custommusic/m4fix.mp3||Pendulum - The Island (Part 1: Dawn)
+zombieden/custommusic/m5fix.mp3||Two Steps From Hell - To Glory
+zombieden/custommusic/m6.mp3||Feint - Lift
+music/zeddy/propanefullsong.mp3||Pendulum - Propane Nightmares
+music/zeddy/watercolormako.mp3||Pendulum - Watercolor
+music/zeddy/the_qemists_no_more.mp3||The Qemists - No More
+music/zeddy/everything.mp3||Mick Gordon - Everything Is Going To Be Okay
+music/zeddy/showdownmako.mp3||Pendulum - Showdown

@@ -1,0 +1,17 @@
+ze_misaka2/st3_sound1.mp3||Team Shanghai Alice - Loose Rain
+ze_misaka2/st3_sound2.mp3||Dynasty Warriors 8 OST - Cyclonized Typhoon
+ze_misaka2/st3_boss.mp3||Ys Origin OST - Genesis Beyond The Beginning
+ze_misaka2/st3_final.mp3||Zero no Kiseki OST - Formidable Enemy
+ze_misaka2/st4_sound1.mp3||Sakuzyo - Amateras
+ze_misaka2/st2_sound1.mp3||Himmel - 樱华彩 (Off Vocal)
+ze_misaka2/st4_sound2.mp3||Sakuzyo - 天火明命
+ze_misaka2/st4_soundb.mp3||Super Robot Wars OGs Moon Dwellers OST - Guardian Angel
+ze_misaka2/st4_soundf.mp3||fripSide - LEVEL5 -judgelight-
+ze_misaka2/st5_sound.mp3||m-taku - Komorebi
+ze_misaka2/st5_soundb.mp3||Touhou 17: WBaWC OST - Keiki's Theme (Entrusting This World to Idols)
+ze_misaka2/st5_soundf.mp3||Senya - The Meaning of Being Born, The Reason to Keep Living
+ze_misaka2/rtv_sound.mp3||Sound Souler - Out of Sense
+ze_misaka2/st1_sound1.mp3||徐梦圆 - Color-X 3D
+ze_misaka2/st1_sound2.mp3||a_hisa - Town of Windmill
+ze_misaka2/st1_sound3.mp3||a_hisa - amaoto
+ze_misaka2/st2_sound2.mp3||Otokaze - 夏戀

@@ -1,0 +1,14 @@
+music/backroomsv2/clairvoyance.mp3||Jon Hassell - Clairvoyance
+music/backroomsv2/cooldowncoda.mp3||Jon Hassell - Cool Down Coda
+music/backroomsv2/courtrais.mp3||Jon Hassell - Courtrais
+music/backroomsv2/cubalibre.mp3||Jon Hassell - Cuba Libre
+music/backroomsv2/delicado.mp3||Jon Hassell - Delicado
+music/backroomsv2/harambe.mp3||Jon Hassell - Harambe
+music/backroomsv2/herfirstrain.mp3||Jon Hassell - Her First Rain
+music/backroomsv2/mangascene.mp3||Jon Hassell - Manga Scene
+music/backroomsv2/poinciana.mp3||Jon Hassell - Poinciana
+music/backroomsv2/reykjavik.mp3||Jon Hassell - Reykjavik
+music/backroomsv2/scintilla.mp3||Jon Hassell - Scintilla
+music/backroomsv2/secretlyhappy.mp3||Jon Hassell - Secretly Happy
+music/backroomsv2/slipstream.mp3||Jon Hassell - Slipstream
+music/backroomsv2/unknownwish.mp3||Jon Hassell - Unknown Wish

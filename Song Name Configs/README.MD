@@ -39,7 +39,8 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_anzalone_v3_fix
 - :x: ze_aooka_v2_8_a
 - :white_check_mark: ze_Aooka_v3_t6
-- :x: ze_aot_trost_v6_1
+- :white_check_mark: ze_aot_trost_v6_2
+- :x: ze_aot_trost_v7_1
 - :x: ze_aperturescience_p2
 - :x: ze_apocatastasis_v1_2
 - :x: ze_aragami_v1_1
@@ -64,7 +65,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_aztecnoob_p2
 - :x: ze_banana_temple_v1_3
 - :x: ze_babylon_v2
-- :x: ze_backrooms_p3
+- :white_check_mark: ze_backrooms_p3
 - :x: ze_barrage_p2
 - :white_check_mark: ze_Bathroom_v2_5
 - :white_check_mark: ze_best_korea_v1
@@ -89,6 +90,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_boredom_p
 - :x: ze_bp-infested-prison_p2
 - :white_check_mark: ze_Breakable_p3
+- :white_check_mark: ze_breezy_v4
 - :white_check_mark: ze_breezy_v5
 - :x: ze_bulhufas_a1_1
 - :x: ze_bunkerino_v1_3_3_final
@@ -195,7 +197,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_ffvii_cosmo_canyon_v4fix_ps5
 - :white_check_mark: ze_ffvii_cosmo_canyon_v5k_fix
 - :x: ze_ffvii_cosmo_canyon_v6test4
-- :x: ze_ffvii_mako_reactor_v5_3_v5
+- :white_check_mark: ze_ffvii_mako_reactor_v5_3_v5
 - :x: f1g_3_b5v_rotcaer_okam_iivff_ez
 - :x: ze_ffvii_mako_reactor_v6_b09k2
 - :x: ze_FFVII_Snow_Cosmo_v5_5f
@@ -205,7 +207,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_FFXII_Mt_Bur_Omisace_v4c7
 - :white_check_mark: ze_FFXII_Mt_Bur_Omisace_v5_4fix4
 - :white_check_mark: ze_FFXII_Paramina_Rift_r4
-- :x: ze_ffxii_ridorana_cataract_t5_3_w6
+- :white_check_mark: ze_ffxii_ridorana_cataract_t5_3_w6
 - :white_check_mark: ze_FFXII_Salikawood_v1_6f
 - :white_check_mark: ze_FFXII_Westersand_v7_z9
 - :white_check_mark: ze_ffxii_westersand_v8zeta1_b5k
@@ -301,7 +303,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_jiba_journey_v4_3
 - :white_check_mark: ze_jjba_v7
 - :x: ze_johnny_nukem_go_b8_3a
-- :x: ze_journey_p2
+- :white_check_mark: ze_journey_p2
 - :x: ze_jurassicPark_Escape_p2
 - :x: ze_JurassicPark_p3
 - :x: ze_K19_escape_go1
@@ -368,7 +370,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_minecraft_v1_1_p3
 - :white_check_mark: ze_minimal_csgo
 - :white_check_mark: ze_Mirrors_Edge_Reborn_p3
-- :x: ze_misaka2_v1_3
+- :white_check_mark: ze_misaka2_v1_3
 - :white_check_mark: ze_misaka_v1ff
 - :white_check_mark: ze_mist_q3
 - :x: ze_Mixture_3de_v1f2_g1t
@@ -385,7 +387,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_naiads_v4a_6f
 - :x: ze_nameless_necropolis_v3
 - :x: ze_namviet_gf1_1
-- :x: ze_Naruto_p
+- :white_check_mark: ze_Naruto_p
 - :white_check_mark: ze_natural_v1_4
 - :x: ze_necromanteion_v3_1
 - :white_check_mark: ze_negative_legacy_va2
@@ -409,6 +411,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_oblivion_castle_v6
 - :x: ze_obj_npst_v2
 - :x: ze_Obj_Rampage_v1_2
+- :x: ze_obj_vertigo_v25
 - :x: ze_ocean_base_escape_p2
 - :white_check_mark: ze_offliner_v2_csgo1
 - :x: ze_omega_p3
@@ -567,7 +570,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_surf_ffxiv_beachescape_camper_isengard_laser_mako
 - :white_check_mark: ze_surf_froyo_lite_v2_2
 - :white_check_mark: ze_surf_froyo_v2_2
-- :x: ze_surf_last_point_v1_3_1
+- :x: ze_surf_last_point_v1_5
 - :x: ze_surf_gypt_v1_3_1f
 - :x: ze_surf_happy_b7
 - :white_check_mark: ze_surf_inferno_v2_22
@@ -613,7 +616,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_tracing_that_dream_a2_2
 - :x: ze_trainescape_final_p2
 - :x: ze_trainstation_tunnels_p
-- :x: ze_trials_v3_test
+- :white_check_mark: ze_trials_v3_test
 - :x: ze_tropico_escape_gf1_1
 - :x: ze_turokbase_p3
 - :x: ze_TV_station_r4
@@ -625,13 +628,14 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_undersea_temple_a4_4
 - :x: ze_undertale_g_v1_3_fix1
 - :x: ze_undertale_sans_final
+- :x: ze_unknown_underground_a2_8_2
 - :x: ze_upwards_v1
 - :x: ze_urban_laby_of_death_p2
 - :x: ze_urbanterror_b2
 - :x: ze_UT2004_Convoy_r5
 - :x: ze_uyuni_v1_6
 - :x: ze_v0u0v_csgo1
-- :x: ze_valkvang_v1_2
+- :white_check_mark: ze_valkvang_v1_2
 - :white_check_mark: ze_venice_escape_p3
 - :x: ze_vertigo_militia_b1_3_14
 - :x: ze_vietnam_p3
