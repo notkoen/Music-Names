@@ -14,4 +14,6 @@
 	- Some code refactoring
 	- Added right click hide feature
 	- Updated hide settings menu with toggle hide button and updated features
-    - Added dedicated commands for opening menu, toggling right click shortcut
+	- Added dedicated commands for opening menu, toggling right click shortcut
+- *1.7.1**
+	- "Fix dogshit timers" (tilgep)
