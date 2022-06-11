@@ -13,7 +13,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: mg_rota_derp_v1_1_csgo2
 - :x: mg_ruinztrap_course_csgo
 - :x: mg_salazar_castle_part1
-- :x: mg_serpentis_temple_csgo3
+- :white_check_mark: mg_serpentis_temple_csgo3
 - :x: mg_stone_of_destiny_td_csgo4
 - :x: mg_tower_defense_source_csgo3
 - :x: mg_twisted_towers_course_hdr
@@ -94,6 +94,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_Breakable_p3
 - :white_check_mark: ze_breezy_v4
 - :white_check_mark: ze_breezy_v5
+- :white_check_mark: ze_breezy_v5c
 - :x: ze_bulhufas_a1_1
 - :x: ze_bunkerino_v1_3_3_final
 - :x: ze_candy_star_a3
@@ -134,12 +135,12 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_CV_LOSII_Castle_Siege_b4
 - :x: ze_CYBERDERP_p3_KIA
 - :white_check_mark: ze_cyberia_v1
-- :x: ze_cyberpunk_x_a07
+- :white_check_mark: ze_cyberpunk_x_a07
 - :white_check_mark: ze_dangerous_waters_v2_final
 - :white_check_mark: ze_dangerous_waters_xmas_v2_4
 - :x: ze_danmaku_v1_5
 - :x: ze_dark_catharsis_v1_2
-- :x: ze_dark_souls_ptd_csgo2
+- :white_check_mark: ze_dark_souls_ptd_csgo2
 - :x: ze_Dead_Planet_Escape_b10
 - :white_check_mark: ze_deadcore_s7f2
 - :x: ze_deadcore_v1_3
@@ -334,6 +335,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_light_v7_csgo_tk13_v5_2fix
 - :x: ze_lightnight_v1_4fix_hdr
 - :x: ze_lila_panic_escape_v3_3
+- :white_check_mark: ze_lootus_a01
 - :x: ze_lost_terminus_b4
 - :x: ze_lostclue_b3_3
 - :x: ze_LOTR_Helms_Deep_v5_p6
@@ -458,7 +460,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_PotC_p4
 - :x: ze_Predator_Ultimate_p7
 - :white_check_mark: ze_project_alcaria_x2
-- :x: ze_project_codex_a3_1
+- :white_check_mark: ze_project_codex_a3_1
 - :x: ze_prototype_p2
 - :x: ze_puta_p3
 - :x: ze_purgatorium_m
@@ -468,7 +470,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_raccoon_facility_v6b_p
 - :x: ze_rainbow_factory_v2
 - :x: ze_raintime1_torontoisland_v5x
-- :x: ze_raintime2_stormwindkeep_v3
+- :white_check_mark: ze_raintime2_stormwindkeep_v3
 - :x: ze_raintimex_code0_v6n
 - :white_check_mark: ze_ramp_a1_1
 - :x: ze_random_escape_gp5
@@ -481,7 +483,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_reconnoiter_b5
 - :x: ze_retribution_pf
 - :x: ze_rev_a6_3
-- :x: ze_Reverse_a03_f3
+- :white_check_mark: ze_Reverse_a03_f3
 - :x: ze_rien_beta
 - :x: ze_ripsuhdude_v1_6
 - :white_check_mark: ze_rizomata_va2

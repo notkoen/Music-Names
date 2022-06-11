@@ -1,0 +1,20 @@
+SensFortress/Anor_Londo_Music_1_1.mp3||Yuka Kitamura - Twin Princes
+SensFortress/Anor_Londo_Music_2_1.mp3||Demon's Souls OST - Maiden Astraea (Hellkite Remix)
+SensFortress/Anor_Londo_Music_3_1.mp3||Epic Score - They Hit Without Warning
+SensFortress/Asylum_Demon_Song_R.mp3||Motoi Sakuraba - Taurus Demon
+SensFortress/Asylum_Song_1.mp3||Motoi Sakuraba - A Moment's Peace
+SensFortress/Asylum_Song_2.mp3||Yuka Kitamura - Dancer Of The Boreal Valley
+SensFortress/Gwyn_Theme.mp3||Motoi Sakuraba - Gwyn, Lord Of Cinder
+SensFortress/Gwyndostein_Phase_1_Intro.mp3||Yuka Kitamura - Twin Princes
+SensFortress/Gwyndostein_Phase_1_Main.mp3||Yuka Kitamura - Twin Princes
+SensFortress/Gwyndostein_Phase_2_Intro.mp3||Yuka Kitamura - Twin Princes
+SensFortress/Gwyndostein_Phase_2_Main.mp3||Yuka Kitamura - Twin Princes
+SensFortress/Nameless_Song.mp3||Motoi Sakuraba - Nameless Song
+SensFortress/PVP_Round_Music.mp3||Yuka Kitamura - Old Dragonslayer
+SensFortress/Sens_Music_1.mp3||Motoi Sakuraba - Firelink Shrine
+SensFortress/Sens_Music_2.mp3||Motoi Sakuraba - Fire Keepers
+SensFortress/Sens_Music_3.mp3||Motoi Sakuraba - Old Demon King
+SensFortress/Sens_Music_4_R.mp3||Motoi Sakuraba - Majula
+SensFortress/Sens_Music_5_R.mp3||Motoi Sakuraba - Iron Golem
+SensFortress/Sens_Music_6.mp3||Motoi Sakuraba - The Ancient Dragon
+SensFortress/WarmUp_Music.mp3||Yuka Kitamura - Dark Souls 3
