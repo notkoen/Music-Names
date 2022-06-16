@@ -1,15 +1,15 @@
-﻿music\ze_deadcore\music_a_boss.mp3||xi - Niflheimr
-music\ze_deadcore\music_b_boss.mp3||Cytus - Green Eyes
-music\ze_deadcore\music_b_escape.mp3||a_hisa (Silent Spica) - Anhedonia
-music\ze_deadcore\music_c_escape.mp3||An (AcuticNotes) - Roaris
-music\ze_deadcore\music_core001.mp3||Persona - Area184 -Platinum Mix-
-music\ze_deadcore\music_core001_ex.mp3||Yugo Kanno - PSYCHO-PASS
-music\ze_deadcore\music_d_escape.mp3||Sakuzyo - AXION
-music\ze_deadcore\music_d_ex_escape.mp3||EGOIST - Namae No Nai Kaibutsu (Instrumetal)
-music\ze_deadcore\music_d1.mp3||Yuri Yuzriha - Cor puella
-music\ze_deadcore\music_d1_ex.mp3||Yugo Kanno - The System Holds Justice at Gunpoint
-music\ze_deadcore\music_g1.mp3||There Came an Echo OST - LAX
-music\ze_deadcore\music_g2.mp3||Yuri Yuzriha - At The Distant World of Stars
-music\ze_deadcore\music_g3.mp3||Sonic Species - The Force
-music\ze_deadcore\music_g4.mp3||Cytus - Galaxy Collapse
-music\ze_deadcore\music_s1.mp3||Arnaud Noble & Aymeric Schwartz - End Of Line (main theme menu)
+﻿music/ze_deadcore/music_a_boss.mp3||xi - Niflheimr
+music/ze_deadcore/music_b_boss.mp3||Cytus - Green Eyes
+music/ze_deadcore/music_b_escape.mp3||a_hisa (Silent Spica) - Anhedonia
+music/ze_deadcore/music_c_escape.mp3||An (AcuticNotes) - Roaris
+music/ze_deadcore/music_core001.mp3||Persona - Area184 -Platinum Mix-
+music/ze_deadcore/music_core001_ex.mp3||Yugo Kanno - PSYCHO-PASS
+music/ze_deadcore/music_d_escape.mp3||Sakuzyo - AXION
+music/ze_deadcore/music_d_ex_escape.mp3||EGOIST - Namae No Nai Kaibutsu (Instrumetal)
+music/ze_deadcore/music_d1.mp3||Yuri Yuzriha - Cor puella
+music/ze_deadcore/music_d1_ex.mp3||Yugo Kanno - The System Holds Justice at Gunpoint
+music/ze_deadcore/music_g1.mp3||There Came an Echo OST - LAX
+music/ze_deadcore/music_g2.mp3||Yuri Yuzriha - At The Distant World of Stars
+music/ze_deadcore/music_g3.mp3||Sonic Species - The Force
+music/ze_deadcore/music_g4.mp3||Cytus - Galaxy Collapse
+music/ze_deadcore/music_s1.mp3||Arnaud Noble & Aymeric Schwartz - End Of Line (main theme menu)

@@ -1,0 +1,8 @@
+vedeshka/four_tower_sound/finish.mp3||Capcom Sound Team - And After That... (Resident Evil OST)
+vedeshka/four_tower_sound/ambient_9.mp3||Capcom Sound Team - Missile Approaching (Resident Evil OST)
+vedeshka/four_tower_sound/ambient_8.mp3||Capcom Sound Team - The Marshalling Yard (Resident Evil OST)
+vedeshka/four_tower_sound/ambient_7.mp3||Capcom Sound Team - The Dark Silence (Resident Evil OST)
+vedeshka/four_tower_sound/ambient_6.mp3||Capcom Sound Team - Ganado IV (Resident Evil OST)
+vedeshka/four_tower_sound/ambient_4.mp3||Capcom Sound Team - U-3 (Biohazard 4 OST)
+vedeshka/four_tower_sound/ambient_3.mp3||Capcom Sound Team - Entrance to the Labratory (Resident Evil OST)
+vedeshka/four_tower_sound/ambient_2.mp3||Capcom Sound Team - This Eerie Feeling (Biohazard 4 OST)

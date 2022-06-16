@@ -1,12 +1,12 @@
 # Song Name Config Library
 
-# Info:
+## Info:
 All song configs on Zeddy will be posted here so players who want to know the names of certain songs can easily look up what the songs are. You are always free to contribute to this library/project by joining our Discord server and sending configs there. Contributors will get an exclusive role and name color on our Discord server!
 
-# Map(s)
-- :x: dr_ffxxx_goudoubuwan_i7_b3
-- :x: mg_azure
-- :x: mg_four_towers_course_hdr
+## Map(s)
+- :white_check_mark: dr_ffxxx_goudoubuwan_i7_b3
+- :white_check_mark: mg_azure
+- :white_check_mark: mg_four_towers_course_hdr
 - :x: mg_minecraft_temple_redux_dev1
 - :x: mg_minecraft_temple_v8en
 - :x: mg_morceau
@@ -95,6 +95,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_breezy_v4
 - :white_check_mark: ze_breezy_v5
 - :white_check_mark: ze_breezy_v5c
+- :white_check_mark: ze_breezy_v6
 - :x: ze_bulhufas_a1_1
 - :x: ze_bunkerino_v1_3_3_final
 - :x: ze_candy_star_a3
