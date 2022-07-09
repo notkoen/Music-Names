@@ -14,9 +14,6 @@ music/ffvii_ahead_on_our_way.mp3||Final Fantasy VII (FF7) OST - Ahead on Our Way
 music/ffvii_hurry_up.mp3||Final Fantasy VII (FF7) OST - Hurry Faster
 music/ffvii_granitev2.mp3||Pendulum - Granite
 music/ffvii_hurry.mp3||Final Fantasy VII OST - Hurry
-music/ffvii_conflict.mp3||Conflict - Takeharu Ishimoto	
+music/ffvii_conflict.mp3||Conflict - Takeharu Ishimoto
 music/ffvii_battle_themev2.mp3||Final Fantasy HD X Remaster OST - Battle Theme
 music/ffvii_advent_children.mp3||Sara Ni Tatakau Monotachi - FFVII Advent Children
-
-
-

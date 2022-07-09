@@ -1,0 +1,6 @@
+music/musicze/ChaCha.mp3||DJ Casper - Cha Cha Slide
+music/musicze/ffvii_hurry.mp3||Final Fantasy VII OST - Hurry
+music/musicze/meme1.mp3||Alleluia (Techno Remix)
+music/musicze/motorheadace.mp3||Motorhead - Ace Of Spaces
+music/musicze/Running in the 90s.mp3||Initial D - Running in The 90s
+music/musicze/troll.mp3||D1ofaquavibe - The Happy Troll (Griefing Theme Song)

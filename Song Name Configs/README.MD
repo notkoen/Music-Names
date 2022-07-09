@@ -32,7 +32,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_alien_mountain_escape_q2
 - :white_check_mark: ze_alien_shooter_gp1_3
 - :x: ze_alien_vs_predator_v6go_fix
-- :x: ze_alive_hardwired_v3
+- :x: ze_alive_hardwired_v5
 - :white_check_mark: ze_amalgamation_v1_1
 - :white_check_mark: ze_ancient_wrath_v2_test27_cm1
 - :x: ze_ancient_wrath_v2_test27_m5
@@ -60,7 +60,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_Apollo_p2
 - :white_check_mark: ze_aurora_tower_v5
 - :white_check_mark: ze_aurora_tower_v6_6
-- :x: ze_avalanche_reboot_beta7_p2
+- :x: ze_Avalanche_Reboot_beta7_g3t
 - :white_check_mark: ze_aware_v1_2a
 - :x: ze_azathoth_v1_1
 - :x: ze_aztec_temple_p
@@ -100,7 +100,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_bunkerino_v1_3_3_final
 - :x: ze_candy_star_a3
 - :white_check_mark: ze_castle_bridge_v1_4
-- :white_check_mark: ze_castle_of_the_bladekeeper_t2
+- :white_check_mark: ze_castle_of_the_bladekeeper_b2
 - :x: ze_castlevania_64_v1_3_b9_go
 - :white_check_mark: ze_castlevania_p1_7
 - :x: ze_ccc_ffvii_alien_reactor
@@ -170,6 +170,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_dreamin_v3_3
 - :x: ze_dungeon_of_ignorance_a1_2
 - :x: ze_dust_escape_p3
+- :x: ze_DYSTOPIA_a2
 - :x: ze_easy_escape_r
 - :white_check_mark: ze_eden_a3
 - :x: ze_elevator_escape_p3
@@ -332,10 +333,12 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_licciana_escape_p
 - :x: ze_licciana_escape_zrgbr_b3
 - :white_check_mark: ze_light_retribution_v1_k2
+- :x: ze_light_escape_ta3_1
 - :white_check_mark: ze_light_shadow_L1_4
 - :x: ze_light_v7_csgo_tk13_v5_2fix
 - :x: ze_lightnight_v1_4fix_hdr
 - :x: ze_lila_panic_escape_v3_3
+- :x: ze_Lila_Panic_Escape_tr2
 - :white_check_mark: ze_lootus_a01
 - :x: ze_lost_terminus_b4
 - :x: ze_lostclue_b3_3
@@ -366,6 +369,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_mars_escape_gp3
 - :white_check_mark: ze_meatropolis_p2
 - :x: ze_melong_dow_learjet_gp1
+- :x: ze_metro2033_v1_fix_f1
 - :x: ze_mgden_v2_5fix
 - :x: ze_military_escape_p4
 - :x: ze_MindTree_v1_6
@@ -396,6 +400,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_natural_v1_4
 - :x: ze_necromanteion_v3_1
 - :white_check_mark: ze_negative_legacy_va2
+- :x: ze_neglected_v2_2
 - :x: ze_neko_canyon_p3
 - :white_check_mark: ze_neochrome_csgo3a
 - :x: ze_new_crazy_escape_v4_1
@@ -416,7 +421,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_oblivion_castle_v6
 - :x: ze_obj_npst_v2
 - :x: ze_Obj_Rampage_v1_2
-- :x: ze_obj_vertigo_v25
+- :x: ze_obj_vertigo_v3_1
 - :x: ze_ocean_base_escape_p2
 - :white_check_mark: ze_offliner_v2_csgo1
 - :x: ze_omega_p3
@@ -655,6 +660,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_yueyingchuanshuo_10_8_f4
 - :white_check_mark: ze_yueyingchuanshuo_10_9_f3
 - :white_check_mark: ze_yurilnier_beta007_hdr
+- :x: ze_zakum
 - :x: ze_zk_mall_of_zombies_p2
 - :x: ze_zombiemod_corporation_p2
 - :x: ze_zombierig_p3
