@@ -528,7 +528,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_shadow_corridor_v1_2
 - :x: ze_Shadow_temple_v4_4
 - :x: ze_shaun_of_the_dead_p
-- :x: ze_shaurma_v3_b07_t5_hdr2
+- :white_check_mark: ze_shaurma_v3_b07_t5_hdr2
 - :x: ze_showdown_v4_1_p
 - :x: ze_shrine_of_umos_b3
 - :x: ze_shroomforest2_p6
@@ -540,7 +540,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :white_check_mark: ze_silent_hill_3_dawn_v2
 - :x: ze_silent_hill_3_flee_v4
 - :white_check_mark: ze_sit_caelum_paradisus_b7_hdr
-- :x: ze_skill_escape_v09
+- :white_check_mark: ze_skill_escape_v09
 - :x: ze_sky_athletic_adv_v9_13
 - :x: ze_sky_creamus_v2
 - :white_check_mark: ze_sky_fantasy_v1_6
