@@ -1,14 +1,14 @@
 # Song Name Config Library
 
-## Info:
+## Info
 
 All song configs on Zeddy will be posted here so players who want to know the names of certain songs can easily look up what the songs are. You are always free to contribute to this library/project by joining our Discord server and sending configs there. Contributors will get an exclusive role and name color on our Discord server!
 
 ## Statistics
+
 Count | Description
 --- | ---
 214 | Completed Song Configs
-
 
 ## Map(s)
 
