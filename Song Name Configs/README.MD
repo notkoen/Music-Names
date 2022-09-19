@@ -455,10 +455,10 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_pitchblack_p2
 - :x: ze_pizzatime_v9
 - :x: ze_pkmn_adventure_v9_3
-- :x: ze_platformer_b6
+- :white_check_mark: ze_platformer_b6
 - :x: ze_pokemon_adventure_v1_1
 - :x: ze_Pokemon_Rivals_v1_8
-- :x: ze_ponchermonkey_shooter_csgo1
+- :white_check_mark: ze_ponchermonkey_shooter_csgo1
 - :x: ze_PoR_island_p3
 - :white_check_mark: ze_Portal_Story_p2
 - :x: ze_postal_v1_1
@@ -471,6 +471,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_puta_p3
 - :x: ze_purgatorium_m
 - :white_check_mark: ze_qaz_defend_part2_ji1mm1_beta3
+- :white_check_mark: ze_quiver_v2a_f1
 - :white_check_mark: ze_R_W_B_ulti
 - :white_check_mark: ze_Rabanastre_Royal_t5
 - :white_check_mark: ze_raccoon_facility_v6b_p
@@ -544,7 +545,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_sky_athletic_adv_v9_13
 - :x: ze_sky_creamus_v2
 - :white_check_mark: ze_sky_fantasy_v1_6
-- :x: ze_sky_fantasy_v2_1
+- :white_check_mark: ze_sky_fantasy_v2_1
 - :x: ze_sky_journey_v8
 - :white_check_mark: ze_skygarden_v2_1
 - :x: ze_Skyscraper_city_r2
