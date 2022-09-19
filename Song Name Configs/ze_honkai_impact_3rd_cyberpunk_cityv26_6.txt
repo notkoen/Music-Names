@@ -1,3 +1,0 @@
-tqs/bgm1.mp3||CyberPunk 2077 OST - The Rebel Path
-tqs/eye.wav||Zombie Hyperdrive - Red Eyes
-tqs/tqsbossbgm.wav||CyberPunk 2077 OST - Cyberninja

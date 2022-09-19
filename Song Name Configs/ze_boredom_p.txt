@@ -6,8 +6,8 @@ music/miamisoundmachine-conga.mp3||Conga
 music/outrun-magicalsoundshower.mp3||Magical Sound Shower (Euro Remix)
 music/pasodoble-gatomontes.mp3||El Gato Montes
 music/pornosonic-mrdicksontheteacher.mp3||Pornosonic - Cramming for College
-music/roguetrip-blank.mp3||Rogue Trip: Vacation 2012 - ENDCREDITS
-music/roguetrip-eternalacres.mp3||Rogue Trip: Vacation 2012 - Eternal Acres
-music/roguetrip-neonnightmare.mp3||Rogue Trip: Vacation 2012 - Neon Nightmare
-music/roguetrip-quakearoni.mp3||Rogue Trip: Vacation 2012 - Quake A Roni
-music/roguetrip-socal.mp3||Rogue Trip: Vacation 2012 - So Cal
+music/roguetrip-blank.mp3||roguetrip - ENDCREDITS
+music/roguetrip-eternalacres.mp3||roguetrip - eternalacres
+music/roguetrip-neonnightmare.mp3||roguetrip - neonnightmare
+music/roguetrip-quakearoni.mp3||roguetrip - quake a roni
+music/roguetrip-socal.mp3||roguetrip - so cal

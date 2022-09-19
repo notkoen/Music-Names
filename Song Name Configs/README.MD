@@ -1,9 +1,11 @@
 # Song Name Config Library
 
 ## Info:
+
 All song configs on Zeddy will be posted here so players who want to know the names of certain songs can easily look up what the songs are. You are always free to contribute to this library/project by joining our Discord server and sending configs there. Contributors will get an exclusive role and name color on our Discord server!
 
 ## Map(s)
+
 - :white_check_mark: dr_ffxxx_goudoubuwan_i7_b3
 - :white_check_mark: mg_azure
 - :white_check_mark: mg_four_towers_course_hdr
@@ -273,7 +275,7 @@ All song configs on Zeddy will be posted here so players who want to know the na
 - :x: ze_hobbit_escape_b2
 - :x: ze_hold_em_v8
 - :white_check_mark: ze_honkai_impact_3rd_babel_v1_55
-- :white_check_mark: ze_honkai_impact_3rd_cyberpunk_cityv26_6
+- :white_check_mark: ze_honkai_impact_3rd_cyberpunk_cityv26_7
 - :x: ze_honkai_nagazoracity_beta_4
 - :x: ze_horizon_sky_escape_v2
 - :white_check_mark: ze_hsc_a4_q3

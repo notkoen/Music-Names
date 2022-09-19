@@ -13,6 +13,6 @@ music/phoenix-gloryhonour.mp3||Phoenix Music - Glory And Honour
 music/snow_shadows.mp3||Danny Cocke - World collapsing
 music/tsfh-bloodtitan00.mp3||Two Steps From Hell - Blood Of The Titan
 music/tsfh-eldorado.mp3||Two Steps From Hell - El Dorado
-music/tsfh-invadorz.mp3||Two Steps From Hell - Invadorz
+music/tsfh-invadorz.mp3||Two Steps From Hell - Invadorz (Solaris)
 music/tsfh-tyrianis.mp3||Two Steps From Hell - Tyrianis
-music/tsfh-winterspell.mp3||Two Steps From Hell - Winterspell
+music/tsfh-winterspell.mp3||Two Steps From Hell - Winterspell (Skyworld)
