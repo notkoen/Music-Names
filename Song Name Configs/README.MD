@@ -17,7 +17,7 @@ Count | Description
 Note: Some song configs have no author, so the leaderboard may be incorrect. If you spot one you made, notify us on Discord and we will update the github repository.
 
 Name | Songs Configs Made | Credit Reward | Paid Amount
---- | --- | ---
+--- | --- | --- | ---
 Bomberman | 65 | 6500 | 0
 Kiriya | 17 | 1700 | 0
 Detroid | 15 | 1500 | 0
