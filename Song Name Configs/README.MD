@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-239 | Completed Song Configs
+241 | Completed Song Configs
 
 ## Leaderboard
 
@@ -25,7 +25,7 @@ DVC | 13 | 1300 | 0
 Watdoink | 10 | 1000 | 0
 Chong0074 | 7 | 700 | 0
 WhiteCat | 7 | 700 | 0
-koen | 7 | 700 | 0
+koen | 8 | 800 | 0
 Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
 tapch0w | 6 | 600 | 0
@@ -37,11 +37,11 @@ KingMagress | 3 | 300 | 0
 WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 0
 TuPu | 2 | 200 | 0
+Hibiki | 2 | 200 | 0
 Sprinuts | 1 | 100 | 0
 ShiroNeko | 1 | 100 | 0
 Berke | 1 | 100 | 0
 Beppu | 1 | 100 | 0
-Hibiki | 1 | 100 | 0
 
 ## Map(s)
 
@@ -159,7 +159,7 @@ Hibiki | 1 | 100 | 0
 - :x: ze_chronus_a1
 - :x: ze_clockwork_v1d1
 - :x: ze_codevein_v1_cm4
-- :x: ze_colorlicouspilar_p4
+- :white_check_mark: ze_colorlicouspilar_p4 `Hibiki`
 - :x: ze_colors_p3
 - :x: ze_colourslide_v2_2
 - :x: ze_complex_va3
@@ -233,6 +233,7 @@ Hibiki | 1 | 100 | 0
 - :white_check_mark: ze_evernight_a3_4 `Bomberman`
 - :x: ze_evil_mansion_v1_finalf
 - :x: ze_exchange_innovation_v1b
+- :white_check_mark: ze_facility_overload_final1 `koen`
 - :x: ze_fapescape_p5
 - :x: ze_fapescape_rote_v1_3
 - :x: ze_farmhouse_v9f2
