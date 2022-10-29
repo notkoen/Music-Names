@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-237 | Completed Song Configs
+238 | Completed Song Configs
 
 ## Leaderboard
 
