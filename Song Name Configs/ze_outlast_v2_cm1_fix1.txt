@@ -1,0 +1,20 @@
+Outlast/Boss_music.mp3||Castle Crashers OST - Necromancer, metal cover feat.SixteeninMono & FamilyJules
+Outlast/End_Credits.mp3||Outlast OST - End Credits	
+Outlast/Last_music_secret.mp3||Need For Speed Carbon OST - Crew Race 3: Sounding Streets 
+Outlast/Music_1.mp3||Outlast OST - Main Menu
+Outlast/Music_10.mp3||Bring Me The Horizon - Kingslayer ft. Babymetal
+Outlast/Music_11.mp3||Sonic the Hedgehog OST - White Acropolis (The Base)
+Outlast/Music_12.mp3||Outlast OST - Welcome to the Asylum
+Outlast/Music_13.mp3||Sonic the Hedgehog OST - Solaris Phase 2
+Outlast/Music_14.mp3||Super Meat Boy OST - C.H.A.D's Lullaby
+Outlast/Music_15.mp3||Super Meat Boy OST - The Battle of Lil' Slugger
+Outlast/Music_16.mp3||Black Mesa Soundtrack - Forget About Freeman
+Outlast/Music_2.mp3||Resident Evil 7 OST - Salt Mine
+Outlast/Music_3.mp3||Resident Evil 5 OST - Winds of Madness
+Outlast/Music_4.mp3||Resident Evil 4 OST - Infiltration
+Outlast/Music_5.mp3||Ninja Tracks - Efflorescence
+Outlast/Music_6.mp3||Resident Evil Remake OST - Cold Water
+Outlast/Music_8.mp3||Death Stranding OST - Beached Things
+Outlast/Music_9.mp3||E-Mantra - The Darkest Hours
+Outlast/Thomas.mp3||Alley Gang - Thomas The Tank Engine
+Outlast/Warmup_music.mp3||The Binding of Isaac:Antibirth OST - Descent (Title)

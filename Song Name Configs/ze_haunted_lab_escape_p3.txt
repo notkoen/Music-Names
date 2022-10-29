@@ -1,0 +1,3 @@
+music/piano_attic.wav||The Haunted Mansion - Attic Piano
+music/sanitarium.mp3||RustyKnife - Sanitarium
+music/spirits moaning.mp3||Halloween FX Productions - Moaning Spirits

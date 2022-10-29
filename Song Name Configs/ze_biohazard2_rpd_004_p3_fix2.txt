@@ -1,0 +1,6 @@
+music/biohazard2/annettesrecollection||Masami Ueda - Annette's Recollection
+music/biohazard2/bio_02||Masami Ueda - "T" -B
+music/biohazard2/bio7||Masami Ueda - The Beginning Of Story
+music/biohazard2/biostart||Masami Ueda - The Beginning Of Story
+music/biohazard2/music1||Masami Ueda - Raccoon City
+music/biohazard2/thefronthall||Masami Ueda - The Front Hall

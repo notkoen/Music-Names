@@ -1,0 +1,8 @@
+music/naraka/nrk1_beforeboss_music.mp3||Smooth - I Try
+music/naraka/nrk1_bossfight_music.mp3||Bring Me The Horizon - Don't Look Down 	
+music/naraka/nrk1_edmthroom_music.mp3||Lemon & Einar K presents Capa - Bit By ... 
+music/naraka/nrk1_forest_music.mp3||Hardwell & Headhunterz feat. Haris - Nothing Can Hold Us Down
+music/naraka/nrk1_goldlabel_music.mp3||Dart Rayne & Yura Moonlight with Sarah Lynn - Silhouette (Allen & Envy Remix)
+music/naraka/nrk1_mgmhouse_music.mp3||Hardwell feat. Jason Derulo - Follow Me
+music/naraka/nrk1_new_era_laser.mp3||HiroyukiSawano - Chaos Drifters
+music/naraka/nrk1_spawn_music.mp3||Ragnarok Online OST 06: Risk your life

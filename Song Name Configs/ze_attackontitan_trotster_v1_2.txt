@@ -1,0 +1,6 @@
+bgm_barricades.mp3||澤野弘之 (さわの ひろゆき) - Barricades
+bgm_final.mp3||Linked Horizon - 紅蓮の弓矢(TVサイズver.)
+bgm_greatescape.mp3||cinema staff - great escape (大逃亡)
+bgm_xianchuxinzang.mp3||Linked Horizon - 心臓を捧げよ! (TV Size) (献出心脏!(TV Size))
+bgm_youseebiggirl.mp3||澤野弘之 (さわの ひろゆき) - YouSeeBIGGIRL/T:T
+bgm_zeroeclipse.mp3||澤野弘之 (さわの ひろゆき) - Zero Eclipse

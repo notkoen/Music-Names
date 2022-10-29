@@ -1,0 +1,7 @@
+music/hichatu/dystopia/carpenter_brut_turbo_killer.mp3||Carpenter Brut - Turbo Killer
+music/hichatu/dystopia/corvad_tesla.mp3||Corvad - Tesla
+music/hichatu/dystopia/cyberpunk2077_come_close.mp3||Cyberpunk2077 OST - Come Close
+music/hichatu/dystopia/i_am_the_night_perturbator.mp3||Perturbator - I Am the Night
+music/hichatu/dystopia/perturbator_future_club.mp3||Perturbator - Future Club
+music/hichatu/dystopia/perturbator_technoir.mp3||Perturbator - Technoir (feat. Noir Deco)
+music/hichatu/dystopia/secret_music.mp3||Carpenter Brut - Turbo Killer (Gachi Version) 

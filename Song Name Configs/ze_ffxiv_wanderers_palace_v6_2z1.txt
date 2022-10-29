@@ -1,0 +1,15 @@
+lishang/music/wanderers_62/easy_2.mp3||FFXIV OST - A Fine Death
+lishang/music/wanderers_62/easy_3.mp3||FFXIV OST - Imagination
+lishang/music/wanderers_62/extreme_1.mp3||FFXIV OST - 天つ雷 ～白虎前哨戦～(Answer on High)
+lishang/music/wanderers_62/extreme_2.mp3||FFXIV OST - 千年の誰そ彼 ～朱雀征魂戦～(Sunset)
+lishang/music/wanderers_62/extreme_3.mp3||FFXIV OST - 千年の暁 ～朱雀征魂戦～(Sunrise)
+lishang/music/wanderers_62/extreme_4.mp3||Aimer - STAND-ALONE
+lishang/music/wanderers_62/hard_1.mp3||NieR Automata - Crumbling Lies Front
+lishang/music/wanderers_62/hard_2_1.mp3||FFXIV OST - Fallen Angel(From astral to umbral)
+lishang/music/wanderers_62/hard_2_2.mp3||FFXIV OST - Primal Judgment(From astral to umbral)
+lishang/music/wanderers_62/hard_2_3.mp3||FFXIV OST - Under the Weight
+lishang/music/wanderers_62/hard_3.mp3||Unveil - Powerless
+lishang/music/wanderers_62/normal_1.mp3||FFXIV OST - A land Long Dead
+lishang/music/wanderers_62/refrain_1.mp3||Aimer - Wonderland
+lishang/music/wanderers_62/refrain_2.mp3||FFXIV OST - Ultima(Orchestral Version)
+lishang/music/wanderers_62/refrain_3.mp3||Aimer - Cold Rain
