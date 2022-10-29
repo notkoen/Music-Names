@@ -25,6 +25,7 @@ DVC | 13 | 1300 | 0
 Watdoink | 10 | 1000 | 0
 Chong0074 | 7 | 700 | 0
 WhiteCat | 7 | 700 | 0
+koen | 7 | 700 | 0
 Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
 tapch0w | 6 | 600 | 0
@@ -32,7 +33,6 @@ BAN | 4 | 400 | 0
 Heavy | 4 | 400 | 0
 Tsukasa | 4 | 400 | 0
 kaomunkai | 3 | 300 | 0
-koen | 3 | 300 | 0
 KingMagress | 3 | 300 | 0
 WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 0
@@ -281,7 +281,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_FORiUS_just_RUN_p2
 - :white_check_mark: ze_forsaken_temple_v3_b5 `Detroid`
 - :x: ze_freespace_ultimate_b4
-- :x: ze_frostdrake_tower_v1 `Heavy`
+- :white_check_mark: ze_frostdrake_tower_v1 `Heavy`
 - :white_check_mark: ze_frozen_abyss_v1_2 `Bomberman`
 - :white_check_mark: ze_frozentemple_rc1_1 `Bomberman`
 - :x: ze_funny_runner_v3_1
@@ -366,9 +366,10 @@ Beppu | 1 | 100 | 0
 - :x: ze_l0v0l_v1_4_csgo2
 - :x: ze_l4d2_c1m3_mall_csgo_v0_3_le
 - :x: ze_laser_island_b6_8
-- :white_check_mark: ze_last_man_standing_csgo3
-- :white_check_mark: ze_last_man_standing_h2
-- :white_check_mark: ze_Last_Man_Standing_v6_T3
+- :white_check_mark: ze_last_man_standing_csgo3 `koen`
+- :white_check_mark: ze_last_man_standing_h2 `koen`
+- :white_check_mark: ze_last_man_standing_p2 `koen`
+- :white_check_mark: ze_Last_Man_Standing_v6_T3 `koen`
 - :x: ze_legends_of_dawn_v1_6
 - :x: ze_legoland_crackheads_p2
 - :x: ze_lemonysnickets_p2

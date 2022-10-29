@@ -1,0 +1,17 @@
+music/extreme_new_new/e_stage_1_midt.mp3||The Bloody Beetroots - Rocksteady
+music/extreme_new_new/e_stage_1_start.mp3||The Prodigy - Omen
+music/extreme_new_new/e_stage_2_mid.mp3||The Prodigy - Invaders Must Die
+music/extreme_new_new/e_stage_2_start.mp3||Pendulum - The Vulture
+music/extreme_new_new/e_stage_3_boss.mp3||Pendulum - Self vs Self
+music/extreme_new_new/e_stage_3_start.mp3||Pendulum - Immunize (ft. Liam Howlett)
+music/extreme_new_new/e_stage_4_end.mp3||Pendulum - The Catalyst
+music/extreme_new_new/e_stage_4_mid.mp3||The Qemists - Stompbox
+music/extreme_new_new/e_stage_4_start.mp3||Pendulum - Crush
+music/extreme_new_new/e_stage_5_end_bad.mp3||Pendulum - Encoder
+music/extreme_new_new/e_stage_5_end_good_1.mp3||Pendulum - The Other Side
+music/extreme_new_new/e_stage_5_end_good_2.mp3||Pendulum - The Other Side
+music/extreme_new_new/e_stage_5_end_good_2_extra.mp3||Pendulum - The Other Side
+music/extreme_new_new/e_stage_5_start.mp3||Madeon - Finale (Netsky Remix)
+music/extreme_new_new/e_stage_5_top.mp3||Pendulum - Witchcraft x Watercolour (Mashup)
+music/extreme_new_new/e_stage_5_top2.mp3||Pendulum - The Tempest (Live at Brixton Academy)
+music/extreme_new_new/stage_0_supreme_victory.mp3||Imagine Dragons - On Top of the World
