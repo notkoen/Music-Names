@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-241 | Completed Song Configs
+249 | Completed Song Configs
 
 ## Leaderboard
 
@@ -29,6 +29,7 @@ koen | 8 | 800 | 0
 Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
 tapch0w | 6 | 600 | 0
+Hibiki | 6 | 600 | 0
 BAN | 4 | 400 | 0
 Heavy | 4 | 400 | 0
 Tsukasa | 4 | 400 | 0
@@ -38,11 +39,11 @@ Hichatu | 3 | 300 | 0
 WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 0
 TuPu | 2 | 200 | 0
-Hibiki | 3 | 300 | 0
 Sprinuts | 1 | 100 | 0
 ShiroNeko | 1 | 100 | 0
 Berke | 1 | 100 | 0
 Beppu | 1 | 100 | 0
+Chinny | 1 | 100 | 0
 
 ## Map(s)
 
@@ -219,6 +220,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_egyptian_b5
 - :x: ze_einstein_v7
 - :x: ze_elork_ok3ng3se5_v1_3
+- :white_check_mark: ze_endemic_v1_1 `Chinny`
 - :x: ze_ep2_plant_b1
 - :x: ze_epic_escape_v2_1
 - :x: ze_error_a0_ps
@@ -581,7 +583,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_shaurma_v3_b07_t5_hdr2
 - :x: ze_showdown_v4_1_p
 - :x: ze_shrine_of_umos_b3
-- :x: ze_shroomforest2_p6
+- :white_check_mark: ze_shroomforest2_p6 `Hibiki`
 - :white_check_mark: ze_shroomforest3_p `tapch0w`
 - :x: ze_shroomforest_p6
 - :x: ze_siberia_1990_v1_2c_p5
@@ -612,7 +614,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_Stalker_Ultimate_v2_3_gg
 - :x: ze_stalker_ultimate_v4_9
 - :x: ze_stalkermonolit_v8gofix1
-- :x: ze_star_wars_prequel_f1
+- :white_check_mark: ze_star_wars_prequel_f1 `Hibiki`
 - :x: ze_stargate_escape_v8_p2
 - :x: ze_starwars_v2fix_csgo3
 - :x: ze_stilshrine_of_miriam_v5_1
@@ -660,7 +662,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_thelostworld_redux_p2
 - :x: ze_thousand_steps_go1
 - :white_check_mark: ze_three_eyes_v1_1 `Tsukasa`
-- :x: ze_thriller_escape_p
+- :white_check_mark: ze_thriller_escape_p `Hibiki`
 - :x: ze_tibia_v4_2
 - :white_check_mark: ze_tilex_ultimate_v2_13_gf1_5 `Beppu`
 - :white_check_mark: ze_timesink_v1_2
