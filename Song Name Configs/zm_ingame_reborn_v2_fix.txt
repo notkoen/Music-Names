@@ -1,1 +1,1 @@
-/music/zr/zm_ingame sl2_used.mp3||Литерал Literal Silent Hill 2
+music/zr/zm_ingame sl2_used.mp3||Литерал Literal Silent Hill 2
