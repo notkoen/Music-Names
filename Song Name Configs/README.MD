@@ -2,54 +2,88 @@
 
 ## Info
 
-All song configs on Zeddy will be posted here so players who want to know the names of certain songs can easily look up what the songs are. You are always free to contribute to this library/project by joining our Discord server and sending configs there. Contributors will get an exclusive role and name color on our Discord server!
+All song configs on Zeddy will be posted here so players who want to know the song names of maps can easily look up what the songs are. You are always free to contribute to this library/project by joining our Discord server and sending configs there. Contributors will get an exclusive role and name color on our Discord server!
 
-## Statistics
+There is currently a `100 credits` reward per song contributed by players.
+
+## Config Count
 
 Count | Description
 --- | ---
-214 | Completed Song Configs
+237 | Completed Song Configs
+
+## Leaderboard
+
+Note: Some song configs have no author, so the leaderboard may be incorrect. If you spot one you made, notify us on Discord and we will update the github repository.
+
+Name | Songs Configs Made | Credit Reward | Paid Amount
+--- | --- | ---
+Bomberman | 65 | 6500 | 0
+Kiriya | 17 | 1700 | 0
+Detroid | 15 | 1500 | 0
+DVC | 13 | 1300 | 0
+Watdoink | 10 | 1000 | 0
+Chong0074 | 7 | 700 | 0
+WhiteCat | 7 | 700 | 0
+Owlfy | 6 | 600 | 0
+Cylops | 6 | 600 | 0
+tapch0w | 6 | 600 | 0
+BAN | 4 | 400 | 0
+Heavy | 4 | 400 | 0
+Tsukasa | 4 | 400 | 0
+kaomunkai | 3 | 300 | 0
+koen | 3 | 300 | 0
+KingMagress | 3 | 300 | 0
+WILD BANAN | 2 | 200 | 0
+tilgep | 2 | 200 | 0
+TuPu | 2 | 200 | 0
+Sprinuts | 1 | 100 | 0
+ShiroNeko | 1 | 100 | 0
+Berke | 1 | 100 | 0
+Beppu | 1 | 100 | 0
 
 ## Map(s)
 
-- :white_check_mark: dr_ffxxx_goudoubuwan_i7_b3
-- :white_check_mark: mg_azure
-- :white_check_mark: mg_four_towers_course_hdr
+- :white_check_mark: dr_ffxxx_goudoubuwan_i7_b3 `koen`
+- :white_check_mark: mg_azure `koen`
+- :white_check_mark: mg_four_towers_course_hdr `koen`
 - :x: mg_minecraft_temple_redux_dev1
 - :x: mg_minecraft_temple_v8en
 - :x: mg_morceau
 - :x: mg_rota_derp_v1_1_csgo2
 - :x: mg_ruinztrap_course_csgo
 - :x: mg_salazar_castle_part1
-- :white_check_mark: mg_serpentis_temple_csgo3
+- :white_check_mark: mg_serpentis_temple_csgo3 `Owlfy`
 - :x: mg_stone_of_destiny_td_csgo4
 - :x: mg_tower_defense_source_csgo3
 - :x: mg_twisted_towers_course_hdr
 - :x: ze_20_seconds_v6
-- :white_check_mark: ze_2012_p3
+- :white_check_mark: ze_2012_p3 `Kiriya`
 - :x: ze_2021_xmas_world_r
 - :x: ze_2554_v2
 - :x: ze_30_seconds__b21_p2
-- :white_check_mark: ze_666_crazy_escape_v2_4
+- :white_check_mark: ze_666_crazy_escape_v2_4 `Bomberman`
 - :x: ze_8bit_csgo2_fix
-- :white_check_mark: ze_A_E_S_T_H_E_T_I_C_v1_1
+- :white_check_mark: ze_A_E_S_T_H_E_T_I_C_v1_1 `Kiriya`
 - :x: ze_abandoned_industry_va2
 - :x: ze_abandoned_project_v1_2_csgo
-- :white_check_mark: ze_aepp_nano_grid2_v1h
+- :white_check_mark: ze_aepp_nano_grid2_v1h `Bomberman`
 - :x: ze_alchemy_b7
 - :x: ze_alien_mountain_escape_q2
-- :white_check_mark: ze_alien_shooter_gp1_3
+- :white_check_mark: ze_alien_shooter_gp1_3 `Kiriya`
 - :x: ze_alien_vs_predator_v6go_fix
 - :x: ze_alive_hardwired_v5
 - :white_check_mark: ze_amalgamation_v1_1
-- :white_check_mark: ze_ancient_wrath_v2_test27_cm1
+- :white_check_mark: ze_ancient_wrath_v2_test27_cm1 `Kiriya`
 - :x: ze_ancient_wrath_v2_test27_m5
 - :white_check_mark: ze_angelbeats_guild_a1_fix2
+- :white_check_mark: ze_animu_v1_2 `WILD BANAN`
 - :x: ze_antartika_p3
 - :x: ze_anzalone_v3_fix
 - :x: ze_aooka_v2_8_a
 - :white_check_mark: ze_Aooka_v3_t6
-- :white_check_mark: ze_aot_trost_v6_2
+- :white_check_mark: ze_aot_trost_v6_1 `Kiriya`
+- :white_check_mark: ze_aot_trost_v6_2 `Kiriya`
 - :x: ze_aot_trost_v7_1
 - :x: ze_aperturescience_p2
 - :x: ze_apocatastasis_v1_2
@@ -57,69 +91,69 @@ Count | Description
 - :x: ze_arcade_parade_b6
 - :x: ze_arctic_escape_p2
 - :x: ze_artika_base_v1_4
-- :white_check_mark: ze_ashen_keep_p
-- :white_check_mark: ze_asiangirl_mm11el4nu4cp2io1yv7_r_v7
-- :white_check_mark: ze_astral_v2_1_fix
+- :white_check_mark: ze_ashen_keep_p `Kiriya`
+- :white_check_mark: ze_asiangirl_mm11el4nu4cp2io1yv7_r_v7 `Bomberman`
+- :white_check_mark: ze_astral_v2_1_fix `DVC`
 - :x: ze_atix_apocalypse_p3
 - :x: ze_ATIX_panic_b3t_p
 - :x: ze_atix_panic_v1
 - :x: ze_atos_v2_3
-- :x: ze_attackontitan_trotster_v1_2
-- :white_check_mark: ze_Apollo_p2
+- :white_check_mark: ze_attackontitan_trotster_v1_2 `Heavy`
+- :white_check_mark: ze_Apollo_p2 `Owlfy`
 - :white_check_mark: ze_aurora_tower_v5
 - :white_check_mark: ze_aurora_tower_v6_6
 - :x: ze_Avalanche_Reboot_beta7_g3t
-- :white_check_mark: ze_aware_v1_2a
+- :white_check_mark: ze_aware_v1_2a `Tsukasa`
 - :x: ze_azathoth_v1_1
 - :x: ze_aztec_temple_p
 - :x: ze_aztecnoob_p2
 - :x: ze_banana_temple_v1_3
 - :x: ze_babylon_v2
-- :white_check_mark: ze_backrooms_p3
+- :white_check_mark: ze_backrooms_p3 `tilgep`
 - :x: ze_barrage_p2
-- :white_check_mark: ze_Bathroom_v2_5
+- :white_check_mark: ze_Bathroom_v2_5 `Bomberman`
 - :white_check_mark: ze_best_korea_v1
 - :x: ze_beyond_the_boundary_v1_5
 - :x: ze_binary_z4_1
 - :x: ze_bigfoot_escapeica_v3_4
-- :x: ze_biohazard2_rpd_004_p3_fix2
-- :white_check_mark: ze_biohazard2_sewer_004_p8
-- :white_check_mark: ze_biohazard3_nemesis_b5_2
-- :white_check_mark: ze_biohazard_manor_004_p4
-- :white_check_mark: ze_bioshock_v6_2_csgo7
-- :white_check_mark: ze_bisounours_party_p2
+- :white_check_mark: ze_biohazard2_rpd_004_p3_fix2 `Heavy`
+- :white_check_mark: ze_biohazard2_sewer_004_p8 `Kiriya`
+- :white_check_mark: ze_biohazard3_nemesis_b5_2 `Kiriya`
+- :white_check_mark: ze_biohazard_manor_004_p4 `Kiriya`
+- :white_check_mark: ze_bioshock_v6_2_csgo7 `Detroid`
+- :white_check_mark: ze_bisounours_party_p2 `Kiriya`
 - :x: ze_blackmesa_remix_p2
-- :white_check_mark: ze_blue_magic_castle_v3_1
-- :white_check_mark: ze_blue_zenith_v0_2
+- :white_check_mark: ze_blue_magic_castle_v3_1 `Kiriya`
+- :white_check_mark: ze_blue_zenith_v0_2 `Kiriya`
 - :x: ze_boacceho_p4
 - :x: ze_boatescape_extendido_p4
 - :x: ze_boatescape101_p
-- :white_check_mark: ze_Boatescape111_v1_1f
+- :white_check_mark: ze_Boatescape111_v1_1f `Kiriya`
 - :white_check_mark: ze_boatescape999_v5
-- :white_check_mark: ze_bowser_in_the_fire_sea_v1e_rs2
+- :white_check_mark: ze_bowser_in_the_fire_sea_v1e_rs2 `Bomberman`
 - :white_check_mark: ze_boredom_p
 - :x: ze_bp-infested-prison_p2
-- :white_check_mark: ze_Breakable_p3
-- :white_check_mark: ze_breezy_v4
-- :white_check_mark: ze_breezy_v5
-- :white_check_mark: ze_breezy_v5c
-- :white_check_mark: ze_breezy_v6
+- :white_check_mark: ze_Breakable_p3 `Bomberman`
+- :white_check_mark: ze_breezy_v4 `DVC`
+- :white_check_mark: ze_breezy_v5 `DVC`
+- :white_check_mark: ze_breezy_v5c `DVC`
+- :white_check_mark: ze_breezy_v6 `DVC`
 - :x: ze_bulhufas_a1_1
 - :x: ze_bunkerino_v1_3_3_final
 - :x: ze_candy_star_a3
 - :white_check_mark: ze_castle_bridge_v1_4
 - :white_check_mark: ze_castle_of_the_bladekeeper_b2
 - :x: ze_castlevania_64_v1_3_b9_go
-- :white_check_mark: ze_castlevania_p1_7
+- :white_check_mark: ze_castlevania_p1_7 `KingMagress`
 - :x: ze_ccc_ffvii_alien_reactor
 - :x: ze_ccc_floator_mislands_timantetrix_v2
 - :x: ze_ccc_toastersand_v2
 - :x: ze_chaos_v7_7
-- :white_check_mark: ze_check_b1_1f
+- :white_check_mark: ze_check_b1_1f `Tsukasa`
 - :x: ze_chemical_weapons_depot_v3_1
 - :x: ze_Chicken_Lords_Tower_ig1
 - :x: ze_chicken_ranch_v2_2
-- :white_check_mark: ze_christmas_infection_p2
+- :white_check_mark: ze_christmas_infection_p2 `KingMagress`
 - :white_check_mark: ze_chroma_v0_4_csgo5
 - :x: ze_chronus_a1
 - :x: ze_clockwork_v1d1
@@ -130,57 +164,55 @@ Count | Description
 - :x: ze_complex_va3
 - :white_check_mark: ze_conflict_v4_4
 - :x: ze_contradiction_spiral_a2_2
-- :white_check_mark: ze_copy_escape_v2_3
+- :white_check_mark: ze_copy_escape_v2_3 `Bomberman`
 - :x: ze_COASTALCITY_b9
-- :white_check_mark: ze_core_v2b
+- :white_check_mark: ze_core_v2b `Bomberman`
 - :x: ze_corrupted_bridge_b1_3
 - :x: ze_covid_1984_v2_1
 - :x: ze_crashbandicoot_p3
-- :white_check_mark: ze_crazy_escape_v5_5_1
-- :white_check_mark: ze_crazykart_v4
+- :white_check_mark: ze_crazy_escape_v5_5_1 `Bomberman`
+- :white_check_mark: ze_crazykart_v4 `Owlfy`
 - :x: ze_crypt_v1_4
-- :white_check_mark: ze_cursed_bear_tales_v1_2
+- :white_check_mark: ze_cursed_bear_tales_v1_2 `Bomberman`
 - :x: ze_cursed_ruins_gf1_1
 - :x: ze_CV_LOSII_Castle_Siege_b4
 - :x: ze_CYBERDERP_p3_KIA
 - :white_check_mark: ze_cyberia_v1
-- :white_check_mark: ze_cyberpunk_x_a07
-- :white_check_mark: ze_dangerous_waters_v2_final
-- :white_check_mark: ze_dangerous_waters_xmas_v2_4
+- :white_check_mark: ze_cyberpunk_x_a07 `Chong0074`
+- :white_check_mark: ze_dangerous_waters_v2_final `Bomberman`
+- :white_check_mark: ze_dangerous_waters_xmas_v2_4 `DVC`
 - :x: ze_danmaku_v1_5
 - :x: ze_dark_catharsis_v1_2
-- :white_check_mark: ze_dark_souls_ptd_csgo2
+- :white_check_mark: ze_dark_souls_ptd_csgo2 `Chong0074`
 - :x: ze_Dead_Planet_Escape_b10
-- :white_check_mark: ze_deadcore_s7f2
-- :x: ze_deadcore_v1_3
-- :x: ze_deadcore_v1_3_f
+- :white_check_mark: ze_deadcore_s7f2 `BAN`
 - :x: ze_deadly_crash_a2
-- :x: ze_dear_v1
+- :white_check_mark: ze_dear_v1 `DVC`
 - :x: ze_death_star_escape_v4_3_p2
 - :x: ze_death_valley_b2
 - :x: ze_death_wish_gf1_1
 - :x: ze_Deathinvain_Palace_v2
 - :x: ze_deep_dream_v1_2
 - :x: ze_deepice_p3
-- :white_check_mark: ze_defense3003
+- :white_check_mark: ze_defense3003 `Bomberman`
 - :x: ze_descent_into_cerberon_v1
 - :x: ze_desert_fox_v7_6f
-- :white_check_mark: ze_Desperate_Soul_a9
+- :white_check_mark: ze_Desperate_Soul_a9 `Detroid`
 - :x: ze_destruction_of_exorath_v4_lite
 - :x: ze_dev_r4a_csgo4
 - :x: ze_dev_reprise_v1_0
 - :x: ze_diamond_cube_v1
 - :white_check_mark: ze_diddle_v3
-- :white_check_mark: ze_djinn_go1
-- :white_check_mark: ze_doom3_v2
+- :white_check_mark: ze_djinn_go1 `WhiteCat`
+- :white_check_mark: ze_doom3_v2 `Chong0074`
 - :x: ze_doom_p2
 - :x: ze_draco_accidere_v4_final
 - :white_check_mark: ze_dreamin_v3_3
 - :x: ze_dungeon_of_ignorance_a1_2
 - :x: ze_dust_escape_p3
-- :x: ze_DYSTOPIA_a2
+- :x: ze_DYSTOPIA_a4 `Bomberman`
 - :x: ze_easy_escape_r
-- :white_check_mark: ze_eden_a3
+- :white_check_mark: ze_eden_a3 `Detroid`
 - :x: ze_elevator_escape_p3
 - :x: ze_egyptian_b5
 - :x: ze_einstein_v7
@@ -204,13 +236,13 @@ Count | Description
 - :x: ze_fapescape_rote_v1_3
 - :x: ze_farmhouse_v9f2
 - :x: ze_fartlocker_escape_v3
-- :white_check_mark: ze_fast_escape_p2
+- :white_check_mark: ze_fast_escape_p2 `Bomberman`
 - :x: ze_fe8_sacred_stones_v1_4
 - :x: ze_ffuxx_demon_naramina_a2
 - :x: ze_ffvii_cosmo_canyon_v4fix_ps5
-- :white_check_mark: ze_ffvii_cosmo_canyon_v5k_fix
+- :white_check_mark: ze_ffvii_cosmo_canyon_v5k_fix `WhiteCat`
 - :x: ze_ffvii_cosmo_canyon_v6test4
-- :white_check_mark: ze_ffvii_mako_reactor_v5_3_v5
+- :white_check_mark: ze_ffvii_mako_reactor_v5_3_v5 `Detroid`
 - :x: f1g_3_b5v_rotcaer_okam_iivff_ez
 - :x: ze_ffvii_mako_reactor_v6_b09k2
 - :x: ze_FFVII_Snow_Cosmo_v5_5f
@@ -218,18 +250,19 @@ Count | Description
 - :x: ze_ffxii_feywood_b6_3k
 - :x: ze_ffxii_moko_temple_v1_1_p2
 - :x: ze_FFXII_Mt_Bur_Omisace_v4c7
-- :white_check_mark: ze_FFXII_Mt_Bur_Omisace_v5_4fix4
+- :white_check_mark: ze_FFXII_Mt_Bur_Omisace_v5_4fix4 `WhiteCat`
 - :white_check_mark: ze_FFXII_Paramina_Rift_r4
-- :white_check_mark: ze_ffxii_ridorana_cataract_t5_3_w6
+- :white_check_mark: ze_ffxii_ridorana_cataract_t5_3_w6 `WhiteCat`
 - :white_check_mark: ze_FFXII_Salikawood_v1_6f
-- :white_check_mark: ze_FFXII_Westersand_v7_z9
-- :white_check_mark: ze_ffxii_westersand_v8zeta1_b5k
+- :white_check_mark: ze_FFXII_Westersand_v7_z9 `Bomberman`
+- :white_check_mark: ze_ffxii_westersand_v8zeta1_b5k `Bomberman`
 - :x: ze_ffxiv_coil_of_bahamut_v4_4
 - :white_check_mark: ze_FFXIV_Pharos_Sirius_v1_6
 - :x: ze_ffxiv_wanderers_palace_v2_va2
 - :x: ze_ffxiv_wanderers_palace_v4_va2
 - :white_check_mark: ze_FFXIV_Wanderers_Palace_v5_2
 - :white_check_mark: ze_FFXIV_Wanderers_Palace_v6
+- :white_check_mark: ze_FFXIV_Wanderers_Palace_v6_2z1 `TuPu`
 - :x: ze_fire_temple_v2_4
 - :x: ze_firewall_laboratory_part1_p2
 - :x: ze_firewall_laboratory_part2_p2
@@ -237,7 +270,7 @@ Count | Description
 - :x: ze_flower_a1_2
 - :x: ze_flowering_b10
 - :white_check_mark: ze_flying_world_p
-- :white_check_mark: ze_fond_dream_h4
+- :white_check_mark: ze_fond_dream_h4 `Watdoink`
 - :x: ze_forbidden_repository_a1_4
 - :x: ze_foreign_sand_mix_v2_fix
 - :x: ze_forest_r_v1
@@ -246,32 +279,33 @@ Count | Description
 - :x: ze_forgotten_facility_p3
 - :x: ze_forhidden_slicoo_v5
 - :x: ze_FORiUS_just_RUN_p2
-- :white_check_mark: ze_forsaken_temple_v3_b5
+- :white_check_mark: ze_forsaken_temple_v3_b5 `Detroid`
 - :x: ze_freespace_ultimate_b4
-- :x: ze_frostdrake_tower_v1
-- :white_check_mark: ze_frozen_abyss_v1_2
-- :white_check_mark: ze_frozentemple_rc1_1
+- :x: ze_frostdrake_tower_v1 `Heavy`
+- :white_check_mark: ze_frozen_abyss_v1_2 `Bomberman`
+- :white_check_mark: ze_frozentemple_rc1_1 `Bomberman`
 - :x: ze_funny_runner_v3_1
 - :x: ze_games_v2_1
-- :white_check_mark: ze_genso_of_last_v3_4_t1
-- :white_check_mark: ze_geometric_v1_4
-- :white_check_mark: ze_give_it_a_name_test4
+- :white_check_mark: ze_genso_of_last_v3_4_t1 `Detroid`
+- :white_check_mark: ze_geometric_v1_4 `Detroid`
+- :white_check_mark: ze_give_it_a_name_test4 `Bomberman`
 - :x: ze_gods_wrath_p2
 - :x: ze_golubenkaya_meow_v1_2
 - :x: ze_got_the_north_csgo3
 - :x: ze_grand_boatescape_p3
 - :white_check_mark: ze_grau_a03_4ff
-- :x: ze_greece_escape_p
+- :white_check_mark: ze_greece_escape_p `Bomberman`
 - :x: ze_greencity_fix
 - :x: ze_grey_world_v1
+- :white_check_mark: ze_greyplace_v1_2 `DVC`
 - :x: ze_gris_a4_9_8
 - :white_check_mark: ze_gris_v1_13
-- :white_check_mark: ze_halloween_house_b4
+- :white_check_mark: ze_halloween_house_b4 `Bomberman`
 - :x: ze_halloween_mystery_v1
 - :x: ze_halo_p3
 - :x: ze_halo_poa_p4
 - :x: ze_harry_potter_v2_1_csgo
-- :x: ze_haunted_lab_escape_p3
+- :white_check_mark: ze_haunted_lab_escape_p3 `Bomberman`
 - :x: ze_hazard_escape_p2
 - :x: ze_hell_escape_p2
 - :x: ze_hidden_fortress_p
@@ -282,9 +316,9 @@ Count | Description
 - :x: ze_hold_em_v8
 - :white_check_mark: ze_honkai_impact_3rd_babel_v1_55
 - :white_check_mark: ze_honkai_impact_3rd_cyberpunk_cityv26_7
-- :x: ze_honkai_nagazoracity_beta_4
+- :white_check_mark: ze_honkai_nagazoracity_beta_4 `Bomberman`
 - :x: ze_horizon_sky_escape_v2
-- :white_check_mark: ze_hsc_a4_q3
+- :white_check_mark: ze_hsc_a4_q3 `WhiteCat`
 - :white_check_mark: ze_hydroponic_garden_v1_1
 - :x: ze_hypernova_p2
 - :x: ze_iamlegend_p3
@@ -294,10 +328,10 @@ Count | Description
 - :x: ze_iceland_escape_v1_2
 - :x: ze_iceworld_athletic_b4_5
 - :x: ze_illusory_world_v4_5
-- :white_check_mark: ze_illya_b4_csgo_a3
+- :white_check_mark: ze_illya_b4_csgo_a3 `tilgep`
 - :x: ze_inboxed_final_fix
 - :x: ze_in_a_dream_oh1tn6_v1_2
-- :white_check_mark: ze_indiana_jones_v4a_004_p4
+- :white_check_mark: ze_indiana_jones_v4a_004_p4 `Bomberman`
 - :x: ze_industrial_dejavu_p3
 - :x: ze_infected_sewers_csgo
 - :x: ze_infected_tramway_csgo1
@@ -309,20 +343,20 @@ Count | Description
 - :x: ze_isla_nublar_p3
 - :x: ze_island_escape_p3
 - :x: ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3
-- :white_check_mark: ze_italy_town_p2
+- :white_check_mark: ze_italy_town_p2 `Bomberman`
 - :x: ze_jamais_vu_b2
 - :white_check_mark: ze_jerry_malaka_escape_v2fix
-- :white_check_mark: ze_jiangnan_town_v3
+- :white_check_mark: ze_jiangnan_town_v3 `Bomberman`
 - :x: ze_jiba_journey_v4_3
-- :white_check_mark: ze_jjba_v7
+- :white_check_mark: ze_jjba_v7 `KingMagress`
 - :x: ze_johnny_nukem_go_b8_3a
-- :white_check_mark: ze_journey_p2
+- :white_check_mark: ze_journey_p2 `Chong0074`
 - :x: ze_jurassicPark_Escape_p2
 - :x: ze_JurassicPark_p3
 - :x: ze_K19_escape_go1
 - :x: ze_kaffe_escape_v2
 - :x: ze_kage_a3
-- :white_check_mark: ze_Kitchen_v2
+- :white_check_mark: ze_Kitchen_v2 `Bomberman`
 - :x: ze_Knife_Stray_v3
 - :x: ze_komatsu_v3
 - :x: ze_kororinpa_v2_2
@@ -340,9 +374,9 @@ Count | Description
 - :x: ze_lemonysnickets_p2
 - :x: ze_licciana_escape_p
 - :x: ze_licciana_escape_zrgbr_b3
-- :white_check_mark: ze_light_retribution_v1_k2
+- :white_check_mark: ze_light_retribution_v1_k2 `DVC`
 - :x: ze_light_escape_ta3_1
-- :white_check_mark: ze_light_shadow_L1_4
+- :white_check_mark: ze_light_shadow_L1_4 `BAN`
 - :x: ze_light_v7_csgo_tk13_v5_2fix
 - :x: ze_lightnight_v1_4fix_hdr
 - :x: ze_lila_panic_escape_v3_3
@@ -353,12 +387,12 @@ Count | Description
 - :x: ze_LOTR_Helms_Deep_v5_p6
 - :x: ze_lotr_isengard_csgo1
 - :x: ze_LOTR_Laketown_v3_3
-- :white_check_mark: ze_LOTR_Minas_TIret_p2
-- :white_check_mark: ze_lotr_minas_tirith_p5
-- :white_check_mark: ze_LOTR_Mines_of_Moria_p2
+- :white_check_mark: ze_LOTR_Minas_TIret_p2 `Bomberman`
+- :white_check_mark: ze_lotr_minas_tirith_p5 `Bomberman`
+- :white_check_mark: ze_LOTR_Mines_of_Moria_p2 `Bomberman`
 - :x: ze_LOTR_Mirkwood_v2_5
 - :x: ze_LOTR_Mount_Doom_p3
-- :x: ze_luciddreams_f5_7
+- :white_check_mark: ze_luciddreams_f5_7 `Heavy`
 - :x: ze_luciddreams_v3_82x
 - :x: ze_luck_matters_v3x
 - :white_check_mark: ze_lucy_escape_v1
@@ -375,21 +409,22 @@ Count | Description
 - :x: ze_mapeadores_museum_v1
 - :x: ze_mario_tower_v4_p2
 - :x: ze_mars_escape_gp3
-- :white_check_mark: ze_meatropolis_p2
+- :white_check_mark: ze_meatropolis_p2 `tapch0w`
 - :x: ze_melong_dow_learjet_gp1
 - :x: ze_metro2033_v1_fix_f1
-- :x: ze_mgden_v2_5fix
+- :white_check_mark: ze_mgden_v2_5fix
+- :white_check_mark: ze_mgden_y3_fix `tapch0w`
 - :x: ze_military_escape_p4
 - :x: ze_MindTree_v1_6
-- :white_check_mark: ze_minecraft_adventure_v1_3d
+- :white_check_mark: ze_minecraft_adventure_v1_3d `Bomberman`
 - :x: ze_minecraft_minigames_v7
-- :white_check_mark: ze_minecraft_universe_v1_5
-- :white_check_mark: ze_minecraft_v1_1_p3
+- :white_check_mark: ze_minecraft_universe_v1_5 `Bomberman`
+- :white_check_mark: ze_minecraft_v1_1_p3 `Bomberman`
 - :white_check_mark: ze_minimal_csgo
-- :white_check_mark: ze_Mirrors_Edge_Reborn_p3
-- :white_check_mark: ze_misaka2_v1_3
-- :white_check_mark: ze_misaka_v1ff
-- :white_check_mark: ze_mist_q3
+- :white_check_mark: ze_Mirrors_Edge_Reborn_p3 `kaomunkai`
+- :white_check_mark: ze_misaka2_v1_3 `Detroid`
+- :white_check_mark: ze_misaka_v1ff `WhiteCat`
+- :white_check_mark: ze_mist_q3 `Detroid`
 - :x: ze_Mixture_3de_v1f2_g1t
 - :x: ze_mlgsurf_v1_3_4
 - :x: ze_mochi_island_f6
@@ -404,20 +439,20 @@ Count | Description
 - :white_check_mark: ze_naiads_v4a_6f
 - :x: ze_nameless_necropolis_v3
 - :x: ze_namviet_gf1_1
-- :white_check_mark: ze_Naruto_p
-- :white_check_mark: ze_natural_v1_4
+- :white_check_mark: ze_Naruto_p `Sprinuts`
+- :white_check_mark: ze_natural_v1_4 `DVC`
 - :x: ze_necromanteion_v3_1
-- :white_check_mark: ze_negative_legacy_va2
+- :white_check_mark: ze_negative_legacy_va2 `Detroid`
 - :x: ze_neglected_v2_2
 - :x: ze_neko_canyon_p3
-- :white_check_mark: ze_neochrome_csgo3a
+- :white_check_mark: ze_neochrome_csgo3a `tapch0w`
 - :x: ze_new_crazy_escape_v4_1
 - :white_check_mark: ze_nibui_m
-- :x: ze_nightmare_dimension_p3
+- :white_check_mark: ze_nightmare_dimension_p3 `Bomberman`
 - :x: ze_no_name_v1_6
 - :x: ze_no_title_v2_5
 - :x: ze_noir_p
-- :white_check_mark: ze_nomada_h3
+- :white_check_mark: ze_nomada_h3 `tapch0w`
 - :x: ze_noob_too_easy_v1_2_2
 - :x: ze_noob_too_easy_v3_2fix
 - :x: ze_nora_v1_11
@@ -427,21 +462,21 @@ Count | Description
 - :x: ze_nuke_p5
 - :x: ze_NY_marathon_p2
 - :x: ze_oblivion_castle_v6
-- :x: ze_obj_npst_v2
+- :white_check_mark: ze_obj_npst_v2
 - :x: ze_Obj_Rampage_v1_2
 - :x: ze_obj_vertigo_v3_1
 - :x: ze_ocean_base_escape_p2
-- :white_check_mark: ze_offliner_v2_csgo1
+- :white_check_mark: ze_offliner_v2_csgo1 `WhiteCat`
 - :x: ze_omega_p3
 - :x: ze_omen_090
 - :x: ze_omochi_b10
 - :white_check_mark: ze_omochix_v3_2fix
 - :x: ze_onahole_v3_3_3
-- :white_check_mark: ze_oneiros_p
+- :white_check_mark: ze_oneiros_p `Bomberman`
 - :x: ze_oot_shadowtemple_b10
 - :x: ze_opti_variety_missions_p3
 - :x: ze_otakuroom_v5_6_ps
-- :x: ze_Outlast_v2_cm1_fix1
+- :white_check_mark: ze_Outlast_v2_cm1_fix1 `Bomberman`
 - :x: ze_outpost_escape_k1
 - :x: ze_palace_adventure_v1_2
 - :x: ze_palace_of_minolila_v1
@@ -452,60 +487,62 @@ Count | Description
 - :x: ze_paradise_v2_csgo
 - :x: ze_paranoid_rezurrection_csgo1
 - :x: ze_parkers_pit_p
-- :white_check_mark: ze_Parking_p4
-- :white_check_mark: ze_PC_v1_2
-- :white_check_mark: ze_pd2_crime_art_v2
+- :white_check_mark: ze_Parking_p4 `Bomberman`
+- :white_check_mark: ze_PC_v1_2 `Bomberman`
+- :white_check_mark: ze_pd2_crime_art_v2 `Bomberman`
 - :x: ze_perplexity_v2
 - :x: ze_peter_mansion_v1_p5
 - :x: ze_phantasy_escape_p3
 - :x: ze_Pidaras_va2
-- :white_check_mark: ze_pirates_port_royal_v5_6
+- :white_check_mark: ze_pirates_port_royal_v5_6 `Bomberman`
 - :x: ze_pitchblack_p2
 - :x: ze_pizzatime_v9
 - :x: ze_pkmn_adventure_v9_3
-- :white_check_mark: ze_platformer_b6
+- :white_check_mark: ze_platformer_b6 `Bomberman`
 - :x: ze_pokemon_adventure_v1_1
 - :x: ze_Pokemon_Rivals_v1_8
-- :white_check_mark: ze_ponchermonkey_shooter_csgo1
+- :white_check_mark: ze_polyglot_f3 `DVC`
+- :white_check_mark: ze_ponchermonkey_shooter_csgo1 `Bomberman`
 - :x: ze_PoR_island_p3
-- :white_check_mark: ze_Portal_Story_p2
+- :white_check_mark: ze_Portal_Story_p2 `kaomunkai`
 - :x: ze_postal_v1_1
 - :x: ze_PotC_IV_p3
 - :x: ze_PotC_p4
 - :x: ze_Predator_Ultimate_p7
-- :white_check_mark: ze_project_alcaria_x2
-- :white_check_mark: ze_project_codex_a3_1
+- :white_check_mark: ze_project_alcaria_x2 `Bomberman`
+- :white_check_mark: ze_project_codex_a3_1 `Chong0074`
+- :x: ze_project_codex_v1_2
 - :x: ze_prototype_p2
 - :x: ze_puta_p3
 - :x: ze_purgatorium_m
-- :white_check_mark: ze_qaz_defend_part2_ji1mm1_beta3
-- :white_check_mark: ze_quiver_v2a_f1
-- :white_check_mark: ze_R_W_B_ulti
-- :white_check_mark: ze_Rabanastre_Royal_t5
-- :white_check_mark: ze_raccoon_facility_v6b_p
+- :white_check_mark: ze_qaz_defend_part2_ji1mm1_beta3 `Bomberman`
+- :white_check_mark: ze_quiver_v2a_f1 `Detroid`
+- :white_check_mark: ze_R_W_B_ulti `ShiroNeko`
+- :white_check_mark: ze_Rabanastre_Royal_t5 `BAN`
+- :white_check_mark: ze_raccoon_facility_v6b_p `Bomberman`
 - :x: ze_rainbow_factory_v2
 - :x: ze_raintime1_torontoisland_v5x
-- :white_check_mark: ze_raintime2_stormwindkeep_v3
+- :white_check_mark: ze_raintime2_stormwindkeep_v3 `Detroid`
 - :x: ze_raintimex_code0_v6n
-- :white_check_mark: ze_ramp_a1_1
+- :white_check_mark: ze_ramp_a1_1 `Bomberman`
 - :x: ze_random_escape_gp5
 - :x: ze_randomizer_c1
 - :x: ze_Ratescape_v5_4
 - :x: ze_rawnscape_csgo
 - :x: ze_re_creation_v2_25
 - :x: ze_re_surf_skyline_b0_11
-- :white_check_mark: ze_realm_f3
+- :white_check_mark: ze_realm_f3 `Tsukasa`
 - :x: ze_reconnoiter_b5
 - :x: ze_retribution_pf
 - :x: ze_rev_a6_3
 - :white_check_mark: ze_Reverse_a03_f3
-- :x: ze_rien_beta
+- :white_check_mark: ze_rien_t2f3 `Detroid`
 - :x: ze_ripsuhdude_v1_6
 - :white_check_mark: ze_rizomata_va2
 - :x: ze_rockescape_go2_1
 - :x: ze_rollermine_factory_2010_p
 - :x: ze_ronald_v2
-- :white_check_mark: ze_roof_adventure_v8f
+- :white_check_mark: ze_roof_adventure_v8f `Cylops`
 - :x: ze_roof_adventure_v9
 - :x: ze_rooftop_madness_v1_9_csgo
 - :x: ze_Rooftop_Runaway1_p
@@ -513,23 +550,23 @@ Count | Description
 - :white_check_mark: ze_roscente_go1
 - :x: ze_RTCW_Ominous_Rumors_p4
 - :x: ze_rtv_one_more
-- :white_check_mark: ze_ruin_of_black_stone_v1
+- :white_check_mark: ze_ruin_of_black_stone_v1 `Owlfy`
 - :x: ze_ruin_of_black_stone_v2
-- :white_check_mark: ze_rush_B_v2_2
-- :white_check_mark: ze_S_A_M_v1_7
+- :white_check_mark: ze_rush_B_v2_2 `Bomberman`
+- :white_check_mark: ze_S_A_M_v1_7 `DVC`
 - :x: ze_sad_banana_b3
 - :x: ze_sakuzyo_b2
 - :x: ze_sam_hd_v1_fix
 - :x: ze_sandstorm_go_v1_5x3
-- :white_check_mark: ze_santassination_v3
-- :white_check_mark: ze_saw_p3
+- :white_check_mark: ze_santassination_v3 `Berke`
+- :white_check_mark: ze_saw_p3 `Bomberman`
 - :x: ze_sc_turtles_v5_p2
 - :x: ze_schizophrenic_c3
 - :x: ze_scp_containment_breach_v1_b02_cm4
 - :x: ze_seano_see_2g5
-- :white_check_mark: ze_sele_a2_1
+- :white_check_mark: ze_sele_a2_1 `Bomberman`
 - :x: ze_serious_sam_tfe_v2_6
-- :white_check_mark: ze_serpentis_temple_csgo5
+- :white_check_mark: ze_serpentis_temple_csgo5 `Bomberman`
 - :x: ze_SEVIIEN_a1
 - :x: ze_sewage_processing_v8
 - :x: ze_sewer_escape_p3
@@ -541,23 +578,23 @@ Count | Description
 - :x: ze_showdown_v4_1_p
 - :x: ze_shrine_of_umos_b3
 - :x: ze_shroomforest2_p6
-- :white_check_mark: ze_shroomforest3_p
+- :white_check_mark: ze_shroomforest3_p `tapch0w`
 - :x: ze_shroomforest_p6
 - :x: ze_siberia_1990_v1_2c_p5
 - :white_check_mark: ze_silent_hill_blackblood_f6
-- :white_check_mark: ze_silent_hill_2_illusion_b5
-- :white_check_mark: ze_silent_hill_3_dawn_v2
-- :x: ze_silent_hill_3_flee_v4
+- :white_check_mark: ze_silent_hill_2_illusion_b5 `Bomberman`
+- :white_check_mark: ze_silent_hill_3_dawn_v2 `Bomberman`
+- :white_check_mark: ze_silent_hill_3_flee_v4 `Bomberman`
 - :white_check_mark: ze_sit_caelum_paradisus_b7_hdr
 - :white_check_mark: ze_skill_escape_v09
 - :x: ze_sky_athletic_adv_v9_13
 - :x: ze_sky_creamus_v2
 - :white_check_mark: ze_sky_fantasy_v1_6
-- :white_check_mark: ze_sky_fantasy_v2_1
+- :white_check_mark: ze_sky_fantasy_v2_1 `Bomberman`
 - :x: ze_sky_journey_v8
 - :white_check_mark: ze_skygarden_v2_1
 - :x: ze_Skyscraper_city_r2
-- :white_check_mark: ze_slender_escape_rc2
+- :white_check_mark: ze_slender_escape_rc2 `Bomberman`
 - :x: ze_small_town_b1
 - :x: ze_snowescape_gp1
 - :x: ze_solgryn_v2
@@ -565,7 +602,7 @@ Count | Description
 - :x: ze_space_flight_p3
 - :x: ze_space_station_csgo
 - :x: ze_spooktipo_a3
-- :white_check_mark: ze_squid_game_v1
+- :white_check_mark: ze_squid_game_v1 `Cylops`
 - :x: ze_sst_b2_1_p5
 - :x: ze_sst2_p
 - :x: ze_Stalker_Ultimate_v2_3_gg
@@ -578,25 +615,25 @@ Count | Description
 - :x: ze_stilshrine_of_miriam_v7_2fix
 - :x: ze_STRANGE_escape_p2
 - :white_check_mark: ze_suchirifu_v3_1
-- :white_check_mark: ze_SUMAI_facility_v1a
+- :white_check_mark: ze_SUMAI_facility_v1a `Bomberman`
 - :x: ze_sunkentemple_v3_1
-- :white_check_mark: ze_sunlight_p2
+- :white_check_mark: ze_sunlight_p2 `Kiriya`
 - :x: ze_supershitshow_a2
 - :x: ze_surf_bona_v1_3
-- :white_check_mark: ze_surf_danger_p2
-- :white_check_mark: ze_surf_dark_fantasy_v2go2
+- :white_check_mark: ze_surf_danger_p2 `Cylops`
+- :white_check_mark: ze_surf_dark_fantasy_v2go2 `kaomunkai`
 - :x: ze_surf_easy_v1_3
-- :white_check_mark: ze_surf_facility_p4
+- :white_check_mark: ze_surf_facility_p4 `Bomberman`
 - :white_check_mark: ze_surf_ffxiv_beachescape_camper_isengard_laser_mako
-- :white_check_mark: ze_surf_froyo_lite_v2_2
-- :white_check_mark: ze_surf_froyo_v2_2
+- :white_check_mark: ze_surf_froyo_lite_v2_2 `Cylops`
+- :white_check_mark: ze_surf_froyo_v2_2 `Cylops`
 - :x: ze_surf_last_point_v1_5
 - :x: ze_surf_gypt_v2r1
-- :x: ze_surf_happy_b7
-- :white_check_mark: ze_surf_inferno_v2_22
+- :white_check_mark: ze_surf_happy_b7 `Bomberman`
+- :white_check_mark: ze_surf_inferno_v2_22 `Kiriya`
 - :x: ze_surf_next_step_v1_4
 - :x: ze_surf_outside_b1_10
-- :white_check_mark: ze_surf_sahok_p3
+- :white_check_mark: ze_surf_sahok_p3 `Cylops`
 - :white_check_mark: ze_surf_saltfish_csgo4
 - :x: ze_surf_shonyudo_v1_2_fix
 - :x: ze_surf_shonyudo_v5_2
@@ -608,41 +645,43 @@ Count | Description
 - :x: ze_temple_of_the_demon_god_v2
 - :x: ze_temple_raider_b4_ps6
 - :x: ze_Temple_Run_v5
-- :white_check_mark: ze_tenkinoko_welkin_v1_6f
-- :white_check_mark: ze_tesv_skyrim_v5_6
+- :white_check_mark: ze_tenkinoko_welkin_v1_6f `TuPu`
+- :white_check_mark: ze_tesv_skyrim_v5_6 `Owlfy`
 - :x: ze_texturescape_p2
 - :x: ze_the_curse_of_blackwater_v6b
 - :x: ze_the_end_v3f
-- :x: ze_the_last_chapter_v1_5
-- :x: ze_the_new_era_of_crazy_escape_b8
+- :x: ze_the_last_chapter_v1_5 `Bomberman`
+- :x: ze_the_new_era_of_crazy_escape_b8 `Bomberman`
 - :x: ze_the_twilight_zone_v1
 - :x: ze_thelostworld_redux_p2
 - :x: ze_thousand_steps_go1
-- :white_check_mark: ze_three_eyes_v1_1
+- :white_check_mark: ze_three_eyes_v1_1 `Tsukasa`
 - :x: ze_thriller_escape_p
 - :x: ze_tibia_v4_2
-- :white_check_mark: ze_tilex_ultimate_v2_13_gf1_5
+- :white_check_mark: ze_tilex_ultimate_v2_13_gf1_5 `Beppu`
 - :white_check_mark: ze_timesink_v1_2
 - :x: ze_timesplitters_p2
 - :x: ze_titanic_escape_v2_3_fix1
 - :x: ze_tkara_v4_3
 - :x: ze_tloz_stone_tower_temple_v1_4e
 - :x: ze_toaster_p3
-- :white_check_mark: ze_totally_new_wester_w3
-- :white_check_mark: ze_Totemo_Roka_v1
-- :white_check_mark: ze_touhou_gensokyo_o4
-- :x: ze_toy_world_final
-- :white_check_mark: ze_traak_b2
-- :white_check_mark: ze_tracing_that_dream_a2_2
+- :white_check_mark: ze_totally_new_wester_w3 `Bomberman`
+- :white_check_mark: ze_Totemo_Roka_v1 `tapch0w`
+- :white_check_mark: ze_touhou_gensokyo_o4 `Owlfy`
+- :white_check_mark: ze_toy_world_final `Watdoink`
+- :white_check_mark: ze_traak_b2 `Bomberman`
+- :white_check_mark: ze_tracing_that_dream_a2_2 `Detroid`
 - :x: ze_trainescape_final_p2
 - :x: ze_trainstation_tunnels_p
-- :white_check_mark: ze_trials_v3_test
+- :white_check_mark: ze_trials_v3_test `Detroid`
 - :x: ze_tropico_escape_gf1_1
 - :x: ze_turokbase_p3
 - :x: ze_TV_station_r4
 - :x: ze_tyranny2_v1_csgo2
-- :white_check_mark: ze_tyranny_v5_go3
-- :white_check_mark: ze_Uchiha_Legacy_cm2_fix
+- :white_check_mark: ze_tyranny_v5_go3 `Bomberman`
+- :white_check_mark: ze_ubermenschen_b2 `DVC`
+- :white_check_mark: ze_Uchiha_Legacy_cm2_fix `BAN`
+- :white_check_mark: ze_ultimate_cancer_v1_2 `WILD BANAN`
 - :x: ze_undercave_es_mi_v1_5
 - :x: ze_underground_escape_p
 - :x: ze_undersea_temple_a4_4
@@ -655,8 +694,8 @@ Count | Description
 - :x: ze_UT2004_Convoy_r5
 - :x: ze_uyuni_v1_6
 - :x: ze_v0u0v_csgo1
-- :white_check_mark: ze_valkvang_v1_2
-- :white_check_mark: ze_venice_escape_p3
+- :white_check_mark: ze_valkvang_v1_2 `Chong0074`
+- :white_check_mark: ze_venice_escape_p3 `Bomberman`
 - :x: ze_vertigo_militia_b1_3_14
 - :x: ze_vietnam_p3
 - :white_check_mark: ze_visualizer_v1_2
@@ -667,8 +706,8 @@ Count | Description
 - :x: ze_world_escapes_v1
 - :x: ze_worlds_v1_2
 - :white_check_mark: ze_yueyingchuanshuo_10_8_f4
-- :white_check_mark: ze_yueyingchuanshuo_10_9_f3
-- :white_check_mark: ze_yurilnier_beta007_hdr
+- :white_check_mark: ze_yueyingchuanshuo_10_9_f3 `Chong0074`
+- :white_check_mark: ze_yurilnier_beta007_hdr `Bomberman`
 - :x: ze_zakum
 - :x: ze_zk_mall_of_zombies_p2
 - :x: ze_zombiemod_corporation_p2
@@ -677,14 +716,14 @@ Count | Description
 - :x: zm_16chambres_fix2
 - :x: zm_assault16
 - :x: zm_base_day
-- :white_check_mark: zm_black-gs_tower
+- :white_check_mark: zm_black-gs_tower `Watdoink`
 - :x: zm_blockcity_v2
-- :white_check_mark: zm_broken_fort_revo_v1_4
-- :white_check_mark: zm_bullet_infected_fix2
+- :white_check_mark: zm_broken_fort_revo_v1_4 `Watdoink`
+- :white_check_mark: zm_bullet_infected_fix2 `Watdoink`
 - :x: zm_camper_indian_csgo_refix
 - :x: zm_catalyst_meow_v5
 - :x: zm_chicken_factory
-- :white_check_mark: zm_day_lego_v2_x1
+- :white_check_mark: zm_day_lego_v2_x1 `Watdoink`
 - :x: zm_degrad_v2
 - :x: zm_desperados_x2
 - :x: zm_downtown_fixed
@@ -692,17 +731,17 @@ Count | Description
 - :x: zm_dusty_v1
 - :x: zm_fear_office_zn7
 - :x: zm_forgotten_dust
-- :white_check_mark: zm_freerun_tec_d1wfix
+- :white_check_mark: zm_freerun_tec_d1wfix `Watdoink`
 - :x: zm_fubar_towers_csgo
 - :x: zm_fun_park_remix_x1
-- :white_check_mark: zm_gethigh_420_v1_1
+- :white_check_mark: zm_gethigh_420_v1_1 `Watdoink`
 - :x: zm_glass_world_v3
 - :x: zm_homebase_meow_v2
 - :x: zm_industrial_rampage_csgo
 - :x: zm_infernalist
-- :white_check_mark: zm_ingame_reborn_v2_fix
+- :white_check_mark: zm_ingame_reborn_v2_fix `Watdoink`
 - :x: zm_komplex_final_row
-- :white_check_mark: zm_krusty_krab_a3_csgo
+- :white_check_mark: zm_krusty_krab_a3_csgo `Watdoink`
 - :x: zm_legendary_house_final_r2
 - :x: zm_lynxmetal_v21
 - :x: zm_mario3_v3_finals
@@ -730,4 +769,4 @@ Count | Description
 - :x: zm_uprugiy_xep_v26
 - :x: zm_villa_lempiicka
 - :x: zm_westwood_final
-- :white_check_mark: zm_xmen_mansion
+- :white_check_mark: zm_xmen_mansion `Kiriya`
