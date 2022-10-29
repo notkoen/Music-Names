@@ -34,6 +34,7 @@ Heavy | 4 | 400 | 0
 Tsukasa | 4 | 400 | 0
 kaomunkai | 3 | 300 | 0
 KingMagress | 3 | 300 | 0
+Hichatu | 3 | 300 | 0
 WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 0
 TuPu | 2 | 200 | 0
@@ -79,7 +80,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_ancient_wrath_v2_test27_m5
 - :white_check_mark: ze_angelbeats_guild_a1_fix2
 - :white_check_mark: ze_animu_v1_2 `WILD BANAN`
-- :x: ze_antartika_p3
+- :white_check_mark: ze_antartika_p3 `Hichatu`
 - :x: ze_anzalone_v3_fix
 - :x: ze_aooka_v2_8_a
 - :white_check_mark: ze_Aooka_v3_t6
@@ -454,7 +455,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_nightmare_dimension_p3 `Bomberman`
 - :x: ze_no_name_v1_6
 - :x: ze_no_title_v2_5
-- :x: ze_noir_p
+- :white_check_mark: ze_noir_p `Hichatu`
 - :white_check_mark: ze_nomada_h3 `tapch0w`
 - :x: ze_noob_too_easy_v1_2_2
 - :x: ze_noob_too_easy_v3_2fix
@@ -642,7 +643,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_surf_shonyudo_v5_2
 - :white_check_mark: ze_surf_vortex_v2_6
 - :x: ze_survivors_p2
-- :x: ze_taboo_carnation_p2
+- :white_check_mark: ze_taboo_carnation_p2 `Hichatu`
 - :x: ze_temple_escape_va3
 - :x: ze_temple_of_phantom_v1p_2
 - :x: ze_temple_of_the_demon_god_v2

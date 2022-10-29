@@ -1,0 +1,10 @@
+music/cryptkiller-waltertribe.mp3||Crypt Killer - Walter Tribe
+music/enigma-sadenesspt1.mp3||Enigma - Sadeness - Part i
+music/shincontra-crawlertank.mp3||Contra - The Crawler Tank
+music/shincontra-dustgatters.mp3||Contra - The Dust Gathers
+music/shincontra-jinmengyo.mp3||Contra - Jinmen-Gyo
+music/shincontra-spower.mp3||Contra - S-Power
+music/streetsofrage2-expander.mp3||Streets Of Rage 2 - Expander
+music/tempest2k-trackingdepth.mp3||Tempest 2000: Tracking Depth
+music/turok-campaignerfort.mp3||Turok - Campaigner's Fortress
+music/thrkill-nation.mp3||Thrkill Nation

@@ -1,0 +1,3 @@
+music/noir/blade-runner-blues.mp3||Vangelis - Blade Runner Blues
+music/noir/vangelis-procession.mp3||Vangelis - Procession
+music/noir/vangelis-side-streets-nerve-centre_mix.mp3||Vangelis - Side Streets
