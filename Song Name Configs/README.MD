@@ -18,7 +18,7 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 
 Name | Songs Configs Made | Credit Reward | Paid Amount
 --- | --- | --- | ---
-Bomberman | 65 | 6500 | 0
+Bomberman | 76 | 7600 | 0
 Kiriya | 17 | 1700 | 0
 Detroid | 15 | 1500 | 0
 DVC | 13 | 1300 | 0
@@ -100,7 +100,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_atos_v2_3
 - :white_check_mark: ze_attackontitan_trotster_v1_2 `Heavy`
 - :white_check_mark: ze_Apollo_p2 `Owlfy`
-- :white_check_mark: ze_aurora_tower_v5
+- :white_check_mark: ze_aurora_tower_v5 `Bomberman`
 - :white_check_mark: ze_aurora_tower_v6_6
 - :x: ze_Avalanche_Reboot_beta7_g3t
 - :white_check_mark: ze_aware_v1_2a `Tsukasa`
@@ -112,7 +112,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_backrooms_p3 `tilgep`
 - :x: ze_barrage_p2
 - :white_check_mark: ze_Bathroom_v2_5 `Bomberman`
-- :white_check_mark: ze_best_korea_v1
+- :white_check_mark: ze_best_korea_v1 `Bomberman`
 - :x: ze_beyond_the_boundary_v1_5
 - :x: ze_binary_z4_1
 - :x: ze_bigfoot_escapeica_v3_4
@@ -131,7 +131,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_Boatescape111_v1_1f `Kiriya`
 - :white_check_mark: ze_boatescape999_v5
 - :white_check_mark: ze_bowser_in_the_fire_sea_v1e_rs2 `Bomberman`
-- :white_check_mark: ze_boredom_p
+- :white_check_mark: ze_boredom_p `Bomberman`
 - :x: ze_bp-infested-prison_p2
 - :white_check_mark: ze_Breakable_p3 `Bomberman`
 - :white_check_mark: ze_breezy_v4 `DVC`
@@ -225,11 +225,11 @@ Beppu | 1 | 100 | 0
 - :x: ze_escape_stroggos_p2
 - :x: ze_escape_the_eye_remix_pm1
 - :x: ze_escapetheworld_a33
-- :white_check_mark: ze_eschaton_a3_1
+- :white_check_mark: ze_eschaton_a3_1 `Bomberman`
 - :x: ze_eternal_grove_v3
 - :x: ze_eternal_journey_go_v1_4t11
 - :x: ze_eternal_void_p3
-- :white_check_mark: ze_evernight_a3_4
+- :white_check_mark: ze_evernight_a3_4 `Bomberman`
 - :x: ze_evil_mansion_v1_finalf
 - :x: ze_exchange_innovation_v1b
 - :x: ze_fapescape_p5
@@ -251,7 +251,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_ffxii_moko_temple_v1_1_p2
 - :x: ze_FFXII_Mt_Bur_Omisace_v4c7
 - :white_check_mark: ze_FFXII_Mt_Bur_Omisace_v5_4fix4 `WhiteCat`
-- :white_check_mark: ze_FFXII_Paramina_Rift_r4
+- :white_check_mark: ze_FFXII_Paramina_Rift_r4 `Bomberman`
 - :white_check_mark: ze_ffxii_ridorana_cataract_t5_3_w6 `WhiteCat`
 - :white_check_mark: ze_FFXII_Salikawood_v1_6f
 - :white_check_mark: ze_FFXII_Westersand_v7_z9 `Bomberman`
@@ -269,7 +269,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_flex_b4
 - :x: ze_flower_a1_2
 - :x: ze_flowering_b10
-- :white_check_mark: ze_flying_world_p
+- :white_check_mark: ze_flying_world_p `Bomberman`
 - :white_check_mark: ze_fond_dream_h4 `Watdoink`
 - :x: ze_forbidden_repository_a1_4
 - :x: ze_foreign_sand_mix_v2_fix
@@ -315,7 +315,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_hobbit_escape_b2
 - :x: ze_hold_em_v8
 - :white_check_mark: ze_honkai_impact_3rd_babel_v1_55
-- :white_check_mark: ze_honkai_impact_3rd_cyberpunk_cityv26_7
+- :white_check_mark: ze_honkai_impact_3rd_cyberpunk_cityv26_7 `Bomberman`
 - :white_check_mark: ze_honkai_nagazoracity_beta_4 `Bomberman`
 - :x: ze_horizon_sky_escape_v2
 - :white_check_mark: ze_hsc_a4_q3 `WhiteCat`
@@ -548,7 +548,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_rooftop_madness_v1_9_csgo
 - :x: ze_Rooftop_Runaway1_p
 - :x: ze_rooftop_runaway2_p
-- :white_check_mark: ze_roscente_go1
+- :white_check_mark: ze_roscente_go1 `Bomberman`
 - :x: ze_RTCW_Ominous_Rumors_p4
 - :x: ze_rtv_one_more
 - :white_check_mark: ze_ruin_of_black_stone_v1 `Owlfy`
@@ -582,7 +582,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_shroomforest3_p `tapch0w`
 - :x: ze_shroomforest_p6
 - :x: ze_siberia_1990_v1_2c_p5
-- :white_check_mark: ze_silent_hill_blackblood_f6
+- :x: ze_silent_hill_blackblood_f6
 - :white_check_mark: ze_silent_hill_2_illusion_b5 `Bomberman`
 - :white_check_mark: ze_silent_hill_3_dawn_v2 `Bomberman`
 - :white_check_mark: ze_silent_hill_3_flee_v4 `Bomberman`
@@ -615,7 +615,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_stilshrine_of_miriam_v5_1
 - :x: ze_stilshrine_of_miriam_v7_2fix
 - :x: ze_STRANGE_escape_p2
-- :white_check_mark: ze_suchirifu_v3_1
+- :white_check_mark: ze_suchirifu_v3_1 `Bomberman`
 - :white_check_mark: ze_SUMAI_facility_v1a `Bomberman`
 - :x: ze_sunkentemple_v3_1
 - :white_check_mark: ze_sunlight_p2 `Kiriya`
@@ -625,7 +625,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_surf_dark_fantasy_v2go2 `kaomunkai`
 - :x: ze_surf_easy_v1_3
 - :white_check_mark: ze_surf_facility_p4 `Bomberman`
-- :white_check_mark: ze_surf_ffxiv_beachescape_camper_isengard_laser_mako
+- :white_check_mark: ze_surf_ffxiv_beachescape_camper_isengard_laser_mako `Bomberman`
 - :white_check_mark: ze_surf_froyo_lite_v2_2 `Cylops`
 - :white_check_mark: ze_surf_froyo_v2_2 `Cylops`
 - :x: ze_surf_last_point_v1_5
