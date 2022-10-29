@@ -37,7 +37,7 @@ KingMagress | 3 | 300 | 0
 WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 0
 TuPu | 2 | 200 | 0
-Hibiki | 2 | 200 | 0
+Hibiki | 3 | 300 | 0
 Sprinuts | 1 | 100 | 0
 ShiroNeko | 1 | 100 | 0
 Berke | 1 | 100 | 0
@@ -160,7 +160,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_clockwork_v1d1
 - :x: ze_codevein_v1_cm4
 - :white_check_mark: ze_colorlicouspilar_p4 `Hibiki`
-- :x: ze_colors_p3
+- :white_check_mark: ze_colors_p3 `Hibiki`
 - :x: ze_colourslide_v2_2
 - :x: ze_complex_va3
 - :white_check_mark: ze_conflict_v4_4

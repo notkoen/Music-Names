@@ -1,0 +1,9 @@
+music/voodoo_people.mp3||The Prodigy - Voodoo People
+music/icaras.mp3||Sasha - Icaras
+music/goteki_45.mp3||Sasha - Goteki 45
+music/pirhana.mp3||Sasha - Pirhana
+music/know_where_to_run.mp3||Orbital - Know Where To Run
+music/xpander.mp3||Sasha - Xpander
+music/feisar.mp3||Sasha - Feisar
+music/control.mp3||MKL - Control
+music/kittens.mp3||Underworld - Kittens
