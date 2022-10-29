@@ -1,0 +1,9 @@
+dev/eurobeat.mp3||Dave Rodgers - Deja Vu
+dev/flotage.mp3||Noriyuki Kamikura - Flotage
+dev/frenzy.mp3||Noriyuki Kamikura - Frenzy
+dev/mapfagstbh.mp3||Pendulum - Blood Sugar, Pendulum - The Tempest, Pendulum - Encoder
+dev/spook.mp3||Akira Yamaoka - The Darkness That Lurks In Our Mind
+dev/vertex.mp3||Manabu Namiki - Vertex
+dev/vertigo.mp3||Manabu Namiki - Vertigo
+dev/xanadu.mp3||Azusa Chiba - Xanadu
+dev/zenith.mp3||XI - Blue Zenith

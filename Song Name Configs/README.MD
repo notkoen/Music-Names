@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-238 | Completed Song Configs
+239 | Completed Song Configs
 
 ## Leaderboard
 
@@ -41,6 +41,7 @@ Sprinuts | 1 | 100 | 0
 ShiroNeko | 1 | 100 | 0
 Berke | 1 | 100 | 0
 Beppu | 1 | 100 | 0
+Hibiki | 1 | 100 | 0
 
 ## Map(s)
 
@@ -199,7 +200,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_desert_fox_v7_6f
 - :white_check_mark: ze_Desperate_Soul_a9 `Detroid`
 - :x: ze_destruction_of_exorath_v4_lite
-- :x: ze_dev_r4a_csgo4
+- :white_check_mark: ze_dev_r4a_csgo4 `Hibiki`
 - :x: ze_dev_reprise_v1_0
 - :x: ze_diamond_cube_v1
 - :white_check_mark: ze_diddle_v3
