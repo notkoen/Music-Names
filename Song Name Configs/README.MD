@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-255 | Completed Song Configs
+260 | Completed Song Configs
 
 ## Leaderboard
 
@@ -23,10 +23,11 @@ Kiriya | 17 | 1700 | 0
 Detroid | 16 | 1600 | 0
 DVC | 13 | 1300 | 0
 Watdoink | 10 | 1000 | 0
-Chong0074 | 7 | 700 | 0
-WhiteCat | 7 | 700 | 0
 koen | 8 | 800 | 0
 Hibiki | 8 | 800 | 0
+Chong0074 | 7 | 700 | 0
+WhiteCat | 7 | 700 | 0
+Haruka | 7 | 700 | 0
 Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
 tapch0w | 6 | 600 | 0
@@ -40,7 +41,6 @@ WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 0
 TuPu | 2 | 200 | 0
 Chinny | 2 | 200 | 0
-Haruka | 2 | 200 | 0
 Sprinuts | 1 | 100 | 0
 ShiroNeko | 1 | 100 | 0
 Berke | 1 | 100 | 0
@@ -253,7 +253,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_ffvii_mako_reactor_v6_b09k2 `Haruka`
 - :x: ze_FFVII_Snow_Cosmo_v5_5f
 - :x: ze_ffvii_temple_ancient_v5_2
-- :x: ze_ffxii_feywood_b6_3k
+- :white_check_mark: ze_ffxii_feywood_b6_3k `Haruka`
 - :x: ze_ffxii_moko_temple_v1_1_p2
 - :x: ze_FFXII_Mt_Bur_Omisace_v4c7
 - :white_check_mark: ze_FFXII_Mt_Bur_Omisace_v5_4fix4 `WhiteCat`
@@ -262,7 +262,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_FFXII_Salikawood_v1_6f
 - :white_check_mark: ze_FFXII_Westersand_v7_z9 `Bomberman`
 - :white_check_mark: ze_ffxii_westersand_v8zeta1_b5k `Bomberman`
-- :x: ze_ffxiv_coil_of_bahamut_v4_4
+- :white_check_mark: ze_ffxiv_coil_of_bahamut_v4_4 `Haruka`
 - :white_check_mark: ze_FFXIV_Pharos_Sirius_v1_6
 - :x: ze_ffxiv_wanderers_palace_v2_va2
 - :x: ze_ffxiv_wanderers_palace_v4_va2
@@ -528,7 +528,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_Rabanastre_Royal_t5 `BAN`
 - :white_check_mark: ze_raccoon_facility_v6b_p `Bomberman`
 - :x: ze_rainbow_factory_v2
-- :x: ze_raintime1_torontoisland_v5x
+- :white_check_mark: ze_raintime1_torontoisland_v5x `Haruka`
 - :white_check_mark: ze_raintime2_stormwindkeep_v3 `Detroid`
 - :x: ze_raintimex_code0_v6n
 - :white_check_mark: ze_ramp_a1_1 `Bomberman`
@@ -667,9 +667,9 @@ Beppu | 1 | 100 | 0
 - :x: ze_tibia_v4_2
 - :white_check_mark: ze_tilex_ultimate_v2_13_gf1_5 `Beppu`
 - :white_check_mark: ze_timesink_v1_2
-- :x: ze_timesplitters_p2
+- :white_check_mark: ze_timesplitters_p2 `Haruka`
 - :x: ze_titanic_escape_v2_3_fix1
-- :x: ze_tkara_v4_3
+- :white_check_mark: ze_tkara_v4_3 `Haruka`
 - :x: ze_tloz_stone_tower_temple_v1_4e
 - :x: ze_toaster_p3
 - :white_check_mark: ze_totally_new_wester_w3 `Bomberman`

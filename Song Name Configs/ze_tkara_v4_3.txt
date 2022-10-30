@@ -1,0 +1,9 @@
+music/ze_tkara/tkaramus01.mp3||HL2 - Vortal Combat
+music/ze_tkara/loafy.mp3||Polysemy - Pawing
+music/ze_tkara/hl2_song32.mp3||HL2 - Slow Light
+music/ze_tkara/hl2_song23_suitsong3.mp3||HL2 - Triage at Dawn
+music/ze_tkara/hl2_song16.mp3||HL2 - LG Orbifold
+music/ze_tkara/hl2_song14.mp3||HL2 - You're Not Supposed To Be Here
+music/ze_tkara/hl2_song7.mp3||HL2 - Ravenholm Reprise
+music/ze_tkara/hl2_song2.mp3||HL2 - Lab Practicum
+music/ze_tkara/hl2_song1.mp3||HL2 - Particle Ghost

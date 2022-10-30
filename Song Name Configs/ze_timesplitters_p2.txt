@@ -1,0 +1,3 @@
+music/TSStreets.mp3||Timesplitters 2 - Streets
+music/TSGoteki.mp3||Timesplitters 2 - Goteki
+music/TSanaconda.mp3||Timesplitters 2 - Anaconda
