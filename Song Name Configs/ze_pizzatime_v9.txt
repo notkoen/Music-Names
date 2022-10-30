@@ -1,0 +1,4 @@
+music/luffaren_pizzatime/Pizza_Song_Of_Dreams_And_Death.mp3||Spider-Man 2 The Game - Pizza Theme
+music/luffaren_pizzatime/music_boss_jarjar.mp3||John Williams - Duel of the Fates
+music/luffaren_pizzatime/TonnetaPizzaParty.mp3||Tonetta - Yummy Yummy Pizza
+music/luffaren_pizzatime/music_boss_evilpizza.mp3||Pizza and Pasta song, 

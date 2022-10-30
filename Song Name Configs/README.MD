@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-249 | Completed Song Configs
+255 | Completed Song Configs
 
 ## Leaderboard
 
@@ -20,16 +20,16 @@ Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
 Bomberman | 76 | 7600 | 0
 Kiriya | 17 | 1700 | 0
-Detroid | 15 | 1500 | 0
+Detroid | 16 | 1600 | 0
 DVC | 13 | 1300 | 0
 Watdoink | 10 | 1000 | 0
 Chong0074 | 7 | 700 | 0
 WhiteCat | 7 | 700 | 0
 koen | 8 | 800 | 0
+Hibiki | 8 | 800 | 0
 Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
 tapch0w | 6 | 600 | 0
-Hibiki | 6 | 600 | 0
 BAN | 4 | 400 | 0
 Heavy | 4 | 400 | 0
 Tsukasa | 4 | 400 | 0
@@ -39,11 +39,12 @@ Hichatu | 3 | 300 | 0
 WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 0
 TuPu | 2 | 200 | 0
+Chinny | 2 | 200 | 0
+Haruka | 2 | 200 | 0
 Sprinuts | 1 | 100 | 0
 ShiroNeko | 1 | 100 | 0
 Berke | 1 | 100 | 0
 Beppu | 1 | 100 | 0
-Chinny | 1 | 100 | 0
 
 ## Map(s)
 
@@ -249,7 +250,7 @@ Chinny | 1 | 100 | 0
 - :x: ze_ffvii_cosmo_canyon_v6test4
 - :white_check_mark: ze_ffvii_mako_reactor_v5_3_v5 `Detroid`
 - :x: f1g_3_b5v_rotcaer_okam_iivff_ez
-- :x: ze_ffvii_mako_reactor_v6_b09k2
+- :white_check_mark: ze_ffvii_mako_reactor_v6_b09k2 `Haruka`
 - :x: ze_FFVII_Snow_Cosmo_v5_5f
 - :x: ze_ffvii_temple_ancient_v5_2
 - :x: ze_ffxii_feywood_b6_3k
@@ -362,7 +363,7 @@ Chinny | 1 | 100 | 0
 - :x: ze_kaffe_escape_v2
 - :x: ze_kage_a3
 - :white_check_mark: ze_Kitchen_v2 `Bomberman`
-- :x: ze_Knife_Stray_v3
+- :white_check_mark: ze_Knife_Stray_v3 `Hibiki`
 - :x: ze_komatsu_v3
 - :x: ze_kororinpa_v2_2
 - :x: ze_kraznov_poopata_p2
@@ -502,7 +503,7 @@ Chinny | 1 | 100 | 0
 - :x: ze_Pidaras_va2
 - :white_check_mark: ze_pirates_port_royal_v5_6 `Bomberman`
 - :x: ze_pitchblack_p2
-- :x: ze_pizzatime_v9
+- :white_check_mark: ze_pizzatime_v9 `Hibiki`
 - :x: ze_pkmn_adventure_v9_3
 - :white_check_mark: ze_platformer_b6 `Bomberman`
 - :x: ze_pokemon_adventure_v1_1
@@ -532,7 +533,7 @@ Chinny | 1 | 100 | 0
 - :x: ze_raintimex_code0_v6n
 - :white_check_mark: ze_ramp_a1_1 `Bomberman`
 - :x: ze_random_escape_gp5
-- :x: ze_randomizer_c1
+- :white_check_mark: ze_randomizer_c1 `Chinny`
 - :x: ze_Ratescape_v5_4
 - :x: ze_rawnscape_csgo
 - :x: ze_re_creation_v2_25
@@ -688,7 +689,7 @@ Chinny | 1 | 100 | 0
 - :white_check_mark: ze_ubermenschen_b2 `DVC`
 - :white_check_mark: ze_Uchiha_Legacy_cm2_fix `BAN`
 - :white_check_mark: ze_ultimate_cancer_v1_2 `WILD BANAN`
-- :x: ze_undercave_es_mi_v1_5
+- :white_check_mark: ze_undercave_es_mi_v1_5 `Detroid`
 - :x: ze_underground_escape_p
 - :x: ze_undersea_temple_a4_4
 - :x: ze_undertale_g_v1_3_fix1
@@ -698,7 +699,7 @@ Chinny | 1 | 100 | 0
 - :x: ze_urban_laby_of_death_p2
 - :x: ze_urbanterror_b2
 - :x: ze_UT2004_Convoy_r5
-- :x: ze_uyuni_v1_6
+- :white_check_mark: ze_uyuni_v1_6 `Haruka`
 - :x: ze_v0u0v_csgo1
 - :white_check_mark: ze_valkvang_v1_2 `Chong0074`
 - :white_check_mark: ze_venice_escape_p3 `Bomberman`

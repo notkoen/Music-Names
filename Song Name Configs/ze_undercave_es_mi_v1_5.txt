@@ -1,0 +1,7 @@
+thas/ze_undercave/stage_survivor_1.mp3||Donkey Kong Country: Tropical Freeze OST - Irate Eight (Tension) Ft. Lockjaw's Saga
+thas/ze_undercave/stage_survivor_2.mp3||Donkey Kong Country: Tropical Freeze OST - Irate Eight (Underwater) Ft. Lockjaw's Saga
+thas/ze_undercave/stage_soldier_1.mp3||Donkey Kong Country 2 - Encounter In The Abyss (Lockjaw's Saga Remix)
+thas/ze_undercave/boss_2.mp3||Resident Evil 2 Remake OST - Third Demise (3rd Malformation of G)
+thas/ze_undercave/stage_soldier_2_1.mp3||Resident Evil 2 Remake OST - Collapse
+thas/ze_undercave/stage_soldier_2_2.mp3||Resident Evil 2 Remake OST - Collapse
+thas/ze_undercave/stage_soldier_3.mp3||Resident Evil 4 OST - Robo Salazar

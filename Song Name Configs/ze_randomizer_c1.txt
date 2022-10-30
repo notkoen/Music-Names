@@ -1,0 +1,29 @@
+music/randomize/hichatu/antichamer.mp3||Antichamber OST - Beginnings I
+music/randomize/hichatu/prologue_hokuto_no_ken.mp3||Hokuto no Ken Premium Best OST - Joshou
+music/randomizer/caramella_girls_caramelldansen_hd_version_swedish_original.mp3||Caramella Girls - Caramelldansen
+music/randomizer/doom-eternal-soundtrack-ost-meathook.mp3||Doom Eternal OST - Meathook
+music/randomizer/fallguys.mp3||Fallguys OST - Fall 'N' Roll
+music/randomizer/goldeneye_song.mp3||GoldenEye 007 OST - Multiplayer 13
+music/randomizer/half-life alyx - ending triumph.mp3||Half-Life Alyx OST - Ending Triumph
+music/randomizer/joel-nielsen-xen-soundtrack-02-internal-conflict.mp3||Black Mesa Xen OST - Internal Conflict
+music/randomizer/sum-41-the-hell-song.mp3||Sum 41 - The Hell Song
+music/randomizer/xen_sountrack.mp3||Black Mesa Xen OST - Ascension (v2)
+pirate_cm/aleksandr pistolevskij new pirate.mp3||Aleksandr Pistoletov - He's a Pirate
+randomize/beatsaber/dondiablo01.mp3||Don Diablo ft. Paije - People Say
+randomize/beatsaber/dondiablo02.mp3||Don Diablo ft. Paije - People Say
+randomize/beatsaber/dondiablo03.mp3||Don Diablo ft. Paije - People Say
+randomize/beatsaber/dondiablo04.mp3||Don Diablo ft. Paije - People Say
+randomize/beatsaber/dondiablo05.mp3||Don Diablo ft. Paije - People Say
+randomize/beatsaber/dondiablo06.mp3||Don Diablo ft. Paije - People Say
+randomize/chinny/precinct_siege.mp3||Tom Clancy's The Division OST - Precinct Siege
+randomize/frenchy/the_dark_world_1.mp3||Lipps Inc. - Funkytown (edit)
+randomize/hichatu/holdyourcolor_pendulum.mp3||Pendulum - Hold Your Color
+randomize/mking/deathrun.mp3||Scatman John - Everybody Jam!
+randomize/ordiaxer/fez_home.mp3||FEZ OST - Home
+randomize/bonnie tyler.mp3||Bonnie Tyler - Holding Out for a Hero
+randomize/dj casper - chacha slide.mp3||DJ Casper - Cha Cha Slide
+randomize/doom-eternal-ost.mp3||Doom Eternal OST - The Only Thing They Fear Is You
+randomize/scooby-doo-where-are-you-season1-intro||Scooby-Doo, Where Are You! OST - Opening Theme, Simple Plan - What's New Scooby-Doo
+randomize/shit_ending.mp3||Pendulum - The Tempest (edit)
+randomize/ta_tartarus.mp3||Tribes: Ascend OST - Tartarus I
+randomize/thesims.mp3||The Sims OST - Buy Mode 1
