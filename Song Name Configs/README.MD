@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-263 | Completed Song Configs
+266 | Completed Song Configs
 
 ## Leaderboard
 
@@ -22,8 +22,8 @@ Bomberman | 76 | 7600 | 0
 Kiriya | 17 | 1700 | 0
 Detroid | 16 | 1600 | 0
 DVC | 13 | 1300 | 0
+Haruka | 13 | 1300 | 0
 Watdoink | 10 | 1000 | 0
-Haruka | 10 | 1000 | 0
 koen | 8 | 800 | 0
 Hibiki | 8 | 800 | 0
 Chong0074 | 7 | 700 | 0
@@ -273,14 +273,14 @@ Beppu | 1 | 100 | 0
 - :x: ze_firewall_laboratory_part1_p2
 - :x: ze_firewall_laboratory_part2_p2
 - :x: ze_flex_b4
-- :x: ze_flower_a1_2
-- :x: ze_flowering_b10
+- :white_check_mark: ze_flower_a1_2_f `Haruka`
+- :white_check_mark: ze_flowering_b10 `Haruka`
 - :white_check_mark: ze_flying_world_p `Bomberman`
 - :white_check_mark: ze_fond_dream_h4 `Watdoink`
 - :x: ze_forbidden_repository_a1_4
 - :x: ze_foreign_sand_mix_v2_fix
 - :x: ze_forest_r_v1
-- :x: ze_forest_of_steel_v1_7f
+- :white_check_mark: ze_forest_of_steel_v1_7f `Haruka`
 - :x: ze_forestbunkers_v1_b3_e2
 - :x: ze_forgotten_facility_p3
 - :x: ze_forhidden_slicoo_v5
