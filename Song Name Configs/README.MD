@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-260 | Completed Song Configs
+263 | Completed Song Configs
 
 ## Leaderboard
 
@@ -23,11 +23,11 @@ Kiriya | 17 | 1700 | 0
 Detroid | 16 | 1600 | 0
 DVC | 13 | 1300 | 0
 Watdoink | 10 | 1000 | 0
+Haruka | 10 | 1000 | 0
 koen | 8 | 800 | 0
 Hibiki | 8 | 800 | 0
 Chong0074 | 7 | 700 | 0
 WhiteCat | 7 | 700 | 0
-Haruka | 7 | 700 | 0
 Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
 tapch0w | 6 | 600 | 0
@@ -530,7 +530,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_rainbow_factory_v2
 - :white_check_mark: ze_raintime1_torontoisland_v5x `Haruka`
 - :white_check_mark: ze_raintime2_stormwindkeep_v3 `Detroid`
-- :x: ze_raintimex_code0_v6n
+- :white_check_mark: ze_raintimex_code0_v6n `Haruka`
 - :white_check_mark: ze_ramp_a1_1 `Bomberman`
 - :x: ze_random_escape_gp5
 - :white_check_mark: ze_randomizer_c1 `Chinny`
@@ -562,7 +562,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_rush_B_v2_2 `Bomberman`
 - :white_check_mark: ze_S_A_M_v1_7 `DVC`
 - :x: ze_sad_banana_b3
-- :x: ze_sakuzyo_b2
+- :white_check_mark: ze_sakuzyo_b2 `Haruka`
 - :x: ze_sam_hd_v1_fix
 - :x: ze_sandstorm_go_v1_5x3
 - :white_check_mark: ze_santassination_v3 `Berke`
@@ -692,7 +692,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_undercave_es_mi_v1_5 `Detroid`
 - :x: ze_underground_escape_p
 - :x: ze_undersea_temple_a4_4
-- :x: ze_undertale_g_v1_3_fix1
+- :white_check_mark: ze_undertale_g_v1_3_fix1 `Haruka`
 - :x: ze_undertale_sans_final
 - :x: ze_unknown_underground_a2_8_2
 - :x: ze_upwards_v1

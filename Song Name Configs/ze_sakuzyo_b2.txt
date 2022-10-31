@@ -1,0 +1,9 @@
+music/ze_sakuzyo/Vend.mp3||Feryquitous - Vend
+music/ze_sakuzyo/reAdvent.mp3||Sakuzyo - reAdvent
+music/ze_sakuzyo/Limbus.mp3||Sakuzyo - Limbus
+music/ze_sakuzyo/Laplace.mp3||Sakuzyo - Laplace
+music/ze_sakuzyo/Instinct.mp3||Sakuzyo - Instinct
+music/ze_sakuzyo/Flame.mp3||Sakuzyo - Flame
+music/ze_sakuzyo/Bacikal.mp3||Feryquitous - Bacikal
+music/ze_sakuzyo/0f_2.mp3||Sakuzyo - 0f
+music/ze_sakuzyo/0f_1.mp3||Sakuzyo - 0f

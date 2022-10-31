@@ -1,0 +1,10 @@
+music/ze_undertale/music_waterfall.mp3||Undertale OST - Waterfall
+music/ze_undertale/music_truehero.mp3||Undertale Ost - Battle Against a True Hero
+music/ze_undertale/music_spawn.mp3||Undertale OST - Start Menu
+music/ze_undertale/music_run.mp3||Undertale OST - Run!
+music/ze_undertale/music_rain.mp3||Rain Sound
+music/ze_undertale/music_predummy.mp3||Undertale OST - Predummy
+music/ze_undertale/music_inmyway.mp3||Undertale OST - In My Way
+music/ze_undertale/music_firstcontact.mp3||Undertale OST - Undyne
+music/ze_undertale/music_dummy_fight.mp3||Undertale OST - Anticipation
+music/ze_undertale/music_butearth.mp3||Undertale OST - But the Earth Refused to Die
