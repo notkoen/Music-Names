@@ -1,0 +1,6 @@
+music/luffaren_eternalgrove/eternalgrove_music_boss.mp3||Sybrid - We Rise (Sonorous)
+music/luffaren_eternalgrove/eternalgrove_music_grove.mp3||Twelve Titans Music - Echo, Mickey Hart - Temple Caves
+music/luffaren_eternalgrove/eternalgrove_music_grovetunnel.mp3||Sybrid - We Rise (Sonorous) 
+music/luffaren_eternalgrove/eternalgrove_music_temple.mp3||Theopany - Woodfall Temple
+music/luffaren_eternalgrove/eternalgrove_music_templeouter.mp3||Sybrid - We Rise (slowed)
+music/luffaren_eternalgrove/eternalgrove_music_win.mp3||Sybrid - We Rise (Sonorous)

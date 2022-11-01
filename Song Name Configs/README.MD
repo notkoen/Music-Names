@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-271 | Completed Song Configs
+276 | Completed Song Configs
 
 ## Leaderboard
 
@@ -18,7 +18,7 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
-Bomberman | 76 | 7600 | 0
+Bomberman | 82 | 7600 | 0
 Haruka | 18 | 1800 | 0
 Kiriya | 17 | 1700 | 0
 Detroid | 16 | 1600 | 0
@@ -32,11 +32,11 @@ Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
 tapch0w | 6 | 600 | 0
 BAN | 4 | 400 | 0
-Heavy | 4 | 400 | 0
 Tsukasa | 4 | 400 | 0
 kaomunkai | 3 | 300 | 0
 KingMagress | 3 | 300 | 0
 Hichatu | 3 | 300 | 0
+Heavy | 3 | 300 | 0
 WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 0
 TuPu | 2 | 200 | 0
@@ -160,7 +160,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_christmas_infection_p2 `KingMagress`
 - :white_check_mark: ze_chroma_v0_4_csgo5
 - :x: ze_chronus_a1
-- :x: ze_clockwork_v1d1
+- :white_check_mark: ze_clockwork_v1d1 `Bomberman`
 - :x: ze_codevein_v1_cm4
 - :white_check_mark: ze_colorlicouspilar_p4 `Hibiki`
 - :white_check_mark: ze_colors_p3 `Hibiki`
@@ -231,7 +231,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_escape_the_eye_remix_pm1
 - :x: ze_escapetheworld_a33
 - :white_check_mark: ze_eschaton_a3_1 `Bomberman`
-- :x: ze_eternal_grove_v3
+- :white_check_mark: ze_eternal_grove_v3 `Bomberman`
 - :x: ze_eternal_journey_go_v1_4t11
 - :x: ze_eternal_void_p3
 - :white_check_mark: ze_evernight_a3_4 `Bomberman`
@@ -287,7 +287,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_FORiUS_just_RUN_p2
 - :white_check_mark: ze_forsaken_temple_v3_b5 `Detroid`
 - :x: ze_freespace_ultimate_b4
-- :white_check_mark: ze_frostdrake_tower_v1 `Heavy`
+- :white_check_mark: ze_frostdrake_tower_v1 `Bomberman`
 - :white_check_mark: ze_frozen_abyss_v1_2 `Bomberman`
 - :white_check_mark: ze_frozentemple_rc1_1 `Bomberman`
 - :x: ze_funny_runner_v3_1
@@ -515,7 +515,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_postal_v1_1
 - :x: ze_PotC_IV_p3
 - :x: ze_PotC_p4
-- :x: ze_Predator_Ultimate_p7
+- :white_check_mark: ze_Predator_Ultimate_p7 `Bomberman`
 - :white_check_mark: ze_project_alcaria_x2 `Bomberman`
 - :white_check_mark: ze_project_codex_a3_1 `Chong0074`
 - :x: ze_project_codex_v1_2
@@ -574,7 +574,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_sele_a2_1 `Bomberman`
 - :x: ze_serious_sam_tfe_v2_6
 - :white_check_mark: ze_serpentis_temple_csgo5 `Bomberman`
-- :x: ze_SEVIIEN_a1
+- :white_check_mark: ze_SEVIIEN_a1 `Bomberman`
 - :x: ze_sewage_processing_v8
 - :x: ze_sewer_escape_p3
 - :x: ze_sg1_missions_v2_1_p2
@@ -684,7 +684,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_tropico_escape_gf1_1
 - :x: ze_turokbase_p3
 - :x: ze_TV_station_r4
-- :x: ze_tyranny2_v1_csgo2
+- :white_check_mark: ze_tyranny2_v1_csgo2 `Bomberman`
 - :white_check_mark: ze_tyranny_v5_go3 `Bomberman`
 - :white_check_mark: ze_ubermenschen_b2 `DVC`
 - :white_check_mark: ze_Uchiha_Legacy_cm2_fix `BAN`
