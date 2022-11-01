@@ -1,0 +1,23 @@
+CosmoCanyon/Music_2.mp3||Hiroyuki Sawano - shØut
+CosmoCanyon/Music_1.mp3||Hawk Nelson - Sold Out
+CosmoCanyon/FFVII_Trail_Of_Blood.mp3||FFVII OST - Trail of Blood
+CosmoCanyon/FFVII_Salt_In_The_Wounds.mp3||Pendulum - Salt In The Wounds
+CosmoCanyon/FFVII_Rise.mp3||FFVII - Rise
+CosmoCanyon/FFVII_Propane_Nightmares.mp3||Pendulum - Propane Nightmares
+CosmoCanyon/FFVII_Out_Of_Hell.mp3||Skillet - Out Of Hell
+CosmoCanyon/FFVII_Mako_Protectors.mp3||FFVII - Shinra Inc
+CosmoCanyon/FFVII_Ifrit1.mp3||FFXV - Hellfire
+CosmoCanyon/FFVII_Hurry_Up.mp3||FFVII - Hurry Up!
+CosmoCanyon/FFVII_Hurry.mp3||FFVII - Hurry!
+CosmoCanyon/FFVII_GraniteV2.mp3||Pendulum - Granite Live
+CosmoCanyon/FFVII_Granite.mp3||Pendulum - Granite Live
+CosmoCanyon/FFVII_Fangs_Theme.mp3||FFXIII - Fangs theme
+CosmoCanyon/FFVII_Cosmo_Canyon.mp3||FFVII OST - Cosmo Canyon
+CosmoCanyon/FFVII_Conflict.mp3||FFVII Crisis Core - Conflict
+CosmoCanyon/FFVII_Chopperhead1.mp3||Two Steps From Hell - Chopperhead
+CosmoCanyon/FFVII_Boss_Theme_1.mp3||FFVII - Those Who Fight
+CosmoCanyon/FFVII_Boss_Theme.mp3||FFVII - Fight On!
+CosmoCanyon/FFVII_Birth_Of_The_God.mp3||FFVII - Birth of a God
+CosmoCanyon/FFVII_Battle_ThemeV2.mp3||FFX - Battle theme
+CosmoCanyon/FFVII_Ahead_On_Our_Way.mp3||FFVII - Ahead On Our Way
+CosmoCanyon/FFVII_Advent_Children.mp3||Advent Children - Those Who Fight Further

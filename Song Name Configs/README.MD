@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-266 | Completed Song Configs
+271 | Completed Song Configs
 
 ## Leaderboard
 
@@ -19,10 +19,10 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
 Bomberman | 76 | 7600 | 0
+Haruka | 18 | 1800 | 0
 Kiriya | 17 | 1700 | 0
 Detroid | 16 | 1600 | 0
 DVC | 13 | 1300 | 0
-Haruka | 13 | 1300 | 0
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
 Hibiki | 8 | 800 | 0
@@ -251,11 +251,11 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_ffvii_mako_reactor_v5_3_v5 `Detroid`
 - :x: f1g_3_b5v_rotcaer_okam_iivff_ez
 - :white_check_mark: ze_ffvii_mako_reactor_v6_b09k2 `Haruka`
-- :x: ze_FFVII_Snow_Cosmo_v5_5f
+- :white_check_mark: ze_FFVII_Snow_Cosmo_v5_5f `Haruka`
 - :x: ze_ffvii_temple_ancient_v5_2
 - :white_check_mark: ze_ffxii_feywood_b6_3k `Haruka`
 - :x: ze_ffxii_moko_temple_v1_1_p2
-- :x: ze_FFXII_Mt_Bur_Omisace_v4c7
+- :white_check_mark: ze_FFXII_Mt_Bur_Omisace_v4c7 `Haruka`
 - :white_check_mark: ze_FFXII_Mt_Bur_Omisace_v5_4fix4 `WhiteCat`
 - :white_check_mark: ze_FFXII_Paramina_Rift_r4 `Bomberman`
 - :white_check_mark: ze_ffxii_ridorana_cataract_t5_3_w6 `WhiteCat`
@@ -298,7 +298,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_gods_wrath_p2
 - :x: ze_golubenkaya_meow_v1_2
 - :x: ze_got_the_north_csgo3
-- :x: ze_grand_boatescape_p3
+- :white_check_mark: ze_grand_boatescape_p3 `Haruka`
 - :white_check_mark: ze_grau_a03_4ff
 - :white_check_mark: ze_greece_escape_p `Bomberman`
 - :x: ze_greencity_fix
@@ -389,7 +389,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_lila_panic_escape_v3_3
 - :x: ze_Lila_Panic_Escape_tr2
 - :white_check_mark: ze_lootus_a01
-- :x: ze_lost_terminus_b4
+- :white_check_mark: ze_lost_terminus_b4 `Haruka`
 - :x: ze_lostclue_b3_3
 - :x: ze_LOTR_Helms_Deep_v5_p6
 - :x: ze_lotr_isengard_csgo1
@@ -422,7 +422,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_mgden_v2_5fix
 - :white_check_mark: ze_mgden_y3_fix `tapch0w`
 - :x: ze_military_escape_p4
-- :x: ze_MindTree_v1_6
+- :white_check_mark: ze_MindTree_v1_6 `Haruka`
 - :white_check_mark: ze_minecraft_adventure_v1_3d `Bomberman`
 - :x: ze_minecraft_minigames_v7
 - :white_check_mark: ze_minecraft_universe_v1_5 `Bomberman`
