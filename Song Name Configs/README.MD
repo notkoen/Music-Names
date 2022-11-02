@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-292 | Completed Song Configs
+293 | Completed Song Configs
 
 ## Leaderboard
 
@@ -22,7 +22,7 @@ Bomberman | 88 | 8800 | 8500
 Haruka | 25 | 2500 | 0
 Kiriya | 17 | 1700 | 1700
 Detroid | 16 | 1600 | 0
-DVC | 13 | 1300 | 1300
+DVC | 14 | 1400 | 1300
 Hibiki | 12 | 1200 | 1200
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
@@ -570,7 +570,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_sc_turtles_v5_p2
 - :x: ze_schizophrenic_c3
 - :x: ze_scp_containment_breach_v1_b02_cm4
-- :x: ze_seano_see_2g5
+- :white_check_mark: ze_seano_see_2g5 `DVC`
 - :white_check_mark: ze_sele_a2_1 `Bomberman`
 - :x: ze_serious_sam_tfe_v2_6
 - :white_check_mark: ze_serpentis_temple_csgo5 `Bomberman`
