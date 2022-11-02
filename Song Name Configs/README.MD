@@ -18,9 +18,9 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
-Bomberman | 82 | 7600 | 0
+Bomberman | 85 | 8500 | 8500
 Haruka | 25 | 2500 | 0
-Kiriya | 17 | 1700 | 0
+Kiriya | 17 | 1700 | 1700
 Detroid | 16 | 1600 | 0
 DVC | 13 | 1300 | 0
 Hibiki | 12 | 1200 | 0
@@ -30,7 +30,7 @@ Chong0074 | 7 | 700 | 0
 WhiteCat | 7 | 700 | 0
 Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
-tapch0w | 6 | 600 | 0
+tapch0w | 6 | 600 | 600
 BAN | 4 | 400 | 0
 Tsukasa | 4 | 400 | 0
 kaomunkai | 3 | 300 | 0
@@ -232,7 +232,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_escapetheworld_a33
 - :white_check_mark: ze_eschaton_a3_1 `Bomberman`
 - :white_check_mark: ze_eternal_grove_v3 `Bomberman`
-- :x: ze_eternal_journey_go_v1_4t11
+- :white_check_mark: ze_eternal_journey_go_v1_4t11 `Bomberman`
 - :x: ze_eternal_void_p3
 - :white_check_mark: ze_evernight_a3_4 `Bomberman`
 - :x: ze_evil_mansion_v1_finalf
@@ -482,10 +482,10 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_oneiros_p `Bomberman`
 - :x: ze_oot_shadowtemple_b10
 - :x: ze_opti_variety_missions_p3
-- :x: ze_otakuroom_v5_6_ps
+- :white_check_mark: ze_otakuroom_v5_6_ps `Bomberman`
 - :white_check_mark: ze_Outlast_v2_cm1_fix1 `Bomberman`
 - :x: ze_outpost_escape_k1
-- :x: ze_palace_adventure_v1_2
+- :white_check_mark: ze_palace_adventure_v1_2 `Bomberman`
 - :x: ze_palace_of_minolila_v1
 - :x: ze_pallaroid_rage_v1
 - :x: ze_pandora_revolutionz_hdr2
