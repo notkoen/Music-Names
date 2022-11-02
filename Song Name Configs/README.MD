@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-281 | Completed Song Configs
+285 | Completed Song Configs
 
 ## Leaderboard
 
@@ -23,9 +23,9 @@ Haruka | 23 | 2300 | 0
 Kiriya | 17 | 1700 | 0
 Detroid | 16 | 1600 | 0
 DVC | 13 | 1300 | 0
+Hibiki | 12 | 1200 | 0
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
-Hibiki | 8 | 800 | 0
 Chong0074 | 7 | 700 | 0
 WhiteCat | 7 | 700 | 0
 Owlfy | 6 | 600 | 0
@@ -272,7 +272,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_fire_temple_v2_4
 - :x: ze_firewall_laboratory_part1_p2
 - :x: ze_firewall_laboratory_part2_p2
-- :x: ze_flex_b4
+- :white_check_mark: ze_flex_b4 `Hibiki`
 - :white_check_mark: ze_flower_a1_2_f `Haruka`
 - :white_check_mark: ze_flowering_b10 `Haruka`
 - :white_check_mark: ze_flying_world_p `Bomberman`
@@ -301,15 +301,15 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_grand_boatescape_p3 `Haruka`
 - :white_check_mark: ze_grau_a03_4ff
 - :white_check_mark: ze_greece_escape_p `Bomberman`
-- :x: ze_greencity_fix
+- :white_check_mark: ze_greencity_fix `Hibiki`
 - :x: ze_grey_world_v1
 - :white_check_mark: ze_greyplace_v1_2 `DVC`
 - :x: ze_gris_a4_9_8
 - :white_check_mark: ze_gris_v1_13
 - :white_check_mark: ze_halloween_house_b4 `Bomberman`
 - :x: ze_halloween_mystery_v1
-- :x: ze_halo_p3
-- :x: ze_halo_poa_p4
+- :white_check_mark: ze_halo_p3 `Hibiki`
+- :white_check_mark: ze_halo_poa_p4 `Hibiki`
 - :x: ze_harry_potter_v2_1_csgo
 - :white_check_mark: ze_haunted_lab_escape_p3 `Bomberman`
 - :x: ze_hazard_escape_p2

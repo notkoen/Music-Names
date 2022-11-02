@@ -1,0 +1,3 @@
+music/halo_theme2.mp3||Halo Theme song
+music/epic2.mp3||ParagonX9 - Chaoz Airflow
+music/halo_end.mp3||Halo Theme song
