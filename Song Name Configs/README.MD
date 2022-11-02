@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-287 | Completed Song Configs
+293 | Completed Song Configs
 
 ## Leaderboard
 
@@ -18,7 +18,7 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
-Bomberman | 85 | 8500 | 8500
+Bomberman | 88 | 8800 | 8500
 Haruka | 25 | 2500 | 0
 Kiriya | 17 | 1700 | 1700
 Detroid | 16 | 1600 | 0
@@ -391,9 +391,9 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_lootus_a01
 - :white_check_mark: ze_lost_terminus_b4 `Haruka`
 - :x: ze_lostclue_b3_3
-- :x: ze_LOTR_Helms_Deep_v5_p6
-- :x: ze_lotr_isengard_csgo1
-- :x: ze_LOTR_Laketown_v3_3
+- :white_check_mark: ze_LOTR_Helms_Deep_v5_p6 `Bomberman`
+- :white_check_mark: ze_lotr_isengard_csgo1 `Bomberman`
+- :white_check_mark: ze_LOTR_Laketown_v3_3 `Bomberman`
 - :white_check_mark: ze_LOTR_Minas_TIret_p2 `Bomberman`
 - :white_check_mark: ze_lotr_minas_tirith_p5 `Bomberman`
 - :white_check_mark: ze_LOTR_Mines_of_Moria_p2 `Bomberman`

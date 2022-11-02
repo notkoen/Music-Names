@@ -1,0 +1,8 @@
+music/forteorlingas.mp3||Howard Shore - Theoden Rides Forth
+music/helmsdeep_1.mp3||Howard Shore - Helm's Deep
+music/helmsdeepmusica.mp3||Howard Shore - The Battle of the Hornburg
+music/marchaents.mp3||Howard Shore - Isengard Unleashed
+music/stompbox.mp3||The Qemists - Stompbox HD
+music/paquito.mp3||Banda y Coral Artística de Alicante - Paquito el Chocolatero
+music/ineedahero.mp3||Bonnie Tyler - I Need a Hero
+music/bird.mp3||The Trashmen - Surfin Bird
