@@ -1,0 +1,7 @@
+music/otakumusic/huayueye.mp3||Yonder Voice - Flowery Moonlit Night
+music/otakumusic/lv1bgm.mp3||Touhou Vocal RDSounds - Doushite...
+music/otakumusic/lv2bgm.mp3||Senya - Kobore Sakura, Fallen Cherry Blossom
+music/otakumusic/lv3bgm.mp3||dBu Music - Final Maiden Master Capriccio Spark
+music/otakumusic/lv3bgm2.mp3||Touhou - Un Own Was Her
+music/otakumusic/lv3boss.mp3||Yurica - The Evening Star
+music/otakumusic/zmbgm.mp3||Aki Misato - Glitter

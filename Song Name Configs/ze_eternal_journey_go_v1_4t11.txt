@@ -1,0 +1,23 @@
+bossfight/bossfight_l4.mp3||Really Slow Motion & Giant Apes - Imminence
+bossfight/bossfight_l5.mp3||Two Steps From Hell - Black Blade
+bossfight/bossfight1.mp3||Really Slow Motion - Collapsing Universe
+bossfight/bossfight2.mp3||Really Slow Motion - Everlasting Legacy
+bossfight/bossfight3.mp3||Audiomachine - Impera (No Choir)
+eternal_sounds/stg1.mp3||Soundpower - Epic Action
+eternal_sounds/stg1_2.mp3||Audiomachine - Pillars of Earth
+eternal_sounds/stg2.mp3||Really Slow Motion - Reborn
+eternal_sounds/stg2_2.mp3||Really Slow Motion - Fjord Keeper
+eternal_sounds/stg3.mp3||BrunuhVille - Titanfall
+eternal_sounds/stg3_1.mp3||John Dreamer - True Strength
+eternal_sounds/stg4.mp3||Audiomachine - Mission to the Unknown
+eternal_sounds/stg4_2.mp3||Really Slow Motion - Suns and Stars
+eternal_sounds/stg5.mp3||Really Slow Motion & Instrumental Core - Mankind
+eternal_sounds/stg5_2.mp3||Shades of the Abyss - Sanctum
+eternal_sounds/stg6.mp3||Ashes Remain - On My Own
+eternal_sounds/stg6_1.mp3||Linkin Park - Numb
+eternal_sounds/stg6_2.mp3||Linkin Park - What I've Done
+eternal_sounds/win_boss1.mp3||Really Slow Motion & Instrumental Core - Universe
+eternal_sounds/win_boss2.mp3||Audiomachine - Equinox
+eternal_sounds/win_boss3.mp3||Audiomachine - Breaking Through
+eternal_sounds/win_boss3_5.mp3||Audiomachine - The Future Is Upon Us
+eternal_sounds/win_boss4.mp3||Audiomachine - Above and Beyond
