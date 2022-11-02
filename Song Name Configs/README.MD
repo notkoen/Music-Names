@@ -38,7 +38,7 @@ KingMagress | 3 | 300 | 0
 Hichatu | 3 | 300 | 0
 Heavy | 3 | 300 | 0
 WILD BANAN | 2 | 200 | 0
-tilgep | 2 | 200 | 0
+tilgep | 2 | 200 | 200
 TuPu | 2 | 200 | 0
 Chinny | 2 | 200 | 200
 Sprinuts | 1 | 100 | 0
