@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-285 | Completed Song Configs
+287 | Completed Song Configs
 
 ## Leaderboard
 
@@ -19,7 +19,7 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
 Bomberman | 82 | 7600 | 0
-Haruka | 23 | 2300 | 0
+Haruka | 25 | 2500 | 0
 Kiriya | 17 | 1700 | 0
 Detroid | 16 | 1600 | 0
 DVC | 13 | 1300 | 0
@@ -186,7 +186,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_dangerous_waters_v2_final `Bomberman`
 - :white_check_mark: ze_dangerous_waters_xmas_v2_4 `DVC`
 - :x: ze_danmaku_v1_5
-- :x: ze_dark_catharsis_v1_2
+- :white_check_mark: ze_dark_catharsis_v1_2 `Haruka`
 - :white_check_mark: ze_dark_souls_ptd_csgo2 `Chong0074`
 - :x: ze_Dead_Planet_Escape_b10
 - :white_check_mark: ze_deadcore_s7f2 `BAN`
@@ -252,7 +252,7 @@ Beppu | 1 | 100 | 0
 - :x: f1g_3_b5v_rotcaer_okam_iivff_ez
 - :white_check_mark: ze_ffvii_mako_reactor_v6_b09k2 `Haruka`
 - :white_check_mark: ze_FFVII_Snow_Cosmo_v5_5f `Haruka`
-- :x: ze_ffvii_temple_ancient_v5_2
+- :white_check_mark: ze_ffvii_temple_ancient_v5_2 `Haruka`
 - :white_check_mark: ze_ffxii_feywood_b6_3k `Haruka`
 - :x: ze_ffxii_moko_temple_v1_1_p2
 - :white_check_mark: ze_FFXII_Mt_Bur_Omisace_v4c7 `Haruka`
