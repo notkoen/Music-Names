@@ -22,8 +22,8 @@ Bomberman | 88 | 8800 | 8500
 Haruka | 25 | 2500 | 0
 Kiriya | 17 | 1700 | 1700
 Detroid | 16 | 1600 | 0
-DVC | 13 | 1300 | 0
-Hibiki | 12 | 1200 | 0
+DVC | 13 | 1300 | 1300
+Hibiki | 12 | 1200 | 1200
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
 Chong0074 | 7 | 700 | 0
