@@ -1,0 +1,3 @@
+music/qahnaarin/The Spirit of Vengeance stereo.mp3||Aragami - The Spirit of Vengeance
+music/qahnaarin/Moreseli stereo.mp3||Aragami - Moreseli
+music/qahnaarin/aragami stereo.mp3||Aragami - Main theme

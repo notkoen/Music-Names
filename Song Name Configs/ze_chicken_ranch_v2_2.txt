@@ -1,0 +1,11 @@
+music/chickenranch/metal_gear_solid_snake_eater_soundtracktroops_in_gathering.mp3||Metal Gear Solid Snake Eater - Troops In Gathering
+music/chickenranch/metal_gear_solid_ground_zeroes_theme_soundtrack.mp3||Metal Gear Solid: Ground Zeroes Theme
+music/chickenranch/metal_gear_solid_3_snake_eater_soundtrack_takin_on_the_sha.mp3||Metal Gear Solid 3 Snake Eater - Takin' On The Sha
+music/chickenranch/metal_gear_solid_3_snake_eater_soundtrack_last_showdown.mp3||Metal Gear Solid 3 Snake Eater - Last Showdown
+music/chickenranch/metal_gear_solid_3_snake_eater_soundtrack_clash_with_evil.mp3||Metal Gear Solid 3: Snake Eater - Clash With Evil Personified
+music/chickenranch/mass_effect_3_soundtrack_-_we_face_our_enemy_together.mp3||Mass Effect 3 - We Face Our Enemy Together
+music/chickenranch/mass_effect_3_soundtrack_-_rannoch.mp3||Mass Effect 3 - Rannoch
+music/chickenranch/mass_effect_2_ost_-_disc_two_-_01_-_grunt.mp3||Mass Effect 2 - Grunt
+music/chickenranch/mass_effect_1_ost_-_the_alien_queen.mp3||Mass effect 1 - The Alien Queen
+music/chickenranch/immediate_music_-_vindicator.mp3||Immediate Music - Vindicator
+music/chickenranch/fresh_prince_of_bel_air.mp3||The Fresh Prince Of Bel Air Theme Song

@@ -1,0 +1,19 @@
+ze_pom/6_1.mp3||倉木麻衣 - 渡月橋 ～君 想ふ～
+ze_pom/5_f.mp3||Immediate Music - Dark Side of Power
+ze_pom/5_bf.mp3||Pokemon Black and White - 10番道路
+ze_pom/5_b.mp3||Pokémon Sword & Shield - Chairman Rose Battle Music
+ze_pom/5_2.mp3||SimplePlan - Take My Hand
+ze_pom/5_1.mp3||Flags of our Fathers - Rise of Evil
+ze_pom/4_f.mp3||Pokemon Black 2 and White 2 - ホワイトキュレム、ブラックキュレム戦
+ze_pom/4_b.mp3||a_hisa - Night Falls
+ze_pom/4_2.mp3||void - Harbinger
+ze_pom/4_1.mp3||void - Exodus
+ze_pom/3_f.mp3||Two Steps From Hell - To Glory
+ze_pom/3_b.mp3||Ys Origin OST - Genesis Beyond the Beginning
+ze_pom/3_2.mp3||uma - Crescent Moon
+ze_pom/3_1.mp3||HIROOMI TOSAKA - Blue Sapphire
+ze_pom/2_boss.mp3||Pokemon Omega Ruby and Alpha Sapphire - 戦闘！バトルシャトレーヌ
+ze_pom/2_2.mp3||void - Crisscrosser
+ze_pom/2_1.mp3||Grand Thaw - Grad Erlija
+ze_pom/1_f.mp3||uma - Keep on Running
+ze_pom/1_1.mp3||a_hisa - アルメリアの鳥籠

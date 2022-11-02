@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-293 | Completed Song Configs
+314 | Completed Song Configs
 
 ## Leaderboard
 
@@ -19,7 +19,7 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
 Bomberman | 88 | 8800 | 8500
-Haruka | 25 | 2500 | 0
+Haruka | 45 | 4500 | 0
 Kiriya | 17 | 1700 | 1700
 Detroid | 16 | 1600 | 0
 DVC | 14 | 1400 | 1300
@@ -63,7 +63,7 @@ Beppu | 1 | 100 | 0
 - :x: mg_twisted_towers_course_hdr
 - :x: ze_20_seconds_v6
 - :white_check_mark: ze_2012_p3 `Kiriya`
-- :x: ze_2021_xmas_world_r
+- :white_check_mark: ze_2021_xmas_world_r `Haruka`
 - :x: ze_2554_v2
 - :x: ze_30_seconds__b21_p2
 - :white_check_mark: ze_666_crazy_escape_v2_4 `Bomberman`
@@ -91,9 +91,9 @@ Beppu | 1 | 100 | 0
 - :x: ze_aot_trost_v7_1
 - :x: ze_aperturescience_p2
 - :x: ze_apocatastasis_v1_2
-- :x: ze_aragami_v1_1
+- :white_check_mark: ze_aragami_v1_1 `Haruka`
 - :x: ze_arcade_parade_b6
-- :x: ze_arctic_escape_p2
+- :white_check_mark: ze_arctic_escape_p2 `Haruka`
 - :x: ze_artika_base_v1_4
 - :white_check_mark: ze_ashen_keep_p `Kiriya`
 - :white_check_mark: ze_asiangirl_mm11el4nu4cp2io1yv7_r_v7 `Bomberman`
@@ -108,18 +108,18 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_aurora_tower_v6_6
 - :x: ze_Avalanche_Reboot_beta7_g3t
 - :white_check_mark: ze_aware_v1_2a `Tsukasa`
-- :x: ze_azathoth_v1_1
-- :x: ze_aztec_temple_p
-- :x: ze_aztecnoob_p2
-- :x: ze_banana_temple_v1_3
-- :x: ze_babylon_v2
+- :white_check_mark: ze_azathoth_v1_1 `Haruka`
+- :white_check_mark: ze_aztec_temple_p `Haruka`
+- :white_check_mark: ze_aztecnoob_p2 `Haruka`
+- :white_check_mark: ze_babylon_v2 `Haruka`
+- :white_check_mark: ze_banana_temple_v1_3 `Haruka`
 - :white_check_mark: ze_backrooms_p3 `tilgep`
 - :x: ze_barrage_p2
 - :white_check_mark: ze_Bathroom_v2_5 `Bomberman`
 - :white_check_mark: ze_best_korea_v1 `Bomberman`
 - :x: ze_beyond_the_boundary_v1_5
-- :x: ze_binary_z4_1
-- :x: ze_bigfoot_escapeica_v3_4
+- :white_check_mark: ze_bigfoot_escapeica_v3_4 `Haruka`
+- :white_check_mark: ze_binary_z4_1 `Haruka`
 - :white_check_mark: ze_biohazard2_rpd_004_p3_fix2 `Heavy`
 - :white_check_mark: ze_biohazard2_sewer_004_p8 `Kiriya`
 - :white_check_mark: ze_biohazard3_nemesis_b5_2 `Kiriya`
@@ -143,11 +143,12 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_breezy_v5c `DVC`
 - :white_check_mark: ze_breezy_v6 `DVC`
 - :x: ze_bulhufas_a1_1
-- :x: ze_bunkerino_v1_3_3_final
-- :x: ze_candy_star_a3
+- :white_check_mark: ze_bunkerino_v1_3_3_final `Haruka`
+- :white_check_mark: ze_candy_star_a3 `Haruka`
 - :white_check_mark: ze_castle_bridge_v1_4
-- :x: ze_castle_of_the_bladekeeper_b2
-- :x: ze_castlevania_64_v1_3_b9_go
+- :white_check_mark: ze_castle_of_the_bladekeeper_b2 `Haruka`
+- :white_check_mark: ze_castle_of_the_bladekeeper_t2
+- :white_check_mark: ze_castlevania_64_v1_3_b9_go `Haruka`
 - :white_check_mark: ze_castlevania_p1_7 `KingMagress`
 - :x: ze_ccc_ffvii_alien_reactor
 - :x: ze_ccc_floator_mislands_timantetrix_v2
@@ -156,18 +157,18 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_check_b1_1f `Tsukasa`
 - :x: ze_chemical_weapons_depot_v3_1
 - :x: ze_Chicken_Lords_Tower_ig1
-- :x: ze_chicken_ranch_v2_2
+- :white_check_mark: ze_chicken_ranch_v2_2 `Haruka`
 - :white_check_mark: ze_christmas_infection_p2 `KingMagress`
 - :white_check_mark: ze_chroma_v0_4_csgo5
-- :x: ze_chronus_a1
+- :white_check_mark: ze_chronus_a1 `Haruka`
 - :white_check_mark: ze_clockwork_v1d1 `Bomberman`
-- :x: ze_codevein_v1_cm4
+- :white_check_mark: ze_codevein_v1_cm4 `Haruka`
 - :white_check_mark: ze_colorlicouspilar_p4 `Hibiki`
 - :white_check_mark: ze_colors_p3 `Hibiki`
-- :x: ze_colourslide_v2_2
+- :white_check_mark: ze_colourslide_v2_2 `Haruka`
 - :x: ze_complex_va3
 - :white_check_mark: ze_conflict_v4_4
-- :x: ze_contradiction_spiral_a2_2
+- :white_check_mark: ze_contradiction_spiral_a2_2 `Haruka`
 - :white_check_mark: ze_copy_escape_v2_3 `Bomberman`
 - :x: ze_COASTALCITY_b9
 - :white_check_mark: ze_core_v2b `Bomberman`
@@ -486,7 +487,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_Outlast_v2_cm1_fix1 `Bomberman`
 - :x: ze_outpost_escape_k1
 - :white_check_mark: ze_palace_adventure_v1_2 `Bomberman`
-- :x: ze_palace_of_minolila_v1
+- :white_check_mark: ze_palace_of_minolila_v1 `Haruka`
 - :x: ze_pallaroid_rage_v1
 - :x: ze_pandora_revolutionz_hdr2
 - :x: ze_panic_escape_v3_2_e5_hdr
