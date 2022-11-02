@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-276 | Completed Song Configs
+281 | Completed Song Configs
 
 ## Leaderboard
 
@@ -19,7 +19,7 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
 Bomberman | 82 | 7600 | 0
-Haruka | 18 | 1800 | 0
+Haruka | 23 | 2300 | 0
 Kiriya | 17 | 1700 | 0
 Detroid | 16 | 1600 | 0
 DVC | 13 | 1300 | 0
@@ -401,7 +401,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_LOTR_Mount_Doom_p3
 - :white_check_mark: ze_luciddreams_f5_7 `Heavy`
 - :x: ze_luciddreams_v3_82x
-- :x: ze_luck_matters_v3x
+- :white_check_mark: ze_luck_matters_v3x `Haruka`
 - :white_check_mark: ze_lucy_escape_v1
 - :x: ze_LuigisMansion_p3
 - :white_check_mark: ze_lux_umbra_v1
@@ -435,7 +435,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_Mixture_3de_v1f2_g1t
 - :x: ze_mlgsurf_v1_3_4
 - :x: ze_mochi_island_f6
-- :x: ze_mojos_minigames_v1_4_1
+- :white_check_mark: ze_mojos_minigames_v1_4_1 `Haruka`
 - :white_check_mark: ze_moltentemple_csgo1
 - :x: ze_monochrome_v1f
 - :x: ze_monolith_csgo
@@ -527,7 +527,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_R_W_B_ulti `ShiroNeko`
 - :white_check_mark: ze_Rabanastre_Royal_t5 `BAN`
 - :white_check_mark: ze_raccoon_facility_v6b_p `Bomberman`
-- :x: ze_rainbow_factory_v2
+- :white_check_mark: ze_rainbow_factory_v2 `Haruka`
 - :white_check_mark: ze_raintime1_torontoisland_v5x `Haruka`
 - :white_check_mark: ze_raintime2_stormwindkeep_v3 `Detroid`
 - :white_check_mark: ze_raintimex_code0_v6n `Haruka`
@@ -561,7 +561,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_ruin_of_black_stone_v2
 - :white_check_mark: ze_rush_B_v2_2 `Bomberman`
 - :white_check_mark: ze_S_A_M_v1_7 `DVC`
-- :x: ze_sad_banana_b3
+- :white_check_mark: ze_sad_banana_b3 `Haruka`
 - :white_check_mark: ze_sakuzyo_b2 `Haruka`
 - :x: ze_sam_hd_v1_fix
 - :x: ze_sandstorm_go_v1_5x3
@@ -579,7 +579,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_sewer_escape_p3
 - :x: ze_sg1_missions_v2_1_p2
 - :x: ze_shadow_corridor_v1_2
-- :x: ze_Shadow_temple_v4_4
+- :white_check_mark: ze_Shadow_temple_v4_4 `Haruka`
 - :x: ze_shaun_of_the_dead_p
 - :white_check_mark: ze_shaurma_v3_b07_t5_hdr2
 - :x: ze_showdown_v4_1_p

@@ -1,0 +1,9 @@
+music/ze_rizomata/5_bossmusic2.mp3||NieR Gestalt Replicant Original Soundtrack. Deep Crimson Foe
+music/ze_rizomata/5_bossmusic.mp3||AVGM 3 Shadowlord's Castle Roar
+music/ze_rizomata/4_music.mp3||Two Steps From Hell - El Dorado (SkyWorld)
+music/ze_rizomata/4_bossmusic.mp3||NieR OST. - Emil Karma
+music/ze_rizomata/3_bossmusic.mp3||NieR OST - Gods Bound by Rules
+music/ze_rizomata/2_music2.mp3||Ori and the Blind Forest - Escaping the Ruins
+music/ze_rizomata/2_music.mp3||Epic Fantasy Music - Mother Earth
+music/ze_rizomata/1_music2.mp3||Fantasy Medieval Music - Rise of a Kingdom
+music/ze_rizomata/1_music.mp3||Fantasy Celtic Music - Spirit of the Wild

@@ -1,0 +1,10 @@
+music/mojomulti/takemehome.mp3||John Denver - Take Me Home, Country Roads
+music/mojomulti/sliderace.mp3||Frankie Muela - Dragon Ball Muela
+music/mojomulti/robochase.mp3||Basil Poledouris - RoboCop In Pursuit
+music/mojomulti/quiplash.mp3||Quiplash 2 - Lobby Music
+music/mojomulti/latoyajackson-formidable.mp3||LaToya Jackson - Formidable
+music/mojomulti/lacampanella.mp3||Liszt - La Campanella
+music/mojomulti/knp_ufo.mp3||Kingsley and Perrey - Unidentified Flying
+music/mojomulti/gwyndolin.mp3||Dark Souls - Dark Sun Gwyndolin
+music/mojomulti/cmoncollegeboy.mp3||Domino - Mickey Mouse March
+music/mojomulti/boshy_teleporterroom.mp3||The OneUps - Koopa Beach
