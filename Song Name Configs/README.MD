@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-293 | Completed Song Configs
+292 | Completed Song Configs
 
 ## Leaderboard
 
@@ -146,7 +146,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_bunkerino_v1_3_3_final
 - :x: ze_candy_star_a3
 - :white_check_mark: ze_castle_bridge_v1_4
-- :white_check_mark: ze_castle_of_the_bladekeeper_b2
+- :x: ze_castle_of_the_bladekeeper_b2
 - :x: ze_castlevania_64_v1_3_b9_go
 - :white_check_mark: ze_castlevania_p1_7 `KingMagress`
 - :x: ze_ccc_ffvii_alien_reactor
