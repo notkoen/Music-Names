@@ -1,0 +1,2 @@
+music/starttheme.mp3||I Monster - The Blue Wrath
+music/stopmenow.mp3||Queen - Don't Stop Me Now

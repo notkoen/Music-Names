@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-314 | Completed Song Configs
+316 | Completed Song Configs
 
 ## Leaderboard
 
@@ -41,6 +41,7 @@ WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 200
 TuPu | 2 | 200 | 0
 Chinny | 2 | 200 | 200
+FroZRil | 2 | 200 | 0
 Sprinuts | 1 | 100 | 0
 ShiroNeko | 1 | 100 | 0
 Berke | 1 | 100 | 0
@@ -610,7 +611,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_sg1_missions_v2_1_p2
 - :x: ze_shadow_corridor_v1_2
 - :white_check_mark: ze_Shadow_temple_v4_4 `Haruka`
-- :x: ze_shaun_of_the_dead_p
+- :white_check_mark: ze_shaun_of_the_dead_p `FroZRil`
 - :white_check_mark: ze_shaurma_v3_b07_t5_hdr2
 - :x: ze_showdown_v4_1_p
 - :x: ze_shrine_of_umos_b3
@@ -674,7 +675,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_surf_hp_v1_0
 - :white_check_mark: ze_surf_inferno_v2_22 `Kiriya`
 - :x: ze_surf_next_step_v1_4
-- :x: ze_surf_outside_b1_10
+- :white_check_mark: ze_surf_outside_b1_10 `FroZRil`
 - :white_check_mark: ze_surf_sahok_p3 `Cylops`
 - :white_check_mark: ze_surf_saltfish_csgo4
 - :x: ze_surf_shonyudo_v1_2_fix
