@@ -1,5 +1,2 @@
 music/ze_bgm/bgm33_Bumblebee's flight.mp3||Rachmaninoff - Flight of the Bumblebee
 music/ze_bgm/bgm35_FarmerManBackground.mp3||Harvest Moon: Friends of Mineral Town - Minerals Town
-
-
-

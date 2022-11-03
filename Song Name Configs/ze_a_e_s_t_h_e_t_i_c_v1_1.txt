@@ -7,4 +7,3 @@ music/aesthetic/perez prado - moliendo cafe.mp3||Pérez Prado - Moliendo Cafe
 music/aesthetic/tomba 2 ost-town of the fisherman extended.mp3||Tomba 2 OST - Town of the Fisherman (extended)
 music/aesthetic/tong-nou main theme - osamu sato.mp3||Osamu Sato - Tong-Nou (Tong-Nou Main Theme)
 music/aesthetic/transmigration tong-nou ending theme - osamu sato.mp3||Osamu Sato - Transmigration (Tong-Nou Ending Theme)
-ambient/nature/water_gently_lapping.wav||water_gently_lapping

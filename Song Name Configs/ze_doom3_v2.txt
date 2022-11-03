@@ -14,5 +14,3 @@ doom3/d3themebat1.mp3||DOOM 3 ost - Tweaker
 doom3/doom3end.mp3||Andrew Hulshult -  At Doom's Gate E1M1
 doom3/musqweens1.mp3||Mick Gordon - Damnation
 doom3/poezdend.mp3||Audiomachine - Hell's Battalion
-
-

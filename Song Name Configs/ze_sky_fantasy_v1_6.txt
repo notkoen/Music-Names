@@ -17,4 +17,3 @@ ze_sky_fantasy/sound5_f1.mp3||Super Smash Bros Wii - Route 10 BGM
 ze_sky_fantasy/sound5_f2.mp3||Immediate Music - Dark Side of Power
 ze_sky_fantasy/sound5_f3.mp3||Guilty Kiss - Strawberry Trapper
 ze_sky_fantasy/sound6.mp3||fripSide - Only My Railgun
-

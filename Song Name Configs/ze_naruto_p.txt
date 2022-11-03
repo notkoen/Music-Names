@@ -11,4 +11,3 @@ music/naruto_hard_4.mp3||Naruto Shippuden OST 2 - Rising Dragon
 music/naruto_victory_boss.mp3||Naruto OST 1 - Victory
 music/warm_up_sound_1.mp3||D'Artacão e os Três Moscãoteiros - Avô Cantigas
 music/warm_up_sound_2.mp3||Spanish Flea - Ray Davies and His Button Down Brass
-

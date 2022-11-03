@@ -10,6 +10,3 @@ silent_hill/sh3_ufo_96.mp3||Tangerine Dream - No Happy Endings
 silent_hill/sh3_white_noiz.mp3||Silent Hill 2 OST - White Noiz
 silent_hill/sh3_witchcraft_fix3.mp3||Silent Hill: Homecoming - Witchcraft
 silent_hill/sh3_you_are_not_here.mp3||Silent Hill 3 OST - You are not here
-
-
-

@@ -8,4 +8,3 @@ ze_genso_of_last/lvl4music_destroyer_of worlds.mp3||Ninja Tracks - Destroy of Wo
 ze_genso_of_last/lvl4music2_ancient_devil.mp3||C21 FX - Ancient Devil
 ze_genso_of_last/lvl4bossmusic_bipolar nightmarel.mp3||Keiichi Okabe - Bipolar Nightmare
 ze_genso_of_last/lvl4music_karakuri_doll.mp3||SOUND HOLIC - Karakuri Doll
-

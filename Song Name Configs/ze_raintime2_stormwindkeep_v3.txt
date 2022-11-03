@@ -14,4 +14,3 @@ ze_rain2_bgm/ze_rain32.mp3||Sawano Hiroyuki - RED DRAGON '07 ver.
 ze_rain2_bgm/wwwwww.mp3||Team Shanghai Alice - Ashita hare no hi, Ke no Kino
 ze_rain2_bgm/selentia.mp3||Sakuzyo - Selentia
 ze_rain2_bgm/kronos.mp3||Sakuzyo - Kronos
-

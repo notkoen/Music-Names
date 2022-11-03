@@ -10,6 +10,3 @@ music/naraka/nrk2_room4_music.mp3||Ragnarok Online OST - Labyrinth
 music/naraka/nrk2_room5_music.mp3||Ragnarok Online OST - Dark Light
 music/naraka/nrk2_room6_music.mp3||HiroyukiSawano - Chaos drifters
 music/naraka/nrk_spawn_room.mp3||Ragnarok Online OST - Sleepless
-
-
-

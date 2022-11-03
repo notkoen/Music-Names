@@ -1,5 +1,2 @@
-dazao/dazao_sinian.mp3||Gakkou no Kaidan OST- Namida no Ato ni
-dazao/dazao_yuechu.mp3||我是愛音樂的徐夢圓 - Moonrise (Moonrise Chinese song)
-
-
-
+dazao/dazao_sinian.mp3||Gakkou no Kaidan OST - Namida no Ato ni
+dazao/dazao_yuechu.mp3||我是愛音樂的徐夢圓 - Moonrise

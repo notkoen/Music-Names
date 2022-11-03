@@ -1,1 +1,1 @@
-/admin_plugin zombieentrada.mp3|| Charlie Clouser - Convoy
+admin_plugin/zombieentrada.mp3|| Charlie Clouser - Convoy

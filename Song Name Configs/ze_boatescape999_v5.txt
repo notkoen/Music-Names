@@ -24,7 +24,4 @@ music/boatescape999/ffvii_back.mp3||Nobuo Uematsu - Those Who Fight (AC Version)
 music/boatescape999/ff12skullsandcrossbones1.mp3||Immediate Music - Skulls and Crossbones
 music/boatescape999/ff12arcana1.mp3||Trailerhead - Novus Arcana
 music/boatescape999/ffvii_propane_nightmares.mp3||Pendulum - Propane Nightmares
-
-
-ambient/explosions/citadel_end_explosion2.mp3||citadel_end_explosion2.mp3
 music/boatescape999/stage4_final.mp3||stage4_final.mp3

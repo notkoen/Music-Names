@@ -5,7 +5,3 @@ struppi/quiver/manuel_gas_gas_gas(louder, 44100).mp3||Manuel - Gas Gas Gas
 struppi/quiver/metal_gear_solid_soundtracks_ost_(louder, 44100).mp3||Metal Gear Solid OST - Encounter
 struppi/quiver/michael mccann - opening credits - extended (louder, 44100).mp3||Michael McCann - Opening Credits (Deus Ex: Mankind Divided)
 struppi/quiver/uncharted_4_a_thief_s_end_ost_cut_to_the_chas (louder, 44100).mp3||Uncharted 4: A Thief's End OST - Cut to the Chase
-
-
-
-

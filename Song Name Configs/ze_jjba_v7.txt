@@ -11,5 +11,3 @@ music/jojo_music/stage3_ending_music.mp3||Hiroaki Tommy Tominaga - Jojo Sono Chi
 music/jojo_music/stage3_music.mp3||JoJo's Bizarre Adventure Stardust Crusaders OST (Departure) - 闇の蘇生, Yugo Kanno - Bluff wo Kakero
 music/jojo_music/sw_muda_muda_muda.mp3||Dio - Muda Muda Muda
 music/jojo_music/sw_za_wardo.mp3||Dio - ZA WARUDO!!!
-
-//there are a few npc sounds (music/jojo_music/l1_npc_spawn.mp3, music/jojo_music/l2_npc_spawn.mp3, music/jojo_music/l3_npc_spawn.mp3) that should be excluded from !songname plugin as they are not a song.

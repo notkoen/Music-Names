@@ -7,22 +7,22 @@ malgo/music/temple_acient_remake/music/Pendulum - Painkiller.mp3||Pendulum - Pai
 malgo/music/temple_acient_remake/music/Muzzy_The_Phantom.mp3||Muzzy - The Phantom
 malgo/music/temple_acient_remake/music/Lost_Forever.mp3||Muzzy - Lost Forever
 malgo/music/temple_acient_remake/music/Ghotic Storm - Rage.mp3||Ghotic Storm - Rage
-malgo/music/temple_acient_remake/music/FFVII - Who Am I.mp3||FFVII - Who Am I
-malgo/music/temple_acient_remake/music/FFVII - Victory Fanfare.mp3||FFVII - Victory Fanfare
-malgo/music/temple_acient_remake/music/FFVII - Those Who Fight.mp3||FFVII - Those Who Fight
-malgo/music/temple_acient_remake/music/FFVII - Those Chosen by the Planet.mp3||FFVII - Those Chosen by the Planet
-malgo/music/temple_acient_remake/music/FFVII - The World's Enemy (Sephiroth Theme).mp3||FFVII - The World's Enemy (Sephiroth Theme)
-malgo/music/temple_acient_remake/music/FFVII - The Skyscraper Of Iron And Steel.mp3||FFVII - The Skyscraper Of Iron And Steel
-malgo/music/temple_acient_remake/music/FFVII - The Planet Has Become My Guardian.mp3||FFVII - The Planet Has Become My Guardian
-malgo/music/temple_acient_remake/music/FFVII - The Forested Temple.mp3||FFVII - The Forested Temple
-malgo/music/temple_acient_remake/music/FFVII - Still More Fighting.mp3||FFVII - Still More Fighting
-malgo/music/temple_acient_remake/music/FFVII - Prelude.mp3||FFVII - Prelude
-malgo/music/temple_acient_remake/music/FFVII - On the Verge of Assault.mp3||FFVII - On the Verge of Assault
-malgo/music/temple_acient_remake/music/FFVII - Let the Battles Begin!.mp3||FFVII - Let the Battles Begin!
-malgo/music/temple_acient_remake/music/FFVII - J-E-N-O-V-A.mp3||FFVII - J-E-N-O-V-A
-malgo/music/temple_acient_remake/music/FFVII - Closed Off Village.mp3||FFVII - Closed Off Village
-malgo/music/temple_acient_remake/music/FFVII - Chaotic Battlefield.mp3||FFVII - Chaotic Battlefield
-malgo/music/temple_acient_remake/music/FFVII - Birth of a God.mp3||FFVII - Birth of a God
+malgo/music/temple_acient_remake/music/FFVII - Who Am I.mp3||FFVII OST - Who Am I
+malgo/music/temple_acient_remake/music/FFVII - Victory Fanfare.mp3||FFVII OST - Victory Fanfare
+malgo/music/temple_acient_remake/music/FFVII - Those Who Fight.mp3||FFVII OST - Those Who Fight
+malgo/music/temple_acient_remake/music/FFVII - Those Chosen by the Planet.mp3||FFVII OST - Those Chosen by the Planet
+malgo/music/temple_acient_remake/music/FFVII - The World's Enemy (Sephiroth Theme).mp3||FFVII OST - The World's Enemy (Sephiroth Theme)
+malgo/music/temple_acient_remake/music/FFVII - The Skyscraper Of Iron And Steel.mp3||FFVII OST - The Skyscraper Of Iron And Steel
+malgo/music/temple_acient_remake/music/FFVII - The Planet Has Become My Guardian.mp3||FFVII OST - The Planet Has Become My Guardian
+malgo/music/temple_acient_remake/music/FFVII - The Forested Temple.mp3||FFVII OST - The Forested Temple
+malgo/music/temple_acient_remake/music/FFVII - Still More Fighting.mp3||FFVII OST - Still More Fighting
+malgo/music/temple_acient_remake/music/FFVII - Prelude.mp3||FFVII OST - Prelude
+malgo/music/temple_acient_remake/music/FFVII - On the Verge of Assault.mp3||FFVII OST - On the Verge of Assault
+malgo/music/temple_acient_remake/music/FFVII - Let the Battles Begin!.mp3||FFVII OST - Let the Battles Begin!
+malgo/music/temple_acient_remake/music/FFVII - J-E-N-O-V-A.mp3||FFVII OST -J-E-N-O-V-A
+malgo/music/temple_acient_remake/music/FFVII - Closed Off Village.mp3||FFVII OST - Closed Off Village
+malgo/music/temple_acient_remake/music/FFVII - Chaotic Battlefield.mp3||FFVII OST - Chaotic Battlefield
+malgo/music/temple_acient_remake/music/FFVII - Birth of a God.mp3||FFVII OST - Birth of a God
 malgo/music/temple_acient_remake/music/Fairy Tail - Tai Ma Gekisen.mp3||Fairy Tail - Tai Ma Gekisen
 malgo/music/temple_acient_remake/music/Epic Score - Rage from Within.mp3||Epic Score - Rage from Within
 malgo/music/temple_acient_remake/music/Epic Score - Prison Riot.mp3||Epic Score - Prison Riot
@@ -31,4 +31,4 @@ malgo/music/temple_acient_remake/music/Epic Score - Drop the Hammer.mp3||Epic Sc
 malgo/music/temple_acient_remake/music/Cliff Lin - Total Annihilation.mp3||Cliff Lin - Total Annihilation
 malgo/music/temple_acient_remake/music/Blue Stahli - Superhero Showdown.mp3||Blue Stahli - Superhero Showdown
 malgo/music/temple_acient_remake/music/Audiomachine - Death Mask.mp3||Audiomachine - Death Mask
-CosmoCanyon/FFVII_Battle_ThemeV2.mp3||FFVII - Battle Theme V2
+CosmoCanyon/FFVII_Battle_ThemeV2.mp3||FFVII OST - Battle Theme V2

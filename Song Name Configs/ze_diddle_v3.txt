@@ -12,25 +12,25 @@ music/diddle/luffaren/smashmouth_normal.mp3||Smash Mouth - All Star
 music/diddle/luffaren/smashmouth_somuchtodo.mp3||Smash Mouth - All Star (Loop)
 music/diddle/luffaren/smashmouth_somuchtododeath.mp3||Smash Mouth - All Star (Loop)
 
-music/diddle/ordiaxer/area_start.mp3||
-music/diddle/ordiaxer/area_start_02-03.mp3||
+music/diddle/ordiaxer/area_start.mp3||area_start.mp3
+music/diddle/ordiaxer/area_start_02-03.mp3||area_start_02-03.mp3
 music/diddle/ordiaxer/music.mp3||Adventure Time OST - Juke Bug
 music/diddle/ordiaxer/Ord_area_01.mp3||Final Fantasy IX OST - Back to Kuja 
-music/diddle/ordiaxer/Ord_area_02.mp3||
-music/diddle/ordiaxer/Ord_area_02_02.mp3||
+music/diddle/ordiaxer/Ord_area_02.mp3||Ord_area_02.mp3
+music/diddle/ordiaxer/Ord_area_02_02.mp3||Ord_area_02_02.mp3
 music/diddle/ordiaxer/Ord_Boss_02.mp3||Final Fantasy IX OST - The Final Battle
 music/diddle/ordiaxer/Ord_Boss_03_01.mp3||John Carpenter - Halloween (Remix)
 music/diddle/ordiaxer/Ord_Boss_03_02.mp3||John Carpenter - Halloween (Remix)
 music/diddle/ordiaxer/Ord_Boss_03_03.mp3||John Carpenter - Halloween (Remix)
 
-music/luffaren/diddle_afterfetus.mp3||
-music/luffaren/diddle_beforefetus.mp3||
+music/luffaren/diddle_afterfetus.mp3||diddle_afterfetus.mp3
+music/luffaren/diddle_beforefetus.mp3||diddle_beforefetus.mp3
 music/luffaren/diddle_blob.mp3||Berserk OST - Murder
 music/luffaren/diddle_dd_battle.mp3||Berserk OST - ZODDO II
 music/luffaren/diddle_dd_start.mp3||Berserk OST - ZODDO II
 music/luffaren/diddle_fetusfight.mp3||Berserk OST - Murder (Diddle Remix)
-music/luffaren/diddle_extra.mp3||
-music/luffaren/diddle_seal.mp3||
-music/luffaren/diddle_vagina.mp3||
-music/luffaren/diddle_win.mp3||
+music/luffaren/diddle_extra.mp3||diddle_extra.mp3
+music/luffaren/diddle_seal.mp3||diddle_seal.mp3
+music/luffaren/diddle_vagina.mp3||diddle_vagina.mp3
+music/luffaren/diddle_win.mp3||diddle_win.mp3
 music/luffaren/RtvOneMore (FT MrSaxo & TheLegendarySuperSaiyanGodmodeGFLPLAYER-Kakarot).mp3||RtvOneMore ft MrSaxo & Kakarot
