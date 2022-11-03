@@ -81,6 +81,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_ancient_wrath_v2_test27_cm1 `Kiriya`
 - :x: ze_ancient_wrath_v2_test27_m5
 - :white_check_mark: ze_angelbeats_guild_a1_fix2
+- :x: ze_angels_of_death_b6f3
 - :white_check_mark: ze_animu_v1_2 `WILD BANAN`
 - :white_check_mark: ze_antartika_p3 `Hichatu`
 - :x: ze_anzalone_v3_fix
@@ -89,6 +90,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_aot_trost_v6_1 `Kiriya`
 - :white_check_mark: ze_aot_trost_v6_2 `Kiriya`
 - :x: ze_aot_trost_v7_1
+- :x: ze_aot_trost_v8_2
 - :x: ze_aperturescience_p2
 - :x: ze_apocatastasis_v1_2
 - :white_check_mark: ze_aragami_v1_1 `Haruka`
@@ -101,6 +103,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_atix_apocalypse_p3
 - :x: ze_ATIX_panic_b3t_p
 - :x: ze_atix_panic_v1
+- :x: ze_atixpanic_ricardoflick_zeddy
 - :x: ze_atos_v2_3
 - :white_check_mark: ze_attackontitan_trotster_v1_2 `Heavy`
 - :white_check_mark: ze_Apollo_p2 `Owlfy`
@@ -111,6 +114,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_azathoth_v1_1 `Haruka`
 - :white_check_mark: ze_aztec_temple_p `Haruka`
 - :white_check_mark: ze_aztecnoob_p2 `Haruka`
+- :x: ze_baboonpox_escape_v1
 - :white_check_mark: ze_babylon_v2 `Haruka`
 - :white_check_mark: ze_banana_temple_v1_3 `Haruka`
 - :white_check_mark: ze_backrooms_p3 `tilgep`
@@ -126,11 +130,14 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_biohazard_manor_004_p4 `Kiriya`
 - :white_check_mark: ze_bioshock_v6_2_csgo7 `Detroid`
 - :white_check_mark: ze_bisounours_party_p2 `Kiriya`
+- :x: ze_BLACK_LION_p2
 - :x: ze_blackmesa_remix_p2
 - :white_check_mark: ze_blue_magic_castle_v3_1 `Kiriya`
 - :white_check_mark: ze_blue_zenith_v0_2 `Kiriya`
+- :x: ze_bm_ascension_a2_4
 - :x: ze_boacceho_p4
 - :x: ze_boatescape_extendido_p4
+- :x: ze_boatescape_ultimate_t2f1
 - :x: ze_boatescape101_p
 - :white_check_mark: ze_Boatescape111_v1_1f `Kiriya`
 - :white_check_mark: ze_boatescape999_v5
@@ -162,7 +169,9 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_chroma_v0_4_csgo5
 - :white_check_mark: ze_chronus_a1 `Haruka`
 - :white_check_mark: ze_clockwork_v1d1 `Bomberman`
+- :x: ze_cliff_and_fire_v1_16
 - :white_check_mark: ze_codevein_v1_cm4 `Haruka`
+- :x: ze_collective_v1_6
 - :white_check_mark: ze_colorlicouspilar_p4 `Hibiki`
 - :white_check_mark: ze_colors_p3 `Hibiki`
 - :white_check_mark: ze_colourslide_v2_2 `Haruka`
@@ -178,12 +187,15 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_crazy_escape_v5_5_1 `Bomberman`
 - :white_check_mark: ze_crazykart_v4 `Owlfy`
 - :x: ze_crypt_v1_4
+- :x: ze_crystal_tower_a2
+- :x: ze_cso_decoy_v1_hdr
 - :white_check_mark: ze_cursed_bear_tales_v1_2 `Bomberman`
 - :x: ze_cursed_ruins_gf1_1
 - :x: ze_CV_LOSII_Castle_Siege_b4
 - :x: ze_CYBERDERP_p3_KIA
 - :white_check_mark: ze_cyberia_v1
 - :white_check_mark: ze_cyberpunk_x_a07 `Chong0074`
+- :x: ze_Cyberspace_v1
 - :white_check_mark: ze_dangerous_waters_v2_final `Bomberman`
 - :white_check_mark: ze_dangerous_waters_xmas_v2_4 `DVC`
 - :x: ze_danmaku_v1_5
@@ -200,6 +212,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_deep_dream_v1_2
 - :x: ze_deepice_p3
 - :white_check_mark: ze_defense3003 `Bomberman`
+- :x: ze_depths_b1_1
 - :x: ze_descent_into_cerberon_v1
 - :x: ze_desert_fox_v7_6f
 - :white_check_mark: ze_Desperate_Soul_a9 `Detroid`
@@ -215,6 +228,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_dreamin_v3_3
 - :x: ze_dungeon_of_ignorance_a1_2
 - :x: ze_dust_escape_p3
+- :x: ze_dust_itembattle_ultimate_f5_1
 - :x: ze_DYSTOPIA_a4 `Bomberman`
 - :x: ze_easy_escape_r
 - :white_check_mark: ze_eden_a3 `Detroid`
@@ -222,6 +236,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_egyptian_b5
 - :x: ze_einstein_v7
 - :x: ze_elork_ok3ng3se5_v1_3
+- :x: ze_emerald_b3_f1
 - :white_check_mark: ze_endemic_v1_1 `Chinny`
 - :x: ze_ep2_plant_b1
 - :x: ze_epic_escape_v2_1
@@ -287,6 +302,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_forhidden_slicoo_v5
 - :x: ze_FORiUS_just_RUN_p2
 - :white_check_mark: ze_forsaken_temple_v3_b5 `Detroid`
+- :x: ze_football_go2
 - :x: ze_freespace_ultimate_b4
 - :white_check_mark: ze_frostdrake_tower_v1 `Bomberman`
 - :white_check_mark: ze_frozen_abyss_v1_2 `Bomberman`
@@ -309,6 +325,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_gris_v1_13
 - :white_check_mark: ze_halloween_house_b4 `Bomberman`
 - :x: ze_halloween_mystery_v1
+- :x: ze_halo_ce_p1_b16
 - :white_check_mark: ze_halo_p3 `Hibiki`
 - :white_check_mark: ze_halo_poa_p4 `Hibiki`
 - :x: ze_harry_potter_v2_1_csgo
@@ -319,6 +336,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_hidden_temple_v2_5
 - :x: ze_highest_to_lowest_v1
 - :x: ze_hive_complex_v1_2_1
+- :x: ze_hl2_episodic_escape_f2
 - :x: ze_hobbit_escape_b2
 - :x: ze_hold_em_v8
 - :white_check_mark: ze_honkai_impact_3rd_babel_v1_55
@@ -336,9 +354,11 @@ Beppu | 1 | 100 | 0
 - :x: ze_iceworld_athletic_b4_5
 - :x: ze_illusory_world_v4_5
 - :white_check_mark: ze_illya_b4_csgo_a3 `tilgep`
+- :x: ze_illya_b4_csgo_a3f
 - :x: ze_inboxed_final_fix
 - :x: ze_in_a_dream_oh1tn6_v1_2
 - :white_check_mark: ze_indiana_jones_v4a_004_p4 `Bomberman`
+- :x: ze_indianajones_zeddy_special
 - :x: ze_industrial_dejavu_p3
 - :x: ze_infected_sewers_csgo
 - :x: ze_infected_tramway_csgo1
@@ -360,6 +380,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_journey_p2 `Chong0074`
 - :x: ze_jurassicPark_Escape_p2
 - :x: ze_JurassicPark_p3
+- :x: ze_jurassicpark_lasers_zeddy
 - :x: ze_K19_escape_go1
 - :x: ze_kaffe_escape_v2
 - :x: ze_kage_a3
@@ -373,6 +394,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_l0v0l_v1_4_csgo2
 - :x: ze_l4d2_c1m3_mall_csgo_v0_3_le
 - :x: ze_laser_island_b6_8
+- :x: ze_laserheaven_csgo2
 - :white_check_mark: ze_last_man_standing_csgo3 `koen`
 - :white_check_mark: ze_last_man_standing_h2 `koen`
 - :white_check_mark: ze_last_man_standing_p2 `koen`
@@ -382,6 +404,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_lemonysnickets_p2
 - :x: ze_licciana_escape_p
 - :x: ze_licciana_escape_zrgbr_b3
+- :x: ze_light_escape_tb3
 - :white_check_mark: ze_light_retribution_v1_k2 `DVC`
 - :x: ze_light_escape_ta3_1
 - :white_check_mark: ze_light_shadow_L1_4 `BAN`
@@ -390,6 +413,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_lila_panic_escape_v3_3
 - :x: ze_Lila_Panic_Escape_tr2
 - :white_check_mark: ze_lootus_a01
+- :x: ze_lootus_v1_2
 - :white_check_mark: ze_lost_terminus_b4 `Haruka`
 - :x: ze_lostclue_b3_3
 - :white_check_mark: ze_LOTR_Helms_Deep_v5_p6 `Bomberman`
@@ -443,8 +467,9 @@ Beppu | 1 | 100 | 0
 - :x: ze_moon_base_p3
 - :x: ze_motanuminc_p2
 - :x: ze_mountain_escape_csgo2
-- :x: ze_mountain_escape_snow_v7
+- :x: ze_mountain_escape_snow_v7_1
 - :white_check_mark: ze_naiads_v4a_6f
+- :x: ze_naiads_v4a_8f
 - :x: ze_nameless_necropolis_v3
 - :x: ze_namviet_gf1_1
 - :white_check_mark: ze_Naruto_p `Sprinuts`
@@ -470,6 +495,8 @@ Beppu | 1 | 100 | 0
 - :x: ze_nuke_p5
 - :x: ze_NY_marathon_p2
 - :x: ze_oblivion_castle_v6
+- :x: ze_obj_blackout_b4
+- :x: ze_obj_insane_v1_2
 - :white_check_mark: ze_obj_npst_v2
 - :x: ze_Obj_Rampage_v1_2
 - :x: ze_obj_vertigo_v3_1
@@ -565,6 +592,8 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_sad_banana_b3 `Haruka`
 - :white_check_mark: ze_sakuzyo_b2 `Haruka`
 - :x: ze_sam_hd_v1_fix
+- :x: ze_samsung_galaxy_v1_3
+- :x: ze_SANCTUARY_v1_1
 - :x: ze_sandstorm_go_v1_5x3
 - :white_check_mark: ze_santassination_v3 `Berke`
 - :white_check_mark: ze_saw_p3 `Bomberman`
@@ -592,6 +621,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_silent_hill_blackblood_f6
 - :white_check_mark: ze_silent_hill_2_illusion_b5 `Bomberman`
 - :white_check_mark: ze_silent_hill_3_dawn_v2 `Bomberman`
+- :x: ze_silent_hill_3_dawn_full_t3
 - :white_check_mark: ze_silent_hill_3_flee_v4 `Bomberman`
 - :white_check_mark: ze_sit_caelum_paradisus_b7_hdr
 - :white_check_mark: ze_skill_escape_v09
@@ -606,6 +636,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_small_town_b1
 - :x: ze_snowescape_gp1
 - :x: ze_solgryn_v2
+- :x: ze_sorrento_arknights_a5_k2
 - :x: ze_sorrento_escape_v2
 - :x: ze_space_flight_p3
 - :x: ze_space_station_csgo
@@ -628,8 +659,10 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_sunlight_p2 `Kiriya`
 - :x: ze_supershitshow_a2
 - :x: ze_surf_bona_v1_3
+- :x: ze_surf_concrete_v2
 - :white_check_mark: ze_surf_danger_p2 `Cylops`
 - :white_check_mark: ze_surf_dark_fantasy_v2go2 `kaomunkai`
+- :x: ze_surf_daybreak_v1_k2
 - :x: ze_surf_easy_v1_3
 - :white_check_mark: ze_surf_facility_p4 `Bomberman`
 - :white_check_mark: ze_surf_ffxiv_beachescape_camper_isengard_laser_mako `Bomberman`
@@ -638,6 +671,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_surf_last_point_v1_5
 - :x: ze_surf_gypt_v2r1
 - :white_check_mark: ze_surf_happy_b7 `Bomberman`
+- :x: ze_surf_hp_v1_0
 - :white_check_mark: ze_surf_inferno_v2_22 `Kiriya`
 - :x: ze_surf_next_step_v1_4
 - :x: ze_surf_outside_b1_10
@@ -669,6 +703,7 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_tilex_ultimate_v2_13_gf1_5 `Beppu`
 - :white_check_mark: ze_timesink_v1_2
 - :white_check_mark: ze_timesplitters_p2 `Haruka`
+- :x: ze_titanlaser_b3
 - :x: ze_titanic_escape_v2_3_fix1
 - :white_check_mark: ze_tkara_v4_3 `Haruka`
 - :x: ze_tloz_stone_tower_temple_v1_4e
@@ -689,14 +724,17 @@ Beppu | 1 | 100 | 0
 - :white_check_mark: ze_tyranny_v5_go3 `Bomberman`
 - :white_check_mark: ze_ubermenschen_b2 `DVC`
 - :white_check_mark: ze_Uchiha_Legacy_cm2_fix `BAN`
+- :x: ze_ultra_ungent_a2
 - :white_check_mark: ze_ultimate_cancer_v1_2 `WILD BANAN`
 - :white_check_mark: ze_undercave_es_mi_v1_5 `Detroid`
 - :x: ze_underground_escape_p
 - :x: ze_undersea_temple_a4_4
 - :white_check_mark: ze_undertale_g_v1_3_fix1 `Haruka`
 - :x: ze_undertale_sans_final
+- :x: ze_ujel_extreme_v1_5
 - :x: ze_unknown_underground_a2_8_2
 - :x: ze_upwards_v1
+- :x: ze_uranus_attack_b4
 - :x: ze_urban_laby_of_death_p2
 - :x: ze_urbanterror_b2
 - :x: ze_UT2004_Convoy_r5
@@ -713,6 +751,7 @@ Beppu | 1 | 100 | 0
 - :x: ze_water_temple_test_v4
 - :x: ze_world_escapes_v1
 - :x: ze_worlds_v1_2
+- :x: ze_xenovation_v1_2
 - :white_check_mark: ze_yueyingchuanshuo_10_8_f4
 - :white_check_mark: ze_yueyingchuanshuo_10_9_f3 `Chong0074`
 - :white_check_mark: ze_yurilnier_beta007_hdr `Bomberman`
