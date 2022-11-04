@@ -20,11 +20,11 @@ Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
 Bomberman | 88 | 8800 | 8500
 Haruka | 60 | 6000 | 0
-Hibiki | 24 | 2400 | 1200
+Hibiki | 24 | 2400 | 2400
 Kiriya | 17 | 1700 | 1700
 Detroid | 16 | 1600 | 0
 DVC | 14 | 1400 | 1300
-Heavy | 13 | 1300 | 0
+Heavy | 13 | 1300 | 1300
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
 Chong0074 | 7 | 700 | 0
@@ -38,7 +38,7 @@ FroZRil | 4 | 400 | 0
 kaomunkai | 3 | 300 | 0
 KingMagress | 3 | 300 | 0
 Hichatu | 3 | 300 | 0
-Chinny | 3 | 300 | 200
+Chinny | 3 | 300 | 300
 WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 200
 TuPu | 2 | 200 | 0
