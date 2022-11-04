@@ -1,0 +1,3 @@
+music/jpark.mp3||Jurassic Park - Journey to the Island
+music/rescuing_sarah.mp3||Jurassic Park - Rescuing Sarah
+music/soundtrackHatchingBabyRaptor.mp3||Jurassic Park - Hatching Baby Raptor

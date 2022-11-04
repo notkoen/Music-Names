@@ -1,0 +1,7 @@
+scp/ZANICK_Breach.mp3||SCP - Breach (ZANICK)
+scp/SCP_Secret_Laboratory_Melancholy.mp3||SCP: Secret Laboratory - Melancholy
+scp/SCPUnity_OST.mp3||Corvus B. - Cinematic Trailer
+scp/MarkPetrie-Richat.mp3||Mark Petrie - Richat
+scp/MarkPetrie-Abeyance.mp3||Mark Petrie - Abeyance
+scp/audiomachine-RiseOfTheBlackCurtain.mp3||Audiomachine - Rise Of The Black Curtain
+scp/Audiomachine-Redshift.mp3||Audiomachine - Redshift

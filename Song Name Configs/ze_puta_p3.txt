@@ -1,0 +1,9 @@
+music/Tempest_2000_-_01_Thermal_Resolution.mp3||Tempest 2000 - Thermal Resolution
+music/Tempest_2000_-_02_Minds_Eye.mp3||Tempest 2000 - Minds Eye
+music/Tempest_2000_-_03_T2K.mp3||Tempest 2000 - T2K
+music/Tempest_2000_-_04_Ease_Yourself.mp3||Tempest 2000 - Ease Yourself
+music/Tempest_2000_-_06_Constructive_Demolition.mp3||Tempest 2000 - Constructive Demolition
+music/Tempest_2000_-_07_Future_Tense.mp3||Tempest 2000 - Future Tense
+music/Tempest_2000_-_08_Digital_Terror.mp3||Tempest 2000 - Digital Terror
+music/Tempest_2000_-_09_Hyper_Prism.mp3||Tempest 2000 - Hyper Prism
+music/Tempest_2000_-_11_Ultra_Yak.mp3||Tempest 2000 - Ultra Yak

@@ -1,0 +1,4 @@
+sfx/song_1.mp3||Darude - Sandstorm
+sfx/song_2.mp3||DJ Snake & AlunaGeorge - You Know You Like It
+sfx/song_3.mp3||David Guetta & Chris Willis - Gettin' Over You (ft. Fergie & LMFAO)
+sfx/song_4.mp3||Eric Prydz - NOPUS

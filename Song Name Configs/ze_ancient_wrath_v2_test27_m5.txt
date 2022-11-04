@@ -2,22 +2,22 @@ struppi/against the tide cut louder 44100.mp3||Celldweller - Against the Tide
 struppi/chaser louder 44100.mp3||Blue Stahli - Chaser
 struppi/fashionista louder 44100.mp3||Blue Stahli - Fashionista
 struppi/feuer frei [louder,44100,nocut].mp3||Rammstein - Feuer Frei!
-struppi/ikaros [louder,44100,nocut].mp3||Rave the Reqviem - Ikaros
-struppi/inside the fire 44100 lauder.mp3||Disturbed - Inside The Fire
+struppi/ikaros [louder,44100,nocut].mp3||Rave The Reqviem - Ikaros
+struppi/inside the fire 44100 lauder.mp3||Disturbed - Inside The Fire 
 struppi/jericho circle of dust remix cut louder.mp3||Celldweller - Jericho (Circle of Dust Remix)
 struppi/killstealer 44100.mp3||Waterflame - Killstealer
 struppi/medicine[louder,44100].mp3||The Prodigy - Medicine
 struppi/mystique 44100 louder.mp3||Blue Stahli - Mystique
 struppi/narrow escape louder.mp3||Celldweller - Narrow Escape
 struppi/not gonna die 44100 lauder.mp3||Skillet - Not Gonna Die
-struppi/our world [louder,44100,nocut].mp3||Our World - Our World (Instrumental)
+struppi/our world [louder,44100,nocut].mp3||The Qemists - Our World
 struppi/ready for battle cut louder 44100.mp3||Blue Stahli - Ready For Battle
-struppi/rebirthing 44100.mp3||Skillet - Rebithing
+struppi/rebirthing 44100.mp3||Skillet - Rebirthing 
 struppi/run louder.mp3||Disturbed - Run
-struppi/spitfire 44100 lauder.mp3||Spitfire - The Prodigy
+struppi/spitfire 44100 lauder.mp3||The Prodigy - Spitfire
 struppi/superhero showdown[cut,louder,44100].mp3||Blue Stahli - Superhero Showdown
 struppi/the arrival louder 44100.mp3||Celldweller - The Arrival
-struppi/the destroyer of all things louder 44100.mp3||Blue Stahli - The Destroyer of All Things
+struppi/the destroyer of all things louder 44100.mp3||Blue Stahli - The Destroyer Of All Things
 struppi/the game cut louder.mp3||Disturbed - The Game
 struppi/ultranumb [louder,44100].mp3||Blue Stahli - ULTRAnumb (Synthetic Killing Unit Remix)
 struppi/victimized louder cut.mp3||Linkin Park - Victimized (M. Shinoda Remix)

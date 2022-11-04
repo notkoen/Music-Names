@@ -1,0 +1,4 @@
+music/stargate_theme.mp3||Stargate SG-1 Theme Song
+music/stargate_sound3.mp3||Stargate Theme
+music/stargate_sound2.mp3||Stargate SG-1 - Apophis The Ceremony
+music/stargate_sound1.mp3||Stargate SG-1 - Vs The Aliens

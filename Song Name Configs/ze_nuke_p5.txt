@@ -1,0 +1,5 @@
+music/obscuri/titania.mp3||Fairy Tail OST - Armor of Titania
+music/obscuri/machine gun.mp3||Black Mages - The Man with the Machine Gun
+music/obscuri/kinslayer.mp3||Nightwish - The Kinslayer
+music/obscuri/fantasmic.mp3||Nightwish - FantasMIC
+music/obscuri/fairy tail.mp3||Yasuharu Takanashi - Fairy Tail Main Theme

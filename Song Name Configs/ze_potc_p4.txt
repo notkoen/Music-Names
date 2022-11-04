@@ -1,0 +1,3 @@
+music/pirates1.mp3||Pirates of the Caribbean - He's a Pirate
+music/pirates2.mp3||Pirates of the Caribbean - The Black Pearl
+music/pirates3.mp3||Dave Murray - Maintheme Pt.1

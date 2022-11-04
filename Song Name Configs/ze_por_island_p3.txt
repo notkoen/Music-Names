@@ -1,0 +1,5 @@
+music/mus1.mp3||Two Steps From Hell - Jump
+music/mus2.mp3||Two Steps From Hell - Heart of Courage
+music/mus3.mp3||Two Steps From Hell - Never Forget
+music/mus4.mp3||Two Steps From Hell - False King
+music/mus5.mp3||Two Steps from Hell - Smell of Victory

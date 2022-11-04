@@ -1,0 +1,2 @@
+music/ffvii_e2_tarantula.mp3||Pendulum - Tarantula
+music/ffvii_e2_selfvsself.mp3||Pendulum - Self Vs Self

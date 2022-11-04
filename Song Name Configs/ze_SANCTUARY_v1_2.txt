@@ -1,0 +1,5 @@
+music/hichatu/contestmap/roundtable_hold_elden_ring.mp3||Elden Ring OST - Roundtable Hold
+music/hichatu/contestmap/main_theme_elden_ring.mp3||Elden Ring - Main Theme
+music/hichatu/contestmap/leyndell_elden_ring.mp3||Elden Ring OST - Leyndell, Royal Capital
+music/hichatu/contestmap/firelink_shrine_dark_souls.mp3||Dark Souls Soundtrack - Firelink Shrine
+music/hichatu/contestmap/crumbling_farum_azula_elden_ring.mp3||Elden Ring OST - Crumbling Farum Azula

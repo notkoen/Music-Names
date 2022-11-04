@@ -1,0 +1,9 @@
+music/descent/music/turok_ruins.mp3||Turok Dinosaur Hunter OST - Ruins
+music/descent/music/turok_jungle.mp3||Turok Dinosaur Hunter OST - Jungle
+music/descent/music/turok_ancient_city.mp3||Turok Dinosaur Hunter OST - Ancient City
+music/descent/music/Resident_Evil_2_Remake_Last_Judgment.mp3||Resident Evil 2 Remake OST - Last Judgment
+music/descent/music/quake_3_tribulation.mp3||Sonic Mayhem - Tribulation
+music/descent/music/quake_2_descent_into_cerberon.mp3||Quake 2 OST — Descent Into Cerberon Extended
+music/descent/music/quake_2_counter_attack.mp3||Quake 2 OST - Sonic Mayhem - Counter Attack
+music/descent/music/quake_2_adrenaline_junkie.mp3||Quake 2 - Adrenaline Junkie
+music/descent/music/Prodeus_Dark_Matter.mp3||Prodeus - Dark Matter
