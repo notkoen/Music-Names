@@ -24,7 +24,7 @@ Hibiki | 24 | 2400 | 2400
 Kiriya | 17 | 1700 | 1700
 Detroid | 16 | 1600 | 0
 DVC | 14 | 1400 | 1300
-Heavy | 13 | 1300 | 1300
+Heavy | 14 | 1400 | 1300
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
 Chong0074 | 7 | 700 | 0
@@ -86,7 +86,7 @@ Emoji | Description
 - :x: ze_alive_hardwired_v5
 - :white_check_mark: ze_amalgamation_v1_1
 - :white_check_mark: ze_ancient_wrath_v2_test27_cm1 `Kiriya`
-- :white_check_mark: ze_ancient_wrath_v2_test27_m5 `Kiriya`
+- :white_check_mark: ze_ancient_wrath_v2_test27_m5 `Heavy`
 - :white_check_mark: ze_angelbeats_guild_a1_fix2
 - :x: ze_angels_of_death_b6f3
 - :white_check_mark: ze_animu_v1_2 `WILD BANAN`
