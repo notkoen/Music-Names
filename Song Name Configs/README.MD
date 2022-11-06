@@ -18,17 +18,17 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
-Bomberman | 100 | 10000 | 8500
-Haruka | 100 | 10000 | 0
-Hibiki | 28 | 2800 | 2400
+Bomberman | 100 | 10000 | 10000
+Haruka | 100 | 10000 | 10000
+Hibiki | 28 | 2800 | 2800
 Kiriya | 17 | 1700 | 1700
-Heavy | 17 | 1700 | 1300
+Heavy | 17 | 1700 | 1700
 Detroid | 17 | 1700 | 0
 DVC | 14 | 1400 | 1300
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
 Chong0074 | 7 | 700 | 0
-WhiteCat | 7 | 700 | 0
+WhiteCat | 7 | 700 | 700
 Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
 tapch0w | 6 | 600 | 600
