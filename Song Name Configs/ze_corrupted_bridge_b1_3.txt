@@ -1,0 +1,5 @@
+thas/ze_bridge/hl2_ep2_vortal_combat.mp3||Half-Life 2: Episode Two - Vortal Combat
+thas/ze_bridge/hl2_bridge.mp3||Half-Life 2 - Lab Practicum
+thas/ze_bridge/bms_wgh.mp3||Black Mesa - We've Got Hostiles
+thas/ze_bridge/bms_st4.mp3||Black Mesa - Surface Tension 1
+thas/ze_bridge/bms_st3.mp3||Black Mesa - Surface Tension 3

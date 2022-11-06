@@ -1,0 +1,3 @@
+music/hl1_song9.mp3||HL2 - Neutrino Trap
+music/steve jablonsky - autobots.mp3||Steve Jablonsky - Autobots
+music/steve jablonsky - optimus.mp3||Steve Jablonsky - Optimus

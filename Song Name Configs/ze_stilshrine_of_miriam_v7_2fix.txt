@@ -1,0 +1,20 @@
+malgo/music/miriam_v6/Extreme_Anarchy.mp3||Delta Heavy & Everyone You Kknow - Anarchy
+malgo/music/miriam_v6/Extreme_Comprachicos.mp3||Pendulum - Comprachicos
+malgo/music/miriam_v6/Extreme_DarknessV2.mp3||Immediate Music - Dark Side of Power
+malgo/music/miriam_v6/Extreme_Run.mp3||The Qemists - Run You
+malgo/music/miriam_v6/Hard_1000_Ships.mp3||Two Steps From Hell - 1000 Ships of the Underworld
+malgo/music/miriam_v6/Hard_Esper_Battle.mp3||Final Fantasy XII OST - Esper Battle
+malgo/music/miriam_v6/Hard_Impera.mp3||Audiomachine - Impera
+malgo/music/miriam_v6/Hard_Lake_Bresha.mp3||Final Fantasy XIII OST - Lake Bresha
+malgo/music/miriam_v6/Hard_Land_of_the_Garif.mp3||Final Fantasy XII OST - Jahara, Land of the Garif
+malgo/music/miriam_v6/Normal_A_Moments_Rest.mp3||Final Fantasy XII OST - A Moments Rest
+malgo/music/miriam_v6/Normal_Boss_Battle_Theme_v2.mp3||Final Fantasy XII OST - Battle Theme
+malgo/music/miriam_v6/Normal_CLASSROOM.mp3||Assassination Classroom OST - Haritsume Ta Kuuki
+malgo/music/miriam_v6/Normal_Eruyt_Village.mp3||Final Fantasy XII OST - Eruyt Village
+malgo/music/miriam_v6/Normal_The_Stilshrine_of_Miriam.mp3||Final Fantasy XII OST - The Stilshrine of Miriam
+malgo/music/miriam_v6/Ultimate_Armageddon.mp3||Blue Stahli - Armageddon
+malgo/music/miriam_v6/Ultimate_Cannibals.mp3||Tenside - Cannibals
+malgo/music/miriam_v6/Ultimate_Crush.mp3||Pendulum - Crush
+malgo/music/miriam_v6/Ultimate_Let_This_Go.mp3||Stan SB - Let This Go
+malgo/music/miriam_v6/Ultimate_Money.mp3||Escape the Fate - One For The Money
+malgo/music/miriam_v6/Victory_Fanfare.mp3||Final Fantasy XII - Victory Fanfare

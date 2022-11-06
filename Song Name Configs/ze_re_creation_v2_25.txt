@@ -1,0 +1,6 @@
+exsound/bgm/claiomhsolais.mp3||ETIA. - Claiomh Solais
+exsound/bgm/discludend.mp3||void - Disclude
+exsound/bgm/einherjar.mp3||ETIA. - Einherjar
+exsound/bgm/fireheart.mp3||freezer feat. せんざい - fireheart (wa.'s world end remix)
+exsound/bgm/idealized_romance.mp3||void - Idealize Romance
+exsound/bgm/queenofthered.mp3||ETIA. - Queen of the Red

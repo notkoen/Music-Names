@@ -1,0 +1,30 @@
+silent_hill/sh3_cd_staring_at_my_spaceship.mp3||Virt - Staring At My Spaceship
+silent_hill/sh3_devoid_of_life.mp3||Silent Hill Movie Soundtrack - Devoid of Life, Silent Hill 3 OST - Innocent Moon
+silent_hill/sh3_distrust _theme.mp3||Devil May Cry Soundtrack - Distrust Theme
+silent_hill/sh3_epitaph.mp3||Devil May Cry Soundtrack - Epitaph
+silent_hill/sh3_evil_appetite.mp3||Silent Hill Origins OST - Evil Appetite
+silent_hill/sh3_grave_ calling.mp3||Devil May Cry Soundtrack - Grave Calling
+silent_hill/sh3_heaven_is_night_fix.mp3||Silent Hill 2 OST - Heaven's Night, Silent Hill 2 OST - The Day Of Night
+silent_hill/sh3_home_truths_reprise.mp3||Devil May Cry Soundtrack - Home Truths Reprise
+silent_hill/sh3_kill angels.mp3||Silent Hill OST - Kill Angels
+silent_hill/sh3_laura plays the piano.mp3||Silent Hill 2 OST - Laura Plays The Piano
+silent_hill/sh3_meltdown_bugfix.mp3||Silent Hill Origins OST - Meltdown
+silent_hill/sh3_mixing_room.mp3||Devil May Cry Soundtrack - Mixing Room
+silent_hill/sh3_nurse.wav||( ͡° ͜ʖ ͡°)
+silent_hill/sh3_pianissimo_epilogue_fix2.mp3||Silent Hill 2 OST - Pianissimo Epilogue
+silent_hill/sh3_promise_hd.mp3||Silent Hill 2 OST - Promise
+silent_hill/sh3_renember_us_fix.mp3||Devil May Cry Soundtrack - Remember Us
+silent_hill/sh3_secret_world.mp3||Devil May Cry Soundtrack - Secret World
+silent_hill/sh3_sun.wav||Silent Hill 2 OST - Menu Sound
+silent_hill/sh3_the_flood.mp3||Devil May Cry Soundtrack - The Flood
+silent_hill/sh3_the_order.mp3||Devil May Cry Soundtrack - The Order
+silent_hill/sh3_the_terminal_show.mp3||Silent Hill Homecoming - The Terminal Show
+silent_hill/sh3_the_tower.mp3||Devil May Cry Soundtrack - The Tower
+silent_hill/sh3_theme_of_laura.mp3||Silent Hill 2 OST - Theme Of Laura
+silent_hill/sh3_trace_elements.mp3||Devil May Cry Soundtrack - Trace Elements
+silent_hill/sh3_ture.mp3||Silent Hill 2 OST - True
+silent_hill/sh3_ufo_96.mp3||GTA V - No Happy Endings
+silent_hill/sh3_under_watch.mp3||Devil May Cry Soundtrack - Under Watch
+silent_hill/sh3_white_noiz.mp3||Silent Hill 2 OST - White Noiz
+silent_hill/sh3_witchcraft_fix3.mp3||Silent Hill Homecoming - Witchcraft
+silent_hill/sh3_wounded_warsong.mp3||Silent Hill 4 OST - Wounded Warsong

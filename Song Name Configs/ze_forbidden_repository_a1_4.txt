@@ -1,0 +1,5 @@
+music/forbidden_repository/tothefore.mp3||FFXIV OST - To the Fore
+music/forbidden_repository/scars_of_battle.mp3||FFXIV OST - Lost City of Amdapor Theme (The Scars of Battle)
+music/forbidden_repository/revenge_of_the_horde.mp3||FFXIV OST - Revenge of the Horde
+music/forbidden_repository/ominous_prognosticks.mp3||FFXIV OST - Heavensward Dungeon Boss Theme (Ominous Prognisticks)
+music/forbidden_repository/descent.mp3||FFXIV OST - Descent

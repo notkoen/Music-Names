@@ -1,0 +1,20 @@
+malgo/music/Stilshrine of Miriam/XII - Victory Fanfare.mp3||Final Fantasy XII - Fanfare
+malgo/music/Stilshrine of Miriam/extreme mode music/extreme_music2.mp3||Final Fantasy XII OST - Rebellion	
+malgo/music/Stilshrine of Miriam/extreme mode music/extreme_music3.mp3||Final Fantasy XII OST - Lust for Power
+malgo/music/Stilshrine of Miriam/extreme mode music/extreme_music4.mp3||Final Fantasy XII OST - Rabanastre Lowtown
+malgo/music/Stilshrine of Miriam/extreme mode music/extreme_music5.mp3||Final Fantasy XII OST - Giving Chase
+malgo/music/Stilshrine of Miriam/extreme mode music/extreme_music7.mp3||Epic Score - Rage from Within
+malgo/music/Stilshrine of Miriam/extreme mode music/extreme_music8.mp3||Gothic Storm - Rage
+malgo/music/Stilshrine of Miriam/hard mode music/Hard_music2.mp3||Final Fantasy XII OST - Eruyt Village
+malgo/music/Stilshrine of Miriam/hard mode music/Hard_music3.mp3||Final Fantasy XII OST - The Stillshrine of Miriam
+malgo/music/Stilshrine of Miriam/hard mode music/Hard_music4.mp3||Final Fantasy XII OST - The Salikawood
+malgo/music/Stilshrine of Miriam/hard mode music/Hard_music5.mp3||Final Fantasy XII OST - Boss Battle
+malgo/music/Stilshrine of Miriam/hard mode music/Hard_music6.mp3||Final Fantasy XII OST - Ending Movie
+malgo/music/Stilshrine of Miriam/savage mode music/The Qemists - Run You.mp3||The Qemists - Run You
+malgo/music/Stilshrine of Miriam/savage mode music/Showdown - Pendulum.mp3||Pendulum - Showdown
+malgo/music/Stilshrine of Miriam/savage mode music/Pendulum The Catalyst.mp3||Pendulum - The Catalyst
+malgo/music/Stilshrine of Miriam/savage mode music/Pendulum - Comprachicos.mp3||Pendulum - Comprachicos
+malgo/music/Stilshrine of Miriam/ultima mode music/Blue Stahli - Armageddon.mp3||Blue Stahli - Armageddon
+malgo/music/Stilshrine of Miriam/ultima mode music/Stan SB - Let This Go.mp3||Stan SB - Let This Go
+malgo/music/Stilshrine of Miriam/ultima mode music/ultima_music2.mp3||Pendulum - Crush
+malgo/music/Stilshrine of Miriam/ultima mode music/ultima_music4.mp3||Escape the Fate - One For The Money

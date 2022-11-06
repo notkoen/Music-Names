@@ -1,0 +1,26 @@
+zmdust/bgm/whatislove.mp3||Haddaway - What Is Love
+zmdust/bgm/westersandex.mp3||Haddaway - What Is Love Laser mix
+zmdust/bgm/vuvuzela.mp3||Vuvuzela - Ultimate MegaMix
+zmdust/bgm/trololo.mp3||Eduard Khil - Trololo Song
+zmdust/bgm/theisland.mp3||Pendulum - The Island maxNRG Remix
+zmdust/bgm/thefountain.mp3||Pendulum - The Fountain
+zmdust/bgm/tarantula.mp3||Pendulum - Tarantula
+zmdust/bgm/sksj.mp3||Yuyu - Shinkaisyoujo
+zmdust/bgm/propanenight.mp3||Pendulum - Propane Nightmares
+zmdust/bgm/onemilliontime.mp3||MY FIRST STORY - 1000000 TIMES
+zmdust/bgm/nightcall.mp3||Kavinsky - Nightcall
+zmdust/bgm/memoria.mp3||Fate Zero - Memoria
+zmdust/bgm/megaupload.mp3||Kim Dotcom - Megaupload Song
+zmdust/bgm/lastonestanding.mp3||Simple Plan - Last One Standing
+zmdust/bgm/ineedahero.mp3||Bonnie Tyler - Holding Out For A Hero
+zmdust/bgm/guoyunosensou.mp3||Shinsei Kamattechan - Boku no Sensou
+zmdust/bgm/ffvii_tempest.mp3||Pendulum - The Tempest Live at Brixton Academy
+zmdust/bgm/ff12toglory.mp3||Two Steps From Hell - To Glory
+zmdust/bgm/ff12skullsandcrossbones.mp3||Immediate Music - Skull and Crossbones
+zmdust/bgm/emiya.mp3||FalKKonE - EMIYA
+zmdust/bgm/eldorado.mp3||Two Steps From Hell - El Dorado
+zmdust/bgm/egoistnamaenonai.mp3||EGOIST - Namae No Nai Kaibutsu
+zmdust/bgm/daybreak.mp3||Orangestar - DAYBREAK FRONTLINE めありー cover
+zmdust/bgm/battlelungmen.mp3||Arknights BGM - Lungmen Battle
+zmdust/bgm/airfield.mp3||Crysis Warhead OST - Airfield 2
+

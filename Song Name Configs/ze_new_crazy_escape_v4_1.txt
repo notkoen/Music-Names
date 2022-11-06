@@ -1,0 +1,13 @@
+music/naraka/nrk_spawn_sound.mp3||Ragnaron Online OST - TeMPoison
+music/naraka/nrk1_music_1.mp3||Ragnarok Online OST - Desert
+music/naraka/nrk1_music_2.mp3||Ragnarok Online OST - CheongChoon
+music/naraka/nrk1_music_3.mp3||Ragnarok Online OST - Away from Home
+music/naraka/nrk1_music_4.mp3||Ragnarok Online OST - Into The Arena!
+music/naraka/nrk1_music_4ex.mp3||Ragnarok Online OST - Fissure Eruption
+music/naraka/nrk1_music_5.mp3||Ragnarok Online OST - Angelica
+music/naraka/nrk2_music_1.mp3||Ragnarok Online OST - Aeon
+music/naraka/nrk2_music_2.mp3||Ragnarok Online OST - Uncanny Dreams
+music/naraka/nrk2_music_3.mp3||Kevin Macleod - Bump in the Night
+music/naraka/nrk2_music_3ex.mp3||Immediate Music - A Thousand Deaths
+music/naraka/nrk2_music_4.mp3||Ragnarok Online OST - Indelible Scars
+music/naraka/nrk2_music_5.mp3||HiroyukiSawano - Warcry

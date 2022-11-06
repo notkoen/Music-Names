@@ -1,0 +1,4 @@
+music/kune/sound/Climbing the Ginso Tree.mp3||Ori And The Blind Forest OST - Climbing the Ginso Tree
+music/kune/sound/kaiteisinden gain6 loop.mp3||Mamomo - Undersea Temple
+music/kune/sound/tabinoowarini 210 gain4.mp3||Mamomo - 旅の終わりに (At The End OF The Trip / Endpoint)Undersea Temple Album
+music/kune/sound/Thoughtfully gain5.mp3||Takahiro Asai - Thoughtfully

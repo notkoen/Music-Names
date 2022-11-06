@@ -1,0 +1,7 @@
+music/halo_6_1.mp3||Halo 3 - The Covenant Three Gates
+music/halo_5.mp3||Halo 2 - Suite Autumn
+music/halo_4.mp3||Halo 2 - High Charity Suite
+music/halo_3.mp3||Halo: Combat Evolved - Brothers in Arms
+music/halo_2.mp3||Halo: Combat Evolved - Devils... Monsters...
+music/halo_1_2.mp3||Halo: Combat Evolved
+music/halo_1_1.mp3||Halo: Combat Evolved - What Once Was Lost

@@ -1,0 +1,10 @@
+music/sweetS/ze_worlds/Honour.mp3||Black Hydra - Honour
+music/sweetS/ze_worlds/Ice Reflection.mp3||a_hisa - Ice Reflection
+music/sweetS/ze_worlds/M2U Brown Wind.mp3||M2U - Brown Wind
+music/sweetS/ze_worlds/Menvoler Vers Toi feat Felicia Farerre.mp3||Phil Rey Gibbons - Menvoler Vers Toi
+music/sweetS/ze_worlds/NieR Automata OST Bipolar Nightmare Vocals.mp3||Nier Automata OST - Bipolar Nightmare 
+music/sweetS/ze_worlds/PSYCHO PASS 3.mp3||Yugo Kanno - Psycho Pass 3
+music/sweetS/ze_worlds/Shu Extended.mp3||Hiroyuki Sawano - Shu
+music/sweetS/ze_worlds/Stigma.mp3||a_hisa - Stigma
+music/sweetS/ze_worlds/The Everlasting.mp3||EGOIST - The Everlasting Guilty Crown
+music/sweetS/ze_worlds/warmup.mp3||a_hisa - Freesia

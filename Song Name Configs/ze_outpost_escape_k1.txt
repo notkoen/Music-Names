@@ -1,0 +1,2 @@
+king/generic/dk2_mining_melancholy.mp3||Donkey Kong Country 2 - Mining Melancholy
+king/generic/dk2_flight_of_the_zinger.mp3||Donkey Kong Country 2 - Flight Of The Zinger

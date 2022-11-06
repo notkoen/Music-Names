@@ -1,0 +1,3 @@
+music/snd1.mp3||The Dark Knight Rises - Imagine The Fire
+music/snd2.mp3||Hans Zimmer - A Dark Knight
+music/snd3.mp3||Hans Zimmer - Risen From Darkness

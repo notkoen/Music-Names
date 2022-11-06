@@ -1,0 +1,2 @@
+music/vrmode.mp3||Metal Gear Solid: VR Training - Weapon Mode
+music/mgstheme.mp3||Metal Gear Solid Main Theme - The World Needs Only One Big Boss!
