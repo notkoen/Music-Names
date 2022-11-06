@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-416 | Completed Song Configs
+418 | Completed Song Configs
 
 ## Leaderboard
 
@@ -21,9 +21,9 @@ Name | Configs Made | Reward | Paid Amount
 Bomberman | 100 | 10000 | 10000
 Haruka | 100 | 10000 | 10000
 Hibiki | 28 | 2800 | 2800
+Detroid | 18 | 1800 | 0
 Kiriya | 17 | 1700 | 1700
 Heavy | 17 | 1700 | 1700
-Detroid | 17 | 1700 | 0
 DVC | 14 | 1400 | 1300
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
@@ -39,8 +39,8 @@ Chinny | 4 | 400 | 300
 kaomunkai | 3 | 300 | 0
 KingMagress | 3 | 300 | 0
 Hichatu | 3 | 300 | 0
+tilgep | 3 | 300 | 200
 WILD BANAN | 2 | 200 | 0
-tilgep | 2 | 200 | 200
 TuPu | 2 | 200 | 0
 Sprinuts | 1 | 100 | 0
 ShiroNeko | 1 | 100 | 0
@@ -261,7 +261,7 @@ Emoji | Description
 - :white_check_mark: ze_evil_mansion_v1_finalf `Hibiki`
 - :x: ze_exchange_innovation_v1b
 - :white_check_mark: ze_facility_overload_final1 `koen`
-- :x: ze_fapescape_p5
+- :white_check_mark: ze_fapescape_p5 `tilgep`
 - :x: ze_fapescape_rote_v1_3
 - :x: ze_farmhouse_v9f2
 - :black_circle: ~~ze_fartlocker_escape_v3~~
@@ -495,7 +495,7 @@ Emoji | Description
 - :white_check_mark: ze_noir_p `Hichatu`
 - :white_check_mark: ze_nomada_h3 `tapch0w`
 - :x: ze_noob_too_easy_v1_2_2
-- :x: ze_noob_too_easy_v3_2fix
+- :white_check_mark: ze_noob_too_easy_v3_2fix `Detroid`
 - :x: ze_nora_v1_11
 - :x: ze_nostromo_escape_p2
 - :x: ze_nostromo_redux_v1_2

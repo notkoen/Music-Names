@@ -1,0 +1,19 @@
+music/bossmus01.mp3||Rick Astley - Never Gonna Give You Up
+music/bossmus02.mp3||Dead or Alive - You Spin Me Round
+music/bossmus03.mp3||F-Zero OST - Death Wind
+music/exboss01.mp3||1UP - Sega
+music/exboss02.mp3||Norvak - Red Light District
+music/exboss03.mp3||Norvak - Nova Collapse
+music/exboss04.mp3||Two Steps From Hell - SkyWorld
+music/exmus01.mp3||Norvak - Alien Reactor
+music/exmus02.mp3||Norvak - Dark Side
+music/exmus03.mp3||Norvak - Pissed Office Box
+music/exmus04.mp3||Norvak - Rabid Transit
+music/exmus05.mp3||Norvak - The Stalker
+music/exmus06.mp3||Norvak - Departure
+music/normalmus01.mp3||F-Zero OST - Ending Theme
+music/normalmus02.mp3||F-Zero OST - Sand Ocean
+music/normalmus03.mp3||F-Zero OST - Port Town
+music/normalmus04.mp3||MC Hammer - U Can't Touch This
+music/normalmus05.mp3||Star Fox OST - Corneria
+music/normalmus06.mp3||F-Zero OST - Big Blue
