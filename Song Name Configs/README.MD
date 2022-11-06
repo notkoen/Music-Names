@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-357 | Completed Song Configs
+416 | Completed Song Configs
 
 ## Leaderboard
 
@@ -18,13 +18,13 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
-Bomberman | 88 | 8800 | 8500
-Haruka | 60 | 6000 | 0
-Hibiki | 24 | 2400 | 2400
+Bomberman | 100 | 10000 | 8500
+Haruka | 100 | 10000 | 0
+Hibiki | 28 | 2800 | 2400
 Kiriya | 17 | 1700 | 1700
+Heavy | 17 | 1700 | 1300
 Detroid | 16 | 1600 | 0
 DVC | 14 | 1400 | 1300
-Heavy | 14 | 1400 | 1300
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
 Chong0074 | 7 | 700 | 0
@@ -35,10 +35,10 @@ tapch0w | 6 | 600 | 600
 BAN | 4 | 400 | 0
 Tsukasa | 4 | 400 | 0
 FroZRil | 4 | 400 | 0
+Chinny | 4 | 400 | 300
 kaomunkai | 3 | 300 | 0
 KingMagress | 3 | 300 | 0
 Hichatu | 3 | 300 | 0
-Chinny | 3 | 300 | 300
 WILD BANAN | 2 | 200 | 0
 tilgep | 2 | 200 | 200
 TuPu | 2 | 200 | 0
@@ -110,7 +110,7 @@ Emoji | Description
 - :black_circle: ~~ze_atix_apocalypse_p3~~
 - :x: ze_ATIX_panic_b3t_p
 - :white_check_mark: ze_atix_panic_v1 `Heavy`
-- :x: ze_atixpanic_ricardoflick_zeddy
+- :x: ze_atixpanic_ricardoflick_zeddy_v2
 - :x: ze_atos_v2_3
 - :white_check_mark: ze_attackontitan_trotster_v1_2 `Heavy`
 - :white_check_mark: ze_Apollo_p2 `Owlfy`
@@ -150,7 +150,7 @@ Emoji | Description
 - :white_check_mark: ze_boatescape999_v5
 - :white_check_mark: ze_bowser_in_the_fire_sea_v1e_rs2 `Bomberman`
 - :white_check_mark: ze_boredom_p `Bomberman`
-- :x: ze_bp-infested-prison_p2
+- :white_check_mark: ze_bp-infested-prison_p2 `Haruka`
 - :white_check_mark: ze_Breakable_p3 `Bomberman`
 - :white_check_mark: ze_breezy_v4 `DVC`
 - :white_check_mark: ze_breezy_v5 `DVC`
@@ -182,13 +182,13 @@ Emoji | Description
 - :white_check_mark: ze_colorlicouspilar_p4 `Hibiki`
 - :white_check_mark: ze_colors_p3 `Hibiki`
 - :white_check_mark: ze_colourslide_v2_2 `Haruka`
-- :x: ze_complex_va3
+- :white_check_mark: ze_complex_va3 `Hibiki`
 - :white_check_mark: ze_conflict_v4_4
 - :white_check_mark: ze_contradiction_spiral_a2_2 `Haruka`
 - :white_check_mark: ze_copy_escape_v2_3 `Bomberman`
 - :x: ze_COASTALCITY_b9
 - :white_check_mark: ze_core_v2b `Bomberman`
-- :x: ze_corrupted_bridge_b1_3
+- :white_check_mark: ze_corrupted_bridge_b1_3 `Haruka`
 - :white_check_mark: ze_covid_1984_v2_1 `Heavy`
 - :white_check_mark: ze_crashbandicoot_p3 `Heavy`
 - :white_check_mark: ze_crazy_escape_v5_5_1 `Bomberman`
@@ -216,7 +216,7 @@ Emoji | Description
 - :white_check_mark: ze_death_valley_b2 `Heavy`
 - :x: ze_death_wish_gf1_1
 - :x: ze_Deathinvain_Palace_v2
-- :x: ze_deep_dream_v1_2
+- :white_check_mark: ze_deep_dream_v1_2 `Haruka`
 - :x: ze_deepice_p3
 - :white_check_mark: ze_defense3003 `Bomberman`
 - :x: ze_depths_b1_1
@@ -225,7 +225,7 @@ Emoji | Description
 - :white_check_mark: ze_Desperate_Soul_a9 `Detroid`
 - :x: ze_destruction_of_exorath_v4_lite
 - :white_check_mark: ze_dev_r4a_csgo4 `Hibiki`
-- :x: ze_dev_reprise_v1_0
+- :white_check_mark: ze_dev_reprise_v1_0 `Haruka`
 - :x: ze_diamond_cube_v1
 - :white_check_mark: ze_diddle_v3
 - :white_check_mark: ze_djinn_go1 `WhiteCat`
@@ -233,26 +233,26 @@ Emoji | Description
 - :white_check_mark: ze_doom_p2 `Hibiki`
 - :x: ze_draco_accidere_v4_final
 - :white_check_mark: ze_dreamin_v3_3
-- :x: ze_dungeon_of_ignorance_a1_2
-- :x: ze_dust_escape_p3
-- :x: ze_dust_itembattle_ultimate_f5_1
+- :white_check_mark: ze_dungeon_of_ignorance_a1_2 `Heavy`
+- :black_circle: ~~ze_dust_escape_p3~~
+- :white_check_mark: ze_dust_itembattle_ultimate_f5_1 `Heavy`
 - :x: ze_DYSTOPIA_a4 `Bomberman`
 - :x: ze_easy_escape_r
 - :white_check_mark: ze_eden_a3 `Detroid`
-- :x: ze_elevator_escape_p3
+- :white_check_mark: ze_elevator_escape_p3 `Haruka`
 - :x: ze_egyptian_b5
 - :x: ze_einstein_v7
-- :x: ze_elork_ok3ng3se5_v1_3
+- :white_check_mark: ze_elork_ok3ng3se5_v1_3 `Haruka`
 - :x: ze_emerald_b3_f1
 - :white_check_mark: ze_endemic_v1_1 `Chinny`
-- :x: ze_ep2_plant_b1
+- :white_check_mark: ze_ep2_plant_b1 `Haruka`
 - :x: ze_epic_escape_v2_1
-- :x: ze_error_a0_ps
-- :x: ze_Escape_Citadel_r4
+- :white_check_mark: ze_error_a0_ps `Haruka`
+- :white_check_mark: ze_Escape_Citadel_r4 `Haruka`
 - :x: ze_escape_horizon_p3
-- :x: ze_escape_stroggos_p2
-- :x: ze_escape_the_eye_remix_pm1
-- :x: ze_escapetheworld_a33
+- :white_check_mark: ze_escape_stroggos_p2 `Haruka`
+- :black_circle: ~~ze_escape_the_eye_remix_pm1~~
+- :white_check_mark: ze_escapetheworld_a33 `Haruka`
 - :white_check_mark: ze_eschaton_a3_1 `Bomberman`
 - :white_check_mark: ze_eternal_grove_v3 `Bomberman`
 - :white_check_mark: ze_eternal_journey_go_v1_4t11 `Bomberman`
@@ -264,7 +264,7 @@ Emoji | Description
 - :x: ze_fapescape_p5
 - :x: ze_fapescape_rote_v1_3
 - :x: ze_farmhouse_v9f2
-- :x: ze_fartlocker_escape_v3
+- :black_circle: ~~ze_fartlocker_escape_v3~~
 - :white_check_mark: ze_fast_escape_p2 `Bomberman`
 - :x: ze_fe8_sacred_stones_v1_4
 - :x: ze_ffuxx_demon_naramina_a2
@@ -300,7 +300,7 @@ Emoji | Description
 - :white_check_mark: ze_flowering_b10 `Haruka`
 - :white_check_mark: ze_flying_world_p `Bomberman`
 - :white_check_mark: ze_fond_dream_h4 `Watdoink`
-- :x: ze_forbidden_repository_a1_4
+- :white_check_mark: ze_forbidden_repository_a1_4 `Haruka`
 - :x: ze_foreign_sand_mix_v2_fix
 - :x: ze_forest_r_v1
 - :white_check_mark: ze_forest_of_steel_v1_7f `Haruka`
@@ -310,12 +310,12 @@ Emoji | Description
 - :x: ze_FORiUS_just_RUN_p2
 - :white_check_mark: ze_forsaken_temple_v3_b5 `Detroid`
 - :x: ze_football_go2
-- :x: ze_freespace_ultimate_b4
+- :white_check_mark: ze_freespace_ultimate_b4 `Haruka`
 - :white_check_mark: ze_frostdrake_tower_v1 `Bomberman`
 - :white_check_mark: ze_frozen_abyss_v1_2 `Bomberman`
 - :white_check_mark: ze_frozentemple_rc1_1 `Bomberman`
 - :x: ze_funny_runner_v3_1
-- :x: ze_games_v2_1
+- :black_circle: ~~ze_games_v2_1~~
 - :white_check_mark: ze_genso_of_last_v3_4_t1 `Detroid`
 - :white_check_mark: ze_geometric_v1_4 `Detroid`
 - :white_check_mark: ze_give_it_a_name_test4 `Bomberman`
@@ -331,17 +331,17 @@ Emoji | Description
 - :x: ze_gris_a4_9_8
 - :white_check_mark: ze_gris_v1_13
 - :white_check_mark: ze_halloween_house_b4 `Bomberman`
-- :x: ze_halloween_mystery_v1
+- :black_circle: ~~ze_halloween_mystery_v1~~
 - :x: ze_halo_ce_p1_b16
 - :white_check_mark: ze_halo_p3 `Hibiki`
 - :white_check_mark: ze_halo_poa_p4 `Hibiki`
 - :x: ze_harry_potter_v2_1_csgo
 - :white_check_mark: ze_haunted_lab_escape_p3 `Bomberman`
 - :x: ze_hazard_escape_p2
-- :x: ze_hell_escape_p2
-- :x: ze_hidden_fortress_p
+- :black_circle: ~~ze_hell_escape_p2~~
+- :black_circle: ~~ze_hidden_fortress_p~~
 - :x: ze_hidden_temple_v2_5
-- :x: ze_highest_to_lowest_v1
+- :white_check_mark: ze_highest_to_lowest_v1 `Heavy`
 - :x: ze_hive_complex_v1_2_1
 - :x: ze_hl2_episodic_escape_f2
 - :x: ze_hobbit_escape_b2
@@ -359,21 +359,21 @@ Emoji | Description
 - :x: ze_icecap_solo_v1_f
 - :x: ze_iceland_escape_v1_2
 - :x: ze_iceworld_athletic_b4_5
-- :x: ze_illusory_world_v4_5
+- :white_check_mark: ze_illusory_world_v4_5 `Haruka`
 - :white_check_mark: ze_illya_b4_csgo_a3 `tilgep`
 - :x: ze_illya_b4_csgo_a3f
 - :x: ze_inboxed_final_fix
 - :x: ze_in_a_dream_oh1tn6_v1_2
 - :white_check_mark: ze_indiana_jones_v4a_004_p4 `Bomberman`
-- :x: ze_indianajones_zeddy_special
+- :x: ze_indianajones_zeddy_special_v2
 - :x: ze_industrial_dejavu_p3
 - :x: ze_infected_sewers_csgo
 - :x: ze_infected_tramway_csgo1
 - :x: ze_infernal_spire_p2
-- :x: ze_infiltration_final_r1
+- :white_check_mark: ze_infiltration_final_r1 `Haruka`
 - :white_check_mark: ze_insanitycity_va2 `Haruka`
-- :x: ze_insensible_sr8gm6yj12hs7_RG_v9_6
-- :x: ze_interception_p2
+- :white_check_mark: ze_insensible_sr8gm6yj12hs7_RG_v9_6 `Haruka`
+- :white_check_mark: ze_interception_p2 `Haruka`
 - :white_check_mark: ze_isla_nublar_p3 `Hibiki`
 - :x: ze_island_escape_p3
 - :x: ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3
@@ -385,8 +385,8 @@ Emoji | Description
 - :white_check_mark: ze_jjba_v7 `KingMagress`
 - :x: ze_johnny_nukem_go_b8_3a
 - :white_check_mark: ze_journey_p2 `Chong0074`
-- :x: ze_jurassicPark_Escape_p2
-- :x: ze_JurassicPark_p3
+- :white_check_mark: ze_jurassicPark_Escape_p2 `Haruka`
+- :white_check_mark: ze_JurassicPark_p3 `Haruka`
 - :x: ze_jurassicpark_lasers_zeddy
 - :x: ze_K19_escape_go1
 - :x: ze_kaffe_escape_v2
@@ -406,21 +406,22 @@ Emoji | Description
 - :white_check_mark: ze_last_man_standing_h2 `koen`
 - :white_check_mark: ze_last_man_standing_p2 `koen`
 - :white_check_mark: ze_Last_Man_Standing_v6_T3 `koen`
-- :x: ze_legends_of_dawn_v1_6
+- :white_check_mark: ze_legends_of_dawn_v1_6 `Haruka`
 - :x: ze_legoland_crackheads_p2
-- :x: ze_lemonysnickets_p2
+- :white_check_mark: ze_lemonysnickets_p2 `Haruka`
 - :x: ze_licciana_escape_p
 - :x: ze_licciana_escape_zrgbr_b3
 - :x: ze_light_escape_tb3
 - :white_check_mark: ze_light_retribution_v1_k2 `DVC`
-- :x: ze_light_escape_ta3_1
+- :white_check_mark: ze_light_escape_ta3_1 `Haruka`
+- :x: ze_light_escape_v1
 - :white_check_mark: ze_light_shadow_L1_4 `BAN`
 - :x: ze_light_v7_csgo_tk13_v5_2fix
 - :x: ze_lightnight_v1_4fix_hdr
 - :x: ze_lila_panic_escape_v3_3
 - :x: ze_Lila_Panic_Escape_tr2
 - :white_check_mark: ze_lootus_a01
-- :x: ze_lootus_v1_2
+- :white_check_mark: ze_lootus_v1_2 `Haruka`
 - :white_check_mark: ze_lost_terminus_b4 `Haruka`
 - :x: ze_lostclue_b3_3
 - :white_check_mark: ze_LOTR_Helms_Deep_v5_p6 `Bomberman`
@@ -429,8 +430,8 @@ Emoji | Description
 - :white_check_mark: ze_LOTR_Minas_TIret_p2 `Bomberman`
 - :white_check_mark: ze_lotr_minas_tirith_p5 `Bomberman`
 - :white_check_mark: ze_LOTR_Mines_of_Moria_p2 `Bomberman`
-- :x: ze_LOTR_Mirkwood_v2_5
-- :x: ze_LOTR_Mount_Doom_p3
+- :white_check_mark: ze_LOTR_Mirkwood_v2_5 `Bomberman`
+- :white_check_mark: ze_LOTR_Mount_Doom_p3 `Bomberman`
 - :white_check_mark: ze_luciddreams_f5_7 `Heavy`
 - :x: ze_luciddreams_v3_82x
 - :white_check_mark: ze_luck_matters_v3x `Haruka`
@@ -445,7 +446,7 @@ Emoji | Description
 - :x: ze_magic_carpet_p2
 - :x: ze_magmadrake_b4
 - :x: ze_magus_v2_4
-- :x: ze_mapeadores_museum_v1
+- :white_check_mark: ze_mapeadores_museum_v1 `Chinny`
 - :x: ze_mario_tower_v4_p2
 - :x: ze_mars_escape_gp3
 - :white_check_mark: ze_meatropolis_p2 `tapch0w`
@@ -465,28 +466,28 @@ Emoji | Description
 - :white_check_mark: ze_misaka_v1ff `WhiteCat`
 - :white_check_mark: ze_mist_q3 `Detroid`
 - :x: ze_Mixture_3de_v1f2_g1t
-- :x: ze_mlgsurf_v1_3_4
+- :white_check_mark: ze_mlgsurf_v1_3_4 `Hibiki`
 - :x: ze_mochi_island_f6
 - :white_check_mark: ze_mojos_minigames_v1_4_1 `Haruka`
 - :white_check_mark: ze_moltentemple_csgo1
-- :x: ze_monochrome_v1f
-- :x: ze_monolith_csgo
-- :x: ze_moon_base_p3
-- :x: ze_motanuminc_p2
+- :white_check_mark: ze_monochrome_v1f `Haruka`
+- :white_check_mark: ze_monolith_csgo `Haruka`
+- :white_check_mark: ze_moon_base_p3 `Haruka`
+- :white_check_mark: ze_motanuminc_p2 `Haruka`
 - :x: ze_mountain_escape_csgo2
 - :x: ze_mountain_escape_snow_v7_1
 - :white_check_mark: ze_naiads_v4a_6f
 - :x: ze_naiads_v4a_8f
 - :x: ze_nameless_necropolis_v3
-- :x: ze_namviet_gf1_1
+- :white_check_mark: ze_namviet_gf1_1 `Haruka`
 - :white_check_mark: ze_Naruto_p `Sprinuts`
 - :white_check_mark: ze_natural_v1_4 `DVC`
 - :x: ze_necromanteion_v3_1
 - :white_check_mark: ze_negative_legacy_va2 `Detroid`
-- :x: ze_neglected_v2_2
+- :white_check_mark: ze_neglected_v2_2 `Haruka`
 - :white_check_mark: ze_neko_canyon_p3 `Hibiki`
 - :white_check_mark: ze_neochrome_csgo3a `tapch0w`
-- :x: ze_new_crazy_escape_v4_1
+- :white_check_mark: ze_new_crazy_escape_v4_1 `Bomberman`
 - :white_check_mark: ze_nibui_m
 - :white_check_mark: ze_nightmare_dimension_p3 `Bomberman`
 - :x: ze_no_name_v1_6
@@ -507,26 +508,26 @@ Emoji | Description
 - :white_check_mark: ze_obj_npst_v2
 - :x: ze_Obj_Rampage_v1_2
 - :x: ze_obj_vertigo_v3_1
-- :x: ze_ocean_base_escape_p2
+- :white_check_mark: ze_ocean_base_escape_p2 `Hibiki`
 - :white_check_mark: ze_offliner_v2_csgo1 `WhiteCat`
-- :x: ze_omega_p3
+- :white_check_mark: ze_omega_p3 `Haruka`
 - :x: ze_omen_090
 - :x: ze_omochi_b10
 - :white_check_mark: ze_omochix_v3_2fix
 - :x: ze_onahole_v3_3_3
 - :white_check_mark: ze_oneiros_p `Bomberman`
 - :x: ze_oot_shadowtemple_b10
-- :x: ze_opti_variety_missions_p3
+- :white_check_mark: ze_opti_variety_missions_p3 `Haruka`
 - :white_check_mark: ze_otakuroom_v5_6_ps `Bomberman`
 - :white_check_mark: ze_Outlast_v2_cm1_fix1 `Bomberman`
-- :x: ze_outpost_escape_k1
+- :white_check_mark: ze_outpost_escape_k1 `Haruka`
 - :white_check_mark: ze_palace_adventure_v1_2 `Bomberman`
 - :white_check_mark: ze_palace_of_minolila_v1 `Haruka`
 - :x: ze_pallaroid_rage_v1
 - :x: ze_pandora_revolutionz_hdr2
-- :x: ze_panic_escape_v3_2_e5_hdr
+- :white_check_mark: ze_panic_escape_v3_2_e5_hdr `Haruka`
 - :x: ze_paper_escaper_p7
-- :x: ze_paradise_v2_csgo
+- :white_check_mark: ze_paradise_v2_csgo `Haruka`
 - :x: ze_paranoid_rezurrection_csgo1
 - :x: ze_parkers_pit_p
 - :white_check_mark: ze_Parking_p4 `Bomberman`
@@ -547,7 +548,7 @@ Emoji | Description
 - :white_check_mark: ze_ponchermonkey_shooter_csgo1 `Bomberman`
 - :white_check_mark: ze_PoR_island_p3 `Hibiki`
 - :white_check_mark: ze_Portal_Story_p2 `kaomunkai`
-- :x: ze_postal_v1_1
+- :white_check_mark: ze_postal_v1_1 `Haruka`
 - :white_check_mark: ze_PotC_IV_p3 `Hibiki`
 - :white_check_mark: ze_PotC_p4 `Hibiki`
 - :white_check_mark: ze_Predator_Ultimate_p7 `Bomberman`
@@ -571,8 +572,8 @@ Emoji | Description
 - :white_check_mark: ze_randomizer_c1 `Chinny`
 - :x: ze_Ratescape_v5_4
 - :x: ze_rawnscape_csgo
-- :x: ze_re_creation_v2_25
-- :x: ze_re_surf_skyline_b0_11
+- :white_check_mark: ze_re_creation_v2_25 `Haruka`
+- :white_check_mark: ze_re_surf_skyline_b0_11 `Haruka`
 - :white_check_mark: ze_realm_f3 `Tsukasa`
 - :x: ze_reconnoiter_b5
 - :x: ze_retribution_pf
@@ -623,12 +624,12 @@ Emoji | Description
 - :white_check_mark: ze_shrine_of_umos_b3 `Haruka`
 - :white_check_mark: ze_shroomforest2_p6 `Hibiki`
 - :white_check_mark: ze_shroomforest3_p `tapch0w`
-- :x: ze_shroomforest_p6
+- :white_check_mark: ze_shroomforest_p6 `Hibiki`
 - :x: ze_siberia_1990_v1_2c_p5
 - :x: ze_silent_hill_blackblood_f6
 - :white_check_mark: ze_silent_hill_2_illusion_b5 `Bomberman`
 - :white_check_mark: ze_silent_hill_3_dawn_v2 `Bomberman`
-- :x: ze_silent_hill_3_dawn_full_t3
+- :white_check_mark: ze_silent_hill_3_dawn_full_t3 `Bomberman`
 - :white_check_mark: ze_silent_hill_3_flee_v4 `Bomberman`
 - :white_check_mark: ze_sit_caelum_paradisus_b7_hdr
 - :white_check_mark: ze_skill_escape_v09
@@ -639,6 +640,7 @@ Emoji | Description
 - :x: ze_sky_journey_v8
 - :white_check_mark: ze_skygarden_v2_1
 - :white_check_mark: ze_Skyscraper_city_r2 `Haruka`
+- :white_check_mark: ze_slackerino_mapperino_v3 `Detroid`
 - :white_check_mark: ze_slender_escape_rc2 `Bomberman`
 - :x: ze_small_town_b1
 - :x: ze_snowescape_gp1
@@ -657,16 +659,16 @@ Emoji | Description
 - :white_check_mark: ze_star_wars_prequel_f1 `Hibiki`
 - :x: ze_stargate_escape_v8_p2
 - :x: ze_starwars_v2fix_csgo3
-- :x: ze_stilshrine_of_miriam_v5_1
-- :x: ze_stilshrine_of_miriam_v7_2fix
+- :white_check_mark: ze_stilshrine_of_miriam_v5_1 `Bomberman`
+- :white_check_mark: ze_stilshrine_of_miriam_v7_2fix `Bomberman`
 - :x: ze_STRANGE_escape_p2
 - :white_check_mark: ze_suchirifu_v3_1 `Bomberman`
 - :white_check_mark: ze_SUMAI_facility_v1a `Bomberman`
-- :x: ze_sunkentemple_v3_1
+- :white_check_mark: ze_sunkentemple_v3_1 `Bomberman`
 - :white_check_mark: ze_sunlight_p2 `Kiriya`
 - :white_check_mark: ze_supershitshow_a2 `Haruka`
 - :white_check_mark: ze_surf_bona_v1_3 `FroZRil`
-- :x: ze_surf_concrete_v2
+- :white_check_mark: ze_surf_concrete_v2 `Haruka`
 - :white_check_mark: ze_surf_danger_p2 `Cylops`
 - :white_check_mark: ze_surf_dark_fantasy_v2go2 `kaomunkai`
 - :white_check_mark: ze_surf_daybreak_v1_k2 `Hibiki`
@@ -735,9 +737,9 @@ Emoji | Description
 - :white_check_mark: ze_ultimate_cancer_v1_2 `WILD BANAN`
 - :white_check_mark: ze_undercave_es_mi_v1_5 `Detroid`
 - :x: ze_underground_escape_p
-- :x: ze_undersea_temple_a4_4
+- :white_check_mark: ze_undersea_temple_a4_4 `Bomberman`
 - :white_check_mark: ze_undertale_g_v1_3_fix1 `Haruka`
-- :x: ze_undertale_sans_final
+- :white_check_mark: ze_undertale_sans_final `Bomberman`
 - :x: ze_ujel_extreme_v1_5
 - :x: ze_unknown_underground_a2_8_2
 - :white_check_mark: ze_upwards_v1 `Haruka`
@@ -755,15 +757,15 @@ Emoji | Description
 - :x: ze_volcano_escape_p2
 - :x: ze_voodoo_islands_p5
 - :x: ze_watagi_tunnel_v1_1
-- :x: ze_water_temple_test_v4
+- :white_check_mark: ze_water_temple_test_v4 `Bomberman`
 - :x: ze_world_escapes_v1
-- :x: ze_worlds_v1_2
+- :white_check_mark: ze_worlds_v1_2 `Bomberman`
 - :x: ze_xenovation_v1_2
 - :white_check_mark: ze_yueyingchuanshuo_10_8_f4
 - :white_check_mark: ze_yueyingchuanshuo_10_9_f3 `Chong0074`
 - :white_check_mark: ze_yurilnier_beta007_hdr `Bomberman`
 - :x: ze_zakum
-- :x: ze_zk_mall_of_zombies_p2
+- :white_check_mark: ze_zk_mall_of_zombies_p2 `Bomberman`
 - :x: ze_zombiemod_corporation_p2
 - :x: ze_zombierig_p3
 - :x: ze_zulu_v2
