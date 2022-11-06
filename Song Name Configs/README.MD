@@ -23,7 +23,7 @@ Haruka | 100 | 10000 | 0
 Hibiki | 28 | 2800 | 2400
 Kiriya | 17 | 1700 | 1700
 Heavy | 17 | 1700 | 1300
-Detroid | 16 | 1600 | 0
+Detroid | 17 | 1700 | 0
 DVC | 14 | 1400 | 1300
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
