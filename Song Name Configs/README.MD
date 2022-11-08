@@ -18,7 +18,7 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
-Bomberman | 100 | 10000 | 10000
+Bomberman | 103 | 10300 | 10000
 Haruka | 100 | 10000 | 10000
 Hibiki | 28 | 2800 | 2800
 Detroid | 18 | 1800 | 0
@@ -256,7 +256,7 @@ Emoji | Description
 - :white_check_mark: ze_eschaton_a3_1 `Bomberman`
 - :white_check_mark: ze_eternal_grove_v3 `Bomberman`
 - :white_check_mark: ze_eternal_journey_go_v1_4t11 `Bomberman`
-- :x: ze_eternal_void_p3
+- :white_check_mark: ze_eternal_void_p3 `Bomberman`
 - :white_check_mark: ze_evernight_a3_4 `Bomberman`
 - :white_check_mark: ze_evil_mansion_v1_finalf `Hibiki`
 - :x: ze_exchange_innovation_v1b
@@ -399,7 +399,7 @@ Emoji | Description
 - :x: ze_L_The_Lower_v1_8f
 - :x: ze_L_The_Medium_v1_6
 - :x: ze_l0v0l_v1_4_csgo2
-- :x: ze_l4d2_c1m3_mall_csgo_v0_3_le
+- :white_check_mark: ze_l4d2_c1m3_mall_csgo_v0_3_le `Bomberman`
 - :x: ze_laser_island_b6_8
 - :x: ze_laserheaven_csgo2
 - :white_check_mark: ze_last_man_standing_csgo3 `koen`
@@ -482,7 +482,7 @@ Emoji | Description
 - :white_check_mark: ze_namviet_gf1_1 `Haruka`
 - :white_check_mark: ze_Naruto_p `Sprinuts`
 - :white_check_mark: ze_natural_v1_4 `DVC`
-- :x: ze_necromanteion_v3_1
+- :white_check_mark: ze_necromanteion_v3_1 `Bomberman`
 - :white_check_mark: ze_negative_legacy_va2 `Detroid`
 - :white_check_mark: ze_neglected_v2_2 `Haruka`
 - :white_check_mark: ze_neko_canyon_p3 `Hibiki`
