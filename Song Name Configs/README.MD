@@ -700,7 +700,7 @@ Emoji | Description
 - :white_check_mark: ze_tesv_skyrim_v5_6 `Owlfy`
 - :x: ze_texturescape_p2
 - :x: ze_the_curse_of_blackwater_v6b
-- :x: ze_the_end_v3f
+- :black_circle: ~~ze_the_end_v3f~~
 - :x: ze_the_last_chapter_v1_5 `Bomberman`
 - :x: ze_the_new_era_of_crazy_escape_b8 `Bomberman`
 - :x: ze_the_twilight_zone_v1
@@ -728,7 +728,7 @@ Emoji | Description
 - :white_check_mark: ze_trials_v3_test `Detroid`
 - :x: ze_tropico_escape_gf1_1
 - :x: ze_turokbase_p3
-- :x: ze_TV_station_r4
+- :black_circle: ~~ze_TV_station_r4~~
 - :white_check_mark: ze_tyranny2_v1_csgo2 `Bomberman`
 - :white_check_mark: ze_tyranny_v5_go3 `Bomberman`
 - :white_check_mark: ze_ubermenschen_b2 `DVC`
@@ -736,7 +736,7 @@ Emoji | Description
 - :x: ze_ultra_ungent_a2
 - :white_check_mark: ze_ultimate_cancer_v1_2 `WILD BANAN`
 - :white_check_mark: ze_undercave_es_mi_v1_5 `Detroid`
-- :x: ze_underground_escape_p
+- :black_circle: ~~ze_underground_escape_p~~
 - :white_check_mark: ze_undersea_temple_a4_4 `Bomberman`
 - :white_check_mark: ze_undertale_g_v1_3_fix1 `Haruka`
 - :white_check_mark: ze_undertale_sans_final `Bomberman`
@@ -754,11 +754,11 @@ Emoji | Description
 - :x: ze_vertigo_militia_b1_3_14
 - :x: ze_vietnam_p3
 - :white_check_mark: ze_visualizer_v1_2
-- :x: ze_volcano_escape_p2
+- :black_circle: ~~ze_volcano_escape_p2~~
 - :x: ze_voodoo_islands_p5
-- :x: ze_watagi_tunnel_v1_1
+- :black_circle: ~~ze_watagi_tunnel_v1_1~~
 - :white_check_mark: ze_water_temple_test_v4 `Bomberman`
-- :x: ze_world_escapes_v1
+- :black_circle: ~~ze_world_escapes_v1~~
 - :white_check_mark: ze_worlds_v1_2 `Bomberman`
 - :x: ze_xenovation_v1_2
 - :white_check_mark: ze_yueyingchuanshuo_10_8_f4
