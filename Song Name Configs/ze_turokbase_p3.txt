@@ -1,0 +1,3 @@
+music/ze_turokbase/music/Turok 3 Bunker Warfare.mp3||Turok 3:Shadow of Oblivion OST - Bunker Warfare
+music/ze_turokbase/music/Turok 3 Diatonic Assault.mp3||Turok 3:Shadow of Oblivion OST - Diatonic Music Assault
+music/ze_turokbase/music/Turok 3 Reversible Submersible.mp3||Turok 3:Shadow of Oblivion OST - Reversible Submersible

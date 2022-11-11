@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-418 | Completed Song Configs
+436 | Completed Song Configs
 
 ## Leaderboard
 
@@ -18,7 +18,7 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
-Bomberman | 103 | 10300 | 10000
+Bomberman | 118 | 11800 | 10000
 Haruka | 100 | 10000 | 10000
 Hibiki | 28 | 2800 | 2800
 Detroid | 18 | 1800 | 0
@@ -693,9 +693,9 @@ Emoji | Description
 - :white_check_mark: ze_taboo_carnation_p2 `Hichatu`
 - :x: ze_temple_escape_va3
 - :x: ze_temple_of_phantom_v1p_2
-- :x: ze_temple_of_the_demon_god_v2
-- :x: ze_temple_raider_b4_ps6
-- :x: ze_Temple_Run_v5
+- :white_check_mark: ze_temple_of_the_demon_god_v2 `Bomberman`
+- :white_check_mark: ze_temple_raider_b4_ps6 `Bomberman`
+- :white_check_mark: ze_Temple_Run_v5 `Bomberman`
 - :white_check_mark: ze_tenkinoko_welkin_v1_6f `TuPu`
 - :white_check_mark: ze_tesv_skyrim_v5_6 `Owlfy`
 - :x: ze_texturescape_p2
@@ -703,19 +703,19 @@ Emoji | Description
 - :black_circle: ~~ze_the_end_v3f~~
 - :x: ze_the_last_chapter_v1_5 `Bomberman`
 - :x: ze_the_new_era_of_crazy_escape_b8 `Bomberman`
-- :x: ze_the_twilight_zone_v1
-- :x: ze_thelostworld_redux_p2
-- :x: ze_thousand_steps_go1
+- :white_check_mark: ze_the_twilight_zone_v1 `Bomberman`
+- :white_check_mark: ze_thelostworld_redux_p2 `Bomberman`
+- :white_check_mark: ze_thousand_steps_go1 `Bomberman`
 - :white_check_mark: ze_three_eyes_v1_1 `Tsukasa`
 - :white_check_mark: ze_thriller_escape_p `Hibiki`
-- :x: ze_tibia_v4_2
+- :white_check_mark: ze_tibia_v4_2 `Bomberman`
 - :white_check_mark: ze_tilex_ultimate_v2_13_gf1_5 `Beppu`
 - :white_check_mark: ze_timesink_v1_2
 - :white_check_mark: ze_timesplitters_p2 `Haruka`
 - :white_check_mark: ze_titanlaser_b3 `Hibiki`
 - :x: ze_titanic_escape_v2_3_fix1
 - :white_check_mark: ze_tkara_v4_3 `Haruka`
-- :x: ze_tloz_stone_tower_temple_v1_4e
+- :white_check_mark: ze_tloz_stone_tower_temple_v1_4e `Bomberman`
 - :x: ze_toaster_p3
 - :white_check_mark: ze_totally_new_wester_w3 `Bomberman`
 - :white_check_mark: ze_Totemo_Roka_v1 `tapch0w`
@@ -724,10 +724,10 @@ Emoji | Description
 - :white_check_mark: ze_traak_b2 `Bomberman`
 - :white_check_mark: ze_tracing_that_dream_a2_2 `Detroid`
 - :x: ze_trainescape_final_p2
-- :x: ze_trainstation_tunnels_p
+- :white_check_mark: ze_trainstation_tunnels_p `Bomberman`
 - :white_check_mark: ze_trials_v3_test `Detroid`
 - :x: ze_tropico_escape_gf1_1
-- :x: ze_turokbase_p3
+- :white_check_mark: ze_turokbase_p3 `Bomberman`
 - :black_circle: ~~ze_TV_station_r4~~
 - :white_check_mark: ze_tyranny2_v1_csgo2 `Bomberman`
 - :white_check_mark: ze_tyranny_v5_go3 `Bomberman`
@@ -744,7 +744,7 @@ Emoji | Description
 - :x: ze_unknown_underground_a2_8_2
 - :white_check_mark: ze_upwards_v1 `Haruka`
 - :x: ze_uranus_attack_b4
-- :x: ze_urban_laby_of_death_p2
+- :white_check_mark: ze_urban_laby_of_death_p2 `Bomberman`
 - :x: ze_urbanterror_b2
 - :x: ze_UT2004_Convoy_r5
 - :white_check_mark: ze_uyuni_v1_6 `Haruka`
@@ -764,11 +764,11 @@ Emoji | Description
 - :white_check_mark: ze_yueyingchuanshuo_10_8_f4
 - :white_check_mark: ze_yueyingchuanshuo_10_9_f3 `Chong0074`
 - :white_check_mark: ze_yurilnier_beta007_hdr `Bomberman`
-- :x: ze_zakum
+- :white_check_mark: ze_zakum `Bomberman`
 - :white_check_mark: ze_zk_mall_of_zombies_p2 `Bomberman`
-- :x: ze_zombiemod_corporation_p2
-- :x: ze_zombierig_p3
-- :x: ze_zulu_v2
+- :white_check_mark: ze_zombiemod_corporation_p2 `Bomberman`
+- :white_check_mark: ze_zombierig_p3 `Bomberman`
+- :white_check_mark: ze_zulu_v2 `Bomberman`
 - :x: zm_16chambres_fix2
 - :x: zm_assault16
 - :x: zm_base_day

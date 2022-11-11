@@ -1,0 +1,5 @@
+mapping/ze_tloz_stone_tower_temple/#music1_0.mp3||The Legend of Zelda:Majora's Mask OST - Stone Tower Temple
+mapping/ze_tloz_stone_tower_temple/#music1_1.mp3||Hylien Ensemble - Stone Tower Temple
+mapping/ze_tloz_stone_tower_temple/#music2_0.mp3||The Legend of Zelda:Majora's Mask OST - Stone Tower Temple Inverted
+music/ze_tloz_stone_tower_temple/b_music.mp3||The Legend of Zelda: Ocarina of Time OST - Boss Battle
+music/ze_tloz_stone_tower_temple/garo_music.mp3||The Lgend of Zelda:Majora's Mask OST - Middle Boss Battle
