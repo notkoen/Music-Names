@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-440 | Completed Song Configs
+443 | Completed Song Configs
 
 ## Leaderboard
 
@@ -18,7 +18,7 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
-Bomberman | 118 | 11800 | 10000
+Bomberman | 121 | 12100 | 10000
 Haruka | 100 | 10000 | 10000
 Hibiki | 28 | 2800 | 2800
 Detroid | 18 | 1800 | 0
@@ -264,7 +264,7 @@ Emoji | Description
 - :white_check_mark: ze_facility_overload_final1 `koen`
 - :white_check_mark: ze_fapescape_p5 `tilgep`
 - :x: ze_fapescape_rote_v1_3
-- :x: ze_farmhouse_v9f2
+- :white_check_mark: ze_farmhouse_v9f2 `Bomberman`
 - :black_circle: ~~ze_fartlocker_escape_v3~~
 - :white_check_mark: ze_fast_escape_p2 `Bomberman`
 - :x: ze_fe8_sacred_stones_v1_4
@@ -662,7 +662,7 @@ Emoji | Description
 - :x: ze_starwars_v2fix_csgo3
 - :white_check_mark: ze_stilshrine_of_miriam_v5_1 `Bomberman`
 - :white_check_mark: ze_stilshrine_of_miriam_v7_2fix `Bomberman`
-- :x: ze_STRANGE_escape_p2
+- :white_check_mark: ze_STRANGE_escape_p2 `Bomberman`
 - :white_check_mark: ze_suchirifu_v3_1 `Bomberman`
 - :white_check_mark: ze_SUMAI_facility_v1a `Bomberman`
 - :white_check_mark: ze_sunkentemple_v3_1 `Bomberman`
@@ -692,7 +692,7 @@ Emoji | Description
 - :white_check_mark: ze_surf_vortex_v2_6
 - :x: ze_survivors_p2
 - :white_check_mark: ze_taboo_carnation_p2 `Hichatu`
-- :x: ze_temple_escape_va3
+- :white_check_mark: ze_temple_escape_va3 `Bomberman`
 - :x: ze_temple_of_phantom_v1p_2
 - :white_check_mark: ze_temple_of_the_demon_god_v2 `Bomberman`
 - :white_check_mark: ze_temple_raider_b4_ps6 `Bomberman`
