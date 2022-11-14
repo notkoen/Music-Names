@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-436 | Completed Song Configs
+440 | Completed Song Configs
 
 ## Leaderboard
 
@@ -22,8 +22,8 @@ Bomberman | 118 | 11800 | 10000
 Haruka | 100 | 10000 | 10000
 Hibiki | 28 | 2800 | 2800
 Detroid | 18 | 1800 | 0
+Heavy | 18 | 1800 | 1700
 Kiriya | 17 | 1700 | 1700
-Heavy | 17 | 1700 | 1700
 DVC | 14 | 1400 | 1300
 Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
@@ -36,6 +36,7 @@ BAN | 4 | 400 | 0
 Tsukasa | 4 | 400 | 0
 FroZRil | 4 | 400 | 0
 Chinny | 4 | 400 | 300
+kun | 4 | 400 | 0
 kaomunkai | 3 | 300 | 0
 KingMagress | 3 | 300 | 0
 Hichatu | 3 | 300 | 0
@@ -111,7 +112,7 @@ Emoji | Description
 - :x: ze_ATIX_panic_b3t_p
 - :white_check_mark: ze_atix_panic_v1 `Heavy`
 - :x: ze_atixpanic_ricardoflick_zeddy_v2
-- :x: ze_atos_v2_3
+- :white_check_mark: ze_atos_v2_3 `kun`
 - :white_check_mark: ze_attackontitan_trotster_v1_2 `Heavy`
 - :white_check_mark: ze_Apollo_p2 `Owlfy`
 - :white_check_mark: ze_aurora_tower_v5 `Bomberman`
@@ -503,10 +504,10 @@ Emoji | Description
 - :white_check_mark: ze_nuke_p5 `Haruka`
 - :x: ze_NY_marathon_p2
 - :x: ze_oblivion_castle_v6
-- :x: ze_obj_blackout_b4
-- :x: ze_obj_insane_v1_2
-- :white_check_mark: ze_obj_npst_v2
-- :x: ze_Obj_Rampage_v1_2
+- :white_check_mark: ze_obj_blackout_b4 `kun`
+- :white_check_mark: ze_obj_insane_v1_2 `kun`
+- :white_check_mark: ze_obj_npst_v2 `Heavy`
+- :white_check_mark: ze_Obj_Rampage_v1_2 `kun`
 - :x: ze_obj_vertigo_v3_1
 - :white_check_mark: ze_ocean_base_escape_p2 `Hibiki`
 - :white_check_mark: ze_offliner_v2_csgo1 `WhiteCat`

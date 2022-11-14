@@ -1,0 +1,12 @@
+bgm/devil trigger.mp3||Devil Trigger - Ali Edwards
+bgm/star glide - muzz,cammie robinson.mp3||Star Glide - Muzz / Cammie Robinson
+bgm/bloodline - turboslash.mp3||Katana - Masked
+bgm/forget about freeman (remix).mp3||Forget About Freeman - morch kovalski
+bgm/grand final - carpenter brut.mp3||Grand Final - Carpenter Brut
+bgm/blood machines theme - carpenter brut.mp3||Blood Machines Theme - Carpenter Brut
+bgm/connect - noisecream.mp3||Connect - Noisecream
+bgm/heart - blue stahli.mp3||Heart - Blue Stahli
+bgm/superhero showdown - blue stahli.mp3||Superhero Showdown - Blue Stahli
+bgm/i am the beast - blue stahli.mp3||I Am The Beast - Blue Stahli
+bgm/the sound of war - blue stahli.mp3||The Sound of War - Blue Stahli
+bgm/cyberpunk dominion - blue stahli.mp3||Cyberpunk Dominion - Blue Stahli

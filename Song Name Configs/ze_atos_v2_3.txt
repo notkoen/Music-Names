@@ -1,0 +1,19 @@
+ze_atos/bgm/level3_1.mp3||Entropy - John Stanford
+ze_atos/bgm/level3_2.mp3||Entropy - John Stanford
+ze_atos/bgm/level4_1.mp3||Feint - Reprise (Original Mix)
+ze_atos/bgm/level2_1.mp3||Rainstorm (Original Mix) - Drop Tower
+ze_atos/bgm/level6_2.mp3||Viceroy Danny Von B - Da Hool
+ze_atos/bgm/level6_3.mp3||Devil Trigger - Little V
+ze_atos/bgm/level4_4.mp3||Cyberworld - X-Ray Dog
+ze_atos/bgm/level2_3.mp3||Respite - Approaching Nirvana
+ze_atos/bgm/level1_2.mp3||Battle Scars - Philter
+ze_atos/bgm/level6_1.mp3||Spring Is Coming - Lifetheory
+ze_atos/bgm/level6_4.mp3||Sheriruth - Team Grimoire
+ze_atos/bgm/level2_4.mp3||Vapor - Daniel Nielsen
+ze_atos/bgm/level2_2.mp3||ëy¹¥²»Âä - Yasuharu Takanashi
+ze_atos/bgm/level1_3.mp3||ïw¹â - Yasuharu Takanashi
+ze_atos/bgm/level4_7.mp3||Entropy - John Stanford
+ze_atos/bgm/level4_5.mp3||Liberators - Epic Score
+ze_atos/bgm/level4_3.mp3||New Light - Mark Petrie
+ze_atos/bgm/level6_5.mp3||Fatum Plebis - Immediate Music
+ze_atos/bgm/level4_2.mp3||Into The Fire - Must Save Jane!

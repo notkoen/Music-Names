@@ -1,0 +1,17 @@
+music/rampage_music/rampage_music_13.mp3||Devil May Cry 3 - Devil Never Cry
+music/rampage_music/rampage_music_14.mp3||My Demons - Starset
+music/rampage_music/rampage_music_4.mp3||How The East Was Lost - Cliff Lin
+music/rampage_music/rampage_music_5.mp3||Dawn Awaits - Cliff Lin
+music/rampage_music/rampage_music_7.mp3||My Rules(Underscore) - Unkonw
+music/rampage_music/rampage_music_10.mp3||Nightfall - Cliff Lin
+music/rampage_music/rampage_music_9.mp3||The Only Way Out Is In - Cliff Lin
+music/rampage_music/rampage_music_2.mp3||Pioneers Of The Apocalypse - Cliff Lin
+music/rampage_music/rampage_music_12.mp3||Everyday Superstar - Cliff Lin
+music/rampage_music/rampage_music_6.mp3||Earth Shaker Drums - Audiomachine
+music/rampage_music/rampage_music_3_2.mp3||Poison Control - Cliff Lin
+music/rampage_music/rampage_music_3.mp3||A Call To Arms - Cliff Lin
+music/rampage_music/rampage_music_11.mp3||Waiting - Cliff Lin
+music/rampage_music/rampage_music_1_2.mp3||Monolith Epic Massive Trailer Action - Twelve Titans Music
+music/rampage_music/rampage_music_8_2.mp3||Not Over Til We Say So - Blue Stahli
+music/rampage_music/rampage_music_8.mp3||Scorched Earth - Cliff Lin
+music/rampage_music/rampage_music_1.mp3||Suns And Stars - Really Slow Motion
