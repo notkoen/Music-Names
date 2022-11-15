@@ -1,0 +1,11 @@
+metro2033/music/ambience_1.mp3||Metro: Last Light OST - Dead City
+metro2033/music/ambience_2.mp3||Metro: Last Light OST - Rustling in the Dark
+metro2033/music/ending_diff_1.mp3||Alexey Omelchuk - Devastation (Metro 2033 OST)
+metro2033/music/ending_diff_2.mp3||Alexey Omelchuk - Yamantau Cannibals (Metro Exodus OST)
+metro2033/music/ending_diff_3.mp3||Metro: Last Light OST - Chase 1
+metro2033/music/ending_diff_4.mp3||Metro: Last Light OST -The Last Stand 1
+metro2033/music/intro_diff_1.mp3||Metro: Last Light OST - Echoes of the Past (Guitar version)
+metro2033/music/intro_diff_2.mp3||Alexey Omelchuk - Echoes of the Tunnels (Metro 2033 OST)
+metro2033/music/intro_diff_3.mp3||Metro: Last Light OST - Echoes of the Past 1
+metro2033/music/intro_diff_4.mp3||Metro: Last Light OST - Ranger Hardcore 1
+metro2033/music/warmup.mp3||Alexey Omelchuk - Race Against Fate (Metro Exodus OST)

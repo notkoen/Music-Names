@@ -1,0 +1,11 @@
+﻿got/got_biggestfire.mp3||Ramin Djawadi - The Biggest Fire the North Has Ever Seen
+got/got_bloodborne_hunter.mp3||Ryan Amon - The Hunter
+got/got_dontdiecleansword.mp3||Ramin Djawadi - Don't Die With A Clean Sword
+got/got_dracarys.mp3||Ramin Djawadi - Dracarys
+got/got_immediatemusic_vindicator.mp3||Immediate Music - Protectors Of Truth
+got/got_killcrows.mp3||Ramin Djawadi - Let's Kill Some Crows
+got/got_kingarrival.mp3||Ramin Djawadi - The King's Arrival
+got/got_maintitle.mp3||Ramin Djawadi - Main Titles
+got/got_northremembers.mp3||Ramin Djawadi - King Of The North
+got/got_tb_empireangels.mp3||Thomas Bergersen - Empire of Angels
+got/got_finale.mp3||Ramin Djawadi - Finale

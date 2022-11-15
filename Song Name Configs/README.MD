@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-443 | Completed Song Configs
+445 | Completed Song Configs
 
 ## Leaderboard
 
@@ -29,6 +29,7 @@ Watdoink | 10 | 1000 | 0
 koen | 8 | 800 | 0
 Chong0074 | 7 | 700 | 0
 WhiteCat | 7 | 700 | 700
+kun | 7 | 700 | 0
 Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
 tapch0w | 6 | 600 | 600
@@ -36,7 +37,6 @@ BAN | 4 | 400 | 0
 Tsukasa | 4 | 400 | 0
 FroZRil | 4 | 400 | 0
 Chinny | 4 | 400 | 300
-kun | 4 | 400 | 0
 kaomunkai | 3 | 300 | 0
 KingMagress | 3 | 300 | 0
 Hichatu | 3 | 300 | 0
@@ -322,7 +322,7 @@ Emoji | Description
 - :white_check_mark: ze_give_it_a_name_test4 `Bomberman`
 - :x: ze_gods_wrath_p2
 - :x: ze_golubenkaya_meow_v1_2
-- :x: ze_got_the_north_csgo3
+- :white_check_mark: ze_got_the_north_csgo3 `Kun`
 - :white_check_mark: ze_grand_boatescape_p3 `Haruka`
 - :white_check_mark: ze_grau_a03_4ff
 - :white_check_mark: ze_greece_escape_p `Bomberman`
@@ -442,7 +442,7 @@ Emoji | Description
 - :x: ze_m0w0m_csgo1
 - :x: ze_m_the_final_v1_4
 - :x: ze_mabinogi_f4_1
-- :x: ze_madara_temple_v1fix_csgo
+- :white_check_mark: ze_madara_temple_v1fix_csgo `Kun`
 - :x: ze_magala_castle_final
 - :x: ze_magic_carpet_p2
 - :x: ze_magmadrake_b4
@@ -452,7 +452,7 @@ Emoji | Description
 - :x: ze_mars_escape_gp3
 - :white_check_mark: ze_meatropolis_p2 `tapch0w`
 - :x: ze_melong_dow_learjet_gp1
-- :x: ze_metro2033_v1_fix_f1
+- :white_check_mark: ze_metro2033_v1_fix_f1 `Kun`
 - :white_check_mark: ze_mgden_v2_5fix
 - :white_check_mark: ze_mgden_y3_fix `tapch0w`
 - :x: ze_military_escape_p4
