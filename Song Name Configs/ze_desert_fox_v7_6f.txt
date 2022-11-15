@@ -1,0 +1,5 @@
+music/foxfin.mp3||Selpultura - To The Wall
+music/fox4.mp3||Commando Soundtrack - Ambush and Kidnapping
+music/fox3.mp3||James Horne - Soldier Gets Pitchfork/Matrix Runs Up Steps
+music/fox2.mp3||James Horne - Prologue/Main Title
+music/fox1.mp3||James Horne - Moving Jenny

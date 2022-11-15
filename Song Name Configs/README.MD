@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-445 | Completed Song Configs
+450 | Completed Song Configs
 
 ## Leaderboard
 
@@ -19,7 +19,7 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
 Bomberman | 121 | 12100 | 10000
-Haruka | 100 | 10000 | 10000
+Haruka | 103 | 10300 | 10000
 Hibiki | 28 | 2800 | 2800
 Detroid | 18 | 1800 | 0
 Heavy | 18 | 1800 | 1700
@@ -122,14 +122,14 @@ Emoji | Description
 - :white_check_mark: ze_azathoth_v1_1 `Haruka`
 - :white_check_mark: ze_aztec_temple_p `Haruka`
 - :white_check_mark: ze_aztecnoob_p2 `Haruka`
-- :x: ze_baboonpox_escape_v1
+- :white_check_mark: ze_baboonpox_escape_v1 `Haruka`
 - :white_check_mark: ze_babylon_v2 `Haruka`
 - :white_check_mark: ze_banana_temple_v1_3 `Haruka`
 - :white_check_mark: ze_backrooms_p3 `tilgep`
 - :black_circle: ~~ze_barrage_p2~~
 - :white_check_mark: ze_Bathroom_v2_5 `Bomberman`
 - :white_check_mark: ze_best_korea_v1 `Bomberman`
-- :x: ze_beyond_the_boundary_v1_5
+- :white_check_mark: ze_beyond_the_boundary_v1_5 `Haruka`
 - :white_check_mark: ze_bigfoot_escapeica_v3_4 `Haruka`
 - :white_check_mark: ze_binary_z4_1 `Haruka`
 - :white_check_mark: ze_biohazard2_rpd_004_p3_fix2 `Heavy`
@@ -222,7 +222,7 @@ Emoji | Description
 - :white_check_mark: ze_defense3003 `Bomberman`
 - :x: ze_depths_b1_1
 - :white_check_mark: ze_descent_into_cerberon_v1 `Heavy`
-- :x: ze_desert_fox_v7_6f
+- :white_check_mark: ze_desert_fox_v7_6f `Haruka`
 - :white_check_mark: ze_Desperate_Soul_a9 `Detroid`
 - :x: ze_destruction_of_exorath_v4_lite
 - :white_check_mark: ze_dev_r4a_csgo4 `Hibiki`
@@ -303,7 +303,7 @@ Emoji | Description
 - :white_check_mark: ze_fond_dream_h4 `Watdoink`
 - :white_check_mark: ze_forbidden_repository_a1_4 `Haruka`
 - :x: ze_foreign_sand_mix_v2_fix
-- :x: ze_forest_r_v1
+- :white_check_mark: ze_forest_r_v1 `Haruka`
 - :white_check_mark: ze_forest_of_steel_v1_7f `Haruka`
 - :x: ze_forestbunkers_v1_b3_e2
 - :x: ze_forgotten_facility_p3
@@ -382,7 +382,7 @@ Emoji | Description
 - :x: ze_jamais_vu_b2
 - :white_check_mark: ze_jerry_malaka_escape_v2fix
 - :white_check_mark: ze_jiangnan_town_v3 `Bomberman`
-- :x: ze_jiba_journey_v4_3
+- :white_check_mark: ze_jiba_journey_v4_3 `Haruka`
 - :white_check_mark: ze_jjba_v7 `KingMagress`
 - :x: ze_johnny_nukem_go_b8_3a
 - :white_check_mark: ze_journey_p2 `Chong0074`

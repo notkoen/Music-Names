@@ -1,0 +1,5 @@
+music/kune/sound/quiz inst2.mp3||Kaf - Quiz Instrumental
+music/kune/sound/izayoi inst.mp3||onoken - 十六夜月 INST
+music/kune/sound/gekka.mp3||八乙女葦菜 - 月下我想君
+music/kune/sound/dangon11.mp3||Yoshiki ARA - 千年樹海
+music/kune/sound/36 Evergate Suite 2g.mp3||M.R. Miller - Eevergate Suite
