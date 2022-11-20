@@ -1,12 +1,12 @@
-mgden/a_hisa - Amnesia||a_hisa - Amnesia
-mgden/a_hisa - Kinetic Dance||a_hisa - Kinetic Dance
-mgden/boss fight||Kenji Hiramatsu - Battle!!/Torna
-mgden/Casey Edwards - Silver Bullet||Casey Edwards - Silver Bullet
-mgden/Emi Evans||Keiichi Okabe - Black Song White Scales
-mgden/Laryssa Okada - Bloom||Laryssa Okada - Bloom
-mgden/Laryssa Okada - First Gate||Laryssa Okada - First Gate
-mgden/Laryssa Okada - House of Leaves||Laryssa Okada - House of Leaves
-mgden/Laryssa Okada - Mise en Abyme||Laryssa Okada - Mise en Abyme
-mgden/Laryssa Okada - Petrichor||Laryssa Okada - Petrichor
-mgden/Laryssa Okada - Sky and Water||Laryssa Okada - Sky and Water
-mgden/Laryssa Okada - Strange Worlds||Laryssa Okada - Strange Worlds
+mgden/a_hisa - Amnesia.mp3||a_hisa - Amnesia
+mgden/a_hisa - Kinetic Dance.mp3||a_hisa - Kinetic Dance
+mgden/boss fight.mp3||Kenji Hiramatsu - Battle!!/Torna
+mgden/Casey Edwards - Silver Bullet.mp3||Casey Edwards - Silver Bullet
+mgden/Emi Evans.mp3||Keiichi Okabe - Black Song White Scales
+mgden/Laryssa Okada - Bloom.mp3||Laryssa Okada - Bloom
+mgden/Laryssa Okada - First Gate.mp3||Laryssa Okada - First Gate
+mgden/Laryssa Okada - House of Leaves.mp3||Laryssa Okada - House of Leaves
+mgden/Laryssa Okada - Mise en Abyme.mp3||Laryssa Okada - Mise en Abyme
+mgden/Laryssa Okada - Petrichor.mp3||Laryssa Okada - Petrichor
+mgden/Laryssa Okada - Sky and Water.mp3||Laryssa Okada - Sky and Water
+mgden/Laryssa Okada - Strange Worlds.mp3||Laryssa Okada - Strange Worlds
