@@ -125,6 +125,7 @@ Emoji | Description
 - :white_check_mark: ze_baboonpox_escape_v1 `Haruka`
 - :white_check_mark: ze_babylon_v2 `Haruka`
 - :white_check_mark: ze_banana_temple_v1_3 `Haruka`
+- :x: ze_backrooms_deathbed_t1f
 - :white_check_mark: ze_backrooms_p3 `tilgep`
 - :black_circle: ~~ze_barrage_p2~~
 - :white_check_mark: ze_Bathroom_v2_5 `Bomberman`
@@ -180,6 +181,7 @@ Emoji | Description
 - :x: ze_cliff_and_fire_v1_16
 - :white_check_mark: ze_codevein_v1_cm4 `Haruka`
 - :white_check_mark: ze_collective_v1_6 `Chinny`
+- :x: ze_collective_v1_8
 - :white_check_mark: ze_colorlicouspilar_p4 `Hibiki`
 - :white_check_mark: ze_colors_p3 `Hibiki`
 - :white_check_mark: ze_colourslide_v2_2 `Haruka`
@@ -220,7 +222,7 @@ Emoji | Description
 - :white_check_mark: ze_deep_dream_v1_2 `Haruka`
 - :x: ze_deepice_p3
 - :white_check_mark: ze_defense3003 `Bomberman`
-- :x: ze_depths_b1_1
+- :x: ze_depths_b2
 - :white_check_mark: ze_descent_into_cerberon_v1 `Heavy`
 - :white_check_mark: ze_desert_fox_v7_6f `Haruka`
 - :white_check_mark: ze_Desperate_Soul_a9 `Detroid`
@@ -246,6 +248,7 @@ Emoji | Description
 - :white_check_mark: ze_elork_ok3ng3se5_v1_3 `Haruka`
 - :x: ze_emerald_b3_f1
 - :white_check_mark: ze_endemic_v1_1 `Chinny`
+- :x: ze_endemic_v1_3
 - :white_check_mark: ze_ep2_plant_b1 `Haruka`
 - :x: ze_epic_escape_v2_1
 - :white_check_mark: ze_error_a0_ps `Haruka`
@@ -262,6 +265,7 @@ Emoji | Description
 - :white_check_mark: ze_evil_mansion_v1_finalf `Hibiki`
 - :x: ze_exchange_innovation_v1b
 - :white_check_mark: ze_facility_overload_final1 `koen`
+- :x: ze_facility_overload_final2
 - :white_check_mark: ze_fapescape_p5 `tilgep`
 - :x: ze_fapescape_rote_v1_3
 - :white_check_mark: ze_farmhouse_v9f2 `Bomberman`
@@ -298,6 +302,7 @@ Emoji | Description
 - :x: ze_firewall_laboratory_part2_p2
 - :white_check_mark: ze_flex_b4 `Hibiki`
 - :white_check_mark: ze_flower_a1_2_f `Haruka`
+- :x: ze_flower_a3_1
 - :white_check_mark: ze_flowering_b10 `Haruka`
 - :white_check_mark: ze_flying_world_p `Bomberman`
 - :white_check_mark: ze_fond_dream_h4 `Watdoink`
@@ -392,6 +397,7 @@ Emoji | Description
 - :black_circle: ~~ze_K19_escape_go1~~
 - :black_circle: ~~ze_kaffe_escape_v2~~
 - :x: ze_kage_a3
+- :x: ze_kebab_immigrant_k
 - :white_check_mark: ze_Kitchen_v2 `Bomberman`
 - :white_check_mark: ze_Knife_Stray_v3 `Hibiki`
 - :x: ze_komatsu_v3
@@ -412,7 +418,6 @@ Emoji | Description
 - :white_check_mark: ze_lemonysnickets_p2 `Haruka`
 - :black_circle: ~~ze_licciana_escape_p~~
 - :x: ze_licciana_escape_zrgbr_b3
-- :x: ze_light_escape_tb3
 - :white_check_mark: ze_light_retribution_v1_k2 `DVC`
 - :white_check_mark: ze_light_escape_ta3_1 `Haruka`
 - :x: ze_light_escape_v1
@@ -522,6 +527,7 @@ Emoji | Description
 - :white_check_mark: ze_otakuroom_v5_6_ps `Bomberman`
 - :white_check_mark: ze_Outlast_v2_cm1_fix1 `Bomberman`
 - :white_check_mark: ze_outpost_escape_k1 `Haruka`
+- :x: ze_overlord_a3
 - :white_check_mark: ze_palace_adventure_v1_2 `Bomberman`
 - :white_check_mark: ze_palace_of_minolila_v1 `Haruka`
 - :x: ze_pallaroid_rage_v1
@@ -608,6 +614,7 @@ Emoji | Description
 - :white_check_mark: ze_saw_p3 `Bomberman`
 - :x: ze_sc_turtles_v5_p2
 - :x: ze_schizophrenic_c3
+- :x: ze_scourge_k1
 - :white_check_mark: ze_scp_containment_breach_v1_b02_cm4 `Haruka`
 - :white_check_mark: ze_seano_see_2g5 `DVC`
 - :white_check_mark: ze_sele_a2_1 `Bomberman`
@@ -673,6 +680,7 @@ Emoji | Description
 - :white_check_mark: ze_surf_danger_p2 `Cylops`
 - :white_check_mark: ze_surf_dark_fantasy_v2go2 `kaomunkai`
 - :white_check_mark: ze_surf_daybreak_v1_k2 `Hibiki`
+- :x: ze_surf_daybreak_k
 - :x: ze_surf_easy_v1_3
 - :white_check_mark: ze_surf_facility_p4 `Bomberman`
 - :white_check_mark: ze_surf_ffxiv_beachescape_camper_isengard_laser_mako `Bomberman`
@@ -736,6 +744,7 @@ Emoji | Description
 - :white_check_mark: ze_Uchiha_Legacy_cm2_fix `BAN`
 - :x: ze_ultra_ungent_a2
 - :white_check_mark: ze_ultimate_cancer_v1_2 `WILD BANAN`
+- :x: ze_ultimate_cancer_v1_4_final
 - :white_check_mark: ze_undercave_es_mi_v1_5 `Detroid`
 - :black_circle: ~~ze_underground_escape_p~~
 - :white_check_mark: ze_undersea_temple_a4_4 `Bomberman`
