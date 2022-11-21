@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-450 | Completed Song Configs
+454 | Completed Song Configs
 
 ## Leaderboard
 
@@ -20,7 +20,7 @@ Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
 Bomberman | 121 | 12100 | 10000
 Haruka | 103 | 10300 | 10000
-Hibiki | 28 | 2800 | 2800
+Hibiki | 29 | 2900 | 2800
 Detroid | 18 | 1800 | 0
 Heavy | 18 | 1800 | 1700
 Kiriya | 17 | 1700 | 1700
@@ -33,20 +33,20 @@ kun | 7 | 700 | 0
 Owlfy | 6 | 600 | 0
 Cylops | 6 | 600 | 0
 tapch0w | 6 | 600 | 600
+Chinny | 5 | 500 | 300
 BAN | 4 | 400 | 0
 Tsukasa | 4 | 400 | 0
 FroZRil | 4 | 400 | 0
-Chinny | 4 | 400 | 300
 kaomunkai | 3 | 300 | 0
 KingMagress | 3 | 300 | 0
 Hichatu | 3 | 300 | 0
 tilgep | 3 | 300 | 200
 WILD BANAN | 2 | 200 | 0
 TuPu | 2 | 200 | 0
+Beppu | 2 | 200 | 0
 Sprinuts | 1 | 100 | 0
 ShiroNeko | 1 | 100 | 0
 Berke | 1 | 100 | 0
-Beppu | 1 | 100 | 0
 
 ## Map(s)
 
@@ -103,6 +103,7 @@ Emoji | Description
 - :black_circle: ~~ze_apocatastasis_v1_2~~
 - :white_check_mark: ze_aragami_v1_1 `Haruka`
 - :black_circle: ~~ze_arcade_parade_b6~~
+- :white_check_mark: ze_arcana_heart_a0_test2 `Beppu`
 - :white_check_mark: ze_arctic_escape_p2 `Haruka`
 - :x: ze_artika_base_v1_4
 - :white_check_mark: ze_ashen_keep_p `Kiriya`
@@ -181,7 +182,7 @@ Emoji | Description
 - :x: ze_cliff_and_fire_v1_16
 - :white_check_mark: ze_codevein_v1_cm4 `Haruka`
 - :white_check_mark: ze_collective_v1_6 `Chinny`
-- :x: ze_collective_v1_8
+- :white_check_mark: ze_collective_v1_8 `Chinny`
 - :white_check_mark: ze_colorlicouspilar_p4 `Hibiki`
 - :white_check_mark: ze_colors_p3 `Hibiki`
 - :white_check_mark: ze_colourslide_v2_2 `Haruka`
@@ -297,7 +298,7 @@ Emoji | Description
 - :white_check_mark: ze_FFXIV_Wanderers_Palace_v5_2
 - :white_check_mark: ze_FFXIV_Wanderers_Palace_v6
 - :white_check_mark: ze_FFXIV_Wanderers_Palace_v6_2z1 `TuPu`
-- :x: ze_fire_temple_v2_4
+- :white_check_mark: ze_fire_temple_v2_4 `Hibiki`
 - :x: ze_firewall_laboratory_part1_p2
 - :x: ze_firewall_laboratory_part2_p2
 - :white_check_mark: ze_flex_b4 `Hibiki`

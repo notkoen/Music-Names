@@ -1,0 +1,61 @@
+music/luffaren_collective/alive.mp3||Akira Yamaoka - Alive (Silent Hill OST)
+music/luffaren_collective/black_fairy.mp3||Akira Yamaoka - Black Fairy (Silent Hill 2 OST)
+music/luffaren_collective/chosen_by_the_planet.mp3||FFVII OST - Those Chosen by the Planet
+music/luffaren_collective/confronting_myself_loop.mp3||Lena Raine - Confronting Myself (Celeste OST)
+music/luffaren_collective/confronting_myself_loop_infinite.mp3||GaMetal - Confronting Myself (Celeste OST remix)
+music/luffaren_collective/confronting_myself_start.mp3||Lena Raine - Confronting Myself (Celeste OST)
+music/luffaren_collective/cult_of_personality.mp3||Living Colour - Cult Of Personality
+music/luffaren_collective/dark_messenger.mp3||BitSymphony - The Dark Messenger (FFIX OST remake)
+music/luffaren_collective/demonic_chanting.mp3||Doom Eternal OST - Demonic Chanting
+music/luffaren_collective/dizzy.mp3||F-ZERO GX OST - Dizzy
+music/luffaren_collective/down_time.mp3||Akira Yamaoka - Down Time (Silent Hill OST)
+music/luffaren_collective/emerald_princess.mp3||Two Steps From Hell - Emerald Princess
+music/luffaren_collective/ethical.mp3||zircon & Jonathan Peros - Ethical Constraints Removed (System Shock OST Remix)
+music/luffaren_collective/forest.mp3||Akira Yamaoka - Forest (Silent Hill 2 OST)
+music/luffaren_collective/free_bird.mp3||Lynyrd Skynyrd - Free Bird
+music/luffaren_collective/ghosts.mp3||Berserk OST (1997) - Ghosts
+music/luffaren_collective/godswood.mp3||Ramin Djawadi - Godswood of Winterfell (Game of Thrones OST; edit)
+music/luffaren_collective/gothic_1.mp3||Scorpio V - Exortus
+music/luffaren_collective/gothic_2.mp3||Scorpio V - Templum
+music/luffaren_collective/gothic_3.mp3||Scorpio V - Templum
+music/luffaren_collective/gothic_4.mp3||Scorpio V - Ignis
+music/luffaren_collective/grained.mp3||Jokasti & Nek - Grained
+music/luffaren_collective/heretic.mp3||Oli XL - Heretic
+music/luffaren_collective/heretic_hero.mp3||Halo 2 OST - Heretic, Hero
+music/luffaren_collective/i_ran.mp3||A Flock Of Seagulls - I Ran (So Far Away)
+music/luffaren_collective/ill_kill_you.mp3||Akira Yamaoka - I'll Kill You (Silent Hill OST)
+music/luffaren_collective/junction_seven.mp3||Muzzy - Junction Seven
+music/luffaren_collective/jungle_sounds.mp3||Mount Shrine - Raining Indoors (edit with Jungle and Rainforest Sound Effects)
+music/luffaren_collective/jungle_sounds2.mp3||Mount Shrine - Hindmost Flood (edit with South American Jungle Ambience)
+music/luffaren_collective/laura_piano.mp3||Akira Yamaoka - Laura Plays The Piano (Silent Hill 2 OST)
+music/luffaren_collective/like_you_imagined.mp3||Nine Inch Nails - Just Like You Imagined (300 OST)
+music/luffaren_collective/liquid_love.mp3||Oli XL - Liquid Love
+music/luffaren_collective/mechanicus.mp3||Warhammer 40,000 - Mechanicus Trailer
+music/luffaren_collective/memories_of_dust.mp3||NieR: Automata OST - Memories of Dust
+music/luffaren_collective/mesh.mp3||M.E.S.H. - Exasthrus (Pane)
+music/luffaren_collective/mountains.mp3||Hans Zimmer - Mountains (Interstellar OST)
+music/luffaren_collective/mourning.mp3||NieR: Automata OST - Mourning
+music/luffaren_collective/nature_beats.mp3||Masanori Takumi - Kita no chi to hakugin no Ou (Claymore OST)
+music/luffaren_collective/phendrana.mp3||Buoyant ft. Stephan Wells - Depths of Phendrana (Metroid Prime OST remix)
+music/luffaren_collective/phendrana_short.mp3||Buoyant ft. Stephan Wells - Depths of Phendrana (Metroid Prime OST remix)
+music/luffaren_collective/portal_to_dark_bravery.mp3||Castlevania Dawn of Sorrow OST - Portal to Dark Bravery
+music/luffaren_collective/realms_of_madmen.mp3||Mount Shrine - The Realms of Madmen
+music/luffaren_collective/rear_garden.mp3||Castlevania: Lament of Innocence OST - Rear Garden
+music/luffaren_collective/rear_garden2.mp3||Castlevania: Lament of Innocence OST - Rear Garden
+music/luffaren_collective/silent_heaven.mp3||Akira Yamaoka - Silent Heaven (Silent Hill 2 OST)
+music/luffaren_collective/sins_father.mp3||Donna Burke - Sins of The Father (MGS5 OST)
+music/luffaren_collective/so_below.mp3||Lena Raine - So Below (Minecraft OST)
+music/luffaren_collective/starjump.mp3||Lena Raine - Starjump (Celeste OST)
+music/luffaren_collective/tcf.mp3||TCF - C6 81 56 28 09 34 31 D2 F9 9C D6 BD 92 ED FC 6F 6C A9 D4 88 95 8C 53 B4 55 DF 38 C4 AB E7 72 13
+music/luffaren_collective/terror_in_the_depths.mp3||Akira Yamaoka - Terror In The Depths Of The Fog (Silent Hill 2 OST)
+music/luffaren_collective/the_castle.mp3||BitSymphony - The Castle (FFVIII OST remake)
+music/luffaren_collective/the_devil.mp3||Rok Nardin - The Devil
+music/luffaren_collective/toads_turnpike.mp3||Aqua MIDI - Toad's Turnpike (Mario Kart N64 remaster)
+music/luffaren_collective/traw.mp3||Roman Poncet - Traw
+music/luffaren_collective/true.mp3||Akira Yamaoka - True (Silent Hill 2 OST)
+music/luffaren_collective/tropic_birds.mp3||Masayoshi Takanaka - Tropic Birds
+music/luffaren_collective/valravn.mp3||Danheim - Valravn
+music/luffaren_collective/we_were_soldiers.mp3||Nick Glennie-Smith - NVA Base Camp (We Were Soldiers OST), Nick Glennie-Smith - Final Battle/Sgt. MacKenzie (We Were Soldiers OST)
+music/luffaren_collective/wind_sounds.mp3||Robbins Island Music - Northern Wind Sounds
+music/luffaren_collective/woodfall.mp3||Theophany - Woodfall Temple
+music/luffaren_collective/woods_of_mystery.mp3||Theophany - Woods of Mystery (Lost Woods)
