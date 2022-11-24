@@ -1,0 +1,3 @@
+music/pallaroid/pallaroid_music0.mp3||Overlord OST - Arrival of The Undead King
+music/pallaroid/pallaroid_music1.mp3||Taku Iwasaki - Awaken
+music/pallaroid/pallaroid_music2.mp3||Dragon Ball Super - Goku Black Theme

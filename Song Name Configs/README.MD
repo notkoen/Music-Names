@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-463 | Completed Song Configs
+473 | Completed Song Configs
 
 ## Leaderboard
 
@@ -18,9 +18,9 @@ Note: Some song configs have no author, so the leaderboard may be incorrect. If 
 
 Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
-Bomberman | 121 | 12100 | 10000
+Bomberman | 124 | 12400 | 10000
 Haruka | 103 | 10300 | 10000
-Hibiki | 37 | 3700 | 2800
+Hibiki | 44 | 4400 | 2800
 Detroid | 19 | 1900 | 0
 Heavy | 18 | 1800 | 1700
 Kiriya | 17 | 1700 | 1700
@@ -451,7 +451,7 @@ Emoji | Description
 - :white_check_mark: ze_madara_temple_v1fix_csgo `Kun`
 - :x: ze_magala_castle_final
 - :x: ze_magic_carpet_p2
-- :x: ze_magmadrake_b4
+- :white_check_mark: ze_magmadrake_b4 `Hibiki`
 - :white_check_mark: ze_magus_v2_4 `Hibiki`
 - :white_check_mark: ze_mapeadores_museum_v1 `Chinny`
 - :x: ze_mario_tower_v4_p2
@@ -531,7 +531,7 @@ Emoji | Description
 - :x: ze_overlord_a3
 - :white_check_mark: ze_palace_adventure_v1_2 `Bomberman`
 - :white_check_mark: ze_palace_of_minolila_v1 `Haruka`
-- :x: ze_pallaroid_rage_v1
+- :white_check_mark: ze_pallaroid_rage_v1 `Hibiki`
 - :x: ze_pandora_revolutionz_hdr2
 - :white_check_mark: ze_panic_escape_v3_2_e5_hdr `Haruka`
 - :x: ze_paper_escaper_p7
@@ -615,7 +615,7 @@ Emoji | Description
 - :white_check_mark: ze_saw_p3 `Bomberman`
 - :x: ze_sc_turtles_v5_p2
 - :x: ze_schizophrenic_c3
-- :x: ze_scourge_k1
+- :white_check_mark: ze_scourge_k1 `Hibiki`
 - :white_check_mark: ze_scp_containment_breach_v1_b02_cm4 `Haruka`
 - :white_check_mark: ze_seano_see_2g5 `DVC`
 - :white_check_mark: ze_sele_a2_1 `Bomberman`
@@ -634,7 +634,7 @@ Emoji | Description
 - :white_check_mark: ze_shroomforest2_p6 `Hibiki`
 - :white_check_mark: ze_shroomforest3_p `tapch0w`
 - :white_check_mark: ze_shroomforest_p6 `Hibiki`
-- :x: ze_siberia_1990_v1_2c_p5
+- :white_check_mark: ze_siberia_1990_v1_2c_p5 `Hibiki`
 - :x: ze_silent_hill_blackblood_f6
 - :white_check_mark: ze_silent_hill_2_illusion_b5 `Bomberman`
 - :white_check_mark: ze_silent_hill_3_dawn_v2 `Bomberman`
@@ -646,16 +646,16 @@ Emoji | Description
 - :white_check_mark: ze_sky_creamus_v2 `Haruka`
 - :white_check_mark: ze_sky_fantasy_v1_6
 - :white_check_mark: ze_sky_fantasy_v2_1 `Bomberman`
-- :x: ze_sky_journey_v8
+- :white_check_mark: ze_sky_journey_v8 `Bomberman`
 - :white_check_mark: ze_skygarden_v2_1
 - :white_check_mark: ze_Skyscraper_city_r2 `Haruka`
 - :white_check_mark: ze_slackerino_mapperino_v3 `Detroid`
 - :white_check_mark: ze_slender_escape_rc2 `Bomberman`
-- :x: ze_small_town_b1
+- :white_check_mark: ze_small_town_b1 `Bomberman`
 - :black_circle: ~~ze_snowescape_gp1~~
 - :x: ze_solgryn_v2
 - :white_check_mark: ze_sorrento_arknights_a5_k2 `Hibiki`
-- :x: ze_sorrento_escape_v2
+- :white_check_mark: ze_sorrento_escape_v2 `Bomberman`
 - :white_check_mark: ze_space_flight_p3 `Haruka`
 - :black_circle: ~~ze_space_station_csgo~~
 - :x: ze_spooktipo_a3
@@ -681,14 +681,14 @@ Emoji | Description
 - :white_check_mark: ze_surf_danger_p2 `Cylops`
 - :white_check_mark: ze_surf_dark_fantasy_v2go2 `kaomunkai`
 - :white_check_mark: ze_surf_daybreak_v1_k2 `Hibiki`
-- :x: ze_surf_daybreak_k
+- :white_check_mark: ze_surf_daybreak_k `Hibiki`
 - :x: ze_surf_easy_v1_3
 - :white_check_mark: ze_surf_facility_p4 `Bomberman`
 - :white_check_mark: ze_surf_ffxiv_beachescape_camper_isengard_laser_mako `Bomberman`
 - :white_check_mark: ze_surf_froyo_lite_v2_2 `Cylops`
 - :white_check_mark: ze_surf_froyo_v2_2 `Cylops`
 - :x: ze_surf_last_point_v1_5
-- :x: ze_surf_gypt_v2r1
+- :white_check_mark: ze_surf_gypt_v2r1 `Hibiki`
 - :white_check_mark: ze_surf_happy_b7 `Bomberman`
 - :x: ze_surf_hp_v1_0
 - :white_check_mark: ze_surf_inferno_v2_22 `Kiriya`
@@ -723,7 +723,7 @@ Emoji | Description
 - :white_check_mark: ze_timesink_v1_2
 - :white_check_mark: ze_timesplitters_p2 `Haruka`
 - :white_check_mark: ze_titanlaser_b3 `Hibiki`
-- :x: ze_titanic_escape_v2_3_fix1
+- :white_check_mark: ze_titanic_escape_v2_3_fix1 `Hibiki`
 - :white_check_mark: ze_tkara_v4_3 `Haruka`
 - :white_check_mark: ze_tloz_stone_tower_temple_v1_4e `Bomberman`
 - :x: ze_toaster_p3
