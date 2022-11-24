@@ -1,0 +1,5 @@
+music/kune/sound/Lapse_Of_Time_912.mp3||Armored Core 3 Silent Line - Lapse Of Time
+music/kune/sound/NeLboss.mp3||【Nephesiel】逝きなさい、貴方の望む死を
+music/kune/sound/finality_10.mp3||Mahou Tsukai no Yoru BGM - Finality
+music/kune/sound/five 15 8.mp3||Mahou Tsukai no Yoru BGM - Five
+music/kune/sound/Dreadnought.mp3||xi + nora2r - Dreadnought / Mastermind

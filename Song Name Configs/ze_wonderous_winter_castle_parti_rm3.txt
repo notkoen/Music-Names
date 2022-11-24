@@ -1,0 +1,11 @@
+custom/boss3_theme.mp3||Final Fantasy XIV OST - From The Heavens (Final Omega)
+custom/fantasy music - lumina.mp3||Fantasy Music - Lumina
+custom/fantasy music - the realm of the fallen king.mp3||Fantasy Music - The Realm of the Fallen King (Ft. Sharm)
+custom/the last of the mohicans music.mp3||The Last of the Mohicans OST - Promentory
+custom/ward_clear_sound.mp3||Immediate Music - Believe
+ze_wonderous_winter_castle/aLIEz.mp3||Sawano Hiroyuki - aLIEz
+ze_wonderous_winter_castle/BRE@TH_LESS.mp3||Sawano Hiroyuki - BRE@TH//LESS
+ze_wonderous_winter_castle/Dungeon and Fighter - noble sky.mp3||Dungeon Fighter Online OST - Noble Sky Adventure
+ze_wonderous_winter_castle/SawanoHiroyuki - gravityWall.mp3||Sawano Hiroyuki - Gravity Wall
+ze_wonderous_winter_castle/Unbreakable.mp3||Two Steps From Hell - Unbreakable
+wings of terror.mp3||Stella Magna - Wings of Terror

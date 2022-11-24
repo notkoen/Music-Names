@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-454 | Completed Song Configs
+463 | Completed Song Configs
 
 ## Leaderboard
 
@@ -20,8 +20,8 @@ Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
 Bomberman | 121 | 12100 | 10000
 Haruka | 103 | 10300 | 10000
-Hibiki | 29 | 2900 | 2800
-Detroid | 18 | 1800 | 0
+Hibiki | 37 | 3700 | 2800
+Detroid | 19 | 1900 | 0
 Heavy | 18 | 1800 | 1700
 Kiriya | 17 | 1700 | 1700
 DVC | 14 | 1400 | 1300
@@ -249,9 +249,9 @@ Emoji | Description
 - :white_check_mark: ze_elork_ok3ng3se5_v1_3 `Haruka`
 - :x: ze_emerald_b3_f1
 - :white_check_mark: ze_endemic_v1_1 `Chinny`
-- :x: ze_endemic_v1_3
+- :white_check_mark: ze_endemic_v1_3 `Hibiki`
 - :white_check_mark: ze_ep2_plant_b1 `Haruka`
-- :x: ze_epic_escape_v2_1
+- :white_check_mark: ze_epic_escape_v2_1 `Hibiki`
 - :white_check_mark: ze_error_a0_ps `Haruka`
 - :white_check_mark: ze_Escape_Citadel_r4 `Haruka`
 - :x: ze_escape_horizon_p3
@@ -266,7 +266,7 @@ Emoji | Description
 - :white_check_mark: ze_evil_mansion_v1_finalf `Hibiki`
 - :x: ze_exchange_innovation_v1b
 - :white_check_mark: ze_facility_overload_final1 `koen`
-- :x: ze_facility_overload_final2
+- :white_check_mark: ze_facility_overload_final2 `Hibiki`
 - :white_check_mark: ze_fapescape_p5 `tilgep`
 - :x: ze_fapescape_rote_v1_3
 - :white_check_mark: ze_farmhouse_v9f2 `Bomberman`
@@ -335,11 +335,11 @@ Emoji | Description
 - :white_check_mark: ze_greencity_fix `Hibiki`
 - :x: ze_grey_world_v1
 - :white_check_mark: ze_greyplace_v1_2 `DVC`
-- :x: ze_gris_a4_9_8
+- :white_check_mark: ze_gris_a4_9_8 `Hibiki`
 - :white_check_mark: ze_gris_v1_13
 - :white_check_mark: ze_halloween_house_b4 `Bomberman`
 - :black_circle: ~~ze_halloween_mystery_v1~~
-- :x: ze_halo_ce_p1_b16
+- :white_check_mark: ze_halo_ce_p1_b16 `Hibiki`
 - :white_check_mark: ze_halo_p3 `Hibiki`
 - :white_check_mark: ze_halo_poa_p4 `Hibiki`
 - :x: ze_harry_potter_v2_1_csgo
@@ -394,7 +394,7 @@ Emoji | Description
 - :white_check_mark: ze_journey_p2 `Chong0074`
 - :white_check_mark: ze_jurassicPark_Escape_p2 `Haruka`
 - :white_check_mark: ze_JurassicPark_p3 `Haruka`
-- :x: ze_jurassicpark_lasers_zeddy
+- :white_check_mark: ze_jurassicpark_lasers_zeddy `Hibiki`
 - :black_circle: ~~ze_K19_escape_go1~~
 - :black_circle: ~~ze_kaffe_escape_v2~~
 - :x: ze_kage_a3
@@ -452,7 +452,7 @@ Emoji | Description
 - :x: ze_magala_castle_final
 - :x: ze_magic_carpet_p2
 - :x: ze_magmadrake_b4
-- :x: ze_magus_v2_4
+- :white_check_mark: ze_magus_v2_4 `Hibiki`
 - :white_check_mark: ze_mapeadores_museum_v1 `Chinny`
 - :x: ze_mario_tower_v4_p2
 - :black_circle: ~~ze_mars_escape_gp3~~
@@ -503,7 +503,7 @@ Emoji | Description
 - :white_check_mark: ze_nomada_h3 `tapch0w`
 - :x: ze_noob_too_easy_v1_2_2
 - :white_check_mark: ze_noob_too_easy_v3_2fix `Detroid`
-- :x: ze_nora_v1_11
+- :white_check_mark: ze_nora_v1_11 `Hibiki`
 - :x: ze_nostromo_escape_p2
 - :x: ze_nostromo_redux_v1_2
 - :x: ze_notredame_p4
@@ -769,6 +769,7 @@ Emoji | Description
 - :x: ze_voodoo_islands_p5
 - :black_circle: ~~ze_watagi_tunnel_v1_1~~
 - :white_check_mark: ze_water_temple_test_v4 `Bomberman`
+- :white_check_mark: ze_wonderous_winter_castle_parti_rm3 `Detroid`
 - :black_circle: ~~ze_world_escapes_v1~~
 - :white_check_mark: ze_worlds_v1_2 `Bomberman`
 - :x: ze_xenovation_v1_2

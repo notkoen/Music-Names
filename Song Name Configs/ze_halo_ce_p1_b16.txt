@@ -1,0 +1,7 @@
+music/ze_halo/lvl1_music_1.mp3||Martin O'Donnell, Michael Salvatori - Halo Percussion Suite
+music/ze_halo/lvl1_music_2.mp3||Halo Combat Evolved OST - Enough Dead Heroes
+music/ze_halo/lvl1_music_5.mp3||Halo Combat Evolved OST - Perilous Journey
+music/ze_halo/lvl1_music_6.mp3||Halo Combat Evolved OST - Truth and Reconciliation Suite
+music/ze_halo/lvl1_music_7.mp3||Halo Combat Evolved OST - Enough Dead Heroes
+music/ze_halo/lvl1_music_8.mp3||Halo Combat Evolved OST - Brothers In Arms
+music/See_What_Ive_Become.mp3||Zack Hemsey - See What I've Become
