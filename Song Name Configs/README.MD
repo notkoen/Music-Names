@@ -20,7 +20,7 @@ Name | Configs Made | Reward | Paid Amount
 --- | --- | --- | ---
 Bomberman | 124 | 12400 | 10000
 Haruka | 103 | 10300 | 10000
-Hibiki | 44 | 4400 | 2800
+Hibiki | 44 | 4400 | 4400
 Detroid | 19 | 1900 | 0
 Heavy | 18 | 1800 | 1700
 Kiriya | 17 | 1700 | 1700
