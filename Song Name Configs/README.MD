@@ -10,7 +10,7 @@ There is currently a `100 credits` reward per song contributed by players.
 
 Count | Description
 --- | ---
-473 | Completed Song Configs
+475 | Completed Song Configs
 
 ## Leaderboard
 
@@ -711,8 +711,8 @@ Emoji | Description
 - :x: ze_texturescape_p2
 - :x: ze_the_curse_of_blackwater_v6b
 - :black_circle: ~~ze_the_end_v3f~~
-- :x: ze_the_last_chapter_v1_5 `Bomberman`
-- :x: ze_the_new_era_of_crazy_escape_b8 `Bomberman`
+- :white_check_mark: ze_the_last_chapter_v1_5 `Bomberman`
+- :white_check_mark: ze_the_new_era_of_crazy_escape_b8 `Bomberman`
 - :white_check_mark: ze_the_twilight_zone_v1 `Bomberman`
 - :white_check_mark: ze_thelostworld_redux_p2 `Bomberman`
 - :white_check_mark: ze_thousand_steps_go1 `Bomberman`
