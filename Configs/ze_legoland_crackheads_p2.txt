@@ -1,0 +1,9 @@
+music/beegees.mp3||Hit Co. Big Band-Stayin' Alive
+music/streets.mp3||BARE KNUCKLE ORIGINAL SOUNDTRACK-Go Straight (Game)
+music/mimap.mp3||Mission Impossible (Movie Theme)-Mission Impossible
+music/coldplay1.mp3||Coldplay-Paradise
+music/rattamahatta.mp3||Sepultura-Ratamahatta
+music/avicii.mp3||Avicii-Levels
+music/fleetfoxes.mp3||Fleet Foxes-White Winter Hymnal
+music/thedoors.mp3||The Doors-Break On Through (To The Other Side)
+music/007.mp3||007-Dr. No (Original Motion Picture Soundtrack)-James Bond Theme

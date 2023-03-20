@@ -1,0 +1,4 @@
+kage/warmtime.mp3||DDRKirby(ISQ)-Come Home
+kage/lv1_3.wav||Shadow of the Ninja OST-ボス戦
+kage/lv1_2.wav||Shadow of the Ninja OST-STAGE1
+kage/lv1_4.wav||Shadow of the Ninja-Fall of Garuda
