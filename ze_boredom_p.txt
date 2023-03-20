@@ -1,0 +1,13 @@
+music/bloodsport-finals.mp3||Bloodsport OST - Finals
+music/conkerbfd-sloprano.mp3||Conker bad fur day - Sloprano
+music/horacesilver-blowingbluesaway.mp3||horacesilver - blowingbluesaway
+music/horacesilver-sistersadie.mp3||horacesilver - sistersadie
+music/miamisoundmachine-conga.mp3||Conga
+music/outrun-magicalsoundshower.mp3||Magical Sound Shower (Euro Remix)
+music/pasodoble-gatomontes.mp3||El Gato Montes
+music/pornosonic-mrdicksontheteacher.mp3||Pornosonic - Cramming for College
+music/roguetrip-blank.mp3||roguetrip - ENDCREDITS
+music/roguetrip-eternalacres.mp3||roguetrip - eternalacres
+music/roguetrip-neonnightmare.mp3||roguetrip - neonnightmare
+music/roguetrip-quakearoni.mp3||roguetrip - quake a roni
+music/roguetrip-socal.mp3||roguetrip - so cal

@@ -1,0 +1,5 @@
+castle_bridge/Final.mp3||The Phantoms - Into The Darkness
+castle_bridge/Castle3.mp3||Hiroyuki Sawano - RE:3343
+castle_bridge/Boss_fight_1.mp3||Kai Engel - Forgotten Marches
+castle_bridge/Castle4_Part1.mp3||Harry Gregson-Williams - The Battle
+castle_bridge/Castle4_Part2.mp3||Harry Gregson-Williams - The Battle

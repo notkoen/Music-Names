@@ -1,6 +1,0 @@
-admin_plugin/03r.mp3||The Temper Trap - Fader
-admin_plugin/05.mp3||The Prodigy - Take Me To The Hospital
-admin_plugin/Divisive.mp3||Divisive - We Have Band
-admin_plugin/Giant Song.mp3||Funeral Party - Giant Song
-admin_plugin/Shining Down.mp3||Attack Attack! - Stick Stickly
-admin_plugin/Yeah.mp3||New Politics - Yeah Yeah Yeah

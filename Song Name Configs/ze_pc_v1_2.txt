@@ -1,7 +1,0 @@
-music/ze_pc/TSFH_AnthemofAngels.mp3||Two Steps From Hell - Anthem of Angels
-music/ze_pc/TSFH_EnigmaofLight.mp3||Two Steps From Hell - Enigma of Light
-music/ze_pc/TSFH_FarFromHome.mp3||Two Steps From Hell - Far From Home
-music/ze_pc/TSFH_FinalWave.mp3||Two Steps From Hell - Final Wave
-music/ze_pc/TSFH_ForTheGirlWhoHasEverything.mp3||Two Steps From Hell - For The Girl Who Has Everything
-music/ze_pc/TSFH_KillerontheLoose.mp3||Two Steps From Hell - Killer on the Loose
-music/ze_pc/TSFH_TemporalBoundaries.mp3||Two Steps From Hell - Temporal Boundaries

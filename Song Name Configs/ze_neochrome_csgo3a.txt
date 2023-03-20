@@ -1,8 +1,0 @@
-music/arcade_nut/4thdimension_2.mp3||criar. - 4th Dimension
-music/arcade_nut/breakpoint.mp3||Garth Knight - Breakpoint
-music/arcade_nut/dustremix.mp3||M|O|O|N - Dust (Carpenter Brut Remix)
-music/arcade_nut/kingofthestreets.mp3||LazerHawk - King of The Streets
-music/arcade_nut/nightcrawler.mp3||LAZERPUNK! - NIGHTCRAWLER
-music/arcade_nut/technoir.mp3||Perturbator - Technoir (feat. Noir Deco)
-music/arcade_nut/thedemondance.mp3||Julian Winding - The Demon Dance
-music/arcade_nut/vileworld.mp3||Perturbator - Vile World

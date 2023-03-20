@@ -1,8 +1,0 @@
-aware/prologue_0.mp3||Feryquitous - Percel of CYAN
-aware/st1_bgm_0.mp3||Keiichi Okabe - Fortress of Lies
-aware/st1_bgm_1.mp3||Feryquitous - ALiUS
-aware/st2_bgm_0.mp3||Feryquitous - Maquitous
-aware/st2_bgm_1.mp3||Yuni Minami - Kanagawa Cyber Culvert
-aware/st3_bgm_0.mp3||Taishi - All for the Time
-aware/st3_bgm_1.mp3||Keiichi Okabe - 友歌/ガブリエル
-aware/st3_bgm_2.mp3||Feryquitous - Ran

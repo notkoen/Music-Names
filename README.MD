@@ -1,23 +1,17 @@
 
-# Warning! This is not the official repository
+# Song Name Configs
 
-After some discussiong with the server manager, I believe it is better that I put it straight forward that what I do here is **NOT** the official repository and does not reflect the decisions of Zeddy and Detroid. I am doing this with the intentions on helping others and make playing on Zeddy for new players much easier. This is solely **MY** own project and not zeddy's, thus do not expect everything to be up to date.
+All song name configs used on Zeddy's Zombie Escape server. These song name configs are only compatible with `Map Music Control Interface (v4.2.3)`. If you wish to convert too GFL's song name format, you can use this [tool](https://github.com/snooooowy/music-config-parser) written by Snowy.
 
-## Additional Information
+## How to Contribute
 
-All map cycle related files are not updated frequently here! I will try my best to get updates and information, but there is no guarantee that everything here is the latest.
+To contribute, you can either:
 
-## Entwatch, Stripper, and BossHud config information
-
-After much heated discussion and consideration, I have decided I will **NOT** be making all the configs public.
-
-## How to Contribute to Song Name Configs
-
-To contribute to song names, you can either:
-
-1. Join our Discord server and head to the forum channel dedicated to submitting song names
-2. Message me directly on discord *(koen#4977)* with your files
+1. Join our [Discord server](https://discord.gg/zeddysze) and head to the forum channel dedicated to submitting song names
+2. Message me directly on discord *(not koen#4977)* with your files
 3. Make a GitHub pull request on this repository
+
+## Config Guidelines
 
 Make sure to follow the song name config format:
 

@@ -1,0 +1,9 @@
+music/alphaomega.mp3||BlackY - ΑΩ
+music/anima.mp3||xi - Anima
+music/chariot.mp3||xi - Grand Chariot
+music/crepe.mp3||Kanome Sano - crêpe suzette
+music/paradission.mp3||BlackY - Paradission
+music/sensation.mp3||IckPo - Happy Sensation
+music/sweetland.mp3||COOKIE MONSTERS - Witch in Sweetsland
+music/twinkle.mp3 ||Sanaas & Hurce - Twinkle Wink
+music/zep.mp3||TAG - ZEPHYRANTHES

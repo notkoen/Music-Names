@@ -1,3 +1,0 @@
-music/celmusics/labyrinthine.mp3||Final Fantasy XV OST - Labyrinthine
-music/celmusics/melancholia.mp3||Final Fantasy XV OST - Melancholia
-music/celmusics/songofthestars.mp3||Final Fantasy XV OST - Song Of The Stars

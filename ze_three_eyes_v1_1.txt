@@ -1,0 +1,12 @@
+music/Three_eyes/Traitor.mp3||Sakuzyo - Traitor
+music/Three_eyes/Crya.mp3||Sakuzyo - Crya
+music/Three_eyes/REmorse.mp3||SIHanatsuka - REmorse
+music/Three_eyes/dead_point.mp3||Neutral Moon - Dead Point
+music/Three_eyes/Stranger.mp3||James Landino - Stranger
+music/Three_eyes/break_through_lixound.mp3||lixound - Break Through The Barrier
+music/Three_eyes/Cyberozar.mp3||Sakuzyo - Cyberozar
+music/Three_eyes/red_eyes.mp3||Persona - Red Eyes
+music/Three_eyes/Dasein.mp3||KIVA - Dasein
+music/Three_eyes/Green_eyes.mp3||Persona - Green Eyes
+music/Three_eyes/Area184.mp3||Persona - Area 184
+music/Three_eyes/Blue_eyes.mp3||Persona - Blue Eyes

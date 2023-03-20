@@ -1,0 +1,5 @@
+music/ze_surf_inferno/Event Horizon - Pathogenic.mp3||Event Horizon - Pathogenic
+music/ze_surf_inferno/Event Horizon - Precarious.mp3||Event Horizon - Precarious
+music/ze_surf_inferno/Event Horizon - Resurrection.mp3||Event Horizon - Resurrection
+music/ze_surf_inferno/OST Resident Evil Extinction.mp3||OST Resident Evil: Extinction Charlie Clouser - Convoy (Remix)
+music/ze_surf_inferno/Silent Hill 2 OST - Promise.mp3||Silent Hill 2 OST - Promise

@@ -1,5 +1,0 @@
-lerm/p_bgm.mp3||Feryquitous - Dstorv
-lerm/y_bgm.mp3||Feryquitous - Parallel Split Order
-lerm/b_bgm.mp3||Sakuzyo - Lyx
-lerm/g_bgm.mp3||Sakuzyo - Never Get to Heaven
-lerm/ende_bgm.mp3||Feryquitous - Shakah

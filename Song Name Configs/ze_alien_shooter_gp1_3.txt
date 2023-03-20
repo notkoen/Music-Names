@@ -1,5 +1,0 @@
-music/alien_shooter/encoder.mp3||Pendulum - Encoder
-music/alien_shooter/ff12toglory1.mp3||Two Steps From Hell - To Glory
-music/alien_shooter/finalmusic.mp3||Two Steps From Hell - To Glory
-music/alien_shooter/matrix.mp3||Matrix Soundtrack - Mona Lisa Overdrive
-music/alien_shooter/the_chase_of_highway.mp3||FFVII Advent Children - The Chase of Highway

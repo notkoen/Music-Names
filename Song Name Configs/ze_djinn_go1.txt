@@ -1,8 +1,0 @@
-music/scattle_shambles.mp3||Scattle - Shambles (from Furi original soundtrack)
-music/paulsdream.mp3||Paul's Dream – Hans Zimmer
-music/carpenter-brut-youre-mine-from-furi-original-soundtrack.mp3||Carpenter Brut - You're mine(from Furi original soundtrack)
-music/carpenterbrut_turbokiller.mp3||Carpenter Brut - Turbo Killer
-music/borat_mamaliga.mp3||Borat - Magic Mamaliga (OST)
-music/baiana-clozee-remix.mp3||Barbatuques – Baiana (CloZee Remix)
-music/alfadhirhaiti_phase2.mp3||Heilung - Alfadhirhaiti (2015)
-music/alfadhirhaiti_1.mp3||Heilung - Alfadhirhaiti (2015)

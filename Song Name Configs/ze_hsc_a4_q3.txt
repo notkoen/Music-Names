@@ -1,9 +1,0 @@
-music/george/hsc/zvwva.mp3||Feryquitous - Zvwva
-music/george/hsc/halcyon.mp3||xi - Halcyon (Cytus)
-music/george/hsc/aragami.mp3||xi - Aragami
-music/george/hsc/skyway.mp3||Mega Man X: Corrupted - Skyway
-music/george/hsc/algolic.mp3||AcuticNotes-Fillnote - Algolic Confusion
-music/george/hsc/lostmemory.mp3||Sakuzyo - Lost Memory
-music/george/hsc/dstorv.mp3||Feryquitous - Dstorv
-music/george/hsc/crystalc.mp3||Ryan Henwood - Crystal C
-music/george/hsc/amber.mp3||AcuticNotes-Fillnote - Amber

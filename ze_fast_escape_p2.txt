@@ -1,0 +1,4 @@
+music/glorious_morning.mp3||Waterflame - Glorious morning
+music/my_innocent_apocalypse.mp3||Binding of Isaac OST - My Innermost Apocalypse
+music/necropolis_theme.mp3||Binding of Isaac OST - Necropolis theme
+music/race_around_the_world.mp3||Waterflame - Race Around the World

@@ -1,5 +1,0 @@
-music/ze_kitchen/TSFH_Emerald_Princess.mp3||Two Steps From Hell - Emerald Princess
-music/ze_kitchen/TSFH_Enchantress.mp3||Two Steps From Hell - Enchantress
-music/ze_kitchen/TSFH_Evergreen.mp3||Two Steps From Hell - Evergreen
-music/ze_kitchen/TSFH_Unbreakable.mp3||Two Steps From Hell - Unbreakable
-music/ze_kitchen/TSFH-Bravestone.mp3||Two Steps From Hell - Bravestone

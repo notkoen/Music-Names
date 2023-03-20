@@ -1,0 +1,16 @@
+doom3/03_ADG.mp3||Mick Gordon - At Doom's Gate
+doom3/07_AOP.mp3||Mick Gordon - Authorization; Olivia Pierce
+doom3/09_IS.mp3||Mick Gordon - Impure Spectrum
+doom3/10_TTB.mp3||Mick Gordon - Ties That Bind
+doom3/11_BD.mp3||Mick Gordon - Bfg Division
+doom3/13_AE.mp3||Mick Gordon - Argent Energy
+doom3/17_TF.mp3||Mick Gordon - Transistor Fist
+doom3/18_DSH.mp3||Mick Gordon - Dr. Samuel Hayden
+doom3/21_ID.mp3||Mick Gordon - III. Dakhma
+doom3/29_6.mp3||Mick Gordon & Chris Hite - 6_idkill.Vega.Cih
+doom3/30_M.mp3||Mick Gordon - Mastermind
+doom3/batnikfix1.mp3||Mick Gordon - Rip & Tear
+doom3/d3themebat1.mp3||DOOM 3 ost - Tweaker
+doom3/doom3end.mp3||Andrew Hulshult -  At Doom's Gate E1M1
+doom3/musqweens1.mp3||Mick Gordon - Damnation
+doom3/poezdend.mp3||Audiomachine - Hell's Battalion

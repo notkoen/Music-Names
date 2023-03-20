@@ -1,7 +1,0 @@
-skygarden/music/towardsthelight.mp3||Jacoo - Towards The Light
-skygarden/music/tkt.mp3||Attack on Titan OST - T-KT | Hiroyuki Sawano
-skygarden/music/thefirstlayer.mp3||Made in Abyss OST 2: 02. The First Layer
-skygarden/music/returnoflove.mp3||Wish: Israfil Saga - Return of Love (Erica's Theme)
-skygarden/music/overthehills.mp3||David Arkenstone - Over The Hills
-skygarden/music/autumn.mp3||Eric Chiryoku - Autumn Journey
-skygarden/music/autumnfinal.mp3||Eric Chiryoku - Autumn Journey
