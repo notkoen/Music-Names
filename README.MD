@@ -32,5 +32,5 @@ Importan guidelines to follow when making song name configs:
 - Do not add extra song details (eg. `[Official Audio]`), just put the name.
 - Song names in other languages are fine, but try to keep english names if there is one
 - For files that contain multiple songs, please follow this format: `Artist - Title 1, Artist 2 - Title 2, Artist 3 - Title 3` (use a comma to separate them)
-- Try to upload song configs for the latest maps (older version configs are accepted)
+- Try to upload song configs for the latest maps
 - Custom RTV stage music should also be added (these you cannot find the location without either the stripper or looking into your songs folder)
