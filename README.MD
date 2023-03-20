@@ -1,7 +1,7 @@
 
 # Song Name Configs
 
-All song name configs used on Zeddy's Zombie Escape server. These song name configs are only compatible with `Map Music Control Interface (v4.2.3)`. If you wish to convert too GFL's song name format, you can use this [tool](https://github.com/snooooowy/music-config-parser) written by Snowy.
+All song name configs used on Zeddy's Zombie Escape server. These song name configs are only compatible with `Map Music Control Interface (v4.2.3)`. If you wish to convert to GFL's song name format, you can use this [tool](https://github.com/snooooowy/music-config-parser) written by Snowy.
 
 ## How to Contribute
 
