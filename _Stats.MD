@@ -7,7 +7,7 @@ There is currently a `100 credits` reward per config contributed by players.
 
 Count | Description
 --- | ---
-475 | Completed Song Configs
+469 | Completed Song Configs
 
 ## Leaderboard
 
