@@ -1,0 +1,12 @@
+music/arcana_heart/arcaea_team-epilogue.mp3||Arcaea - Epilogue
+music/arcana_heart/arcaea_team-sakura_fubuki.mp3||Street - Sakura Fubuki
+music/arcana_heart/artifiction.mp3||Void - Artifiction
+music/arcana_heart/astrum.mp3||Yoohsic Roomz - Astrum
+music/arcana_heart/chronicle.mp3||Taishi - Chronicle
+music/arcana_heart/flamme-bleue.mp3||Phantasma - Flamme Bleue
+music/arcana_heart/leviathan.mp3||NeLiME - Leviathan
+music/arcana_heart/orion.mp3||くるぶっこちゃん - Orion (Intro)
+music/arcana_heart/paradigm-shift.mp3||Fractal Dreamers - Paradigm Shift
+music/arcana_heart/sillyneko_embers.mp3||FFXIV OST - 万魔殿パンデモニウム煉獄編4《Embers》
+music/arcana_heart/testify.mp3||void - Testify (ft. 星熊南巫)
+music/arcana_heart/the-girl.mp3||Cre-sc3NT - The Girl

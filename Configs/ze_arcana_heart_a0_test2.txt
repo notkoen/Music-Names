@@ -1,9 +1,0 @@
-music/arcana_heart/artifiction.mp3||void - Artifiction
-music/arcana_heart/astrum.mp3||Yooh - Astrum
-music/arcana_heart/chronicle.mp3||Taishi - Chronicle
-music/arcana_heart/flamme-bleue.mp3||Phantasma - Flamme Bleue
-music/arcana_heart/paradigm-shift.mp3||Fractal Dreamers - Paradigm Shift
-music/arcana_heart/leviathan.mp3||NeLiME - Leviathan 
-music/arcana_heart/orion.mp3||Takahiro Asai - Orion
-music/arcana_heart/testify.mp3||void feat. Minami Hoshikuma - Testify
-music/arcana_heart/the-girl.mp3||Cre-sc3NT - The Girl
