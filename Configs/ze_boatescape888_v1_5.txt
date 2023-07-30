@@ -1,0 +1,26 @@
+music/boatescape888/aldebaran_part.mp3||Sakuzyo - Aldebaran
+music/boatescape888/a_hisa - kinetic dance.mp3||a_hisa - kinetic dance
+music/boatescape888/bgm_1.mp3||花たん - アルカンシェル
+music/boatescape888/bgm_2.mp3||Blue Archive - 優しさの記憶 / Memories of Kindness
+music/boatescape888/bgm_3.mp3||SawanoHiroyuki[nZk]:mizuki - Avid
+music/boatescape888/bgm_4.mp3||ReoNa - ANIMA
+music/boatescape888/bgm_5.mp3||amazarashi - kyoukaisen
+music/boatescape888/bgm_6.mp3||Final Fantasy XIV - Athena, The Tireless One
+music/boatescape888/bgm_7.mp3||Syrufit - Jump!
+music/boatescape888/bgm_8.mp3||EFS - 永遠の花が降る
+music/boatescape888/bgm_9.mp3||Yonder Voice - Flowery Moonlit Nigh
+music/boatescape888/bgm_10.mp3||SawanoHiroyuki[nZk] - FAKEit
+music/boatescape888/bgm_11.mp3||KAF - You call it the world
+music/boatescape888/bgm_12.mp3||
+music/boatescape888/bgm_13.mp3||東方 Vocal - Spring Comes Along
+music/boatescape888/bgm_14.mp3||Mayuiro - sajou no hana
+music/boatescape888/bgm_15.mp3||SawanoHiroyuki[nZk] - Unti-L 100S-R2
+music/boatescape888/bgm_16.mp3||Aimer - wavy flow
+music/boatescape888/grandmadestruction_part.mp3||NieR: Automata - Grandma Destruction
+music/boatescape888/lazerhawk-arrival_offliner.mp3||Lazerhawk - Arrival
+music/boatescape888/level - practice - music.mp3||AvEtaDeltaV & Lyvia - In_sensibilitv
+music/boatescape888/leviathan_practice.mp3||NeLiME - Leviathan
+music/boatescape888/sakuzyo-neurotoxin-full-length-hq.mp3||sakuzyo - Neurotoxin
+music/boatescape888/st3_bgm_2.mp3||Feryquitous - Ran
+music/boatescape888/we-are-all-astronauts-violent-delights.mp3||We Are All Astronauts - Violent Delights
+music/tsumugi/superrun.mp3||Tales Runner OST - Survival
