@@ -1,0 +1,21 @@
+malgo/music/Mt Bur Omisace/music_v5_4/normal_steps_of_faith.mp3||FFXIV OST Steps of Faith (Faith in Her Fury)
+malgo/music/Mt Bur Omisace/music_v5_4/normal_igns_of_change.mp3||Final Fantasy XII OST - Signs of a Change
+malgo/music/Mt Bur Omisace/music_v5_4/normal_discarded_power.mp3||FFXII: The Zodiac Age OST Discarded Power
+malgo/music/Mt Bur Omisace/music_v5_4/normal_boss_battle.mp3||Final Fantasy XII - Boss Battle
+malgo/music/Mt Bur Omisace/music_v5_4/insane_under_the_waves.mp3||Pendulum - Under The Waves
+malgo/music/Mt Bur Omisace/music_v5_4/insane_nothing_for_free.mp3||Pendulum - Nothing For Free
+malgo/music/Mt Bur Omisace/music_v5_4/insane_mondays.mp3||ONLAP ft. Oscar of No Resolve - Mondays
+malgo/music/Mt Bur Omisace/music_v5_4/insane_back_to_you.mp3||Muzzy & Voicians - Back To You
+malgo/music/Mt Bur Omisace/music_v5_4/insane_ascian.mp3||FFXIV OST - Ascian
+malgo/music/Mt Bur Omisace/music_v5_4/insane_aetheroch_mical_research_facility.mp3||FFXIV OST - The Aetherochemical Research Facility
+malgo/music/Mt Bur Omisace/music_v5_4/hard_jahara.mp3||FFXIV OST - Jahara
+malgo/music/Mt Bur Omisace/music_v5_4/hard_eruyt_village.mp3||FFXII: The Zodiac Age OST Eruyt Village
+malgo/music/Mt Bur Omisace/music_v5_4/hard_battle_with_an_esper.mp3||FFXIV OST - Esper Battle
+malgo/music/Mt Bur Omisace/music_v5_4/hard_amaurot dungeon.mp3||FFXIV OST Amaurot Dungeon Theme
+malgo/music/Mt Bur Omisace/music_v5_4/epic_so_clear.mp3||VOICIANS - So Clear
+malgo/music/Mt Bur Omisace/music_v5_4/epic_sirens.mp3||Blaine Stranger - Sirens ft. Voicians
+malgo/music/Mt Bur Omisace/music_v5_4/epic_praetorium.mp3||FFXIV OST The Praetorium Theme
+malgo/music/Mt Bur Omisace/music_v5_4/epic_knights.mp3||FFXIV OST - Knights of the Round's Theme
+malgo/music/Mt Bur Omisace/music_v5_4/epic_endure.mp3||VOICIANS - Endure
+malgo/music/Mt Bur Omisace/music_v5_4/epic_crush.mp3||Pendulum - Crush
+malgo/music/Mt Bur Omisace/music_v5_4/ZM_Come_Alive.mp3||Pendulum - Come Alive
