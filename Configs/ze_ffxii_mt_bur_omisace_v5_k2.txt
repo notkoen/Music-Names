@@ -18,4 +18,5 @@ malgo/music/Mt Bur Omisace/music_v5_4/epic_praetorium.mp3||FFXIV OST The Praetor
 malgo/music/Mt Bur Omisace/music_v5_4/epic_knights.mp3||FFXIV OST - Knights of the Round's Theme
 malgo/music/Mt Bur Omisace/music_v5_4/epic_endure.mp3||VOICIANS - Endure
 malgo/music/Mt Bur Omisace/music_v5_4/epic_crush.mp3||Pendulum - Crush
+malgo/music/Mt Bur Omisace/music_v5_4/epic_gravity.mp3||Metrik - Gravity
 malgo/music/Mt Bur Omisace/music_v5_4/ZM_Come_Alive.mp3||Pendulum - Come Alive
