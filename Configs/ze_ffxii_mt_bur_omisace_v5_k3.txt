@@ -4,7 +4,7 @@ malgo/music/Mt Bur Omisace/music_v5_4/normal_discarded_power.mp3||FFXII: The Zod
 malgo/music/Mt Bur Omisace/music_v5_4/normal_boss_battle.mp3||Final Fantasy XII - Boss Battle
 malgo/music/Mt Bur Omisace/music_v5_4/insane_under_the_waves.mp3||Pendulum - Under The Waves
 malgo/music/Mt Bur Omisace/music_v5_4/insane_nothing_for_free.mp3||Pendulum - Nothing For Free
-malgo/music/Mt Bur Omisace/music_v5_4/insane_mondays.mp3||ONLAP ft. Oscar of No Resolve - Mondays
+malgo/music/Mt Bur Omisace/music_v5_4/insane_reach.mp3||Tantrum Desire - Reach
 malgo/music/Mt Bur Omisace/music_v5_4/insane_back_to_you.mp3||Muzzy & Voicians - Back To You
 malgo/music/Mt Bur Omisace/music_v5_4/insane_ascian.mp3||FFXIV OST - Ascian
 malgo/music/Mt Bur Omisace/music_v5_4/insane_aetheroch_mical_research_facility.mp3||FFXIV OST - The Aetherochemical Research Facility
@@ -20,3 +20,4 @@ malgo/music/Mt Bur Omisace/music_v5_4/epic_endure.mp3||VOICIANS - Endure
 malgo/music/Mt Bur Omisace/music_v5_4/epic_crush.mp3||Pendulum - Crush
 malgo/music/Mt Bur Omisace/music_v5_4/epic_gravity.mp3||Metrik - Gravity
 malgo/music/Mt Bur Omisace/music_v5_4/ZM_Come_Alive.mp3||Pendulum - Come Alive
+malgo/music/Mt Bur Omisace/music_v5_4/ZM_Nirvana.mp3||Nirvana - Girls (DJ Dima House & Samsonoff Remix)
