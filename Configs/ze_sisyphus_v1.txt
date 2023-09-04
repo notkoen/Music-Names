@@ -1,0 +1,25 @@
+music/american_football-never_meant.mp3||American Football - Never Meant
+music/beck-loser.mp3||Beck - Loser
+music/billy_idol-rebel_yell.mp3||Billy Idol - Rebel Yell
+music/boa-duvet.mp3||Boa - Duvet
+music/cortex-devils_dance.mp3||Cortex - Devil's Dance
+music/death_note.mp3||Hideki Taniuchi - Death Note
+music/melty_blood-neco_arc.mp3||Melty Blood OST - Neco Arc
+music/eiffel_65-blue.mp3||Eiffel 65 - Blue
+music/duster-me_and_the_birds.mp3||Duster - Me And The Birds
+music/radiohead-knives_out.mp3||Radiohead - Knives Out
+music/outkast-hey_ya.mp3||Outkast - Hey Ya!
+music/eyeliner-payphone.mp3||Eyeliner - Payphone
+music/gorillaz-on_melancholy_hill.mp3||Gorillaz - Melancholy Hill
+music/loverboy-workin_for_the_weekend.mp3||Loverboy - Workin' For The Weekend
+music/penpals-tell_me_why.mp3||Penpals - Tell Me Why
+music/shiki_no_uta.mp3||Nujabes - Shiki no Uta
+music/silver_fins-waiting_so_long.mp3||Silver Fins - Waiting So Long
+music/susumu_hirasawa-gats.mp3||Susumu Hirasawa - Gats
+music/modest_mouse-sunspots_in_the_house_of_the_late_scapegoat.mp3||Modest Mouse - Sunspots In The House Of The Late Scapegoat
+music/the_drums-money.mp3||The Drums - Money
+music/tears_for_fears-everybody_wants_to_rule_the_world.mp3||Tears for Fears - Everybody Wants To Rule The World
+music/iron_maiden-the_trooper.mp3||Iron Maiden - The Trooper
+music/men_at_work-down_under.mp3||Men at Work - Down Under
+music/pixies-where_is_my_mind.mp3||The Pixies - Where Is My Mind?
+music/a-ha-take_on_me.mp3||a-ha - Take on Me
