@@ -1,7 +1,7 @@
 Feywood/Hitoshi Sakimoto - Victory Fanfare.mp3||Final Fantasy XII OST - Victory Fanfare
 ridorana_rework/Feint_Alone.mp3||Feint - We Won't Be Alone (Ft. Laura Brehm)
 ridorana_rework/Muzz_Star_Glide.mp3||MUZZ - Star Glide (Ft. Cammie Robinson)
-ridorana_rework/Pendulum_Nothing.mp3||Pendulum - Nothing For Free
+ridorana_rework/pendulum_nothingnew.mp3||Pendulum - Nothing For Free
 ridorana_rework/Pendulum_Painkillerend.mp3||Freestylers Ft. Pendulum - PainKiller
 ridorana_rework/Pendulum_Winner_Remix.mp3||Enter Shikari - Sorry You're Not a Winner (Pendulum Remix)
 ridorana_rework/SH_ASCA_UntiL_Trim.mp3||Sawano Hiroyuki[nZk], ASCA - Unti-L
