@@ -1,10 +1,10 @@
 
 # Music Names
 
-This repository stores music name and lyric configs for Zombie Escape and Zombie Survival maps. These configs are currently used on the Sunrust community.
+This repository stores music name and lyric configs for Zombie Escape and Zombie Survival maps. These configs are currently used on [Sunrust](https://sunrust.org/).
 
 > [!NOTE]
-> Music configs under the `legacy` folder were configs used on Zeddy's CS:GO ZE server, which followed an old config format. Only use this folder to find names of music for other maps.
+> Music configs under the `legacy` folder were configs used on zeddy's, which followed an old config format. Only use this folder to find names of music.
 
 ## How to Contribute
 
@@ -19,9 +19,7 @@ Various way of contributing:
 
 ## Config Formatting
 
-Make sure to follow the song name config format:
-
-#### Music Name
+### Music Name
 
 ```yaml
 "music"
@@ -32,7 +30,7 @@ Make sure to follow the song name config format:
 }
 ```
 
-#### Lyrics
+### Lyrics
 
 ```lua
 GM.ZELyrics = {
@@ -61,7 +59,7 @@ GM.ZELyrics = {
 
 ## Special Thanks
 
-- [tilgep](https://github.com/tilgep) for the idea and making the original config
+- [tilgep](https://github.com/tilgep) for the idea and making the original plugin
 - [Detroid/rynerwolf](https://github.com/RynerWolf) for managing zeddy and allowing me to maintain these configs
-- [Snowy](https://github.com/snorux) for making the tool to port zeddy configs to a standardized format
-- *Bomberman*, *Haruka*, *Hibiki*, *Detroid/RynerWolf*, *Heavy*, *Kiriya*, *DVC*, *Watdoink*, *Chong0074*, *WhiteCat*, *kun*, *Owlfy*, *Cylops*, *tapch0w*, *Chinny*, *BAN*, *Tsukasa*, *FroZRil*, *kaomunkai*, *KingMagress*, *Hichatu*, *tilgep*, *WILD BANAN*, *TuPu*, *Beppu*, *Sprinuts*, *ShiroNeko*, *Berke* for making configs for zeddy
+- [Snowy](https://github.com/snorux) for making the tool to port zeddy configs to GFL
+- *Bomberman*, *Haruka*, *Hibiki*, *Detroid/RynerWolf*, *Heavy*, *Kiriya*, *DVC*, *Watdoink*, *Chong0074*, *WhiteCat*, *kun*, *Owlfy*, *Cylops*, *tapch0w*, *Chinny*, *BAN*, *Tsukasa*, *FroZRil*, *kaomunkai*, *KingMagress*, *Hichatu*, *tilgep*, *WILD BANAN*, *TuPu*, *Beppu*, *Sprinuts*, *ShiroNeko*, *Berke* for making the original configs used on zeddy
