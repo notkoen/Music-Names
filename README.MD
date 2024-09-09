@@ -21,35 +21,33 @@ Various way of contributing:
 
 Make sure to follow the song name config format:
 
-<detail>
-    <summary>Music Name</summary>
-    ```
-    "music"
-    {
-        "filename.mp3" "Artist - Title"
-        "level1_boss.mp3" "Pendulum - The Tempest (Live at Brixton Academy)
-        "level2_boss.mp3" "Pendulum - Slam
-    }
-    ```
-</detail>
+#### Music Name
 
-<detail>
-    <summary>Lyrics</summary>
-    ```lua
-    GM.ZELyrics = {
-        ["filename.mp3"] = {
-            {time = 1.0, text = "Example of lyric at 1 second"},
-            {time = 2.4, text = "Example of lyric at 2.4 seconds"},
-            {time = 3.0, text = "Example of holding text until next lyric shows up", autohold = true},
-            {time = 5.0, text = "This text will clear previous text at 5.0 seconds,"},
-        },
-        ["filename2.mp3] = {
-            {time = 1.0, text = "Example of a second song and lyrics"},
-            {time = 3.0, text = "Put as many text for any lyrics"},
-        },
-    }
-    ```
-</detail>
+```yaml
+"music"
+{
+    "filename.mp3" "Artist - Title"
+    "level1_boss.mp3" "Pendulum - The Tempest (Live at Brixton Academy)"
+    "level2_boss.mp3" "Pendulum - Slam"
+}
+```
+
+#### Lyrics
+
+```lua
+GM.ZELyrics = {
+    ["filename.mp3"] = {
+        {time = 1.0, text = "Example of lyric at 1 second"},
+        {time = 2.4, text = "Example of lyric at 2.4 seconds"},
+        {time = 3.0, text = "Example of holding text until next lyric shows up", autohold = true},
+        {time = 5.0, text = "This text will clear previous text at 5.0 seconds,"},
+    },
+    ["filename2.mp3"] = {
+        {time = 1.0, text = "Example of a second song and lyrics"},
+        {time = 3.0, text = "Put as many text for any lyrics"},
+    },
+}
+```
 
 ## Config Guidelines
 
