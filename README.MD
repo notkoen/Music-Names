@@ -49,7 +49,12 @@ GM.ZELyrics = {
 
 ## Config Guidelines
 
-- File extensions must be included (such as `.mp3`)
+> [!CAUTION]
+> File extensions must be **included** *(such as `.mp3`)* for music to be detected and displayed
+
+> [!CAUTION]
+> File names must be **lowercase**
+
 - Follow `<Artist> - <Song Title>` format
 - Use `//` to add comments to configs
 - Add extra song details if needed (e.g. `"Pendulum - The Tempest (Live at Brixton Academy)"`)
