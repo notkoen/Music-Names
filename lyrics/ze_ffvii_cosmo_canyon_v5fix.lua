@@ -89,4 +89,27 @@ GM.ZELyrics = {
 
 		{time = 131.7, text = "Praise the anger bring it on home"},
 	},
+    -- Music_Granite    #cosmocanyon/ffvii_granitev2.mp3
+    ["ffvii_granitev2.mp3"] = {
+        {time = 42.4, text = "You can hide your eyes, you can dim the lights, but they are watching"},
+        {time = 47.5, text = "This is a new time with a different kind, they are the future"},
+        {time = 53, text = "The only one"},
+        {time = 59, text = "It's a final call for the setting sun when they get closer"},
+        {time = 64.3, text = "And with a fall from grace thy will be done, the show is over"},
+        {time = 69.2, text = "It's a new dawn"},
+        {time = 86.8, text = "Just leave this place behind"},
+        {time = 89.4, text = "I'll clear your bloodshot mind"},
+        {time = 92, text = "They only wanted your life on demand"},
+        {time = 96.9, text = "This is a better way"},
+        {time = 119.7, text = "They were standing by, no time to hide, no meeting halfway"},
+        {time = 125.1, text = "You were sucking life through the needle's eye, this is a new day"},
+        {time = 130, text = "And they have won"},
+        {time = 135.9, text = "We will surrender now or be outdone, left in the open"},
+        {time = 141.9, text = "It's the cooling of the horizon, they are the future"},
+        {time = 146.7, text = "The future"},
+        {time = 169.3, text = "When all your fears combined"},
+        {time = 171.8, text = "The manifest was refined"},
+        {time = 174.7, text = "I know you really tried to understand"},
+        {time = 179.6, text = "This is a new way"}
+    },
 }
