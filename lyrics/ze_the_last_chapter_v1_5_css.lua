@@ -1,6 +1,6 @@
 GM.ZELyrics = {
-    ["nrk4_music_6.mp3"] = {
-        -- checking files compared to ze_potc_v4s_4fix, theyre the same
+	["nrk4_music_6.mp3"] = {
+		-- checking files compared to ze_potc_v4s_4fix, theyre the same
 		{time = 32.2, text = "I was running out in the cold light"},
 		{time = 35.7, text = "Wondering where to go"},
 		{time = 37.7, text = "To run away without you"},
@@ -34,34 +34,34 @@ GM.ZELyrics = {
 		{time = 159.5, text = "They're changing my future"},
 		{time = 165.3, text = "Visions I had buried underground"},
 		{time = 170.5, text = "Return as abusers"},
-    },
-    ["nrk5_music_6.mp3"] = {
-        {time = 5.9, text = "I lie still as the water"},
-        {time = 8.6, text = "But my visions are broken"},
-        {time = 11.5, text = "Head caught in the tide as"},
-        {time = 14.3, text = "Cruel as the ocean"},
-        {time = 17.2, text = "Dreams are made in the distance"},
-        {time = 19.7, text = "I will not be among them"},
-        {time = 22.6, text = "The silence is killing me"},
-        {time = 25.2, text = "And I can hardly touch the ground"},
-        {time = 28.2, text = "(Touch the ground..)", autohold = true},
-        {time = 37, text = ""}, -- clear above autohold as it fades, should work? unsure if it does
-        {time = 48.9, text = "I am deep in a river"},
-        {time = 55, text = "Waves above my head"},
-        {time = 60.6, text = "Held with no spirit"},
-        {time = 65.2, text = "We descend"},
-        {time = 70.6, text = "We reach the end"},
-        {time = 126, text = "I am deep in a river"},
-        {time = 132.4, text = "Waves above my head"},
-        {time = 137.8, text = "Held with no spirit"},
-        {time = 142.2, text = "We descend"},
-        {time = 147.9, text = "We reach the end"},
-        {time = 192.4, text = "I am deep in a river"},
-        {time = 198.5, text = "Waves above my head"},
-        {time = 204.3, text = "Held with no spirit"},
-        {time = 208.6, text = "We descend"},
-        {time = 214.1, text = "We reach the end"},
-        {time = 230.7, text = "We descend"},
-        {time = 236.1, text = "We reach the end"}
-    },
+	},
+	["nrk5_music_6.mp3"] = {
+		{time = 5.9, text = "I lie still as the water"},
+		{time = 8.6, text = "But my visions are broken"},
+		{time = 11.5, text = "Head caught in the tide as"},
+		{time = 14.3, text = "Cruel as the ocean"},
+		{time = 17.2, text = "Dreams are made in the distance"},
+		{time = 19.7, text = "I will not be among them"},
+		{time = 22.6, text = "The silence is killing me"},
+		{time = 25.2, text = "And I can hardly touch the ground"},
+		{time = 28.2, text = "(Touch the ground..)", autohold = true},
+		{time = 37, text = ""}, -- clear above autohold as it fades, should work? unsure if it does
+		{time = 48.9, text = "I am deep in a river"},
+		{time = 55, text = "Waves above my head"},
+		{time = 60.6, text = "Held with no spirit"},
+		{time = 65.2, text = "We descend"},
+		{time = 70.6, text = "We reach the end"},
+		{time = 126, text = "I am deep in a river"},
+		{time = 132.4, text = "Waves above my head"},
+		{time = 137.8, text = "Held with no spirit"},
+		{time = 142.2, text = "We descend"},
+		{time = 147.9, text = "We reach the end"},
+		{time = 192.4, text = "I am deep in a river"},
+		{time = 198.5, text = "Waves above my head"},
+		{time = 204.3, text = "Held with no spirit"},
+		{time = 208.6, text = "We descend"},
+		{time = 214.1, text = "We reach the end"},
+		{time = 230.7, text = "We descend"},
+		{time = 236.1, text = "We reach the end"}
+	},
 }
