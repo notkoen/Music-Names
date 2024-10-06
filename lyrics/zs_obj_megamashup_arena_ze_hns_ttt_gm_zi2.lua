@@ -97,20 +97,20 @@ GM.ZELyrics = {
 		{time = 286.6, text = "And if ya body goin' stiff and your spine goin' numb"},
 		{time = 290.8, text = "Now come fi get some... "}
 	},
-	["w3_invadersmustdie.mp3"] = {
-		{time = 47.4, text = "We are The Prodigy"},
-		{time = 92, text = "Invaders must die"},
-		{time = 107.6, text = "Invaders must die"},
-		{time = 111.2, text = "Invaders must die"},
-		{time = 114.5, text = "Invaders must die"},
-		{time = 118, text = "Invaders must die"},
-		{time = 121.5, text = "Invaders must die"},
-		{time = 124.9, text = "Invaders must die"},
-		{time = 128.2, text = "Invaders must die"},
-		{time = 131.8, text = "Invaders must die"},
-		{time = 236.2, text = "We are The Prodigy"},
-		{time = 249.9, text = "Invaders must die"}
-	},
+	--["w3_invadersmustdie.mp3"] = {
+	--	{time = 47.4, text = "We are The Prodigy"},
+	--	{time = 92, text = "Invaders must die"},
+	--	{time = 107.6, text = "Invaders must die"},
+	--	{time = 111.2, text = "Invaders must die"},
+	--	{time = 114.5, text = "Invaders must die"},
+	--	{time = 118, text = "Invaders must die"},
+	--	{time = 121.5, text = "Invaders must die"},
+	--	{time = 124.9, text = "Invaders must die"},
+	--	{time = 128.2, text = "Invaders must die"},
+	--	{time = 131.8, text = "Invaders must die"},
+	--	{time = 236.2, text = "We are The Prodigy"},
+	--	{time = 249.9, text = "Invaders must die"}
+	--},
 	["w6_pendulum_the_other_side_a.mp3"] = {
 		{time = .3, text = "Come on down to the other side"},
 		{time = 3.8, text = "Come with us through the gates of hell"},
