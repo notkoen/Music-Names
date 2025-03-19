@@ -1,7 +1,7 @@
 
 # Music Names
 
-This repository stores music name and lyric configs for Zombie Escape and Zombie Survival maps. These configs are currently used on [Sunrust](https://sunrust.org/).
+This repository stores music name and lyric configs for Zombie Escape and Zombie Survival maps. These configs are currently used on [Sunrust](https://sunrust.org/) and [Nide](https://nide.gg).
 
 > [!NOTE]
 > Music configs under the `legacy` folder were configs used on zeddy's, which followed an old config format. Only use this folder to find names of music.
