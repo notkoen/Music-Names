@@ -10,12 +10,9 @@ This repository stores music name and lyric configs for Zombie Escape and Zombie
 
 Various way of contributing:
 
-1. Join the [Sunrust discord server](https://discord.gg/sunrust) and send the files in the [#zs-content-creation](https://discord.com/channels/353474260112769026/495994723559931915) channel
+1. Join the [Sunrust discord server](https://discord.gg/sunrust) and send the files in the [#zs-content-creation](https://discord.com/channels/353474260112769026/495994723559931915) channel or the [Nide discord server](https://discord.gg/nide) and send the files in the [#mapping](https://discord.com/channels/579962159270985733/579970573766230016) channel.
 2. Message me directly on discord (*notkoen*)
 3. Make a pull request
-
-> [!NOTE]
-> There is currently a `10,000` ember bounty for each config made
 
 ## Config Formatting
 
