@@ -1,0 +1,7 @@
+{
+    "global.explode_1":       "sounds/sfx/explode_1.vsnd",
+    "global.explode_4":       "sounds/sfx/explode_4.vsnd",
+    "global.explode_9":       "sounds/sfx/explode_9.vsnd",
+    "global.nuke_sound":      "sounds/music/portal_open1_adpcm.vsnd",
+    "global.streets_wind":    "sounds/sfx/smallgust2.vsnd"
+}

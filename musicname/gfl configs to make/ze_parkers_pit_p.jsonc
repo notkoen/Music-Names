@@ -1,0 +1,17 @@
+{
+    "parkers.112":               "sounds/music/hl1_song11.vsnd",
+    "parkers.achievment":        "sounds/sfx/achievement_earned.vsnd",
+    "parkers.advisor_blast":     "sounds/sfx/advisor_blast6.vsnd",
+    "parkers.deep_info_04":      "sounds/sfx/deep_info_04.vsnd",
+    "parkers.finale":            "sounds/sfx/ol12_finale_00_25_20.vsnd",
+    "parkers.ravenholm":         "sounds/music/ravenholm_1.vsnd",
+    "parkers.rock_crash":        "sounds/sfx/ol01_rock_crash.vsnd",
+    "parkers.song20_submix0":    "sounds/music/hl2_song20_submix0.vsnd",
+    "parkers.song20_submix4":    "sounds/music/hl2_song20_submix4.vsnd",
+    "parkers.train_horn_3":      "sounds/sfx/train_horn_3.vsnd",
+    "parkers.vlvx_song22":       "sounds/music/vlvx_song22.vsnd",
+    "parkers.vlvx_song23":       "sounds/music/vlvx_song23.vsnd",
+    "parkers.vlvx_song26":       "sounds/music/vlvx_song26.vsnd",
+    "parkers.vlvx_song27":       "sounds/music/vlvx_song27.vsnd",
+    "parkers.vlvx_song9":        "sounds/music/vlvx_song9.vsnd"
+}

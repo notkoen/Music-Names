@@ -1,0 +1,14 @@
+{
+    "global_cp_sound":    "sounds/effect/whoosh1.vsnd",
+    "s1_music01":         "sounds/foliage pathway.vsnd",
+    "s1_music02":         "sounds/instupendo - sunny.vsnd",
+    "s1_music03":         "sounds/instupendo - play palette.vsnd",
+    "s1_music04":         "sounds/instupendo - boy.vsnd",
+    "s2_music01":         "sounds/sun harmonics.vsnd",
+    "s3_music01":         "sounds/leraine.vsnd",
+    "s3_music02":         "sounds/jon hopkins - luminous beings.vsnd",
+    "s4_music01":         "sounds/deathbrain - dreamtime wonderland.vsnd",
+    "s4_music02":         "sounds/knytt underground - nifflas - ljus.vsnd",
+    "s4_music03":         "sounds/jon hopkins - everything connected.vsnd",
+    "s4_music_end":       "sounds/hrustal_cut.vsnd"
+}

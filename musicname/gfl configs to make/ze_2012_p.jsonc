@@ -1,0 +1,19 @@
+{
+    "global_sfx.c4_exp_deb1":                 "sounds/sfx/c4_exp_deb1.vsnd",
+    "global_sfx.c4_exp_deb2":                 "sounds/sfx/c4_exp_deb2.vsnd",
+    "global_sfx.c4_explode1":                 "sounds/sfx/c4_explode1.vsnd",
+    "global_sfx.drawbridge_move1":            "sounds/sfx/drawbridge_move1.vsnd",
+    "global_sfx.explode5_distant":            "sounds/sfx/explode5_distant.vsnd",
+    "global_sfx.isawdeath":                   "sounds/sfx/isawdeath.vsnd",
+    "global_sfx.isawthedeath":                "sounds/sfx/isawthedeath.vsnd",
+    "global_sfx.light_power_on_switch_01":    "sounds/sfx/light_power_on_switch_01.vsnd",
+    "global_sfx.master_of_shadows":           "sounds/music/master of shadows.vsnd",
+    "global_sfx.mercy1":                      "sounds/sfx/1.vsnd",
+    "global_sfx.mercy2":                      "sounds/sfx/2.vsnd",
+    "global_sfx.mercy3":                      "sounds/sfx/3.vsnd",
+    "global_sfx.mercy4":                      "sounds/sfx/4.vsnd",
+    "global_sfx.mortar_shell_incomming1":     "sounds/sfx/mortar_shell_incomming1.vsnd",
+    "global_sfx.runforyourlife01":            "sounds/sfx/runforyourlife01.vsnd",
+    "global_sfx.soundtrack2":                 "sounds/music/united.vsnd",
+    "global_sfx.welcome":                     "sounds/sfx/welcome.vsnd"
+}

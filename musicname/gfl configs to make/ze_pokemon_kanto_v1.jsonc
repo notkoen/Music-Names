@@ -1,0 +1,18 @@
+{
+    "music.pokemon_forest":         "sounds/pokemon_forest.vsnd",
+    "music.pokemon_gym_fight":      "sounds/pokemon_gym_fight.vsnd",
+    "music.pokemon_gym_victory":    "sounds/pokemon_gym_victory.vsnd",
+    "music.pokemon_mt_moon":        "sounds/pokemon_mt_moon.vsnd",
+    "music.pokemon_viridian":       "sounds/pokemon_viridian.vsnd",
+    "sound.electro_ball":           "sounds/electro_ball.vsnd",
+    "sound.onix_earthquake":        "sounds/onix_earthquake.vsnd",
+    "sound.onix_rock_slide":        "sounds/onix_rock_slide.vsnd",
+    "sound.onix_rock_throw":        "sounds/onix_rock_throw.vsnd",
+    "sound.pokemon_pallet":         "sounds/pokemon_pallet.vsnd",
+    "sound.pokemon_route1":         "sounds/pokemon_route1.vsnd",
+    "sound.psychic":                "sounds/psychic.vsnd",
+    "sound.shadow_ball":            "sounds/shadow_ball.vsnd",
+    "sound.spark":                  "sounds/spark.vsnd",
+    "sound.starmie_blizzard":       "sounds/starmie_blizzard.vsnd",
+    "sound.starmie_surf":           "sounds/starmie_surf.vsnd"
+}

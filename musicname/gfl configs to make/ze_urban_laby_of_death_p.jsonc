@@ -1,0 +1,12 @@
+{
+    "urban_laby_of_death.music.end_1":      "sounds/music/battle_in_the_base_[alert].vsnd",
+    "urban_laby_of_death.music.end_2":      "sounds/music/sidecar_escape_from_the_fortress.vsnd",
+    "urban_laby_of_death.music.end_3":      "sounds/music/the_pain.vsnd",
+    "urban_laby_of_death.music.end_4":      "sounds/music/volgin.vsnd",
+    "urban_laby_of_death.music.start_1":    "sounds/music/the_fear_[evasion].vsnd",
+    "urban_laby_of_death.music.start_2":    "sounds/music/mgo_2.vsnd",
+    "urban_laby_of_death.music.start_3":    "sounds/music/mgo.vsnd",
+    "urban_laby_of_death.music.start_4":    "sounds/music/battle_in_the_base_[evasion].vsnd",
+    "urban_laby_of_death.music.start_5":    "sounds/music/underground_tunnel.vsnd",
+    "urban_laby_of_death.music.start_6":    "sounds/music/battle_in_the_jungle_[caution].vsnd"
+}

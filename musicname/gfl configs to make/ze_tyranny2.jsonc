@@ -1,0 +1,18 @@
+{
+    "s1music_boss":                      "sounds/ze_tyranny2/s1_boss.vsnd",
+    "s1music_first":                     "sounds/ze_tyranny2/s1_first.vsnd",
+    "s2music_boss":                      "sounds/ze_tyranny2/s2_boss.vsnd",
+    "s2music_end":                       "sounds/ze_tyranny2/s2_end.vsnd",
+    "s2music_first":                     "sounds/ze_tyranny2/s2_first.vsnd",
+    "s3music_boss":                      "sounds/ze_tyranny2/s3_boss.vsnd",
+    "s3music_end":                       "sounds/ze_tyranny2/s3_end.vsnd",
+    "s3music_first":                     "sounds/ze_tyranny2/s3_first.vsnd",
+    "s4music_boss":                      "sounds/ze_tyranny2/s4_boss.vsnd",
+    "s4music_end":                       "sounds/ze_tyranny2/s4_end.vsnd",
+    "s4music_first":                     "sounds/ze_tyranny2/s4_first.vsnd",
+    "s5music_afterboss_false_ending":    "sounds/ze_tyranny2/s5_false_ending.vsnd",
+    "s5music_afterboss_true_ending":     "sounds/ze_tyranny2/s5_true_ending.vsnd",
+    "s5music_boss":                      "sounds/ze_tyranny2/s5_boss.vsnd",
+    "s5music_end":                       "sounds/ze_tyranny2/s5_end.vsnd",
+    "s5music_first":                     "sounds/ze_tyranny2/s5_first.vsnd"
+}

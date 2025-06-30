@@ -1,0 +1,18 @@
+{
+    "sfx.4000degrees":    "sounds/sfx/4000degrees.mp3",
+    "sfx.apologize":      "sounds/sfx/apologize.mp3",
+    "sfx.breakheart":     "sounds/sfx/breakheart.mp3",
+    "sfx.cakecut":        "sounds/sfx/cakecut.mp3",
+    "sfx.difference":     "sounds/sfx/difference.mp3",
+    "sfx.foundme":        "sounds/sfx/foundme.mp3",
+    "sfx.goingwhere1":    "sounds/sfx/goingwhere1.mp3",
+    "sfx.goingwhere2":    "sounds/sfx/goingwhere2.mp3",
+    "sfx.makecake":       "sounds/sfx/makecake.mp3",
+    "sfx.murder":         "sounds/sfx/murder.mp3",
+    "sfx.over":           "sounds/sfx/over.mp3",
+    "sfx.remember":       "sounds/sfx/remember.mp3",
+    "sfx.shoes1":         "sounds/sfx/shoes1.mp3",
+    "sfx.shoes2":         "sounds/sfx/shoes2.mp3",
+    "sfx.thatsit":        "sounds/sfx/thatsit.mp3",
+    "sfx.welcome":        "sounds/sfx/welcome.mp3"
+}

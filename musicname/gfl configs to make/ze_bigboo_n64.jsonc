@@ -1,0 +1,20 @@
+{
+    "banshee_music":       "sounds/banshee_music.vsnd",
+    "bobomb_explosion":    "sounds/bobomb_explosion.vsnd",
+    "boo laugh":           "sounds/boo laugh.vsnd",
+    "coin_sound":          "sounds/red_coin.vsnd",
+    "correct solution":    "sounds/correct solution.vsnd",
+    "crypt_music":         "sounds/forgotten_crypt.vsnd",
+    "door boo":            "sounds/door boo.vsnd",
+    "finish_sound":        "sounds/finish_sound.vsnd",
+    "getting star":        "sounds/star.vsnd",
+    "haunted house":       "sounds/haunted house.vsnd",
+    "key sound":           "sounds/key sound.vsnd",
+    "mad piano":           "sounds/mad piano.vsnd",
+    "menu":                "sounds/menu.vsnd",
+    "merry go round":      "sounds/merry go round.vsnd",
+    "pipe":                "sounds/boo_pipe.vsnd",
+    "race_start":          "sounds/race_start.vsnd",
+    "success":             "sounds/success.vsnd",
+    "wrong boo":           "sounds/wrong boo.vsnd"
+}
