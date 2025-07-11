@@ -1,0 +1,7 @@
+{
+    "danger.alarm":                   "sounds/ze_surf_danger/sfx/alarm_citizen_loop1.vsnd",
+    "danger.c4":                      "sounds/ze_surf_danger/sfx/c4_explode.vsnd",
+    "danger.dragon_rider":            "sounds/ze_surf_danger/music/two_steps_from_hell_-_dragon_rider.vsnd",
+    "danger.empyrean_mercenaries":    "sounds/ze_surf_danger/music/myzukaru_05_empyrean_mercenaries.vsnd",
+    "danger.explosion":               "sounds/ze_surf_danger/sfx/citadel_end_explosion1.vsnd"
+}

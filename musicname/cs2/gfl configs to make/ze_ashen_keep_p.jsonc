@@ -1,0 +1,14 @@
+{
+    "ambience.amb_open":            "sounds/sfx/ds_enterarea.vsnd",
+    "music.music_abysswatchers":    "sounds/music/ashen/abysswatchers.vsnd",
+    "music.music_deacons":          "sounds/music/ashen/deacons.vsnd",
+    "music.music_ds3":              "sounds/music/ashen/ds3.vsnd",
+    "music.music_longing":          "sounds/music/ashen/longing.vsnd",
+    "music.music_nameless":         "sounds/music/ashen/nameless.vsnd",
+    "music.music_oceiros":          "sounds/music/ashen/oceiros.vsnd",
+    "music.music_pontiff":          "sounds/music/ashen/pontiff.vsnd",
+    "music.music_prologue":         "sounds/music/ashen/prologue.vsnd",
+    "music.music_sif":              "sounds/music/ashen/sif.vsnd",
+    "music.music_siralonne":        "sounds/music/ashen/siralonne.vsnd",
+    "music.music_twinprinces":      "sounds/music/ashen/twinprinces.vsnd"
+}

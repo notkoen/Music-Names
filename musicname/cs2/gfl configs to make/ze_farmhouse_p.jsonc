@@ -1,0 +1,8 @@
+{
+    "Farmhouse.Music.Boss_Fight":      "sounds/music/tank.vsnd",
+    "Farmhouse.Music.Final":           "sounds/music/final.vsnd",
+    "Farmhouse.Music.Level_B":         "sounds/music/levelb.vsnd",
+    "Farmhouse.Music.Skyramp_Room":    "sounds/music/trespontes.vsnd",
+    "Farmhouse.Music.Start":           "sounds/music/escapestart.vsnd",
+    "Farmhouse.Music.Start_Loop":      "sounds/music/escapeloop.vsnd"
+}

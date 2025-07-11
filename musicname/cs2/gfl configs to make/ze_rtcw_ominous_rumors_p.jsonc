@@ -1,0 +1,13 @@
+{
+    "global_sfx.fallback":       "sounds/sfx/us_fallback.vsnd",
+    "global_sfx.gogo":           "sounds/sfx/us_gogogo2.vsnd",
+    "global_sfx.magicspell":     "sounds/sfx/vort_dispell.vsnd",
+    "global_sfx.us_defense5":    "sounds/sfx/us_defense5.vsnd",
+    "global_sfx.us_takeammo":    "sounds/sfx/us_takeammo.vsnd",
+    "music.rtcw_action":         "sounds/music/x_action.vsnd",
+    "music.rtcw_mission":        "sounds/music/m_mission.vsnd",
+    "music.rtcw_tension":        "sounds/music/m_tension.vsnd",
+    "music.rtcw_theme":          "sounds/music/l_theme.vsnd",
+    "music.rtcw_win":            "sounds/music/l_complete_1.vsnd",
+    "music.secretsound":         "sounds/music/gold.vsnd"
+}

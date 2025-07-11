@@ -1,0 +1,10 @@
+{
+    "rf.ambience_base":    "sounds/ambient/atmosphere/ambience_base.wav",
+    "rf.bell1":            "sounds/buttons/bell1.wav",
+    "rf.biohazard":        "Resident Evil Main Theme - Marilyn Manson",
+    "rf.elevator_ding":    "sounds/sfx/elevator_ding.mp3",
+    "rf.ending":           "The Queen Leech 2nd Phase - Resident Evil Zero OST",
+    "rf.exp2":             "sounds/sfx/exp2.mp3",
+    "rf.self_destruct":    "sounds/sfx/self_destruct_system_activated.mp3",
+    "rf.train":            "sounds/ambient/machines/train_horn_3.wav"
+}

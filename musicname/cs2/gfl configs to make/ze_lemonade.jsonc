@@ -1,0 +1,12 @@
+{
+    "music.crust":      "sounds/tilgep/lemonade/crust.vsnd",
+    "music.hot":        "sounds/tilgep/lemonade/hot.vsnd",
+    "music.intro":      "sounds/tilgep/lemonade/intro.vsnd",
+    "music.lose":       "sounds/tilgep/lemonade/lose.vsnd",
+    "music.mirage":     "sounds/tilgep/lemonade/mirage.vsnd",
+    "music.sauce":      "sounds/tilgep/lemonade/sauce.vsnd",
+    "music.tubular":    "sounds/tilgep/lemonade/tubular.vsnd",
+    "music.wah":        "sounds/tilgep/lemonade/wah.vsnd",
+    "music.warmup":     "sounds/tilgep/lemonade/warmup.vsnd",
+    "music.win1":       "sounds/tilgep/lemonade/win1.vsnd"
+}

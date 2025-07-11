@@ -1,0 +1,11 @@
+{
+    "music.boss_music":    "sounds/king/undead_shrine/attack_at_sea.vsnd",
+    "music.mus1":          "sounds/king/undead_shrine/tower_encounter.vsnd",
+    "music.mus2":          "sounds/king/undead_shrine/clash_in_the_catacombs.vsnd",
+    "music.mus3":          "sounds/king/undead_shrine/conflict_at_entrance.vsnd",
+    "music.mus4":          "sounds/king/undead_shrine/millitary_agression.vsnd",
+    "music.mus5":          "sounds/king/undead_shrine/unsafe_sanctuary.vsnd",
+    "music.mus6":          "sounds/king/undead_shrine/mechanical_tower.vsnd",
+    "music.mus7":          "sounds/king/undead_shrine/struggle_at_library.vsnd",
+    "music.startup":       "sounds/king/undead_shrine/welcome_within.vsnd"
+}

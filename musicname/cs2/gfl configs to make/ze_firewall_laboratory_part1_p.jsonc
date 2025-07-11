@@ -1,0 +1,10 @@
+{
+    "generic.countdown60":      "sounds/sfx/countdown60.mp3",
+    "music.EscapeMusic":        "sounds/music/timor_battle.mp3",
+    "music.EscapeMusic2":       "sounds/music/portal2-07-the_part_where_he_kills_you.mp3",
+    "music.ExplosionSound":     "sounds/sfx/explode3.mp3",
+    "music.countdown10":        "sounds/sfx/countdown10.mp3",
+    "music.countdown30":        "sounds/sfx/countdown30.mp3",
+    "music.tunnelsoundboom":    "sounds/sfx/explode_9.mp3",
+    "music.zombiesound":        "sounds/sfx/town_zombie_call1.mp3"
+}
