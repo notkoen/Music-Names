@@ -29,10 +29,5 @@
     "custom.music.song_6":     "sounds/music/cortex-devils_dance.vsnd",
     "custom.music.song_7":     "sounds/music/death_note.vsnd",
     "custom.music.song_8":     "sounds/music/duster-me_and_the_birds.vsnd",
-    "custom.music.song_9":     "sounds/music/eiffel_65-blue.vsnd",
-    "custom.sfx.ringer_1":     "sounds/music/ringer_1.vsnd",
-    "custom.sfx.ringer_2":     "sounds/music/ringer_2.vsnd",
-    "custom.sfx.ringer_3":     "sounds/music/ringer_3.vsnd",
-    "custom.sfx.ringer_4":     "sounds/music/ringer_4.vsnd",
-    "custom.sfx.ringer_5":     "sounds/music/ringer_5.vsnd"
+    "custom.music.song_9":     "sounds/music/eiffel_65-blue.vsnd"
 }
