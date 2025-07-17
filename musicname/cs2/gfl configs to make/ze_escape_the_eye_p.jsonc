@@ -1,0 +1,9 @@
+{
+    "music.canc1":                     "sounds/music/cis1.vsnd",
+    "music.nuke_sound":                "sounds/sfx/citadel_end_explosion1.vsnd",
+    "music.sound_activate_the_eye":    "sounds/sfx/activate_eye.vsnd",
+    "music.sound_eye_scream1":         "sounds/sfx/ping_patrol.vsnd",
+    "music.sound_eye_scream2":         "sounds/sfx/gunship_pain.vsnd",
+    "music.sound_music1":              "sounds/music/eye_music.vsnd",
+    "music.teleportsound":             "sounds/sfx/rmine_explode_shock1.vsnd"
+}

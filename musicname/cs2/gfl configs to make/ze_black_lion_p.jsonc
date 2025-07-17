@@ -1,0 +1,5 @@
+{
+    "global_sfx.diesel_1":     "sounds/ambient/diesel_1.vsnd",
+    "global_sfx.explode_1":    "sounds/ambient/explosions/explode_1.vsnd",
+    "global_sfx.siren":        "sounds/industrial/siren.vsnd"
+}

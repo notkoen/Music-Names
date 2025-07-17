@@ -1,0 +1,8 @@
+{
+    "global_sfx.bar_son":          "sounds/sfx/explode_3.vsnd",
+    "global_sfx.electric_loop":    "sounds/sfx/electric_loop.vsnd",
+    "global_sfx.gas_s_expl1":      "sounds/sfx/mortar_explode1.vsnd",
+    "global_sfx.gas_son_explo":    "sounds/sfx/explode_5.vsnd",
+    "global_sfx.son_abiance":      "sounds/sfx/cricket_loopl.vsnd",
+    "global_sfx.son_crash":        "sounds/sfx/crash.vsnd"
+}

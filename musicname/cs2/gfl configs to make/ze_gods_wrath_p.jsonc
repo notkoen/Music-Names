@@ -1,0 +1,19 @@
+{
+    "ambient.ex_sound1":           "sounds/sfx/explode_1.vsnd",
+    "ambient.ex_sound2":           "sounds/sfx/explode_3.vsnd",
+    "ambient.ex_sound3":           "sounds/sfx/explode_9.vsnd",
+    "ambient.small_gust":          "sounds/sfx/sound1_small_gust.vsnd",
+    "music.creature_big_fight":    "sounds/music/black__white_music_-_creature_big_fight.vsnd",
+    "music.end1":                  "sounds/sfx/cave_hit5.vsnd",
+    "music.end2":                  "sounds/sfx/citadel_ambient_voices1.vsnd",
+    "music.end3":                  "sounds/sfx/portal_beam_shoot1.vsnd",
+    "music.end4":                  "sounds/sfx/portal_open1_adpcm.vsnd",
+    "music.end_sound1":            "sounds/sfx/citadel_ambient_scream_loop1.vsnd",
+    "music.end_sound2":            "sounds/sfx/explode_2.vsnd",
+    "music.endlaser_start1":       "sounds/sfx/beamstart5.vsnd",
+    "music.endlaser_start2":       "sounds/sfx/portal_beam_shoot4.vsnd",
+    "music.nemesis":               "sounds/music/black__white_music_-_nemesis.vsnd",
+    "music.script_2":              "sounds/music/black__white_music_-_script_2.vsnd",
+    "music.script_3":              "sounds/music/black__white_music_-_script_3.vsnd",
+    "music.spawn_sound1":          "sounds/music/black__white_music_-_gregorian.vsnd"
+}

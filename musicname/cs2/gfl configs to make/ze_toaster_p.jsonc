@@ -1,0 +1,21 @@
+{
+    "music.toastermusic_boss1":    "sounds/music/toastermusic_boss1.vsnd",
+    "music.toastermusic_boss2":    "sounds/music/toastermusic_boss2.vsnd",
+    "music.toastermusic_esc1":     "sounds/music/toastermusic_esc1.vsnd",
+    "music.toastermusic_esc2":     "sounds/music/toastermusic_esc2.vsnd",
+    "music.toastermusic_esc3":     "sounds/music/toastermusic_esc3.vsnd",
+    "music.toastermusic_esc4":     "sounds/music/toastermusic_esc4.vsnd",
+    "music.toastermusic_esc5":     "sounds/music/toastermusic_esc5.vsnd",
+    "music.toastermusic_esc6":     "sounds/music/toastermusic_esc6.vsnd",
+    "music.toastermusic_esc7":     "sounds/music/toastermusic_esc7.vsnd",
+    "music.toastermusic_esc8":     "sounds/music/toastermusic_esc8.vsnd",
+    "music.toastermusic_sus1":     "sounds/music/toastermusic_sus1.vsnd",
+    "music.toastermusic_sus2":     "sounds/music/toastermusic_sus2.vsnd",
+    "music.toastermusic_sus3":     "sounds/music/toastermusic_sus3.vsnd",
+    "music.toastermusic_sus4":     "sounds/music/toastermusic_sus4.vsnd",
+    "music.toastermusic_sus5":     "sounds/music/toastermusic_sus5.vsnd",
+    "music.toastermusic_sus6":     "sounds/music/toastermusic_sus6.vsnd",
+    "music.toastermusic_sus7":     "sounds/music/toastermusic_sus7.vsnd",
+    "music.toastermusic_sus8":     "sounds/music/toastermusic_sus8.vsnd",
+    "music.toastermusic_win":      "sounds/music/toastermusic_win.vsnd"
+}

@@ -1,0 +1,5 @@
+{
+    "snd.bomb":          "sounds/sfx/explode_5.vsnd",
+    "snd.bomblaunch":    "sounds/sfx/launch.vsnd",
+    "snd.lunch":         "sounds/sfx/rockettakeoffblast.vsnd"
+}

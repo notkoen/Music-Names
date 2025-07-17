@@ -1,0 +1,12 @@
+{
+    "hle.evil_laugh":               "sounds/sfx/evil laugh.vsnd",
+    "hle.evil_scream2":             "sounds/sfx/hellscream1.vsnd",
+    "hle.explode1":                 "sounds/sfx/explode_1.mp3",
+    "hle.last_evil_laugh":          "sounds/sfx/evil laugh2.vsnd",
+    "hle.last_hurt_sound":          "sounds/sfx/citadel_end_explosion2.vsnd",
+    "hle.moaning_spirits":          "sounds/music/spirits moaning.mp3",
+    "hle.piano_attic":              "sounds/music/piano_attic.vsnd",
+    "hle.sanitarium_everywhere":    "sounds/music/sanitarium.vsnd",
+    "hle.scream_dark":              "sounds/sfx/daaark.vsnd",
+    "hle.scream_scream":            "sounds/sfx/scream.vsnd"
+}

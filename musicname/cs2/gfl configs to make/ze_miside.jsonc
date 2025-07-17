@@ -1,0 +1,16 @@
+{
+    "stage1_1":         "sounds/music/stage1_1.vsnd",
+    "stage1_2":         "sounds/music/stage1_2.vsnd",
+    "stage1_3":         "sounds/music/stage1_3.vsnd",
+    "stage2_1":         "sounds/music/stage2_1.vsnd",
+    "stage2_2":         "sounds/music/stage2_2.vsnd",
+    "stage2_3":         "sounds/music/stage2_3.vsnd",
+    "stage2_4":         "sounds/music/stage2_4.vsnd",
+    "stage3_1":         "sounds/music/stage3_1.vsnd",
+    "stage3_2":         "sounds/music/stage3_2.vsnd",
+    "stage3_3":         "sounds/music/stage3_3.vsnd",
+    "stage3_4":         "sounds/music/stage3_4.vsnd",
+    "stage3_before":    "sounds/music/stage3_before.vsnd",
+    "stage3_chase":     "sounds/music/stage3_chase.vsnd",
+    "stagezm":          "sounds/music/stagezm.vsnd"
+}

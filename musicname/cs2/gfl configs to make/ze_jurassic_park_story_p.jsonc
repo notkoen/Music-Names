@@ -1,0 +1,6 @@
+{
+    "JurassicPark.Music.Debut":            "sounds/music/jp_debut_new.vsnd",
+    "JurassicPark.Music.Gate":             "sounds/music/jp_portes_new.vsnd",
+    "JurassicPark.Music.Start":            "sounds/music/jp_music_new.vsnd",
+    "JurassicPark.SFX.jp_reactivation":    "sounds/sfx/jp_reactivation.vsnd"
+}
