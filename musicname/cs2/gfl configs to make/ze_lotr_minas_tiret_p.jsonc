@@ -1,0 +1,7 @@
+{
+    "global.citadel_end_explosion1":    "sounds/sfx/citadel_end_explosion1.vsnd",
+    "global.energy_sing_explosion2":    "sounds/sfx/energy_sing_explosion2.vsnd",
+    "global.explode_9":                 "sounds/sfx/explode_9.vsnd",
+    "global.lotr_battle":               "sounds/music/lotr - battle.vsnd",
+    "global.lotr_warriors":             "sounds/music/lotr - warriors.vsnd"
+}

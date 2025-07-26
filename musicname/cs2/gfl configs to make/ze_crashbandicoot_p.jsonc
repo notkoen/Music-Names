@@ -1,0 +1,21 @@
+{
+    "global_sfx.electric_explosion4":      "sounds/sfx/electric_explosion4.vsnd",
+    "global_sfx.energy_disintegrate4":     "sounds/sfx/energy_disintegrate4.vsnd",
+    "global_sfx.energy_sing_flyby1":       "sounds/sfx/energy_sing_flyby1.vsnd",
+    "global_sfx.energy_sing_flyby2":       "sounds/sfx/energy_sing_flyby2.vsnd",
+    "global_sfx.exp1":                     "sounds/sfx/exp1.vsnd",
+    "global_sfx.explode_1":                "sounds/sfx/explode_1.vsnd",
+    "global_sfx.gem_collected":            "sounds/sfx/gem_collected.vsnd",
+    "music.ancient_egypt":                 "sounds/music/crash_bandicoot_3-_warped_-_music-_ancient_egypt.vsnd",
+    "music.cortex_boss_music":             "sounds/music/crash_bandicoot_1_-_cortex_boss_music.vsnd",
+    "music.desert_town":                   "sounds/music/crash_bandicoot_3_warped_music_-_desert_town.vsnd",
+    "music.generator_room":                "sounds/music/crash_bandicoot_1_-_generator_room_music.vsnd",
+    "music.high_road":                     "sounds/music/crash_bandicoot_1_-_road_to_nowhere,_the_high_road_music.vsnd",
+    "music.lights_ou_jaws_of_darkness":    "sounds/music/crash_bandicoot_1_-_lights_out,_jaws_of_darkness_music.vsnd",
+    "music.lost_city_sunset_vista":        "sounds/music/crash_bandicoot_1_music_-_the_lost_citysunset_vista.vsnd",
+    "music.medieval":                      "sounds/music/crash_bandicoot_3_-_medieval_music.vsnd",
+    "music.neo_cortex_theme":              "sounds/music/crash_bandicoot_3_-_neo_cortex_theme.vsnd",
+    "music.the_great_hall":                "sounds/music/crash_bandicoot_music-_the_great_hall.vsnd",
+    "music.the_lab":                       "sounds/music/crash_bandicoot_music-_the_lab.vsnd",
+    "music.toxic_waste":                   "sounds/music/crash_bandicoot_1_-_toxic_waste_music.vsnd"
+}

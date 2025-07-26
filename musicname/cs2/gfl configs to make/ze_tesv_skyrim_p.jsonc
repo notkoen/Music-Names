@@ -1,0 +1,21 @@
+{
+    "dung1":               "sounds/music/skyrim/dung1.vsnd",
+    "dung2":               "sounds/music/skyrim/dung2.vsnd",
+    "dw_music":            "sounds/music/skyrim/audiomachine__warlords.vsnd",
+    "dwemer_algus":        "sounds/music/skyrim/skyrim_ost silence_unbroken2.vsnd",
+    "lopp1":               "sounds/music/skyrim/lopp1.vsnd",
+    "lopp2":               "sounds/music/skyrim/lopp2.vsnd",
+    "muusika_algus":       "sounds/music/skyrim/mus_town_day_01_loud.vsnd",
+    "muusika_algus_2":     "sounds/music/skyrim/mus_town_day_02.vsnd",
+    "muusika_algus_3":     "sounds/music/skyrim/two_steps_from_hell__dark_harbor.vsnd",
+    "muusika_boss2":       "sounds/music/skyrim/Two_Steps_from_Hell___Black_Blade.vsnd",
+    "muusika_combat":      "sounds/music/skyrim/mus_combat_02.vsnd",
+    "muusika_combat2":     "sounds/music/skyrim/mus_combat_06.vsnd",
+    "muusika_dohva":       "sounds/music/skyrim/mus_combat_boss_02.vsnd",
+    "muusika_dungeon":     "sounds/music/skyrim/mus_combat_01.vsnd",
+    "stage_3_muusika1":    "sounds/music/skyrim/two_staps_from_hell___protectors_of_the_world.vsnd",
+    "stage_3_muusika2":    "sounds/music/skyrim/two_steps_from_hell___the_last_stand__archangel___epic_action.vsnd",
+    "stage_5_laul1":       "sounds/music/skyrim/ancient_stones2.vsnd",
+    "stage_5_laul2":       "sounds/music/skyrim/unbroken_road2.vsnd",
+    "viimanelaul":         "sounds/music/skyrim/mus_combat_boss_03.vsnd"
+}

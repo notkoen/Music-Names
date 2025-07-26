@@ -1,0 +1,9 @@
+{
+    "pools.android_hell":              "sounds/portal-android-hell.mp3",
+    "pools.ballad_of_albatros":        "sounds/sel-ballad-of-albatros.mp3",
+    "pools.bell":                      "sounds/sfx/brass_bell_c.wav",
+    "pools.lazy_river":                "sounds/anemoiapolis-lazy-river.mp3",
+    "pools.mist_another_dimension":    "sounds/sel-mist-another-dimension.mp3",
+    "pools.procedure_jiggle_bone":     "sounds/portal-procedure-jiggle-bone.mp3",
+    "pools.self_esteem_fund":          "sounds/portal-self-esteem-fund.mp3"
+}

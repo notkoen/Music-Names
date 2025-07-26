@@ -1,0 +1,19 @@
+{
+    "Music.d_ex_escape_inst":      "sounds/music/ze_deadcore/music_d_ex_escape_inst.vsnd",
+    "Music.d_ex_escape_prankd":    "sounds/music/ze_deadcore/music_d_ex_escape_prankd.vsnd",
+    "Music.d_ex_escape_vocal":     "sounds/music/ze_deadcore/music_d_ex_escape_vocal.vsnd",
+    "Music.music_a_boss":          "sounds/music/ze_deadcore/music_a_boss.vsnd",
+    "Music.music_b_boss":          "sounds/music/ze_deadcore/music_b_boss.vsnd",
+    "Music.music_b_escape":        "sounds/music/ze_deadcore/music_b_escape.vsnd",
+    "Music.music_c_escape":        "sounds/music/ze_deadcore/music_c_escape.vsnd",
+    "Music.music_core001":         "sounds/music/ze_deadcore/music_core001.vsnd",
+    "Music.music_core001_ex":      "sounds/music/ze_deadcore/music_core001_ex.vsnd",
+    "Music.music_d1":              "sounds/music/ze_deadcore/music_d1.vsnd",
+    "Music.music_d1_ex":           "sounds/music/ze_deadcore/music_d1_ex.vsnd",
+    "Music.music_d_escape":        "sounds/music/ze_deadcore/music_d_escape.vsnd",
+    "Music.music_g1":              "sounds/music/ze_deadcore/music_g1.vsnd",
+    "Music.music_g2":              "sounds/music/ze_deadcore/music_g2.vsnd",
+    "Music.music_g3":              "sounds/music/ze_deadcore/music_g3.vsnd",
+    "Music.music_g4":              "sounds/music/ze_deadcore/music_g4.vsnd",
+    "Music.music_s1":              "sounds/music/ze_deadcore/music_s1.vsnd"
+}

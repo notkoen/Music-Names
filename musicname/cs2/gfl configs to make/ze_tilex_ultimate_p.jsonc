@@ -1,0 +1,21 @@
+{
+    "battle_finale":        "sounds/music/ze_tilex_ultimate/finale.vsnd",
+    "battle_music":         "sounds/music/ze_tilex_ultimate/battle.vsnd",
+    "battle_music2":        "sounds/music/ze_tilex_ultimate/battle2.vsnd",
+    "ddr_pararevomusic":    "sounds/music/ze_tilex_ultimate/pararevo.vsnd",
+    "music1_0":             "sounds/music/ze_tilex_ultimate/1_0.vsnd",
+    "music1_1":             "sounds/music/ze_tilex_ultimate/1_1.vsnd",
+    "music2_0":             "sounds/music/ze_tilex_ultimate/2_0.vsnd",
+    "music3_0":             "sounds/music/ze_tilex_ultimate/3_0.vsnd",
+    "music3_1":             "sounds/music/ze_tilex_ultimate/3_1.vsnd",
+    "music3_2":             "sounds/music/ze_tilex_ultimate/3_2.vsnd",
+    "music4_0":             "sounds/music/ze_tilex_ultimate/4_0.vsnd",
+    "music4_1":             "sounds/music/ze_tilex_ultimate/4_1.vsnd",
+    "music4_2":             "sounds/music/ze_tilex_ultimate/4_2.vsnd",
+    "music5_0":             "sounds/music/ze_tilex_ultimate/5_0.vsnd",
+    "music5_0o":            "sounds/music/ze_tilex_ultimate/5_0o.vsnd",
+    "music5_1":             "sounds/music/ze_tilex_ultimate/5_1.vsnd",
+    "music5_2":             "sounds/music/ze_tilex_ultimate/5_2.vsnd",
+    "music6_0":             "sounds/music/ze_tilex_ultimate/6_0.vsnd",
+    "musicex":              "sounds/music/ze_tilex_ultimate/exboss.vsnd"
+}

@@ -1,0 +1,12 @@
+{
+    "ads_sound":             "sounds/se/ads_sound.vsnd",
+    "charge_sound":          "sounds/se/beam-gun-charge1.vsnd",
+    "exp3_sound":            "sounds/se/exp3.vsnd",
+    "interior_01_sound":     "sounds/se/interior_01.vsnd",
+    "machinegun1_sound":     "sounds/se/machinegun1.vsnd",
+    "negative_bossbgm":      "sounds/bgm/exponential entropy.vsnd",
+    "negative_defendbgm":    "sounds/bgm/Wild Arms 4 - Beckoning Bewitching Princess.vsnd",
+    "negative_stage1bgm":    "sounds/bgm/ffxiv_ost_blades.vsnd",
+    "pulse_sound":           "sounds/se/pulse.vsnd",
+    "tempestsound_sound":    "sounds/se/tempestsound.vsnd"
+}
